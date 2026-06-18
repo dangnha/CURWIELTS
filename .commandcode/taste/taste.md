@@ -4,6 +4,9 @@
 # Communication
 - Avoid suggesting cloud hosting or complex infrastructure; user prefers simple local solutions. Confidence: 0.70
 
+# Testing
+- Thoroughly test implementations end-to-end before declaring them complete, especially for deployment/distribution artifacts (e.g., double-click an executable, not just run via dev commands). Confidence: 0.65
+
 # Taste (Continuously Learned by [CommandCode][cmd])
 
 [cmd]: https://commandcode.ai/

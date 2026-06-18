@@ -1,0 +1,439 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="dạng-bài-two-part-question"><span><span style="background-color:#ffffff">Dạng bài </span></span><span><span style="background-color:#ffffff"><strong>Two Part Question</strong></span></span></h1>
+
+<h2 id="1.-đặc-điểm"><span><span style="background-color:#ffffff"><strong>1. </strong></span></span><span><span style="background-color:#ffffff">Đặc điểm</span></span></h2>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span><span style="background-color:#ffffff"><strong>Two-Part Question</strong></span></span><span><span style="background-color:#ffffff"> (hay </span></span><span><span style="background-color:#ffffff"><strong>Direct Question / Double Question</strong></span></span><span><span style="background-color:#ffffff">) n</span></span><span>êu 1 vấn đề nào đó và yêu cầu người viết cần trả lời 2 câu hỏi liên quan đến đề bài&nbsp;</span></p>
+
+<p><span>- Thông thường, dạng bài này sẽ bao gồm những câu hỏi về: vấn đề-nguyên nhân-giải pháp (</span><span><strong>problems-causes-solutions</strong></span><span>). Bên cạnh đó, câu hỏi cũng có thể về </span><span><strong>advantages / disadvantages</strong></span><span> hoặc </span><span><strong>positive/negative&nbsp;</strong></span></p>
+
+<p><span><strong>Ví dụ:&nbsp;</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><span style="background-color:#ffff00"><strong>Nowadays many people choose to be self-employed, rather than to work for a company or organization</strong></span></span><span><span style="background-color:#ffffff"><strong>. </strong></span></span><span><span style="background-color:#00ffff"><strong>Why might this be the case</strong></span></span><span><span style="background-color:#ffffff"><strong>? </strong></span></span><span><span style="background-color:#00ffff"><strong>What could be the disadvantages of being self-employed</strong></span></span><span><span style="background-color:#ffffff"><strong>?</strong></span></span></p>
+
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(</span></span><span><span style="background-color:#ffff00">Hiện nay, nhiều người quyết định ra làm riêng, thay vì làm cho các công ty hay tổ chức</span></span><span><span style="background-color:#ffffff">. </span></span><span><span style="background-color:#00ffff">Tại sao lại như vậy</span></span><span><span style="background-color:#ffffff">? </span></span><span><span style="background-color:#00ffff">Khó khăn của việc làm riêng là gì</span></span><span><span style="background-color:#ffffff">?)</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span><strong>Trong đó:</strong></span></p>
+
+<p><span style="color:#ffff00"><span style="background-color:#ffff00">[</span></span><span style="color:#ffff00"><span style="background-color:#ffff00"><strong> </strong></span></span><span style="color:#ffff00"><span style="background-color:#ffff00">]</span></span><span>: background statement: câu nêu chủ đề của bài viết</span></p>
+
+<p><span><span style="background-color:#00ffff">&nbsp;&nbsp;&nbsp;</span></span><span>: tasks/questions: câu hỏi của đề bài</span></p>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff"><strong>Lưu ý:&nbsp;</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span>Một số đề bài có 2 câu hỏi, nhưng thực chất chỉ hỏi về 1 ý&nbsp;</span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><span style="background-color:#ffff00"><strong>In some countries, governments provide payments for unemployed people</strong></span></span><span><strong>. </strong></span><span><span style="background-color:#00ffff"><strong>How does this impact people</strong></span></span><span><strong>?</strong></span><span style="color:#017837"><strong> </strong></span><span><span style="background-color:#00ffff"><strong>Is this a positive or negative development</strong></span></span><span><strong>?</strong></span></p>
+
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(</span></span><span><span style="background-color:#ffff00">Ở một số nước, chính phủ cung cấp tiền cho người thất nghiệp</span></span><span><span style="background-color:#ffffff">. </span></span><span><span style="background-color:#00ffff">Điều này có tác động gì</span></span><span><span style="background-color:#ffffff">? </span></span><span><span style="background-color:#00ffff">Tác động này tốt hay xấu</span></span><span><span style="background-color:#ffffff">?)</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Bài viết nêu hai câu hỏi: "</span></span><span><span style="background-color:#00ffff"><strong>Điều này có tác động gì?</strong></span></span><span><span style="background-color:#ffffff">" và “</span></span><span><span style="background-color:#ffff00"><strong>Tác động này tốt hay xấu</strong></span></span><span><span style="background-color:#ffffff">”. Mặc dù đúng là có 2 câu hỏi, nhưng chỉ cần tập trung vào 1 ý là: Tác động của hiện tượng này là gì&nbsp;</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Trong quá trình phân tích câu hỏi "</span></span><span><span style="background-color:#ffff00"><strong>Is this a positive or negative development?</strong></span></span><span><span style="background-color:#ffffff">”, chắc chắn sẽ phải đề cập đến "</span></span><span><span style="background-color:#00ffff"><strong>How does this impact people?</strong></span></span><span><span style="background-color:#ffffff">"</span></span></li>
+</ul>
+
+<p><span>=&gt; Khi đó, đây không phải dạng </span><span><strong>Two-part Question</strong></span></p>
+
+<h2 id="2.-các-lưu-ý"><span><span style="background-color:#ffffff"><strong>2. </strong></span></span><span><span style="background-color:#ffffff">Các lưu ý</span></span></h2>
+
+<h3 id="2.1.&nbsp;-cùng-background-statement-nhưng-khác-question"><span><strong>2.1.&nbsp; </strong></span><span style="color:#434343">Cùng Background Statement nhưng khác Question</span></h3>
+
+<p><span>- Nhiều đề bài nói về cùng một vấn đề (chung </span><span><strong>Background Statement</strong></span><span>), nhưng khác câu hỏi</span></p>
+
+<p><span><span style="background-color:#ffffff">=&gt; </span></span><span>Cần đọc kỹ câu hỏi để trả lời cho đúng</span></p>
+
+<p><span><strong>Ví dụ:&nbsp;</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>Topic 1</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>Topic 2</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span><span style="background-color:#ffff00"><strong>Nowadays, people in huge cities either live alone or in small family units,&nbsp; instead of in large, extended family groups</strong></span></span><span>.&nbsp;</span></p>
+
+			<p><span><span style="background-color:#00ffff"><strong>Why is it the case?&nbsp;</strong></span></span></p>
+
+			<p><span><span style="background-color:#00ffff"><strong>What impacts does it have on society?</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span><span style="background-color:#ffff00"><strong>Nowadays, people in huge cities either live alone or in small family units, instead of in large, extended family groups.</strong></span></span><span>&nbsp;</span></p>
+
+			<p><span><span style="background-color:#00ffff"><strong>Is it positive or negative development?</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span><span style="background-color:#ffffff">(</span></span><span><span style="background-color:#ffff00">Hiện nay, nhiều người sống ở các thành phố sống một mình hoặc sống trong các gia đình nhỏ</span></span><span><span style="background-color:#ffffff">. </span></span><span><span style="background-color:#00ffff">Tại sao lại như vậy</span></span><span><span style="background-color:#ffffff">? </span></span><span><span style="background-color:#00ffff">Điều này có ảnh hưởng gì tới xã hội</span></span><span><span style="background-color:#ffffff">?)</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span><span style="background-color:#ffffff">(</span></span><span><span style="background-color:#ffff00">Hiện nay, nhiều người sống ở các thành phố sống một mình hoặc sống trong các gia đình nhỏ</span></span><span><span style="background-color:#ffffff">. </span></span><span><span style="background-color:#00ffff">Liệu đây là xu hướng tích cực hay tiêu cực</span></span><span><span style="background-color:#ffffff">?)</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span><span style="background-color:#ffffff">=&gt; </span></span><span>2 bài có bố cục khác nhau, và cách trả lời khác nhau</span></p>
+
+<h3 id="2.2.&nbsp;-sắp-xếp-thông-tin"><span><strong>2.2.</strong></span><span>&nbsp; Sắp xếp thông tin</span></h3>
+
+<p><span>- Với dạng bài yêu cầu nêu vấn đề, tìm nguyên nhân và giải pháp thì các câu thông tin cần sắp xếp tương xứng&nbsp;</span></p>
+
+<p><span>VD: </span><span><strong>Nếu một trong số những nguyên nhân là “lack of money” (thiếu tiền) thì giải pháp tương ứng là “find a way to get more money” (tìm cách kiếm tiền)</strong></span></p>
+
+<p><span>=&gt; Khi phân tích và lập dàn ý, cần đặt các ý tương ứng, song song với nhau</span></p>
+
+<h3 id="2.3.&nbsp;-bố-cục-bài-viết"><span><strong>2.3.</strong></span><span>&nbsp; Bố cục bài viết</span></h3>
+
+<p><span>- Với dạng bài này, mỗi câu hỏi sẽ được trả lời trong một Body Paragraph riêng</span></p>
+
+<p><span><strong>Ví dụ:&nbsp;</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Nowadays many countries are facing problems related to waste disposal. Why is this the case? How can this issue be tackled?</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #ffffff; vertical-align:top">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(Hiện nay, nhiều nước trên thế giới đang gặp phải vấn đề liên quan tới xử lý rác thải. Tại sao lại có vấn đề này? Vấn đề này có thể được giải quyết thế nào?)</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div style="margin-left:-8px">
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:632px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top; width:281px">
+			<p><span>=&gt; Với bài này chúng ta chỉ cần sắp xếp:</span></p>
+			</td>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top; width:351px">
+			<p><span><strong>BP1: </strong></span><span>những nguyên nhân</span></p>
+
+			<p><span><strong>BP2: </strong></span><span>những giải pháp</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h2 id="3.-ví-dụ-chi-tiết"><span><span style="background-color:#ffffff"><strong>3. </strong></span></span><span><span style="background-color:#ffffff">Ví dụ chi tiết</span></span></h2>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span style="color:#313131"><span style="background-color:#ffffff"><strong>As major cities in the world are growing today, so do their problems. What</strong></span></span><span><span style="background-color:#ffffff"><strong> </strong></span></span><span style="color:#313131"><span style="background-color:#ffffff"><strong>are the problems for young people living in the cities as the result of continued growth? What are the solutions to these problems?</strong></span></span></p>
+
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(</span></span><span>Với sự phát triển liên tục của các thành phố lớn trên thế giới, những vấn đề nảy sinh cũng ngày càng gia tăng. Sự phát triển liên tục này sẽ để lại hệ lụy gì cho những người trẻ sinh sống trong thành phố? Có giải pháp gì cho những vấn đề đó?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span>- Với đề bài này, chúng ta có bài viết hoàn chỉnh như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>There are more metropolitan areas worldwide. This tendency leads to serious issues for young dwellers in such areas, predominantly relating to higher unemployment rates and lower living standards. However, these problems can be solved with the provision of job opportunities and financial aid.</span></p>
+
+			<p><span>There are two main obstacles for young people resulting from this development. The most challenging one is the higher youth unemployment rate. The more developed a city becomes, the more attractive it is for young people, especially those seeking employment. This intensifies job market competition and increases the risk of inexperienced youths becoming jobless. Another issue arising from fast-growing municipalities is the decreasing quality of living. The influx of dwellers raises demand for housing and services such as healthcare and food, leading to price gouging. This makes essentials unaffordable for youths, which lowers overall life satisfaction. For example, despite having a full-time job, my brother, living in Viet Nam’s capital, struggles to afford housing due to high housing needs. Hence, he has to reside in tenements in poorer districts, often plagued with issues like poor indoor plumbing and vermin infestations.</span></p>
+
+			<p><span>There are several measures that can be taken to address these problems. Firstly, the government should promote rural career opportunities. If the state provides monetary incentives to boost the establishment and development of companies or factories in the countryside, more jobs can be created, discouraging young people from migrating to big cities. Moreover, financial packages could be provided to support economically deprived youths. Particularly, temporary monetary support should be provided to them until they have stabilized their lives, encouraging youths to overcome adversity while working towards professional goals.</span></p>
+
+			<p><span>In conclusion, although the proliferation of metropolises poses a threat to job prospects and young people’s quality of life, providing career opportunities and financial aid in rural areas offer viable solutions to these issues. Hence, it is advisable that governments implement effective policies to support young people in cities.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:right"><span>(</span><span><strong>Word count: </strong></span><span>320)</span></p>
+
+<h3 id="3.1.&nbsp;-timing"><span><strong>3.1.</strong></span><span>&nbsp; Timing</span></h3>
+
+<p><span>- Với bài viết này, thời gian dành cho mỗi bước như sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Think &amp; Plan: </strong></span><span style="color:#ff0000">8 phút</span></li>
+	<li style="list-style-type:disc"><span><strong>Write:</strong></span><span> </span><span style="color:#ff0000">20 phút</span></li>
+	<li style="list-style-type:disc"><span><strong>Check: </strong></span><span style="color:#ff0000">8 phút</span></li>
+</ul>
+
+<p><span>- Trong điều kiện lý tưởng thì thời gian dành cho các bước cụ thể như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:613px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:465px">
+			<p style="text-align:center"><span><strong>Tên bước</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:148px">
+			<p style="text-align:center"><span><strong>Thời gian đề xuất</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:465px">
+			<p><span><strong>Think&nbsp;</strong></span></p>
+
+			<p><span>- Phân tích câu hỏi, xác định đối tượng &amp; vấn đề, xác định quan điểm</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:148px">
+			<p><span style="color:#ff0000"><strong>1-2 phút</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:465px">
+			<p><span><strong>Plan</strong></span></p>
+
+			<p><span>- </span><span><strong>B1:</strong></span><span> Xây dựng ý tưởng, thu thập dẫn chứng/lập luận</span></p>
+
+			<p><span>- </span><span><strong>B2: </strong></span><span>Suy nghĩ về cách xâu chuỗi, sắp xếp các ý tưởng cho bài viết&nbsp;</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:148px">
+			<p><span style="color:#ff0000"><strong>7-8 phút</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:465px">
+			<p><span><strong>Write</strong></span></p>
+
+			<p><span>- Bám sát dàn ý để viết bài hoàn chỉnh</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:148px">
+			<p><span style="color:#ff0000"><strong>18-20 phút</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:465px">
+			<p><span><strong>Check</strong></span></p>
+
+			<p><span>- </span><span><strong>B1:</strong></span><span> Tự đánh giá tính rõ ràng của quan điểm và lập luận</span></p>
+
+			<p><span>- </span><span><strong>B2:</strong></span><span> Chỉnh sửa từ vựng để tránh lặp ý, làm rõ ý hoặc sửa lỗi</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:148px">
+			<p><span style="color:#ff0000"><strong>8 phút</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:465px">
+			<p><span><strong>Tổng thời gian:</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:148px">
+			<p><span style="color:#ff0000"><strong>33-37 phút</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:465px">
+			<p><span>- Thời gian để dò lỗi đánh máy, lỗi chính tả hay lỗi dùng từ</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:148px">
+			<p><span style="color:#ff0000"><strong>3-7 phút</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Lưu ý:</strong></span></p>
+
+<p><span>-&nbsp; Khi mới bắt đầu luyện tập, các bạn chưa thể bám theo cách phân bổ thời gian này. Thay vào đó, bạn nên luyện tập và ghi lại thời gian thực tế dành cho mỗi bước và cố gắng rút ngắn thời gian trong quá trình luyện tập.&nbsp;</span></p>
+
+<p><span>=&gt; Sau khi đã luyện tập nhiều và quen với các bước làm bài, cố gắng giới hạn thời gian theo như bảng vừa rồi.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span>-&nbsp; Thời gian Think &amp; Plan không nên dưới 8 phút, vì nếu không lập dàn ý kỹ càng thì khi viết sẽ mất thời gian chỉnh sửa nhiều hơn và bài viết có nguy cơ mất điểm TR và CC nhiều hơn</span></p>
+
+<p><span>=&gt; Cần phải nhớ rằng “</span><span><strong>planning is writing</strong></span><span>” (</span><span style="color:#ff0000"><strong>lập dàn ý chính là viết bài</strong></span><span>)</span></p>
+
+<h3 id="3.2.&nbsp;-đánh-giá-bài-viết-theo-tiêu-chí-task-response"><span><strong>3.2.</strong></span><span>&nbsp; Đánh giá bài viết theo tiêu chí Task Response</span></h3>
+
+<p><span>- Chúng ta cùng phân tích các yếu tố giúp bài viết đạt điểm cao trong tiêu chí TR:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>There are more metropolitan areas worldwide. This tendency leads to serious issues for young dwellers in such areas, predominantly relating to higher unemployment rates and lower living standards. However, these problems can be solved with the provision of job opportunities and financial aid.</span></p>
+
+			<p><span><strong><u>There are two main obstacles for young people resulting from this development.</u></strong></span><span> </span><span><span style="background-color:#00ff00"><strong>The most challenging one is the higher youth unemployment rate</strong></span></span><span>. The more developed a city becomes, the more attractive it is for young people, especially those seeking employment. This intensifies job market competition and increases the risk of inexperienced youths becoming jobless. </span><span><span style="background-color:#ff9900"><strong>Another issue arising from fast-growing municipalities is the decreasing quality of living</strong></span></span><span>. The influx of dwellers raises demand for housing and services such as healthcare and food, leading to price gouging. This makes essentials unaffordable for youths, which lowers overall life satisfaction. For example, despite having a full-time job, my brother, living in Viet Nam’s capital, struggles to afford housing due to high housing needs. Hence, he has to reside in tenements in poorer districts, often plagued with issues like poor indoor plumbing and vermin infestations.</span></p>
+
+			<p><span><strong><u>There are several measures that can be taken to address these problems.</u></strong></span><span> Firstly, </span><span><span style="background-color:#00ff00"><strong>the government should promote rural career opportunities</strong></span></span><span>. If the state provides monetary incentives to boost the establishment and development of companies or factories in the countryside, more jobs can be created, discouraging young people from migrating to big cities. </span><span><span style="background-color:#ff9900"><strong>Moreover, financial packages could be provided to support economically deprived youths</strong></span></span><span>. Particularly, temporary monetary support should be provided to them until they have stabilized their lives, encouraging youths to overcome adversity while working towards professional goals.</span></p>
+
+			<p><span>In conclusion, although the proliferation of metropolises poses a threat to job prospects and young people’s quality of life, providing career opportunities and financial aid in rural areas offer viable solutions to these issues. Hence, it is advisable that governments implement effective policies to support young people in cities.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Phân tích:</strong></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Trước hết, mỗi đoạn Body đã mở bằng một cụm giới thiệu nội dung chính của toàn đoạn (được gạch chân)</span></li>
+	<li style="list-style-type:disc"><span>Về mặt sắp xếp thông tin, nguyên nhân và giải pháp được đặt song song nhau. Cụ thể, nêu nguyên nhân “</span><span><span style="background-color:#00ff00"><strong>higher youth unemployment</strong></span></span><span>” (tỷ lệ thất nghiệp ở người trẻ tuổi cao) trước, thì giải pháp đầu tiên được nêu là “</span><span><span style="background-color:#00ff00"><strong>promote rural career opportunities</strong></span></span><span>” (thúc đẩy cơ hội việc làm ở vùng nông thôn)</span></li>
+	<li style="list-style-type:disc"><span>Tương tự, nêu vấn đề “</span><span><span style="background-color:#ff9900"><strong>decrease quality of living</strong></span></span><span>” (giảm chất lượng sống sau) thì nêu giải pháp “</span><span><span style="background-color:#ff9900"><strong>support economically deprived youths</strong></span></span><span>” (ủng hộ người trẻ thiếu tiền) sau</span></li>
+	<li style="list-style-type:disc"><span>Lập luận trong bài cũng đã được sắp xếp theo đúng cấu trúc P.E.E.L</span></li>
+</ul>
+
+<h3 id="3.3.&nbsp;-ngôn-ngữ-chỉ-nguyên-nhân-kết-quả"><span><strong>3.3.</strong></span><span>&nbsp; Ngôn ngữ chỉ nguyên nhân-kết quả</span></h3>
+
+<p><span>- Chúng ta cùng phân tích các từ/cụm từ giúp thể hiện mối quan hệ nguyên nhân-kết quả của lập luận:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Trước hết, chúng ta cùng theo dõi các từ/cụm từ thể hiện nguyên nhân:</span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>There are more metropolitan areas worldwide. This tendency </span><span><span style="background-color:#ff00ff"><strong>leads to</strong></span></span><span> serious issues for young dwellers in such areas, predominantly relating to higher unemployment rates and lower living standards. However, these problems can be solved with the provision of job opportunities and financial aid.</span></p>
+
+			<p><span>There are two main obstacles for young people </span><span><span style="background-color:#ff00ff"><strong>resulting from this development</strong></span></span><span>. The most challenging one is the higher youth unemployment rate. </span><span><span style="background-color:#ff00ff"><strong>The more developed a city becomes, the more attractive it is for young people, especially those seeking employment</strong></span></span><span>. </span><span><span style="background-color:#ff00ff"><strong>This intensifies</strong></span></span><span> job market competition </span><span><span style="background-color:#ff00ff"><strong>and increases</strong></span></span><span> the risk of inexperienced youths becoming jobless. Another issue arising from fast-growing municipalities is the decreasing quality of living. The influx of dwellers </span><span><span style="background-color:#ff00ff"><strong>raises demand for</strong></span></span><span> housing and services such as healthcare and food, </span><span><span style="background-color:#ff00ff"><strong>leading</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>to</strong></span></span><span> price gouging. </span><span><span style="background-color:#ff00ff"><strong>This</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>makes</strong></span></span><span> essentials unaffordable for youths, </span><span><span style="background-color:#ff00ff"><strong>which</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>lowers</strong></span></span><span> overall life satisfaction. For example, despite having a full-time job, my brother, living in Viet Nam’s capital, struggles to afford housing </span><span><span style="background-color:#ff00ff"><strong>due to</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>high</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>housing</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>needs</strong></span></span><span>. </span><span><span style="background-color:#ff00ff"><strong>Hence,</strong></span></span><span> he has to reside in tenements in poorer districts, often plagued with issues like poor indoor plumbing and vermin infestations.</span></p>
+
+			<p><span>There are several measures that can be taken to address these problems. Firstly, the government should promote rural career opportunities. If the state provides monetary incentives to boost the establishment and development of companies or factories in the countryside, more jobs can be created, discouraging young people from migrating to big cities. Moreover, financial packages could be provided to support economically deprived youths. Particularly, temporary monetary support should be provided to them until they have stabilized their lives, encouraging youths to overcome adversity while working towards professional goals.</span></p>
+
+			<p><span>In conclusion, although the proliferation of metropolises </span><span><span style="background-color:#ff00ff"><strong>poses a threat to</strong></span></span><span> job prospects and young people’s quality of life, providing career opportunities and financial aid in rural areas offer viable solutions to these issues. Hence, it is advisable that governments implement effective policies to support young people in cities.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Chúng ta tiếp tục theo dõi các từ/cụm từ thể hiện kết quả:</span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>There are more metropolitan areas worldwide. This tendency leads to serious issues for young dwellers in such areas, predominantly relating to higher unemployment rates and lower living standards. However, these problems </span><span><span style="background-color:#ff00ff"><strong>can be</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>solved</strong></span></span><span> with the provision of job opportunities and financial aid.</span></p>
+
+			<p><span>There are two main obstacles for young people resulting from this development. The most challenging one is the higher youth unemployment rate. The more developed a city becomes, the more attractive it is for young people, especially those seeking employment. This intensifies job market competition and increases the risk of inexperienced youths becoming jobless. Another issue arising from fast-growing municipalities is the decreasing quality of living. The influx of dwellers raises demand for housing and services such as healthcare and food, leading to price gouging. This makes essentials unaffordable for youths, which lowers overall life satisfaction. For example, despite having a full-time job, my brother, living in Viet Nam’s capital, struggles to afford housing due to high housing needs. Hence, he has to reside in tenements in poorer districts, often plagued with issues like poor indoor plumbing and vermin infestations.</span></p>
+
+			<p><span><span style="background-color:#ff00ff"><strong>There are several measures that can be taken to address these problems</strong></span></span><span>. Firstly, the government </span><span><span style="background-color:#ff00ff"><strong>should promote</strong></span></span><span> rural career opportunities. </span><span><span style="background-color:#ff00ff"><strong>If the state provides monetary incentives to boost the establishment and development of companies or factories in the countryside, more jobs can be created</strong></span></span><span>, </span><span><span style="background-color:#ff00ff"><strong>discouraging young people from migrating to big cities</strong></span></span><span>. Moreover, financial packages </span><span><span style="background-color:#ff00ff"><strong>could be provided</strong></span></span><span> to support economically deprived youths. Particularly, temporary monetary support </span><span><span style="background-color:#ff00ff"><strong>should be provided</strong></span></span><span> to them until they have stabilized their lives, </span><span><span style="background-color:#ff00ff"><strong>encouraging youths to overcome adversity while working towards professional goals</strong></span></span><span>.</span></p>
+
+			<p><span>In conclusion, although the proliferation of metropolises poses a threat to job prospects and young people’s quality of life, providing career opportunities and financial aid in rural areas </span><span><span style="background-color:#ff00ff"><strong>offer viable solutions to these issues</strong></span></span><span>. Hence, </span><span><span style="background-color:#ff00ff"><strong>it is advisable that</strong></span></span><span> governments implement effective policies to support young people in cities.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="3.4.&nbsp;-ngữ-pháp-được-sử-dụng-trong-bài"><span><strong>3.4.</strong></span><span>&nbsp; Ngữ pháp được sử dụng trong bài</span></h3>
+
+<p><span>- Chúng ta cùng phân tích sự linh hoạt về cấu trúc ngữ pháp đã được sử dụng trong bài:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Trước hết, chúng ta cùng theo dõi cách bài viết kết hợp cả câu đơn và câu phức, cũng như cách dấu câu được sử dụng trong bài:</span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>There are more metropolitan areas worldwide. This tendency leads to serious issues for young dwellers in such areas</span><span style="color:#ff0000"><strong>,</strong></span><span><strong> </strong></span><span><span style="background-color:#00ffff"><strong>predominantly relating to</strong></span></span><span> higher unemployment rates and lower living standards. However, these problems can be solved with the provision of job opportunities and financial aid.</span></p>
+
+			<p><span>There are two main obstacles for young people </span><span><span style="background-color:#00ffff"><strong>resulting from</strong></span></span><span> this development. The most challenging one is the higher youth unemployment rate. The more developed a city becomes, the more attractive it is for young people, especially those seeking employment. This intensifies job market competition and increases the risk of inexperienced youths becoming jobless. Another issue arising from fast-growing municipalities is the decreasing quality of living. The influx of dwellers raises demand for housing and services such as healthcare and food</span><span style="color:#ff0000"><strong>,</strong></span><span> </span><span><span style="background-color:#00ffff"><strong>leading to</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>price</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>gouging</strong></span></span><span>. This makes essentials unaffordable for youths, which lowers overall life satisfaction. For example, despite having a full-time job, my brother</span><span style="color:#ff0000"><strong>,</strong></span><span> </span><span><span style="background-color:#00ffff"><strong>living</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>in</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>Viet</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>Nam’s</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>capital</strong></span></span><span style="color:#ff0000"><strong>,</strong></span><span> struggles to afford housing due to high housing needs. Hence, he has to reside in tenements in poorer districts</span><span style="color:#ff0000"><strong>,</strong></span><span> </span><span><span style="background-color:#00ffff"><strong>often</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>plagued</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>with</strong></span></span><span> issues like poor indoor plumbing and vermin infestations.</span></p>
+
+			<p><span>There are several measures that can be taken to address these problems. Firstly, the government should promote rural career opportunities. If the state provides monetary incentives to boost the establishment and development of companies or factories in the countryside, more jobs can be created</span><span style="color:#ff0000"><strong>,</strong></span><span> </span><span><span style="background-color:#00ffff"><strong>discouraging</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>young</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>people</strong></span></span><span> from migrating to big cities. Moreover, financial packages could be provided to support economically deprived youths. Particularly, temporary monetary support should be provided to them until they have stabilized their lives</span><span style="color:#ff0000"><strong>,</strong></span><span> </span><span><span style="background-color:#00ffff"><strong>encouraging</strong></span></span><span><span style="background-color:#00ffff"> </span></span><span><span style="background-color:#00ffff"><strong>youths</strong></span></span><span> to overcome adversity while working towards professional goals.</span></p>
+
+			<p><span>In conclusion, although the proliferation of metropolises poses a threat to job prospects and young people’s quality of life, providing career opportunities and financial aid in rural areas offer viable solutions to these issues. Hence, it is advisable that governments implement effective policies to support young people in cities.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Một điều nữa chúng ta nên ghi chú là cách bài viết sử dụng ngôn ngữ nói giảm, nói tránh:</span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>There are more metropolitan areas worldwide. This tendency leads to serious issues for young dwellers in such areas, predominantly relating to higher unemployment rates and lower living standards. However, these problems </span><span><span style="background-color:#00ffff"><strong>can be solved</strong></span></span><span> with the provision of job opportunities and financial aid.</span></p>
+
+			<p><span>There are two main obstacles for young people resulting from this development. The most challenging one is the higher youth unemployment rate. The more developed a city becomes, the more attractive it is for young people, especially those seeking employment. This intensifies job market competition and increases the risk of inexperienced youths becoming jobless. Another issue arising from fast-growing municipalities is the decreasing quality of living. The influx of dwellers raises demand for housing and services such as healthcare and food, leading to price gouging. This makes essentials unaffordable for youths, which lowers overall life satisfaction. For example, despite having a full-time job, my brother, living in Viet Nam’s capital, struggles to afford housing due to high housing needs. Hence, he has to reside in tenements in poorer districts, often plagued with issues like poor indoor plumbing and vermin infestations.</span></p>
+
+			<p><span>There are several measures that </span><span><span style="background-color:#00ffff"><strong>can be taken</strong></span></span><span> to address these problems. Firstly, the government </span><span><span style="background-color:#00ffff"><strong>should promote</strong></span></span><span> rural career opportunities. If the state provides monetary incentives to boost the establishment and development of companies or factories in the countryside, more jobs </span><span><span style="background-color:#00ffff"><strong>can be created</strong></span></span><span>, discouraging young people from migrating to big cities. Moreover, financial packages </span><span><span style="background-color:#00ffff"><strong>could be provided</strong></span></span><span> to support economically deprived youths. Particularly, temporary monetary support </span><span><span style="background-color:#00ffff"><strong>should be provided</strong></span></span><span> to them until they have stabilized their lives, encouraging youths to overcome adversity while working towards professional goals.</span></p>
+
+			<p><span>In conclusion, although the proliferation of metropolises poses a threat to job prospects and young people’s quality of life, providing career opportunities and financial aid in rural areas offer viable solutions to these issues. Hence, </span><span><span style="background-color:#00ffff"><strong>it is advisable that</strong></span></span><span> governments implement effective policies to support young people in cities.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </div>

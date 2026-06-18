@@ -1,0 +1,546 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="viết-bài-luận-task-2-hoàn-chỉnh"><span><span style="background-color:#ffffff">Viết bài luận Task 2 hoàn chỉnh</span></span></h1>
+
+<h2 id="1.-cấu-trúc-bài-viết"><span><span style="background-color:#ffffff"><strong>1. </strong></span></span><span><span style="background-color:#ffffff">Cấu trúc bài viết</span></span></h2>
+
+<p><span><span style="background-color:#ffffff">- Chúng ta cùng quan sát bài mẫu:&nbsp;</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:634px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:634px">
+			<p style="text-align:center"><span style="color:#222222"><strong>It is important for people to take risks, both in their professional lives and their personal lives. Do you think the advantages of taking risks outweigh the disadvantages?</strong></span></p>
+
+			<p style="text-align:center"><span style="color:#222222">(Điều quan trọng là mọi người phải biết chấp nhận rủi ro, ngay cả trong công việc và đời tư. Liệu bạn nghĩ hành động này có nhiều tích cực hơn tiêu cực không?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span><span style="background-color:#ffff00">[</span></span><span><span style="background-color:#ffff00"><strong>Introduction</strong></span></span><span><span style="background-color:#ffff00">]</span></span><span> </span><span style="color:#222222">Risk-taking can be critical for people’s working and private lives. I believe the merits of taking chances outweigh the drawbacks.</span></p>
+
+			<p><span><span style="background-color:#00ffff">[</span></span><span><span style="background-color:#00ffff"><strong>Body paragraph 1</strong></span></span><span><span style="background-color:#00ffff">]</span></span><span><span style="background-color:#ffffff"> </span></span><span style="color:#222222">The main benefit of throwing caution to the wind is that it leads to opportunities. For example, if people take the chance on a new romance they might meet their lifelong partner. However, without taking the plunge there will be no opportunity to move beyond single life. Similarly, accepting the risk of a new job offer may help a person move forward in their career. The new job may lead to the acquisition of new knowledge and skills, which could propel a person up the career ladder.</span></p>
+
+			<p><span><span style="background-color:#00ffff">[</span></span><span><span style="background-color:#00ffff"><strong>Body paragraph 2</strong></span></span><span><span style="background-color:#00ffff">]</span></span><span><span style="background-color:#ffffff"> </span></span><span style="color:#222222">Furthermore, taking risks can also lead to greater resilience. This is because the change involved with risk-taking evokes emotional responses such as fear and doubt. By actively experiencing these emotions people can become more tolerant of them. This is a valuable attribute as change and a certain level of risk-taking is unavoidable in all careers and aspects of life.</span></p>
+
+			<p><span><span style="background-color:#00ffff">[</span></span><span><span style="background-color:#00ffff"><strong>Body paragraph 3</strong></span></span><span><span style="background-color:#00ffff">]</span></span><span><span style="background-color:#ffffff"> </span></span><span style="color:#222222">However, risk-taking often involves a certain degree of danger. The unpredictable outcomes of risky decisions can lead to deleterious outcomes. For instance, my Nephew invested all his money in a new business venture. The business failed and he became both bankrupt and unemployed at the same time. This had disastrous effects on his career and marriage.</span></p>
+
+			<p><span><span style="background-color:#00ff00">[</span></span><span><span style="background-color:#00ff00"><strong>Conclusion</strong></span></span><span><span style="background-color:#00ff00">]</span></span><span style="color:#222222"> In conclusion, I believe that the benefits of risk-taking surpass the drawbacks. This is because the merits of creating new prospects and building resilience outweigh the potential hazards of negative outcomes. Furthermore, the dangers can be mitigated through contingency planning for negative outcomes.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span>Trong đó:</span></p>
+
+<p><span><span style="background-color:#ffff00">[</span></span><span><span style="background-color:#ffff00"><strong>Introduction</strong></span></span><span><span style="background-color:#ffff00">]</span></span><span>: mở bài: giới thiệu nội dung và trả lời câu hỏi của đề bài</span></p>
+
+<p><span><span style="background-color:#00ffff">[</span></span><span><span style="background-color:#00ffff"><strong>Body paragraph</strong></span></span><span><span style="background-color:#00ffff">]</span></span><span>: thân bài: nêu lập luận, luận điểm để bảo vệ câu trả lời</span></p>
+
+<p><span><span style="background-color:#00ff00">[</span></span><span><span style="background-color:#00ff00"><strong>Conclusion</strong></span></span><span><span style="background-color:#00ff00">]</span></span><span>: kết bài: tóm tắt ý chính và chốt lại câu trả lời</span></p>
+
+<h2 id="2.-introduction"><span><strong>2.</strong></span><span> Introduction</span></h2>
+
+<h3 id="2.1.-vai-trò"><span><strong>2.1. </strong></span><span>Vai trò</span></h3>
+
+<p><span>- Intro sẽ cung cấp thông tin về vấn đề/hiện tượng sẽ phân tích trong phần Body và trả lời câu hỏi của đề bài</span></p>
+
+<p><span>- Cụ thể, Intro phải trả lời các câu hỏi sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Nội dung bài đề cập đến vấn đề gì?</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Đối tượng phân tích trong bài là ai/cái gì?</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Hiện tượng/vấn đề chính mà sẽ được phân tích trong bài là gì?</strong></span></li>
+</ul>
+
+<h3 id="2.2.-các-bước-viết"><span><strong>2.2. </strong></span><span>Các bước viết</span></h3>
+
+<p><span>- Chúng ta cần dành 5-7 phút để hoàn thành các mục tiêu sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Phân tích đề</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Dẫn nhập vào bài viết bằng cách paraphrase chủ đề</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Trả lời trực tiếp câu hỏi của đề</strong></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span>- Cụ thể, khi phân tích đề, cần xác định:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Topic: </strong></span><span>Chủ đề/hiện tượng/ý kiến bài viết yêu cầu phân tích</span></li>
+	<li style="list-style-type:disc"><span><strong>Focus:</strong></span><span> Đối tượng chính của bài viết</span></li>
+	<li style="list-style-type:disc"><span><strong>Task: </strong></span><span>Yêu cầu của bài viết</span></li>
+</ul>
+
+<p><br>
+&nbsp;</p>
+
+<p><span>- Liên quan tới việc bắt đầu bài viết với một câu chủ đề chung chung (</span><span><strong>general statement</strong></span><span>), việc đưa ra </span><span><strong>general statement</strong></span><span> là hoàn toàn tự chọn, miễn sao câu này phải liên quan tới nội dung chính và không sử dụng các từ/cụm từ nghe thiếu tự nhiên hay nghe quá như công thức</span></p>
+
+<p><span>VD: Bạn nói rằng </span><span><strong>“dress code in schools has always been a controversial issue”</strong></span><span> (vấn đề mặc đồng phục đã luôn gây tranh cãi)</span></p>
+
+<p><span>=&gt; </span><span><strong>Vô lý, vấn đề này khá là tầm thường</strong></span></p>
+
+<p><span>=&gt; </span><span><strong>Nếu không xác định được chủ đề chung của bài viết, thì nên chọn cách đi thẳng vào chủ đề thay vì bắt đầu bằng câu general statement</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p><span>- Chúng ta cùng phân tích ví dụ để tìm hiểu kỹ hơn các bước viết Introduction</span></p>
+
+<p><span><strong>Ví dụ:&nbsp;</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><strong>The working week should be shorter and workers should have a longer weekend. To what extent do you agree or disagree with this statement?</strong></span></p>
+
+			<p style="text-align:center"><span>(Tuần làm việc nên được rút gọn và người lao động nên có cuối tuần dài hơn. Bạn đồng ý hay không đồng ý với quan điểm này?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span>- Điều đầu tiên chúng ta cần làm là phân tích đề bài&nbsp;</span></p>
+
+<p><span><strong>Phân tích:&nbsp;</strong></span></p>
+
+<p><span>- Trước hết, quan sát đề bài, chúng ta xác định được luôn 2 câu:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Background Statement: The working week should be shorter and workers should have a longer weekend</strong></span><span> (Tuần làm việc nên được rút gọn và người lao động nên có cuối tuần dài hơn)</span></li>
+	<li style="list-style-type:disc"><span><strong>Task: To what extent do you agree or disagree with this statement? </strong></span><span>(Bạn đồng ý hay không đồng ý với quan điểm này?)</span></li>
+</ul>
+
+<p><span>- Từ câu Background Statement, chúng ta tiếp tục xác định được 3 yếu tố lần lượt là:&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Topic: The working week should be shorter and weekends should be longer</strong></span></li>
+</ul>
+
+<p style="margin-left:48px"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Tuần làm việc nên ngắn hơn và ngày nghỉ cuối tuần nên kéo dài lâu hơn)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Focus: Workers</strong></span></li>
+</ul>
+
+<p style="margin-left:48px"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Người lao động)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Task:</strong></span><span style="color:#ff0000"> </span><span>Bạn đồng ý hay không đồng ý với “</span><span><strong>Tuần làm việc nên ngắn hơn và ngày nghỉ cuối tuần nên kéo dài lâu hơn</strong></span><span>”</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span>- Sau khi phân tích đề bài, chúng ta bắt tay vào viết Introduction. Đầu tiên là phải dẫn nhập vào bài bằng cách paraphrase đề</span></p>
+
+<p><span><span style="background-color:#ffffff">- Các từ/ cụm từ đã được paraphrase:&nbsp;&nbsp;</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:612px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:289px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Topic</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:323px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Introduction</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:289px">
+			<p><span>The </span><span><strong><u>working week</u></strong></span><span style="color:#cc0000"><strong> should be shorter</strong></span><span> and </span><span style="color:#ff00ff"><strong>workers</strong></span><span><strong> </strong></span><span style="color:#0000ff"><strong>should have</strong></span><span> a </span><span><strong><u>longer weekend</u></strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:323px">
+			<p><span>There is an assertion that</span><span><strong> </strong></span><span style="color:#ff00ff"><strong>employees </strong></span><span style="color:#0000ff"><strong>ought to be given</strong></span><span><strong> </strong></span><span style="color:#cc0000"><strong>shorter</strong></span><span style="color:#cc0000"> </span><span><strong><u>working weeks</u></strong></span><span> and, by extension, </span><span><strong><u>longer weekends</u></strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Hoàn thành việc này, chúng ta mới trả lời trực tiếp cho câu hỏi của đề:&nbsp;</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:612px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:289px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Task</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:323px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Introduction</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:289px">
+			<p><span>To what extent do you </span><span><span style="background-color:#00ff00"><strong>agree or disagree with this statement</strong></span></span><span>?</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:323px">
+			<p><span>I </span><span><span style="background-color:#00ff00"><strong>completely agree with this perspective</strong></span></span><span>, primarily because it could </span><span><strong><u>boost overall work productivity</u></strong></span><span> and</span><span><strong> </strong></span><span><strong><u>greatly improve workers’ health</u></strong></span><span>.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Lưu ý:</strong></span></p>
+
+<p><span>-&nbsp; Trong trường hợp không hiểu hết đề, hãy bình tĩnh đọc lại câu hỏi. Trong đề bài, người ra đề thường đã diễn giải lại những từ khó bằng cụm từ/từ đơn giản hơn hoặc đưa ra ví dụ cụ thể để minh hoạ từ này&nbsp;</span></p>
+
+<p><span><strong>VD: Bạn được cho đề</strong></span><span> “</span><span><strong>Some universities now offer their courses on the Internet so that people can study online. Is this a positive or negative development?</strong></span><span>” (Một số trường đại học cung cấp khoá học trên mạng để mọi người có thể học online. Liệu đây là xu hướng tốt hay xu hướng xấu?)</span></p>
+
+<p><span>=&gt; Hai cụm này bổ nghĩa cho nhau, từ đó dễ dàng hiểu nội dung đề bài yêu cầu phân tích</span></p>
+
+<p>&nbsp;</p>
+
+<p><span>- Một điều nữa cần lưu ý là không nhất thiết phải thay đổi tất cả các từ trong đề bài. Việc lạm dụng paraphrase sẽ làm thay đổi ý nghĩa của các cụm đặc thù, khiến cho bài viết bị lạc đề</span></p>
+
+<p><span>VD: Với chủ đề “</span><span><strong>College freshmen find the courses they choose are not suitable</strong></span><span>”, bạn paraphrase thành “</span><span><strong>New pupils are struggling with unsuitable courses</strong></span><span>”</span></p>
+
+<p><span>=&gt; Paraphrase bất hợp lý, “</span><span><strong>college freshmen</strong></span><span>” là sinh viên năm nhất còn “</span><span><strong>pupil</strong></span><span>” chỉ các em học sinh nhỏ tuổi</span></p>
+
+<p><span>=&gt; Thay vì paraphrase từng từ, hãy cố gắng diễn đạt lại đại ý của câu chủ đề bằng cách thay đổi cấu trúc của câu này, hay thay đổi từ loại dùng trong câu này</span></p>
+
+<p><span>VD: “</span><span><strong>College freshmen find the courses they choose are not suitable</strong></span><span>” paraphrase thành “</span><span><strong>Freshmen in college find that the courses they have chosen are unsuitable</strong></span><span>.”</span></p>
+
+<h2 id="3.-body-paragraph"><span><span style="background-color:#ffffff"><strong>3. </strong></span></span><span><span style="background-color:#ffffff">Body Paragraph</span></span></h2>
+
+<h3 id="3.1.-vai-trò"><span><span style="background-color:#ffffff"><strong>3.1. </strong></span></span><span><span style="background-color:#ffffff">Vai trò</span></span></h3>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span>Body Paragraph được cấu tạo bởi nhiều câu được liên kết với nhau để thành một đoạn hoàn chỉnh. Mỗi câu này đều có một mục đích riêng trong đoạn như nêu luận điểm, giải thích luận điểm, đưa ra ví dụ minh hoạ cho luận điểm, v.v.</span></p>
+
+<p><span>- Thực tế, hầu hết các giáo viên, giám khảo sẽ giới thiệu ý chính của mỗi đoạn Body ở ngay câu đầu tiên và chốt lại ở câu cuối cùng. Các câu nằm ở giữa được sử dụng để đưa ra lập luận, dẫn chứng nhằm củng cố ý này.</span></p>
+
+<p><span><strong>Ví dụ:&nbsp;</strong></span></p>
+
+<p><span><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXejFtOppVxRkw7QHOcgKm3qOTQalcIk14ViD7ZXYgbrkuR7unN6pd7rSSq9nEuVA-ncj2aEQsQkNZmET6Pbs4VCJ9fBTIafmD54Png-z3lCsHMgjEN4sKlhfraHwCDsN1rg4MjWHQ?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:115px; width:624px"></span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Câu đầu tiên nêu luận điểm chính: “dòng người di chuyển từ vùng nông thôn lên vùng đô thị để sinh sống, chắc chắn sẽ gây ra vấn đề”</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Các câu tiếp theo chỉ đưa ra lập luận, dẫn chứng để chứng minh điều này</span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3 id="3.2.-các-bước-viết"><span><strong>3.2. </strong></span><span>Các bước viết</span></h3>
+
+<p><span>- P.E.E.L là một phương pháp phổ biến được dùng để giúp người viết triển khai và chứng minh quan điểm một cách triệt để</span></p>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span>Phương pháp P.E.E.L gồm 4 bước sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:516px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:516px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Make a </strong></span><span style="color:#ff0000"><strong><u>Point</u></strong></span></p>
+
+			<p style="text-align:center"><span>Nêu ý chính sẽ bàn luận trong đoạn văn</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:516px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong><u>Explain</u></strong></span><span style="color:#ff0000"><strong> this point</strong></span></p>
+
+			<p style="text-align:center"><span>Giải thích/phân tích thêm về ý này</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:516px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Expand on this point or give a relevant </strong></span><span style="color:#ff0000"><strong><u>Example</u></strong></span><span style="color:#ff0000"><strong> to support it</strong></span></p>
+
+			<p style="text-align:center"><span>Cung cấp bằng chứng hoặc ví dụ để chứng minh lập luận</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:516px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong><u>Link</u></strong></span><span style="color:#ff0000"><strong> this idea back to the question</strong></span></p>
+
+			<p style="text-align:center"><span>Liên kết lập luận và nội dung triển khai với ý chính của đoạn</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Liên quan tới việc phân chia thông tin cho từng phần của P.E.E.L, lưu ý rằng không nhất thiết phải viết một câu cho mỗi phần, mà có thể gộp 2 phần trong cùng 1 câu, hoặc cũng có thể viết 2 câu để triển khai cho 1 phần</span></span></p>
+
+<p><span><span style="background-color:#ffffff">=&gt; Viết bao nhiêu câu cho mỗi phần cũng được, miễn sao các câu đều đúng yêu cầu đề bài và triển khai, chứng minh đúng ý chính của đoạn</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Chúng ta hãy cùng phân tích một đoạn thân bài được triển khai theo P.E.E.L&nbsp;</span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Ví dụ:&nbsp;</strong></span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><strong>The working week should be shorter and workers should have a longer weekend. To what extent do you agree or disagree with this statement?</strong></span></p>
+
+			<p style="text-align:center"><span>(Tuần làm việc nên được rút gọn và người lao động nên có cuối tuần dài hơn. Bạn đồng ý hay không đồng ý với quan điểm này?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span>- Với bài này, chúng ta triển khai thân đoạn như sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Đoạn thân bài thứ nhất:</span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:622px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:44px">
+			<p style="text-align:center"><span><strong>P:</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:578px">
+			<p><span><span style="background-color:#d9ead3">The main reason I support the proposal to cut back the working week is that it could improve the health of employees</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">(Lý do chính tôi ủng hộ để suất này chính là nó sẽ giúp cải thiện sức khỏe của nhân</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">viên)&nbsp;</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:44px">
+			<p style="text-align:center"><span><strong>E:</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:578px">
+			<p><span><span style="background-color:#fff2cc">With shorter working hours, workers will have more time to spend with family, pursue hobbies, or rest. This improved balance between professional and personal lives will lead to increased happiness and improved overall well-being</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">(Thời gian làm việc ngắn hơn, tức là những người lao động sẽ có thêm thời gian để dành cho gia đình, hoặc là để theo đuổi đam mê, hay để nghỉ ngơi. Sự cân bằng lớn hơn giữa công việc và đời tư sẽ giúp con người cảm thấy vui hơn và sẽ cải thiện sức khỏe)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:44px">
+			<p style="text-align:center"><span><strong>E:</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:578px">
+			<p><span><span style="background-color:#fff2cc">For instance, Microsoft tested a program where employees worked four days a week for a trial period of six months, notably without pay reductions. The results showed a significantly lower rate of burnout and mental health issues such as depression and anxiety among workers, along with a higher rate of job satisfaction.</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">(Một hiện tượng tôi đã thấy ở công ty Microsoft đó là họ thử nghiệm một chương trình làm việc 4 ngày 1 tuần trong khoảng 6 tháng mà không hề giảm lương. Kết quả cho thấy rằng những nhân viên trải qua chương trình này ít thấy mệt mỏi hơn và ít gặp các vấn đề về tâm lý như là trầm cảm hay lo âu hơn. Điều này đồng nghĩa với việc là họ cảm thấy thỏa mãn với công việc hiện tại của họ hơn.)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:44px">
+			<p style="text-align:center"><span><strong>L:</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:578px">
+			<p><span><span style="background-color:#d9ead3">Indeed, a shorter workweek is key to enhancing work-life balance, thereby improving the health of workers.</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">(Hiển nhiên, tuần làm việc ngắn hơn là yếu tố then chốt giúp cải thiện cân bằng giữa cuộc sống và công việc, từ đó tăng sức khỏe của nhân viên)</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Đoạn thân bài thứ hai:</span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:626px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:44px">
+			<p style="text-align:center"><span>P:</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:582px">
+			<p><span><span style="background-color:#d9ead3">Furthermore, I believe that shortening the workweek could boost work productivity.</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">(Ngoài ra, tôi tin rằng việc giảm ngày đi làm có thể tăng năng suất làm việc)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:44px">
+			<p style="text-align:center"><span>E:</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:582px">
+			<p><span><span style="background-color:#fff2cc">By giving workers longer weekends, they will have more time to rest after dealing with their workload during weekdays. When employees are well-rested, they will be able to put more energy and focus into completing job assignments, achieving greater efficiency.</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">(Bằng cách cho những người lao động thêm thời gian nghỉ ngơi sau khi đã phải đối phó với lượng công việc trong tuần, thì họ sẽ cảm thấy thoải mái hơn bởi vì họ được nghỉ đủ. Vì vậy, họ sẽ có thêm năng lượng và sự tập trung để bỏ vào việc hoàn thành nhiệm vụ, những đầu công việc và từ đó là tăng năng suất lao động)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:44px">
+			<p style="text-align:center"><span>E:</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:582px">
+			<p><span><span style="background-color:#fff2cc">For example, since 2022, Belgium has introduced a 4-day work week, implemented without any decreases in wages. A study then noted that employees had higher satisfaction and productivity, while managers found that there was higher profitability for the company.</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">(Vào 2002 ở Bỉ, người dân chỉ phải đi làm 4 ngày trong tuần và không có tí suy giảm nào về mức lương. Sau đó, một bài nghiên cứu chỉ ra rằng, nhân viên đã có tỷ lệ hài lòng với công việc cao hơn và có năng suất lao động cao hơn. Trong khi những người quản lý thì nhận thấy rằng có thêm lợi nhuận cho công ty)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:44px">
+			<p style="text-align:center"><span>L:</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:582px">
+			<p><span><span style="background-color:#d9ead3">Ultimately, a shorter working week could improve both the productivity of employees and the cost-effectiveness for businesses.</span></span></p>
+
+			<p><span><span style="background-color:#ffffff">(Tóm lại, tuần làm việc ngắn hơn có thể cải thiện năng suất làm việc của nhân viên và tăng tính lợi nhuận cho công ty)</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff"><strong>Lưu ý:&nbsp;</strong></span></span></p>
+
+<p><span>- Dù nhiều thí sinh cho rằng câu Link không cần thiết, nhưng cần khẳng định rằng câu Link rất quan trọng vì nó giúp liên kết ý chính với câu hỏi ở đề bài</span></p>
+
+<p><span>=&gt; Nếu không có câu Link, đoạn sẽ có cảm giác bị cụt - người đọc sẽ khó mà hiểu được đoạn văn đang chứng minh điều gì&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p><span>- &nbsp; Cấu trúc P.E.E.L không phải là một template đảm bảo rằng bài viết đạt điểm cao. Nếu luận điểm và các lập luận thiếu tính thuyết phục và không trả lời cho câu hỏi ở đề bài, bài viết vẫn sẽ không được đánh giá cao, đặc biệt là ở tiêu chí TR và CC</span></p>
+
+<p><span>=&gt; Cần phải luyện tập và trau dồi tư duy logic và tuyến tính để viết được một đoạn văn hiệu quả.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<h2 id="4.-conclusion"><span><span style="background-color:#ffffff"><strong>4. </strong></span></span><span><span style="background-color:#ffffff">Conclusion</span></span></h2>
+
+<h3 id="4.1.-vai-trò"><span><strong>4.1. </strong></span><span>Vai trò</span></h3>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span>Conclusion sẽ phải tóm gọn các ý chính trong Body và phải nhấn mạnh lại câu trả lời cho câu hỏi của đề bài</span></p>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span>Trong quá trình tóm gọn các ý chính, đây là cơ hội tốt để có thể đánh giá độ hoàn thiện yêu cầu đề bài của bài viết</span></p>
+
+<h3 id="4.2.-các-bước-viết"><span>4.2. Các bước viết</span></h3>
+
+<p><span>- Conclusion sẽ luôn có tối thiểu 2 thành phần. Trước hết, cần phải chốt lại câu trả lời trực tiếp cho câu hỏi của đề bài (vd: đồng ý hay không đồng ý, lợi nhiều hơn hay hại nhiều hơn, v.v.)</span></p>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span>Việc thứ hai cần phải làm là tóm gọn các ý chính trong Body</span></p>
+
+<p><span><span style="background-color:#ffffff">=&gt; </span></span><span>Nếu tuân theo cấu trúc P.E.E.L, chỉ cần xem lại câu đầu và câu cuối ở mỗi đoạn BP là đã nhanh chóng nắm được các ý chính</span></p>
+
+<p><span>- Một số từ/cụm từ nối thường dùng để nối vào Conclusion:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>To sum up, …</strong></span></span><span> (Tóm lại)</span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>In conclusion, …</strong></span></span><span> (Tóm lại)</span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Therefore, … </strong></span></span><span>(Bởi vậy)</span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>In my view, … </strong></span></span><span>(Theo quan điểm của tôi)</span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>In summary, … </strong></span></span><span>(Tóm lại)</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Chúng ta cùng phân tích từng bước viết </span></span><span><span style="background-color:#ffffff"><strong>Conclusion </strong></span></span><span><span style="background-color:#ffffff">(kết bài) cho một bài viết cụ thể</span></span></p>
+
+<p><span><span style="background-color:#ffffff">Ví dụ:&nbsp;</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><strong>The working week should be shorter and workers should have a longer weekend. To what extent do you agree or disagree with this statement?</strong></span></p>
+
+			<p style="text-align:center"><span>(Tuần làm việc nên được rút gọn và người lao động nên có cuối tuần dài hơn. Bạn đồng ý hay không đồng ý với quan điểm này?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Việc đầu tiên chúng ta cần làm là chốt lại câu trả lời trực tiếp cho câu hỏi của đề bài. Cụ thể, chúng ta sẽ cần paraphrase câu trả lời đã đưa ra ở </span></span><span><span style="background-color:#ffffff"><strong>Introduction </strong></span></span><span><span style="background-color:#ffffff">(mở bài)</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:612px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:289px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Introduction</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:323px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Conclusion</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:289px">
+			<p><span>I </span><span><span style="background-color:#00ff00"><strong>completely agree with this perspective</strong></span></span><span>, primarily because it could boost overall work productivity and greatly improve workers’ health.</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:323px">
+			<p><span>In conclusion, I </span><span><span style="background-color:#00ff00"><strong>view the proposal of extending weekends as completely positive</strong></span></span><span>.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Sau khi đã chốt câu trả lời, chúng ta cần phải tóm gọn các ý chính đã được chứng minh trong </span></span><span><span style="background-color:#ffffff"><strong>Body </strong></span></span><span><span style="background-color:#ffffff">(thân bài)</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:632px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:316px">
+			<p><span><strong>BP1: </strong></span><span>The main reason I support the proposal to cut back the working week is that it could </span><span style="color:#0000ff"><strong>improve the health of employees</strong></span><span>.</span></p>
+			</td>
+			<td rowspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:316px">
+			<p><span>This development not only </span><span style="color:#0000ff"><strong>boosts workers mental health</strong></span><span> but also</span><span style="color:#cc0000"><strong> leads to higher levels of productivity among workers</strong></span><span>.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:316px">
+			<p><span><strong>BP2:</strong></span><span> Furthermore, I believe that shortening the workweek could </span><span style="color:#cc0000"><strong>boost work productivity</strong></span><span>.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span>&nbsp;&nbsp;Một số thí sinh kết thúc bài viết bằng một câu nhận xét (</span><span><strong>Extend</strong></span><span>) để giải thích hậu quả hành động để lại hoặc đưa ra lời khuyên</span></p>
+
+<p><span>- Cần khẳng định rằng bước này hoàn toàn không bắt buộc, và chỉ nên viết nếu bài luận chưa đủ 250 từ. Nếu không cẩn thận, câu Extend sẽ giới thiệu thông tin hoàn toàn mới, không liên quan tới bài, làm giảm điểm TR</span></p>
+
+<p>&nbsp;</p>
+        </div>

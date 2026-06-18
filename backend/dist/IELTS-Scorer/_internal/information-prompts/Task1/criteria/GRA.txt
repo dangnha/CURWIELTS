@@ -1,0 +1,512 @@
+<div class="contentblock">
+            <h3 id="2.4.-grammatical-range--accuracy">2.4. Grammatical Range &amp; Accuracy</h3>
+
+<h4 id="2.4.1.-yêu-cầu"><strong>2.4.1. Yêu cầu:</strong></h4>
+
+<p>- Là tiêu chí đánh giá khả năng sử dụng ngữ pháp một cách linh hoạt và chính xác để thực hiện yêu cầu đề bài.&nbsp;</p>
+
+<p>- Trong đó:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Grammatical Range:</strong> đánh giá độ phong phú của các cấu trúc ngữ pháp được sử dụng</li>
+	<li style="list-style-type:disc"><strong>Grammatical Accuracy:</strong> đánh giá độ chính xác về ngữ pháp và dấu câu trong bài&nbsp;&nbsp;</li>
+</ul>
+
+<p>- So sánh sự khác biệt giữa các band điểm trong tiêu chí TA:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:643px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:66px">
+			<p style="text-align:center"><strong>Band</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p style="text-align:center"><strong>Range of structures</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:383px">
+			<p style="text-align:center"><strong>Grammar &amp; Punctuation</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:66px">
+			<p style="text-align:center"><strong>9</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><span style="background-color:#00ff00">A wide range of structures</span> within the scope of the task is used with <span style="background-color:#00ff00">full flexibility and control</span>.&nbsp;</p>
+
+			<p>Sử dụng phong phú các cấu trúc trong phạm vi đề bài với sự linh hoạt và kiểm soát hoàn toàn.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:383px">
+			<p>Punctuation and grammar are used <span style="background-color:#00ff00">appropriately</span> throughout.&nbsp;</p>
+
+			<p>Dấu câu và ngữ pháp được sử dụng phù hợp xuyên suốt bài.&nbsp;</p>
+
+			<p>Minor errors are <span style="background-color:#00ff00">extremely rare</span> and have <span style="background-color:#00ff00">minimal impact</span> on communication.</p>
+
+			<p>Cực hiếm xảy ra lỗi nhỏ và không ảnh hưởng đến giao tiếp.&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:66px">
+			<p style="text-align:center"><strong>8</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><span style="background-color:#00ff00">A wide range of structures</span> within the scope of the task is <span style="background-color:#00ff00">flexibly and accurately</span> used.</p>
+
+			<p>Sử dụng ngữ pháp một cách linh hoạt và chính xác xuyên suốt bài</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:383px">
+			<p><span style="background-color:#00ff00">The majority of sentences are error-free</span>, and punctuation is <span style="background-color:#00ff00">well managed</span>.</p>
+
+			<p>Hầu hết các câu không có lỗi sai về ngữ pháp hay dấu câu.</p>
+
+			<p><span style="background-color:#ffff00">Occasional, non-systematic errors and inappropriacies occur,</span> but have <span style="background-color:#00ff00">minimal impact</span> on communication.</p>
+
+			<p>Thi thoảng có xảy ra những lỗi không mang tính hệ thống nhưng không làm ảnh hưởng đến giao tiếp.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:66px">
+			<p style="text-align:center"><strong>7</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><span style="background-color:#00ff00">A variety of complex structures</span> is used with <span style="background-color:#00ff00">some flexibility and accuracy</span>.</p>
+
+			<p>Sử dụng nhiều cấu trúc câu phức tạp một cách tương đối linh hoạt và chính xác</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:383px">
+			<p>Grammar and punctuation are <span style="background-color:#00ff00">generally well controlled</span>, and <span style="background-color:#00ff00">error-free sentences are frequent.</span></p>
+
+			<p>Nhìn chung, ngữ pháp và dấu câu tốt được kiểm soát tốt, thường xuyên viết được các câu không có lỗi.</p>
+
+			<p><span style="background-color:#ffff00">A few errors in grammar may persist</span>, but these <span style="background-color:#00ff00">do not impede communication</span>.</p>
+
+			<p>Mắc một vài lỗi ngữ pháp cố định, nhưng không làm gián đoạn giao tiếp.&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:66px">
+			<p style="text-align:center"><strong>6</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><span style="background-color:#00ff00">A mix of simple and complex </span>sentence forms is used but <span style="background-color:#ffff00">flexibility is limited</span>.&nbsp;</p>
+
+			<p>Sử dụng kết hợp các câu đơn và câu phức, nhưng thiếu linh hoạt</p>
+			<br>
+			&nbsp;</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:383px">
+			<p><span style="background-color:#ffff00">Examples of more complex structures are not marked by the same level of accuracy as in simple structures.</span></p>
+
+			<p>Các cấu trúc câu phức thường không chính xác bằng các câu đơn.</p>
+
+			<p><span style="background-color:#ffff00">Errors in grammar and punctuation occur</span>, but <span style="background-color:#00ff00">rarely impede communication</span></p>
+
+			<p>Vẫn có lỗi ngữ pháp và dấu câu, nhưng hiếm khi cản trở giao tiếp</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:66px">
+			<p style="text-align:center"><strong>5</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p>The range of structures is <span style="background-color:#ffff00">limited </span>and <span style="background-color:#ffff00">rather repetitive</span>.</p>
+
+			<p>Cấu trúc câu không linh hoạt và thường lặp đi lặp lại.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:383px">
+			<p><span style="background-color:#ffff00">Although complex sentences are attempted, they tend to be faulty, and the greatest accuracy is achieved on simple sentences</span></p>
+
+			<p>Có cố gắng viết ra câu phức, nhưng những câu này thường mắc lỗi; trong khi các câu đơn thường chính xác hơn.</p>
+
+			<p><span style="background-color:#ffff00">Grammatical errors may be frequent and cause some difficulty for the reader.&nbsp;</span></p>
+
+			<p>Mắc nhiều lỗi ngữ pháp gây khó khăn cho người đọc.&nbsp;</p>
+
+			<p><span style="background-color:#ffff00">Punctuation may be faulty.</span></p>
+
+			<p>Mắc lỗi về dấu câu.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Để đạt band 7+ ở tiêu chí GRA, thí sinh cần đảm bảo những yếu tố sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>A wide range of structures with flexibility</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Kết hợp linh hoạt các cấu trúc khác nhau)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Error-free sentences</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Câu không có lỗi ngữ pháp hay dấu câu)</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p style="text-align:justify">The chart shows the time <span style="background-color:#fff2cc">spent by UK residents on different types of telephone calls between 1995 and 2002.</span></p>
+
+<p style="text-align:justify">Local fixed line calls were the highest throughout the period, <span style="background-color:#fff2cc">rising from 72 billion minutes in 1995 to just under 90 billion in 1998.</span> <span style="background-color:#f4cccc">After peaking at 90 billion the following year,</span> these calls had fallen back to the 1995 figure by 2002.</p>
+
+<p style="text-align:justify"><span style="background-color:#c9daf8">National and international fixed line calls grew steadily from 38 billion to 61 billion at the end of the period in question, though the growth slowed over the last two years.</span></p>
+
+<p style="text-align:justify"><span style="background-color:#d9ead3">There was a dramatic increase</span> in mobile calls from 2 billion to 46 billion minutes. This rise was particularly noticeable between 1999 and 2002, <span style="background-color:#fff2cc">during which time the use of mobile phones tripled.</span></p>
+
+<p style="text-align:justify"><span style="background-color:#f4cccc">To sum up</span>, <span style="background-color:#c9daf8">although local fixed line calls were still the most popular in 2002, the gap between the three categories had narrowed considerably over the second half of the period in question.</span></p>
+
+<p style="text-align:right">(Bài mẫu của examiner, Cambridge 9, p.164 )</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:justify"><span style="background-color:#ffffff"><strong>Trong đó:&nbsp;</strong></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#f4cccc">Đỏ</span>: mệnh đề phụ</li>
+	<li style="list-style-type:disc"><span style="background-color:#c9daf8">Xanh đất biển</span>: câu ghép</li>
+	<li style="list-style-type:disc"><span style="background-color:#d9ead3">Xanh lá</span>: cấu trúc “<strong>there+am/is/are</strong>”</li>
+</ul>
+
+<p>=&gt; Xen kẽ, kết hợp nhiều cấu trúc và phân từ khác nhau</p>
+
+<p>&nbsp;</p>
+
+<p>- Ngoài sự linh hoạt về cấu trúc, bài viết đã sử dụng các mạo từ, thì và dấu câu một cách chính xác. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc">Về mạo từ:</li>
+</ul>
+
+<p style="text-align:justify">The chart shows <span style="background-color:#00ff00">the</span> time spent by UK residents on different types of telephone calls between 1995 and 2002.</p>
+
+<p style="text-align:justify">Local fixed line calls were <span style="background-color:#00ff00">the</span> highest throughout the period, rising from 72 billion minutes in 1995 to just under 90 billion in 1998. After peaking at 90 billion <span style="background-color:#00ff00">the</span> following year, these calls had fallen back to <span style="background-color:#00ff00">the</span> 1995 figure by 2002.</p>
+
+<p style="text-align:justify">National and international fixed line calls grew steadily from 38 billion to 61 billion at the end of <span style="background-color:#00ff00">the</span> period in question, though <span style="background-color:#00ff00">the</span> growth slowed over <span style="background-color:#00ff00">the</span> last two years.</p>
+
+<p style="text-align:justify">There was <span style="background-color:#00ff00">a</span> dramatic increase in mobile calls from 2 billion to 46 billion minutes. This rise was particularly noticeable between 1999 and 2002, during which time <span style="background-color:#00ff00">the</span> use of mobile phones tripled.</p>
+
+<p style="text-align:justify">To sum up, although local fixed line calls were still <span style="background-color:#00ff00">the</span> most popular in 2002, <span style="background-color:#00ff00">the</span> gap between <span style="background-color:#00ff00">the</span> three categories had narrowed considerably over <span style="background-color:#00ff00">the</span> second half of <span style="background-color:#00ff00">the</span> period in question.</p>
+
+<p><strong>Trong đó:</strong></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>the đứng trước danh từ theo sau bởi mệnh đề quan hệ hoặc phân từ bổ nghĩa</strong>: the time …, the following year, the gap …</li>
+	<li style="list-style-type:disc"><strong>the + so sánh nhất</strong>: the highest, the most popular</li>
+	<li style="list-style-type:disc"><strong>the + đối tượng đã nhắc đến trước đó</strong>: the 1995 figure, the period in question, the growth, the last two years, the use of mobile phones, the three …, , the second half</li>
+	<li style="list-style-type:disc"><strong>a + danh từ được nhắc đến lần đầu</strong>: a dramatic increase</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Về thì và cụm từ chỉ thời gian (time expressions):</li>
+</ul>
+
+<p style="text-align:justify">The chart <span style="background-color:#00ffff">shows</span> the time spent by UK residents on different types of telephone calls <span style="color:#ff00ff"><strong>between 1995 and 2002</strong></span>.</p>
+
+<p style="text-align:justify">Local fixed line calls <span style="background-color:#00ffff">were</span> the highest <span style="color:#ff00ff"><strong>throughout the period</strong></span>, rising from 72 billion minutes <span style="color:#ff00ff"><strong>in</strong></span> <span style="color:#ff00ff"><strong>1995</strong></span> to just under 90 billion<span style="color:#ff00ff"><strong> in</strong></span> <span style="color:#ff00ff"><strong>1998</strong></span>. <span style="color:#ff00ff"><strong>After peaking at 90 billion the following year</strong></span>, these calls <span style="background-color:#00ffff">had</span> <span style="background-color:#00ffff">fallen</span> back to the 1995 figure <span style="color:#ff00ff"><strong>by</strong></span> <span style="color:#ff00ff"><strong>2002</strong></span>.</p>
+
+<p style="text-align:justify">National and international fixed line calls <span style="background-color:#00ffff">grew</span> steadily from 38 billion to 61 billion <span style="color:#ff00ff"><strong>at</strong></span> <span style="color:#ff00ff"><strong>the end of the period in question</strong></span>, though the growth <span style="background-color:#00ffff">slowed</span> <span style="color:#ff00ff"><strong>over the last two years</strong></span>.</p>
+
+<p style="text-align:justify">There <span style="background-color:#00ffff">was</span> a dramatic increase in mobile calls from 2 billion to 46 billion minutes. This rise <span style="background-color:#00ffff">was</span> particularly noticeable <span style="color:#ff00ff"><strong>between 1999 and 2002</strong></span>, <span style="color:#ff00ff"><strong>during</strong></span> <span style="color:#ff00ff"><strong>which</strong></span> <span style="color:#ff00ff"><strong>time</strong></span> the use of mobile phones <span style="background-color:#00ffff">tripled</span>.</p>
+
+<p style="text-align:justify">To sum up, although local fixed line calls <span style="background-color:#00ffff">were</span> still the most popular in 2002, the gap between the three categories <span style="background-color:#00ffff">had</span> <span style="background-color:#00ffff">narrowed</span> considerably <span style="color:#ff00ff"><strong>over the second half of the period in question</strong></span>.</p>
+
+<p style="text-align:justify"><span style="background-color:#ffffff"><strong>Trong đó: [</strong></span><span style="background-color:#00ffff"><strong>xanh</strong></span><span style="background-color:#ffffff"><strong>]: </strong></span><span style="background-color:#ffffff">thể ngữ pháp</span><span style="background-color:#ffffff"><strong>; [</strong></span><span style="background-color:#ead1dc"><strong>hồng</strong></span><span style="background-color:#ffffff"><strong>]: </strong></span><span style="background-color:#ffffff">mệnh đề chỉ thời gian&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc">Bài viết sử dụng linh hoạt các thể ngữ pháp, xen kẽ việc kết hợp với các mệnh đề chỉ thời gian. Cụ thể:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Past simple: </strong>were + the highest throughout the period, was particularly noticeable between, v.v.</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Past perfect: </strong>had fallen … by 2002, had narrowed … over the second half of the period in question</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Về dấu câu và referencing (phép tham chiếu):</li>
+</ul>
+
+<p style="text-align:justify">The chart shows the time spent by UK residents on different types of telephone calls between 1995 and 2002.</p>
+
+<p style="text-align:justify">Local fixed line calls were the highest throughout the period<span style="background-color:#ffff00"><strong>,</strong></span> rising from 72 billion minutes in 1995 to just under 90 billion in 1998. After peaking at 90 billion the following year<span style="background-color:#ffff00"><strong>,</strong></span> <span style="color:#ff0000"><strong>these calls</strong></span> had fallen back to the 1995 figure by 2002.</p>
+
+<p style="text-align:justify">National and international fixed line calls grew steadily from 38 billion to 61 billion at the end of the period in question<span style="background-color:#ffff00"><strong>,</strong></span> though <span style="color:#ff0000"><strong>the</strong></span><strong> </strong><span style="color:#ff0000"><strong>growth</strong></span> slowed over the last two years.</p>
+
+<p style="text-align:justify">There was a dramatic increase in mobile calls from 2 billion to 46 billion minutes. <span style="color:#ff0000"><strong>This</strong></span><strong> </strong><span style="color:#ff0000"><strong>rise</strong></span> was particularly noticeable between 1999 and 2002<span style="background-color:#ffff00"><strong>,</strong></span> <span style="color:#ff0000"><strong>during</strong></span><strong> </strong><span style="color:#ff0000"><strong>which</strong></span> <span style="color:#ff0000"><strong>time</strong></span> the use of mobile phones tripled.</p>
+
+<p style="text-align:justify">To sum up<span style="background-color:#ffff00"><strong>,</strong></span> although local fixed line calls were still the most popular in 2002<span style="background-color:#ffff00"><strong>,</strong></span> the gap between <span style="color:#ff0000"><strong>the</strong></span><strong> </strong><span style="color:#ff0000"><strong>three</strong></span><strong> </strong><span style="color:#ff0000"><strong>categories</strong></span><strong> </strong>had narrowed considerably over the second half of the period in question.</p>
+
+<p style="text-align:justify"><span style="background-color:#ffffff"><strong>Trong đó: [</strong></span><span style="background-color:#ffff00"><strong>vàng</strong></span><span style="background-color:#ffffff"><strong>]: </strong></span><span style="background-color:#ffffff">dấu câu</span><span style="background-color:#ffffff"><strong>; [</strong></span><span style="background-color:#ea9999"><strong>đỏ</strong></span><span style="background-color:#ffffff"><strong>]: </strong></span><span style="background-color:#ffffff">phép tham chiếu</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Punctuation </strong>(dấu câu): được dùng chính xác</li>
+	<li style="list-style-type:disc"><strong>Referencing </strong>(phép tham chiếu)<strong>: </strong>được sử dụng nhiều lần trong bài như <strong>these</strong> <strong>calls</strong> thay cho <strong>local fixed line calls</strong>, <strong>the growth</strong> thay cho <strong>national</strong> and <strong>international</strong> <strong>fixed line</strong> <strong>calls</strong>, v.v.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h4 id="2.4.2.-vấn-đề"><span style="color:#666666">2.4.2. Vấn đề</span></h4>
+
+<p>- Nhìn vào các band điểm 3, 4, 5 để thấy các vấn đề mà thí sinh band thấp mắc phải:</p>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:610px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><strong>Band</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:202px">
+			<p style="text-align:center"><strong>Range of structures</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:357px">
+			<p style="text-align:center"><strong>Grammar &amp; Punctuation</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><strong>5</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:202px">
+			<p>The range of structures is <span style="background-color:#ffff00">limited</span> and<span style="background-color:#ffff00"> rather repetitive</span>.&nbsp;</p>
+
+			<p>Cấu trúc câu không linh hoạt và thường lặp đi lặp lại.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:357px">
+			<p><span style="background-color:#00ff00">Although complex sentences are attempted</span>, they<span style="background-color:#ffff00"> tend to be faulty</span>, and&nbsp;</p>
+
+			<p><span style="background-color:#ffff00">the greatest accuracy is achieved on simple sentences</span>.&nbsp;</p>
+
+			<p>Có cố gắng viết ra câu phức, nhưng những câu này thường mắc lỗi; trong khi các câu đơn thường chính xác hơn</p>
+
+			<p>Grammatical errors may be<span style="background-color:#ffff00"> frequent</span> and <span style="background-color:#ffff00">cause some difficulty for the reader</span>.</p>
+
+			<p>Mắc nhiều lỗi ngữ pháp gây khó khăn cho người đọc.&nbsp;&nbsp;</p>
+
+			<p>Punctuation may be <span style="background-color:#ffff00">faulty</span>.&nbsp;</p>
+
+			<p>Có thể mắc lỗi về dấu câu.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><strong>4</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:202px">
+			<p>A <span style="background-color:#ffff00">very limited</span> range of structures is used.&nbsp;</p>
+
+			<p>Sử dụng một lượng cực kỳ hạn chế các cấu trúc.</p>
+
+			<p><span style="background-color:#ffff00">Subordinate clauses are rare and simple sentences predominate.&nbsp;</span></p>
+
+			<p>Rất ít dùng các mệnh đề phụ thuộc mà chỉ chủ yếu dùng câu đơn.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:357px">
+			<p><span style="background-color:#00ff00">Some structures are produced accurately</span> but<span style="background-color:#ffff00"> grammatical errors are frequent&nbsp;</span></p>
+
+			<p><span style="background-color:#ffff00">and may impede meaning.</span></p>
+
+			<p>Một vài các cấu trúc được sử dụng chính xác nhưng lỗi ngữ pháp xảy ra&nbsp;</p>
+
+			<p>thường xuyên và có thể cản trở việc truyền đạt ý nghĩa</p>
+
+			<p>Punctuation is <span style="background-color:#ffff00">often faulty or inadequate</span>.</p>
+
+			<p>Thường xuyên dùng sai hoặc dùng thiếu dấu câu.&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><strong>3</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:202px">
+			<p><span style="background-color:#ffff00">Length may be insufficient</span> to provide evidence of control of sentence forms.</p>
+
+			<p>Bài viết không đủ dài để thể hiện rằng thí sinh biết kiểm soát các mẫu câu.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:357px">
+			<p>Sentence forms are attempted,<span style="background-color:#ffff00"> errors in grammar and punctuation predominate</span> <span style="background-color:#ffff00">(except in memorized phrases or those taken from the input material</span>).&nbsp;</p>
+
+			<p>This<span style="background-color:#ffff00"> prevents most meaning from coming through</span>.&nbsp;</p>
+
+			<p>Có cố gắng sử dụng các mẫu câu nhưng hầu hết đều sai ngữ pháp và dấu câu&nbsp;</p>
+
+			<p>(trừ những cụm học thuộc, hoặc chép y nguyên từ đề bài).&nbsp;</p>
+
+			<p>Điều này cản trở việc truyền tải phần lớn ý nghĩa của bài viết.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Các lỗi khiến điểm GRA thấp:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Limited and/or repetitive structures with predominantly simple sentences&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Cấu trúc câu thiếu linh hoạt và lặp lại với chủ yếu là câu đơn)&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Frequent grammatical errors&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Mắc nhiều lỗi ngữ pháp)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Faulty and/or inadequate punctuation</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Dùng sai hoặc thiếu dấu câu)</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">Ví dụ:</span></p>
+
+<p><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcxzVS3IuRxHzr0XhxbUYGBVRoaJHUofeRAhre1fl0QG5hNsl2yhPoLvkQlqHjmTO4Li9dPFxI_uGBpu7oHWXNnbboUYYGY6_MvvU_1nfsDLA2ojK76dcOZd-C51MO06DMHvoMmMA?key=MrN027RcoW1RvoF_ioC4pg" style="height:353px; width:624px"></span></p>
+
+<p style="text-align:right">(Bài viết band 5.5, Cambridge 16, p.137 )</p>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- 2 lần thí sinh sử dụng sai cấu trúc "<strong>after+V-ing</strong>"&nbsp;</p>
+
+<p>- 2 câu thiếu chủ ngữ; và thậm chí "<strong>in front off</strong>" sai chính tả</p>
+
+<p>- Sử dụng sai cấu trúc bị động trong câu "<strong>should be compressing</strong>"&nbsp;</p>
+
+<p>=&gt; Đánh giá của examiner:&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Grammatical structures are limited and level of error is high.&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Cấu trúc ngữ pháp hạn chế và mắc nhiều lỗi)&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>For a higher score, improved accuracy is needed</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Để đạt điểm cao hơn, cần sự chính xác cao hơn trong dùng ngữ pháp)</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:</strong></p>
+
+<p>- Nhiều thí sinh cho rằng: cứ có complex structure trong bài thì điểm ngữ pháp sẽ cao. Thậm chí, để đạt điểm cao GRA thì bài viết phải dùng thật nhiểu complex structures</p>
+
+<p>=&gt; Quan niệm sai, cần khẳng định lại rằng:</p>
+
+<ul>
+	<li style="list-style-type:disc">Bạn sẽ đạt điểm GRA cao khi khả năng sử dụng ngữ pháp tốt của bạn được thể hiện trong toàn bộ bài viết. Chỉ một, hai complex structures được thêm vào bài không đủ để khiến giám khảo cho bạn điểm GRA 7+.</li>
+	<li style="list-style-type:disc">Tuy nhiên, không lạm dụng complex structures. Chỉ dùng khi nó giúp truyền đạt ý tưởng một cách rõ ràng và chính xác.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Accuracy ko chỉ là dùng đúng ngữ pháp mà còn là dùng đúng ngữ pháp để mô tả đúng thông tin. như ở ví dụ này, ngữ pháp của câu không sai, nhưng việc dùng sai giới từ khiến cho nội dung ko chính xác.&nbsp;</p>
+
+<p><strong>VD:</strong> (Khi miêu tả số liệu tăng đạt mức 50%)&nbsp;</p>
+
+<p><strong>In 2000, 20% of employees were female, but in 2005, this figure rose </strong><strong><s>by</s></strong><strong> to 50%.&nbsp;</strong></p>
+
+<p>=&gt; Grammar có ảnh hưởng đến độ chính xác của bài viết. Lỗi grammar tưởng chừng nhỏ cũng có thể khiến thông tin bị sai, làm giảm điểm TA.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>- Vì grammar (ngữ pháp) có ảnh hưởng như vậy lên Writing style của bài viết Task 1:</p>
+
+<ul>
+	<li style="list-style-type:disc">Không dùng đại từ nhân xưng ngôi thứ nhất.&nbsp;</li>
+</ul>
+
+<p style="margin-left:48px">VD: <s>We can see that…</s>/ <s>I can see that</s></p>
+
+<ul>
+	<li style="list-style-type:disc">Không dùng các cấu trúc đưa lời khuyên hay ý kiến cá nhân</li>
+</ul>
+
+<p style="margin-left:48px">VD:&nbsp; The data shows the changes the government <s>should make</s> has made&nbsp; to energy prices.&nbsp;</p>
+
+<p>- Ngoài ra, cũng cần đặc biệt lưu ý các lỗi ngữ pháp thường xảy ra khi sử dụng:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Articles </strong>(mạo từ)&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Tenses</strong> (thì)</li>
+	<li style="list-style-type:disc"><strong>Prepositions</strong> (giới từ)</li>
+	<li style="list-style-type:disc"><strong>Relative</strong> <strong>clauses</strong> (mệnh đề quan hệ)&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Verb</strong> <strong>and</strong> <strong>subject</strong> <strong>agreement</strong> (sự hòa hợp giữa chủ ngữ và động từ)&nbsp;</li>
+</ul>
+
+<h4 id="3.4.3.-lời-khuyên"><strong>3.4.3. Lời khuyên:</strong></h4>
+
+<p>- Ta rút ra một số kinh nghiệm sau:</p>
+
+<ul>
+	<li style="list-style-type:disc">Trước hết, khi học ngữ pháp:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Không cần tốn thời gian học những cấu trúc quá phức tạp&nbsp;</li>
+	<li style="list-style-type:disc">Học theo context từ tài liệu viết của người bản xứ, chứ không chỉ làm bài tập trong sách ngữ pháp</li>
+	<li style="list-style-type:disc">Học động từ theo collocation thay vì học từ đơn lẻ</li>
+	<li style="list-style-type:disc">Áp dụng các kiến thức học được để xây dựng vốn ngữ pháp chủ động&nbsp;</li>
+	<li style="list-style-type:disc">Chú ý đến tính chính xác khi dùng các cấu trúc ngữ pháp</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Khi làm bài:&nbsp;</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Nên</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Không nên&nbsp;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<ul>
+				<li style="list-style-type:disc">Dùng các cấu trúc đa dạng, đan xen giữa câu đơn - câu ghép/ câu phức, câu ngắn - câu dài</li>
+			</ul>
+
+			<ul>
+				<li style="list-style-type:disc">Dùng đúng ngữ pháp, dấu câu&nbsp;</li>
+				<li style="list-style-type:disc">Chú ý đến style&nbsp;</li>
+				<li style="list-style-type:disc">Soát lỗi khi viết xong bài&nbsp;</li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<ul>
+				<li style="list-style-type:disc">Chỉ dùng câu ngắn, cấu trúc đơn giản</li>
+				<li style="list-style-type:disc">Cố dùng quá nhiều câu dài, cấu trúc phức tạp</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </div>

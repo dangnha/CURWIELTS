@@ -1,11 +1,14 @@
 import sys
+import os
 import logging
+import threading
+import webbrowser
 from pathlib import Path
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, HTMLResponse
 from fastapi.staticfiles import StaticFiles
 
 from app.config import settings
@@ -37,6 +40,13 @@ async def lifespan(app: FastAPI):
             logger.info("✓ KB ingest result: %s", result)
     except Exception:
         logger.exception("KB auto-ingest failed (non-fatal, continuing startup)")
+
+    # Auto-open browser after server is ready
+    if os.environ.get("IELTS_OPEN_BROWSER", "1") == "1":
+        def _open():
+            import time; time.sleep(1.5)
+            webbrowser.open("http://localhost:8000")
+        threading.Thread(target=_open, daemon=True).start()
 
     yield
     logger.info("Server shutting down")
@@ -73,3 +83,35 @@ app.include_router(api_router, prefix="/api/v1")
 
 settings.uploads_dir.mkdir(parents=True, exist_ok=True)
 app.mount("/uploads", StaticFiles(directory=str(settings.uploads_dir)), name="uploads")
+
+# ── Serve React SPA in production ──
+_frontend_dir = None
+if getattr(sys, 'frozen', False):
+    _frontend_dir = Path(sys._MEIPASS) / "app" / "static"
+else:
+    _dev_static = Path(__file__).resolve().parent / "static"
+    _dev_dist = settings.base_dir / "frontend" / "dist"
+    _frontend_dir = _dev_static if _dev_static.exists() else _dev_dist
+
+if _frontend_dir and _frontend_dir.exists() and (_frontend_dir / "index.html").exists():
+    logger.info("✓ Serving React frontend from %s", _frontend_dir)
+    _assets_dir = _frontend_dir / "assets"
+    if _assets_dir.exists():
+        app.mount("/assets", StaticFiles(directory=str(_assets_dir)), name="assets")
+    _index_html = (_frontend_dir / "index.html").read_text()
+
+    @app.get("/{full_path:path}")
+    async def catch_all_spa(full_path: str):
+        if full_path.startswith("api/") or full_path.startswith("uploads/"):
+            return JSONResponse(status_code=404, content={"detail": "Not found"})
+        return HTMLResponse(content=_index_html)
+
+    @app.get("/")
+    async def root():
+        return HTMLResponse(content=_index_html)
+
+
+# ── Entry point for double-click / PyInstaller ──
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("app.main:app", host="0.0.0.0", port=8000, log_level="info")

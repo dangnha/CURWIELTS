@@ -1,0 +1,368 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="các-tiêu-chí-chấm-điểm"><span>Các tiêu chí chấm điểm&nbsp;&nbsp;</span></h1>
+
+<h2 id="1.-cấu-trúc-bài-viết"><span>1. Cấu trúc bài viết</span><span><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcom66ucHF8ywCr66jyMlqJAOiBmNDkLdLHK11SupPCFnBtNHM4hxxUxhlPxDoeUTQvDCYYpymIe-kk8bFQCQAMPWBbAnW82w3pGG1Y4qndgZyAV1LVaVZHrLKJlXeFj_ZY-SXFFatO3fcPtnG0pMivABSl?key=MrN027RcoW1RvoF_ioC4pg" style="height:185px; width:624px"></span></h2>
+
+<h2 id=""><span><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRiibu_KB7hHZ14JmcZLWdjzzPb7yA4BDsXRbFme7rNX-oJYQdhw2F1XWWXKSWe9N01uz19MUb6ZqfYKlW_F6IoSEhp7jGj8xcyu3bgI4akxuPBeZfi7yDAC22lj5CCHTwx9yw3LwnPzB4EsaF7mmbGfo?key=MrN027RcoW1RvoF_ioC4pg" style="height:543px; width:624px"></span></h2>
+
+<p><span>- Bài viết Task 1 có cấu trúc như sau:&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffff00">[Introduction]</span></span><span> The table illustrates how a police force in a British region was financed between 2017 and 2018; while the pie charts depict the distribution of those funds during the same period. </span><span><span style="background-color:#00ff00">[Overview]</span></span><span> Overall, the police received the most funding from the government in both years; meanwhile, police officer and staff wages, albeit the highest in both years, decreased.</span></p>
+
+<p><span><span style="background-color:#00ffff">[Body paragraph]</span></span><span> Starting with funding, in 2017 the total funds received was £304.7 million. Over half of which was from the national government, at £175.5 million while the remaining came from local taxes and other sources, with £91.2 million and £38 million respectively. By 2018, the total budget had grown to £318.6 million. Specifically, the amount from the national government rose slightly to £177.8 million and local taxes contributed £102.3 million. The figure for other sources increased marginally to £38.5 million.</span></p>
+
+<p><span><span style="background-color:#00ffff">[Body paragraph]</span></span><span> Turning to the expenditure, salaries for officers and staff were the highest in both years, with 75% in 2017 and it fell to 69% in 2018. Technology received 8% initially but the proportion almost doubled to 14% in 2018. Buildings and transport had the same proportion of 17% in each year.</span></p>
+
+<p><span>Trong đó:</span></p>
+
+<p><span><span style="background-color:#ffff00">[Introduction]</span></span><span>: mở bài: giới thiệu thông tin về biểu đồ</span></p>
+
+<p><span><span style="background-color:#00ff00">[Overview]</span></span><span>: tổng quan: nêu một cách khái quát các đặc điểm nổi bật của biểu đồ </span><span><span style="background-color:#00ff00">&nbsp;</span></span></p>
+
+<p><span><span style="background-color:#00ffff">[Body paragraph]</span></span><span>: thân bài: phân tích biểu đồ theo yêu cầu của đề bài </span><span><span style="background-color:#00ffff">&nbsp;</span></span></p>
+
+<h2 id="2.-các-tiêu-chí-chấm-điểm"><span>2. Các tiêu chí chấm điểm</span></h2>
+
+<p><span>- Bài thi Task 1 của thí sinh được đánh giá theo 4 tiêu chí sau. Mỗi tiêu chí sẽ chiếm 25% số điểm.&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Task Achievement</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Coherence &amp; Cohesion</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Lexical Resource</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Grammatical Range &amp; Accuracy</strong></span></li>
+</ul>
+
+<p><span>- Dưới đây là Band descriptor (bảng mô tả các tiêu chí chấm điểm) của từng band điểm, theo từng tiêu chí. Examiner sẽ dựa vào bảng mô tả này để chấm điểm bài viết của bạn.&nbsp;</span></p>
+
+<p><span><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfDhjjdyxB7n_vf-INBkklTLqDs9Gr2jJkRQhwl4VmJ4Ug7QDmndZF43LLKgkSI8YmeOASOxPcQpbVTrVJ6ECrkb63iX7mmvocL-feVcrvdE8SVQ1gMc0dIkKwRCfscKOUGwTK9-kqvXNhZFLgYq8aeBx2C?key=MrN027RcoW1RvoF_ioC4pg" style="height:309px; width:624px"></span></p>
+
+<p><span><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcns49n67KobOXtTZqnBh-kb38takuu7CpuotyNX8VtP4J--LrXYEZT7QDrrNmY1eJqKmue6ZmHIArBvq4OeDuk5FR80_qF0oJFj2bi13vATyLWfN3SNPkL_F-icpIc19ikYbdecFdp_nBdCx2b0Cwtg5_O?key=MrN027RcoW1RvoF_ioC4pg" style="height:288px; width:624px"></span></p>
+
+<h3 id="2.1.-task-achievement"><span>2.1. Task Achievement</span></h3>
+
+<h4 id="2.1.1.-yêu-cầu"><span>2.1.1. Yêu cầu</span></h4>
+
+<p><span>-&nbsp; Task Achievement (TA) là tiêu chí đánh giá khả năng </span><span><strong>hoàn thành đúng và đủ các yêu cầu đề bài</strong></span><span>.&nbsp;</span></p>
+
+<p><span>- Đề bài Task 1 có chung yêu cầu như sau:</span></p>
+
+<p><span><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYZZhvGpG_fXCNK53cGzB2_YpihlyXTJaw_d2psIJrMrk_bd1K82ThkZ3sDEuZy0aSGglpeXwNklHroMwIWfTqQvIbu0LfjwE6y-vUkNueVF0-or-s94ew_4DhnYKfPKl_Pr0ZN_KsdLHhbJCDwARZb83L?key=MrN027RcoW1RvoF_ioC4pg" style="height:165px; margin-top:-70px; width:624px"></span></p>
+
+<p><span>=&gt; Dựa vào đề bài, bên cạnh việc đảm bảo số từ trên 150, 3 nhiệm vụ mà thí sinh cần thực hiện để đạt điểm cao trong tiêu chí TA:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Summarise the information</strong></span><span> (Tóm tắt thông tin)</span></li>
+	<li style="list-style-type:disc"><span><strong>Select and report the main features</strong></span><span> (Lựa chọn và phân tích những đặc điểm chính)</span></li>
+	<li style="list-style-type:disc"><span><strong>Make comparison where relevant </strong></span><span>(So sánh các số liệu, đặc điểm liên quan)&nbsp;</span></li>
+</ul>
+
+<p><span>- So sánh sự khác biệt giữa các band điểm trong tiêu chí TA:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Key features</strong></span><span> (đặc điểm chính) và </span><span><strong>overview</strong></span><span> (tổng quan) là 2 đặc điểm được nhắc đến nhiều nhất trong tiêu chí TA:</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:625px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:75px">
+			<p style="text-align:center"><span>Band</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px">
+			<p style="text-align:center"><span>Key features</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px">
+			<p style="text-align:center"><span>Overview</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:75px">
+			<p style="text-align:center"><span><strong>8</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px">
+			<p><span><span style="background-color:#00ff00"><strong>Skilfully selected, and clearly presented, highlighted and illustrated.</strong></span></span></p>
+
+			<p><span>Được lựa chọn một cách khéo léo, được thể hiện, làm nổi bật và minh họa key features một cách rõ ràng.</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px">
+			<p><span><span style="background-color:#00ff00"><strong>Clear, skilful, appropriate</strong></span></span></p>
+			&nbsp;
+
+			<p><span>Rõ ràng, khéo léo, phù hợp</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:75px">
+			<p style="text-align:center"><span><strong>7</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px">
+			<p><span><span style="background-color:#00ff00"><strong>Covered and clearly highlighted</strong></span></span><span><strong> </strong></span><span><span style="background-color:#ffff00"><strong>but could be more fully or more appropriately illustrated or extended.&nbsp;</strong></span></span></p>
+
+			<p><span>Được nhắc đến và làm nổi bật một cách rõ ràng, nhưng có thể được minh họa và khai thác một cách đầy đủ hoặc phù hợp hơn.&nbsp;</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px">
+			<p><span><span style="background-color:#00ff00"><strong>Clear</strong></span></span></p>
+
+			<p><span>Rõ ràng</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:75px">
+			<p style="text-align:center"><span><strong>6</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px">
+			<p><span><span style="background-color:#00ff00"><strong>Covered and adequately highlighted</strong></span></span><span><span style="background-color:#00ffff"><strong> </strong></span></span><span><strong>&nbsp;</strong></span><span><span style="background-color:#ffff00"><strong>but details may be irrelevant, inappropriate, or inaccurate.</strong></span></span></p>
+
+			<p><span>Được nhắc đến và làm nổi bật một cách vừa đủ nhưng chi tiết có thể không liên quan, không phù hợp, hoặc không chính xác.&nbsp;</span></p>
+
+			<p><span><span style="background-color:#ffff00"><strong>Further extension or illustration may be needed.&nbsp;&nbsp;</strong></span></span></p>
+
+			<p><span>Cần mở rộng và minh họa thêm.</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px">
+			<p><span><span style="background-color:#ffff00"><strong>There is an attempt to give one.</strong></span></span></p>
+
+			<p><span>Có cố gắng đưa ra</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Information</strong></span><span> (thông tin) cũng là một yếu tố quyết định điểm TA. Information là những số liệu, đặc điểm trong biểu đồ dùng để minh họa cho các key features. Thí sinh ở band điểm 5, 6 thường gặp vấn đề với việc report information.&nbsp;&nbsp;&nbsp;</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:621px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:75px">
+			<p style="text-align:center"><span>Band</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:546px">
+			<p style="text-align:center"><span>Information</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:75px">
+			<p style="text-align:center"><span><strong>6</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:546px">
+			<p><span><strong>Some irrelevant, inappropriate or inaccurate material in areas of detail.&nbsp;&nbsp;</strong></span></p>
+
+			<p><span>Một vài chi tiết/ số liệu không liên quan, không phù hợp, hoặc không chính xác ở những ý nhỏ.&nbsp;&nbsp;</span></p>
+
+			<p><span><strong>Some details may be missing (or excessive).&nbsp;&nbsp;</strong></span></p>
+
+			<p><span>Một vài chi tiết/ số liệu bị thiếu (hoặc quá nhiều).</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:75px">
+			<p style="text-align:center"><span><strong>5</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:546px">
+			<p><span><strong>There may be no data to support the description.&nbsp;</strong></span></p>
+
+			<p><span>Không có dữ liệu để minh họa.&nbsp;&nbsp;</span></p>
+
+			<p><span><strong>Including irrelevant, inappropriate or inaccurate material in key areas.</strong></span></p>
+
+			<p><span>Bao gồm những chi tiết/ số liệu không liên quan, không phù hợp hoặc không chính xác ở ý chính.&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span>=&gt; Như vậy, thí sinh cần thực hiện các yêu cầu sau để đạt band 7+ ở tiêu chí TA:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Summarise the information</strong></span><span> (Tóm tắt thông tin)</span></li>
+	<li style="list-style-type:disc"><span><strong>Select and report the main features</strong></span><span> (Lựa chọn và phân tích những đặc điểm chính)</span></li>
+	<li style="list-style-type:disc"><span><strong>Make comparison where relevant </strong></span><span>(So sánh các số liệu, đặc điểm liên quan)&nbsp;</span></li>
+	<li style="list-style-type:disc"><span><strong>Give a clear overview</strong></span><span> (Viết overview rõ ràng)</span></li>
+	<li style="list-style-type:disc"><span><strong>Highlight and illustrate the key features</strong></span><span> (Làm nổi bật và minh họa các đặc điểm chính)</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Make sure your information is accurate </strong></span><span>(Đảm bảo thông tin viết ra là chính xác)</span></li>
+</ul>
+
+<h4 id="2.1.2.-vấn-đề"><span>2.1.2. Vấn đề&nbsp;</span></h4>
+
+<ul>
+	<li style="list-style-type:disc"><span>&nbsp;Nhìn vào các band điểm 3, 4, 5, ta thấy được các vấn đề mà thí sinh ở band thấp mắc phải:</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:71px">
+			<p style="text-align:center"><span>Band</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:553px">
+			<p style="text-align:center"><span>Task Achievement</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:71px">
+			<p style="text-align:center"><span><strong>5</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:553px">
+			<p><span><strong>Generally addresses the task, the format may be inappropriate in places</strong></span></p>
+
+			<p><span>Nhìn chung có thực hiện yêu cầu đề bài, hình thức một số chỗ có thể không phù hợp</span></p>
+
+			<p><span><strong>Recounts detail mechanically, with no clear overview; there may be no data to support the description</strong></span></p>
+
+			<p><span>Liệt kê số liệu một cách máy móc, không có overview rõ ràng; không có số liệu/ chi tiết để minh họa.&nbsp;</span></p>
+
+			<p><span><strong>Present but inadequately covers key features, there may be a tendency to focus on details.&nbsp;</strong></span></p>
+
+			<p><span>Chỉ ra nhưng không đủ những key features, có xu hướng tập trung vào chi tiết nhỏ (thay vì bức tranh tổng thể)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:71px">
+			<p style="text-align:center"><span><strong>4</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:553px">
+			<p><span><strong>Attempts to address the task but does not cover all key features; the format may be inappropriate</strong></span></p>
+
+			<p><span>Có cố gắng thực hiện yêu cầu nhưng không chỉ ra hết các key features; hình thức có thể không phù hợp.&nbsp;</span></p>
+
+			<p><span><strong>May confuse key features with detail; parts may be unclear, irrelevant, repetitive or inaccurate</strong></span></p>
+
+			<p><span>Có thể bị nhầm lẫn giữa key features và chi tiết; nhiều chỗ không rõ ràng, không liên quan, bị lặp lại hoặc không chính xác</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:71px">
+			<p style="text-align:center"><span><strong>3</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:553px">
+			<p><span><strong>Fails to understand the task, which may have been completely misunderstood</strong></span></p>
+
+			<p><span>Không hiểu hoặc hiểu sai hoàn toàn yêu cầu đề bài&nbsp;</span></p>
+
+			<p><span><strong>Present limited ideas, which may be largely irrelevant/ inaccurate or repetitive</strong></span></p>
+
+			<p><span>Đưa ra rất ít ý tưởng, hầu hết không liên quan, không chính xác hoặc lặp lại</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span>=&gt; Các lỗi khiến điểm TA thấp:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Does not cover all key features</strong></span><span> (Không nêu đủ key features)</span></li>
+	<li style="list-style-type:disc"><span><strong>Does not give a clear overview </strong></span><span>(Không có overview rõ ràng)</span></li>
+	<li style="list-style-type:disc"><span><strong>Does not present data to support the description</strong></span><span> (Không có số liệu minh họa cho ý cần mô tả)&nbsp;&nbsp;</span></li>
+	<li style="list-style-type:disc"><span><strong>Recounts detail mechanically</strong></span><span> (Liệt kê số liệu một cách máy móc)</span></li>
+	<li style="list-style-type:disc"><span><strong>Confuses key features with details</strong></span><span> (Nhầm lẫn key features và details, sa đà vào các tiểu tiết)&nbsp;</span></li>
+	<li style="list-style-type:disc"><span><strong>Includes irrelevant, repetitive or inaccurate ideas</strong></span><span> (Đưa những chi tiết không liên quan hoặc không chính xác vào bài)</span></li>
+</ul>
+
+<p><span><strong>Lưu ý:&nbsp;</strong></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Chúng ta sẽ làm rõ thêm về vấn đề cuối “</span><span><strong>Includes</strong></span><span> </span><span><strong>irrelevant or inappropriate details</strong></span><span> (đưa những chi tiết không liên quan hoặc không phù hợp vào bài)&nbsp;&nbsp;</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span>Nguyên nhân: Sai lầm này mắc phải khi thí sinh lầm tưởng việc phân tích biểu đồ ở Task 1 giống như việc phân tích biểu đồ trong môn Địa lý hoặc các bản báo cáo. Khi phân tích biểu đồ Địa lý hay làm báo cáo, ta cần rút ra được ý nghĩa hoặc nguyên nhân từ dữ liệu nghiên cứu. Tuy nhiên, trong Task 1, chúng ta </span><span><strong>không biết nguyên nhân tại sao số liệu thay đổi</strong></span><span> và </span><span><strong>việc tìm ra ý nghĩa của số liệu không</strong></span><span> </span><span><strong>nằm trong yêu cầu</strong></span><span> </span><span><strong>của đề bài Task 1</strong></span><span>.&nbsp;&nbsp;</span></li>
+</ul>
+
+<p><span>=&gt; Vì vậy, việc thí sinh đưa </span><span><strong>ý kiến/ nhận xét cá nhân</strong></span><span> vào bài làm sẽ bị đánh giá là </span><span><strong>không hiểu yêu cầu đề bài và đưa thông tin không liên quan </strong></span><span>=&gt; TA sẽ không quá band 6.&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Ví dụ:&nbsp; </span><span><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCnVqDNYbLo1ahLnHAQtgagHQ6HIi199OHzYSMIOU088YYWhTxvySpV8EaPlzvGgKP0B1nGS6iXodEW4sv9qskUfcPBqJHyruG8x31vZEFX2J6umF3nqrQ2jxTkXCWRd92C_agOh-rqkRfGXB_cWAdIwC4?key=MrN027RcoW1RvoF_ioC4pg" style="height:111.41519981135477; width:624px"></span></li>
+</ul>
+
+<p style="text-align:right"><span>(Bài viết band 6.0, Cambridge 11, p.134)</span></p>
+
+<p><span>(Sau khi đưa số liệu, thí sinh nhận xét: “đây là một điều tốt vì nó thể hiện rằng đã có nhiều người học tốt ngoại ngữ hơn”.)&nbsp;</span></p>
+
+<p><span>*Nhận xét của examiner: “</span><span><strong>some</strong></span><span> </span><span><strong>irrelevant commentary</strong></span><span>" (vài nhận xét không liên quan)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Liên quan đến việc “</span><span><strong>viết kết luận (Conclusion)</strong></span><span>” trong Task 1. Một số bài viết mẫu trong các tài liệu chính thống có viết kết luận. Ví dụ:&nbsp;</span><span> </span><span><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7fRRXl-NWAzNlXAM-wfanev6Y-_DuO8w9tvmRMsIV72geplt9Cdebb80lVJQAPireg2kO_CgopjUdcfJd5EeTMb6CsmiF95qFy9uwbvbLMKwF21khhR0xwXCQAQL3FcJinKDbz07rySMAVzWvUsT-j4wh?key=MrN027RcoW1RvoF_ioC4pg" style="height:73px; width:624px"></span></li>
+</ul>
+
+<p style="text-align:right"><em><span>(Bài mẫu của examiner, Cambridge 9, p.164)</span></em></p>
+
+<p style="margin-left:48px"><span>Tuy nhiên, cần hiểu rằng </span><span><strong>Conclusion trong Task 1 khác với Task 2</strong></span><span>. Ở Task 2, phần kết luận yêu cầu người viết “tóm tắt lại các ý chính trong bài và khẳng định lại quan điểm của mình”. Còn ở Task 1, kết luận chỉ </span><span><strong>tóm tắt các ý chính, tổng quan của biểu đồ</strong></span><span>, </span><span><strong>không</strong></span><span> bao gồm việc “khẳng định lại quan điểm của người viết". Điều này đồng nghĩa với việc đưa phần Overview xuống cuối bài, chứ không phải vừa viết Overview, vừa viết Conclusion. Việc viết cả 2 là không nên vì vừa tốn thời gian, vừa gây lặp ý.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+<p><span>=&gt; Vậy chúng ta nên viết Overview ở đầu (ngay sau mở bài) hay ở cuối bài viết? Việc này phụ thuộc vào cá nhân bạn, miễn là bạn không viết cả 2 và phải đảm bảo Overview thật rõ ràng và đủ ý. Tuy nhiên, trong khuôn khổ khóa học này, chúng tôi khuyên bạn nên </span><span><strong>viết Overview ở đầu</strong></span><span> vì đây là một phần quan trọng, quyết định điểm TA, và cả điểm overall của bạn nên cần được ưu tiên viết trước.&nbsp;&nbsp;&nbsp;</span></p>
+
+<h4 id="2.1.3.-lời-khuyên"><span>2.1.3. Lời khuyên</span></h4>
+
+<p><span>Từ việc phân tích yêu cầu và các vấn đề của thí sinh trong tiêu chí Task Achievement, ta rút ra được các kinh nghiệm như sau để đạt band 7+ ở tiêu chí TA:</span></p>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span>Nên</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span>Không nên&nbsp;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<ul>
+				<li style="list-style-type:disc"><span><strong>Lựa chọn và phân tích những đặc điểm chính</strong></span></li>
+				<li style="list-style-type:disc"><span><strong>Làm nổi bật và minh họa các đặc điểm chính bằng số liệu/ thông tin chính xác</strong></span></li>
+				<li style="list-style-type:disc"><span><strong>So sánh các số liệu, đặc điểm liên quan&nbsp;</strong></span></li>
+				<li style="list-style-type:disc"><span><strong>Viết overview rõ ràng</strong></span></li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<ul>
+				<li style="list-style-type:disc"><span><strong>Liệt kê thông tin một cách máy móc</strong></span></li>
+				<li style="list-style-type:disc"><span><strong>Sa đà vào tiểu tiết</strong></span></li>
+				<li style="list-style-type:disc"><span><strong>Đưa ý kiến cá nhân hoặc các nhận xét không liên quan vào bài&nbsp;</strong></span></li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span>=&gt; Về kiến thức, thí sinh cần nắm được:&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Sự khác biệt giữa details (chi tiết nhỏ) và key features (đặc điểm chính)</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Cách chỉ ra và làm nổi bật key features</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Cách viết overview</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Cách lựa chọn thông tin minh hoạ&nbsp;</strong></span></li>
+</ul>
+
+<p><span>=&gt; Về kỹ năng làm bài, thí sinh cần luyện tập </span><span><strong>phân tích biểu đồ trước khi viết. </strong></span></p>
+        </div>

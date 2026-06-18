@@ -1,0 +1,768 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="dạng-bài-advantages-disadvantages"><span style="background-color:#ffffff">Dạng bài </span><span style="background-color:#ffffff"><strong>Advantages/Disadvantages</strong></span></h1>
+
+<h2 id="1.-đặc-điểm"><span style="background-color:#ffffff"><strong>1. </strong></span><span style="background-color:#ffffff">Đặc điểm</span></h2>
+
+<p><span style="background-color:#ffffff">- Nêu một </span>hiện tượng / xu hướng và yêu cầu người viết chỉ ra và so sánh mặt lợi và mặt hại.</p>
+
+<p><span style="background-color:#ffffff">- Dạng bài này sẽ thường được đưa ra dưới dạng câu hỏi sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Do you think the advantages outweigh the disadvantages?</strong></span><span style="background-color:#ffffff">&nbsp;</span></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Liệu xu hướng này có nhiều lợi hơn hại không?)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Do the advantages of this outweigh the disadvantages?</strong></span></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Liệu mặt lợi có hơn mặt hại không?)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>What are the advantages and disadvantages of …?</strong></span><span style="background-color:#ffffff">&nbsp;</span></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Lợi ích và bất lợi của … là gì?)</span></p>
+
+<h2 id="2.-các-lưu-ý"><strong>2.</strong> Các lưu ý</h2>
+
+<h3 id="2.1.-chỉ-nêu-advantage-hoặc-disadvantage-có-được-không?"><span style="color:#434343"><strong>2.1. </strong></span><span style="color:#434343">Chỉ nêu </span><span style="color:#434343"><strong>Advantage </strong></span><span style="color:#434343">(hoặc </span><span style="color:#434343"><strong>Disadvantage</strong></span><span style="color:#434343">) có được không?</span></h3>
+
+<p>- Nhiều thí sinh chỉ phân tích một trong hai mặt lợi/hại, rồi rút ra kết luận rằng bên này <strong>outweigh </strong>bên còn lại.</p>
+
+<p>VD: Bạn nói rằng “<strong>advantages of an aging population outweigh its disadvantages.</strong>” (lợi ích mà dân số già mang lại thì nhiều hơn những bất lợi của nó) và thân bài bạn chỉ phân tích lợi ích.&nbsp;&nbsp;</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Không hợp lý. Nó có lợi ích không có nghĩa là những lợi ích đó hơn bất lợi. Vì vậy, cần phải phân tích cả <strong>advantages</strong> và <strong>disadvantages</strong>.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:</strong></p>
+
+<p>- Đề bài hỏi về lợi ích và bất lợi ở dạng số nhiều (<strong>advantages</strong> and <strong>disadvantages</strong>)&nbsp;</p>
+
+<p>=&gt; Câu trả lời cũng cần nêu ra ít nhất 2 ý ở mỗi vế.&nbsp;</p>
+
+<p>- Các bạn cần phải phân biệt rõ ràng giữa dạng bài <strong>Positive/Negative</strong> và dạng bài <strong>Advantages/Disadvantages</strong>. Điểm giống nhau và khác nhau giữa 2 dạng bài:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:649px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:100px">&nbsp;</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:267px">
+			<p style="text-align:center"><strong>Positive/Negative</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p style="text-align:center"><strong>Advantages/Disadvantages</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:100px">
+			<p style="text-align:justify"><strong>Điểm khác</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:267px">
+			<p>Có thể nhìn nhận vấn đề hoàn toàn &nbsp; &nbsp; &nbsp; tích cực (=chỉ có lợi ích), hoặc hoàn toàn tiêu cực (=chỉ có bất lợi)</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:282px">
+			<p>Phải phân tích cả lợi ích và bất lợi&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:100px">
+			<p style="text-align:justify"><strong>Điểm giống</strong></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:267px">
+			<p style="text-align:center">Đều yêu cầu các bạn phải so sánh lợi ích và bất lợi để rút ra kết luận&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="2.2.-nêu-quan-điểm-không-rõ-ràng"><span style="color:#434343"><strong>2.2. </strong></span><span style="color:#434343">Nêu quan điểm không rõ ràng</span></h3>
+
+<p>- Nhiều thí sinh chỉ phân tích cả bên lợi và hại, mà không hề đưa ra kết luận là bên nào hơn bên nào</p>
+
+<p>=&gt; Mắc lỗi “trả lời thiếu yêu cầu đề bài” (đặc điểm TR band 5.0)</p>
+
+<p>=&gt; Các bạn cần thể hiện rõ điều này bằng cách nói rõ bên nào “<strong>outweigh</strong>” bên nào ở <strong>Introduction </strong>và <strong>Conclusion</strong></p>
+
+<p><strong>Lưu ý:</strong></p>
+
+<p>- Để tránh việc lặp từ “<strong>advantage</strong>” hay từ “<strong>disadvantage</strong>” khi nhấn mạnh quan điểm, các bạn&nbsp; paraphrase 2 từ này như sau:</p>
+
+<p>&nbsp;</p>
+
+<div style="margin-left:97px">
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:468px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:234px">
+			<p style="text-align:center"><strong>Advantage</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:234px">
+			<p style="text-align:center"><strong>Disadvantage</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:234px">
+			<p style="text-align:center">Benefit</p>
+
+			<p style="text-align:center">Upside</p>
+
+			<p style="text-align:center">Merit</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:234px">
+			<p style="text-align:center">Drawback</p>
+
+			<p style="text-align:center">Downside</p>
+
+			<p style="text-align:center">Demerit</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="2.3.-bố-cục-bài-viết"><span style="color:#434343"><strong>2.3. </strong></span><span style="color:#434343">Bố cục bài viết</span></h3>
+
+<p>- Cần phân tích vấn đề 1 cách cân bằng. Tuy nhiên, lý lẽ và dẫn chứng bạn đưa ra cho bên bạn ủng hộ cần bằng hoặc nhiều hơn bên bạn không ủng hộ</p>
+
+<p><strong>VD:</strong> Bạn cho rằng vấn đề này có nhiều mặt lợi hơn mặt hại thì không thể đưa ra <strong>2 advantages</strong> và <strong>3 disadvantages</strong> được</p>
+
+<p>-&nbsp; Với dạng bài này, cấu trúc bài viết có thể chia 2 đoạn <strong>Body</strong> (mỗi đoạn phân tích 1 về), cũng có thể chia <strong>Body</strong> bên bạn ủng hộ làm 2&nbsp;</p>
+
+<p><strong>VD: BP1: </strong>Nêu lợi ích đầu tiên từ hiện tượng/xu hướng</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;BP2: </strong>Nêu lợi ích thứ hai từ hiện tượng/xu hướng</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;BP3:</strong> Nêu các bất lợi từ hiện tượng/xu hướng</p>
+
+<p>&nbsp;</p>
+
+<h2 id="3.-vấn-đề-với-bài-viết-band-5.0--cách-khắc-phục"><strong>3. </strong>Vấn đề với bài viết Band 5.0 &amp; Cách khắc phục</h2>
+
+<h3 id="3.1.-vấn-đề"><span style="color:#434343"><strong>3.1. </strong></span><span style="color:#434343">Vấn đề:</span></h3>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people.</strong></p>
+
+			<p style="text-align:center"><strong>Do the advantages of this situation outweigh the disadvantages?</strong></p>
+
+			<p style="text-align:center">(Hiện nay, dân số của một số nước có số lượng người trẻ tương đối lớn so với số lượng người cao tuổi.</p>
+
+			<p style="text-align:center">Những lợi thế của tình huống này có lớn hơn những bất lợi không?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Các bạn theo dõi bài viết đạt band 5.0:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Nowadays, the people of some countries that have the young people more than the old people. Some people thinks when their contries have the yonge people more than the old people will be good because, that could increases the population in the future. Another people thinks it not good due to some countries limit the population, if that have more young children, it will over limit. This essay will discuss the advantages and disadvantages about in some countries have the young people more than the old people.</p>
+
+			<p>One of advantages is increasing the population. In some countries support the family to have more children because that can increases the population in the future. For example, in Singapore, Philiphine and so on. What is more chancing to improve the educations as when they have a lot of young generation, the government could improve a good education. Also, they can develop the systems include the quilified teachers, the good atmosphere.</p>
+
+			<p>One of disadvantages is the place for study. If the young generation still a lot, the school will not enough for the study, the government should construct more school. Also, when they have the new schools, the teacher will not enough to teach them. The university should get more student to study about teaching education.</p>
+
+			<p>Another disadvantages is the quality of education. If the many students learn in the classroom, the teachers can not take care all. For instance, when they have a problem, they will need some help from the teachers. Furthermore, when they grow up, the unemployee problem will happen because the company can not receive everybody to get a job.</p>
+
+			<p>In conclusion, in some countries that have the young population more than the old population, the government should manage the education system. Moreover, they should prepare the plans for sloving unemployee problems which can happen in the future.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h4 id="3.1.1.-vấn-đề-theo-tiêu-chí-grammatical-range-and-accuracy">3.1.1. Vấn đề theo tiêu chí Grammatical range and accuracy</h4>
+
+<p>- Phần này sẽ tập trung vào phân tích các lỗi về mặt dùng từ trong bài viết, cụ thể là lỗi về mặt ngữ pháp và cấu trúc câu. Trước hết, chúng ta cùng phân tích các lỗi về cấu trúc câu mà bài viết mắc phải:&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Nowadays, <sup>1</sup><span style="background-color:#00ffff">the people of some countries that</span> have the <sup>2</sup><span style="background-color:#00ffff">young people more than the old people</span>. Some people thinks when their contries have the <sup>3</sup><span style="background-color:#00ffff">yonge people more than the old people</span> <sup>4</sup><span style="background-color:#00ffff">will be good</span> because that could increases the population in the future. Another people thinks <sup>5</sup><span style="background-color:#00ffff">it not good</span> <sup>6</sup><span style="background-color:#00ffff">due to some countries limit the population, if that have more young children</span> <sup>7</sup><span style="background-color:#00ffff">,it will over limit</span>. This essay will discuss the advantages and disadvantages about in <sup>8</sup><span style="background-color:#00ffff">some countries have the</span> <sup>9</sup><span style="background-color:#00ffff">young people more than the old people</span>.</p>
+
+			<p>One of advantages is increasing the population. <sup>10</sup><span style="background-color:#00ffff">In some countries support the family to have more children</span> because that can increases the population in the future. For example, <sup>11</sup><span style="background-color:#00ffff">in Singapore, Philiphine and so on</span>. <sup>12</sup><span style="background-color:#00ffff">What is more chancing to improve the educations as when</span> they have a lot of young generation, the government could improve a good education. Also, they can develop the systems <sup>13</sup><span style="background-color:#00ffff">include the quilified teachers, the good atmosphere</span>.</p>
+
+			<p>One of disadvantages is the place for study. <sup>14</sup><span style="background-color:#00ffff">If the young generation still a lot</span>, <sup>15</sup><span style="background-color:#00ffff">the school will not enough for the study</span> <sup>16</sup><span style="background-color:#00ffff">,the government should construct more school</span>. Also, when they have the new schools, <sup>17</sup><span style="background-color:#00ffff">the teacher will not enough to teach them</span>. The university should get more student to study about teaching education.</p>
+
+			<p>Another disadvantages is the quality of education. If the many students learn in the classroom, <sup>18</sup><span style="background-color:#00ffff">the teachers can not take care all</span>. For instance, when they have a problem, they will need some help from the teachers. Furthermore, when they grow up, the unemployee problem will happen because the company can not receive everybody to get a job.</p>
+
+			<p>In conclusion, in some countries that have the <sup>19</sup><span style="background-color:#00ffff">young population more than the old population</span>, the government should manage the education system. Moreover, they should prepare the plans for sloving unemployee problems which can happen in the future.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Về lỗi cấu trúc câu:&nbsp;</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:458px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:205px">
+			<p style="text-align:center"><strong>Lỗi</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:253px">
+			<p style="text-align:center"><strong>Vị trí</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:205px">
+			<p><strong>Câu chưa hoàn chỉnh</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:253px">
+			<p style="text-align:center">1,4,5,7,8,10,11,13,14,15,17,18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:205px">
+			<p><strong>Nối câu bằng dấu phẩy sai</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:253px">
+			<p style="text-align:center">6,16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:205px">
+			<p><strong>Câu lạm dụng từ nối</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:253px">
+			<p style="text-align:center">12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:205px">
+			<p><strong>Sai trật tự từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:253px">
+			<p style="text-align:center">2,3,9,19</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Chuyển sang lỗi về ngữ pháp, bài viết mắc phải một số lỗi sau</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Nowadays, the people of some countries that have <sup>1</sup><span style="background-color:#00ffff">the</span> young people more than <sup>2</sup><span style="background-color:#00ffff">the</span> old people. Some people <sup>3</sup><span style="background-color:#00ffff">thinks</span> when their contries have <sup>4</sup><span style="background-color:#00ffff">the</span> yonge people more than <sup>5</sup><span style="background-color:#00ffff">the</span> old people will be good because, that <sup>6</sup><span style="background-color:#00ffff">could increases</span> the population in the future. Another <sup>7</sup><span style="background-color:#00ffff">people</span> <sup>8</sup><span style="background-color:#00ffff">thinks</span> it not good due to some countries <sup>9</sup><span style="background-color:#00ffff">limit</span> the population, if that <sup>10</sup><span style="background-color:#00ffff">have</span> more young children, it will over <sup>11</sup><span style="background-color:#00ffff">limit</span>. This essay will discuss the advantages and disadvantages <sup>12</sup><span style="background-color:#00ffff">about in</span> some countries have <sup>13</sup><span style="background-color:#00ffff">the</span> young people more than <sup>14</sup><span style="background-color:#00ffff">the</span> old people.</p>
+
+			<p>One of <sup>15</sup><span style="background-color:#00ffff">advantages</span> is increasing the population. In some countries support <sup>16</sup><span style="background-color:#00ffff">the</span> family to have more children because that <sup>17</sup><span style="background-color:#00ffff">can increases</span> the population in the future. For example, in Singapore, Philiphine and so on. What is more chancing to improve <sup>18</sup><span style="background-color:#00ffff">the</span> <sup>19</sup><span style="background-color:#00ffff">educations</span> as when they have a lot of young generation, the government could improve <sup>20</sup><span style="background-color:#00ffff">a</span> good education. Also, they can develop the systems <sup>21</sup><span style="background-color:#00ffff">include</span> <sup>22</sup><span style="background-color:#00ffff">the</span> quilified teachers, <sup>23</sup><span style="background-color:#00ffff">the</span> good atmosphere.</p>
+
+			<p>One of <sup>24</sup><span style="background-color:#00ffff">disadvantages</span> is the place for study. If the young generation still a lot, <sup>25</sup><span style="background-color:#00ffff">the</span> school will not enough for the study, the government should construct more <sup>26</sup><span style="background-color:#00ffff">school</span>. Also, when they have <sup>27</sup><span style="background-color:#00ffff">the</span> new schools, <sup>28</sup><span style="background-color:#00ffff">the</span> <sup>29</sup><span style="background-color:#00ffff">teacher</span> will not enough to teach them. <sup>30</sup><span style="background-color:#00ffff">The</span> university should get more <sup>31</sup><span style="background-color:#00ffff">student</span> to study about teaching education.</p>
+
+			<p>Another <sup>32</sup><span style="background-color:#00ffff">disadvantages</span> is the quality of education. If <sup>33</sup><span style="background-color:#00ffff">the</span> many students learn in the classroom, <sup>34</sup><span style="background-color:#00ffff">the</span> teachers can not take care all. For instance, when they have a problem, they will need some help from the teachers. Furthermore, when they grow up, the unemployee problem will happen because <sup>35</sup><span style="background-color:#00ffff">the</span> <sup>36</sup><span style="background-color:#00ffff">company</span> can not receive everybody to get a job.</p>
+
+			<p>In conclusion, in some countries that have the young population more than the old population, the government should manage the education system. Moreover, they should prepare <sup>37</sup><span style="background-color:#00ffff">the</span> plans for sloving unemployee <sup>38</sup><span style="background-color:#00ffff">problems</span> which can happen in the future.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Các lỗi ngữ pháp:</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:556px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Lỗi</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Vị trí</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Dùng sai mạo từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>1,2,4,5,11,12,13,14,15,16,18,20,22,23,</p>
+
+			<p>24,25,26,27,28,30,33,34,35,36,37</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Chia danh từ số ít/số nhiều sai</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>7,19,29,31,32,38</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Động từ không hoà hợp với chủ ngữ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>3,8,10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Động từ chia sai thì</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>6,9,17,21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Thừa/thiếu/sai giới từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>12</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h4 id="3.1.2.-vấn-đề-theo-tiêu-chí-lexical-resource"><strong>3.1.2. </strong>Vấn đề theo tiêu chí Lexical Resource</h4>
+
+<p>- Hãy đọc lại bài viết band 5.0 và xác định các lỗi từ vựng, lỗi chính tả hoặc lỗi diễn đạt mang sắc thái <strong>informal </strong>(thiếu trang trọng)</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Nowadays, the people of some countries that have <u>the young people more than the old people</u>. Some people thinks when their <sup>1</sup><span style="background-color:#ff00ff">contries</span> have <u>the </u><u><sup>2</sup></u><span style="background-color:#ff00ff"><u>yonge</u></span><u> people more than the old people</u> will be good because that could increases the population in the future. Another people thinks it not good due to some countries <sup>3</sup><span style="background-color:#ff00ff">limit the population</span>, if that have more young children, it will <sup>4</sup><span style="background-color:#ff00ff">over limit</span>. This essay will discuss the advantages and disadvantages about in some countries have <u>the young people more than the old people</u>.</p>
+
+			<p>One of advantages is <u>increasing the population</u>. In some countries support the family to have more children because that can <u>increases the population</u> in the future. For example, in Singapore, <sup>5</sup><span style="background-color:#ff00ff">Philiphine</span> <sup>6</sup><span style="background-color:#ff00ff">and so on</span>. What is <sup>7</sup><span style="background-color:#ff00ff">more chancing</span> to <u>improve the educations</u> as when they have a lot of <sup>8</sup><span style="background-color:#ff00ff">young generation</span>, the government could <sup>9</sup><span style="background-color:#ff00ff"><u>improve a good</u></span><u> education</u>. Also, they can develop the systems include the <sup>10</sup><span style="background-color:#ff00ff">quilified</span> teachers, the good atmosphere.</p>
+
+			<p>One of disadvantages is the place for study. If the young generation still a lot, the school will not enough for the study, the government should construct more school. Also, when they have the new schools, the teacher will not enough to teach them. The university should get more student to study about <sup>11</sup><span style="background-color:#ff00ff">teaching education</span>.</p>
+
+			<p>Another disadvantages is the quality of education. If the many students learn in the classroom, the teachers can not take care all. For instance, when they have a problem, they will need some help from the teachers. Furthermore, when they grow up, the <sup>12</sup><span style="background-color:#ff00ff">unemployee</span> problem will happen because the company can not <sup>13</sup><span style="background-color:#ff00ff">receive everybody to get a job</span>.</p>
+
+			<p>In conclusion, in some countries that have the young population more than the old population, the government should manage the education system. Moreover, they should prepare the plans for <sup>14</sup><span style="background-color:#ff00ff">sloving</span> <sup>15</sup><span style="background-color:#ff00ff">unemployee</span> problems which can happen in the future.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Các lỗi từ vựng:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:556px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Lỗi</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Vị trí</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Lỗi word choice/form</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>7,8,9,11,12,15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Lỗi collocation</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>3,4,13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Lỗi văn phong</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Lỗi chính tả</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>1,2,5,10,14</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Ngoài các lỗi này, bài viết cũng lặp từ/cụm từ rất nhiều.</span></p>
+
+<p><span style="background-color:#ffffff">VD: cụm “the young people more than the old people” được lặp lại 3 lần trong Introduction, cụm “increase the population” và “improve education” được lặp lại 2 lần trong Body</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Mặc dù các bạn được lặp các key word nhưng việc sử dụng y nguyên dạng từ/cụm từ một cách liên tục mà không hề thay đổi về mặt cấu trúc, hay dạng từ sẽ thể hiện rằng vốn từ vựng của các bạn còn hạn chế</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Phải thể hiện việc dùng từ linh hoạt qua việc sử dụng collocation, hoặc sử dụng các nét nghĩa ít phổ biến của các từ quen thuộc</span></p>
+
+<h4 id="3.1.3.-vấn-đề-theo-tiêu-chí-coherence--cohesion"><strong>3.1.3. </strong>Vấn đề theo tiêu chí Coherence &amp; Cohesion</h4>
+
+<p><span style="background-color:#ffffff">- Để tập trung vào phân tích 2 tiêu chí CC và TR, các lỗi về mặt ngữ pháp và từ vựng đã được sửa. Tuy nhiên, bài viết vẫn mắc phải lỗi về CC như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Nowadays, some countries have more young people more than old people.<sup> 1</sup><span style="background-color:#ffff00">Some people think a high youth population is good because it could increase the population in the future</span>. Other people think it is not good because more young people will result in overpopulation. This essay will discuss the advantages and disadvantages of having a youth-dominated society.</p>
+
+			<p><u>One of the advantages</u> is increasing the population. Some countries have incentives to replenish their youth population, such as in Singapore and the Philippines. <sup>2</sup><span style="background-color:#ffff00">There are more chances to improve education</span> as when <sup>3</sup><span style="background-color:#ffff00">they</span> have a young generation, the government could improve education. <u>Also</u>, they can develop the system to include qualified teachers and a good atmosphere.</p>
+
+			<p><u>One of the disadvantages</u> is the place for study. If there are a lot of young people, the school will not be big enough for study. <sup>4</sup><span style="background-color:#ffff00">The government should construct more schools</span>. <sup>5</sup><span style="background-color:#ffff00"><u>Also</u></span>, when <sup>6</sup><span style="background-color:#ffff00">they</span> have new schools, there will not be enough teachers to teach them. <sup>7</sup><span style="background-color:#ffff00">The university should get more student to study about education</span>.&nbsp;</p>
+
+			<p><u>Another disadvantage</u> is the quality of education. If many students learn in the classroom, the teachers can not care for all. <u>For instance</u>, when they have a problem, they will need some help from the teachers. <u>Furthermore</u>, when <sup>8</sup><span style="background-color:#ffff00">they</span> grow up, <sup>9</sup><span style="background-color:#ffff00">the unemployment problem will happen because the company can not give everybody a job</span>.</p>
+
+			<p><u>In conclusion</u>, in some countries that have more young than old, the government should manage the education system. <u>Moreover</u>, they should prepare plans for solving unemployment problems which can happen in the future.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Các lỗi Coherence and Cohesion:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:42px">&nbsp;</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Vấn đề</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>1</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Sử dụng phương tiện liên kết chưa hiệu quả&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- Bài viết cần thêm từ nối để chỉ ra rằng đây là quan điểm của một số người dựa trên câu </span><span style="background-color:#ffffff"><strong>Background Statement</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>2</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Mạch triển khai ý rối rắm&nbsp;</strong></span></p>
+
+			<p>- Với câu chủ đề của Body 1, giám khảo sẽ trông đợi thí sinh liệt kê trong đoạn này tất cả các lý do mà “<strong>increase the population</strong>” (tăng dân số) lại là lợi ích. Thế nhưng, thí sinh lại chuyển sang chứng minh lợi ích: cải thiện giáo dục</p>
+
+			<p>=&gt; Thiếu nhất quán giữa câu chủ đề và lập luận</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>3</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Referencing không rõ ràng&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- “</span><span style="background-color:#ffffff"><strong>They</strong></span><span style="background-color:#ffffff">” chỉ đối tượng nào? </span><span style="background-color:#ffffff"><strong>Singapore</strong></span><span style="background-color:#ffffff">, </span><span style="background-color:#ffffff"><strong>Philippines </strong></span><span style="background-color:#ffffff">hay </span><span style="background-color:#ffffff"><strong>some countries</strong></span><span style="background-color:#ffffff"> (một số nước)?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>4</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Sử dụng phương tiện liên kết chưa hiệu quả</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- Chúng ta cần thêm từ nối để nhấn mạnh mối quan hệ nguyên nhân-kết quả giữa vấn đề “</span><span style="background-color:#ffffff"><strong>will not be big enough for study</strong></span><span style="background-color:#ffffff">” (không đủ chỗ để học) và lời khuyên “</span><span style="background-color:#ffffff"><strong>should construct more schools</strong></span><span style="background-color:#ffffff">” (nên xây thêm trường)&nbsp;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>5</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Sử dụng phương tiện liên kết sai</strong></span></p>
+
+			<p>- Câu trước đưa ra lời khuyên là nên xây thêm trường. Câu sau nêu vấn đề là “<strong>there will not be enough teachers to teach them</strong>” (không có đủ giáo viên để dạy), và nối bằng từ “<strong>also</strong>”. Tuy nhiên, từ “<strong>also</strong>” chỉ dùng để thêm thông tin hoàn toàn mới, nhưng hai câu này có mối quan hệ đối lập</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>6</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Referencing không rõ ràng&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- “</span><span style="background-color:#ffffff"><strong>They</strong></span><span style="background-color:#ffffff">” chỉ đối tượng nào? </span><span style="background-color:#ffffff"><strong>The government</strong></span><span style="background-color:#ffffff"> (chính phủ) hay </span><span style="background-color:#ffffff"><strong>schools </strong></span><span style="background-color:#ffffff">(các nhà trường)?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>7</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Mạch triển khai ý rối rắm&nbsp;</strong></span></p>
+
+			<p>- Với câu chủ đề của Body 2, giám khảo sẽ trông đợi thí sinh liệt kê trong đoạn này tất cả các lý do mà “<strong>place for study</strong>” (nơi để học) lại là bất lợi. Thế nhưng, thí sinh lại chuyển sang đưa ra lời khuyên: <span style="background-color:#ffffff">“</span><span style="background-color:#ffffff"><strong>get more student to study about education</strong></span><span style="background-color:#ffffff">” (có thêm sinh viên học ngành sư phạm)</span></p>
+
+			<p>=&gt; Thiếu nhất quán giữa câu chủ đề và lập luận</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>8</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Referencing không rõ ràng&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- “</span><span style="background-color:#ffffff"><strong>They</strong></span><span style="background-color:#ffffff">” chỉ đối tượng nào? Câu trước nhắc tới 2 đối tượng, “</span><span style="background-color:#ffffff"><strong>many students</strong></span><span style="background-color:#ffffff">” và “</span><span style="background-color:#ffffff"><strong>teacher</strong></span><span style="background-color:#ffffff">” thì câu này đang chỉ đối tượng nào?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>9</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Mạch triển khai ý rối rắm&nbsp;</strong></span></p>
+
+			<p>- Với câu chủ đề của Body 3, giám khảo sẽ trông đợi thí sinh liệt kê trong đoạn này tất cả các lý do mà <strong>“quality of education</strong>” (chất lượng giáo dục) lại là bất lợi. Thế nhưng, thí sinh lại chuyển sang một ý hoàn toàn mới: <span style="background-color:#ffffff">“</span><span style="background-color:#ffffff"><strong>the unemployment problem</strong></span><span style="background-color:#ffffff">” (nạn thất nghiệp)</span></p>
+
+			<p>=&gt; Thiếu nhất quán giữa câu chủ đề và lập luận</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h4 id="3.1.4.-vấn-đề-theo-tiêu-chí-task-response"><strong>3.1.4. </strong>Vấn đề theo tiêu chí Task Response</h4>
+
+<p><span style="background-color:#ffffff">- Để đánh giá bài viết theo tiêu chí TR, chúng ta cần phân tích lập luận, luận điểm của bài viết, cũng như quan điểm của người viết.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Nhằm dễ dàng tìm ra các lỗi sai về tiêu chí này, các bạn hãy tự ngẫm các câu hỏi sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Các bạn có theo dõi được các lập luận hay luận điểm được đưa ra trong bài viết không?</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Các ý tưởng trong bài có liên quan tới chủ đề đề bài giao không?</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Các kết luận trong bài có rõ ràng không? Có chỗ nào bị lặp không?</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Có lập luận, dẫn chứng để ủng hộ luận điểm không?</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Quan điểm có rõ ràng xuyên suốt bài viết không?</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- Bài viết có các lỗi sai TR như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Nowadays, some countries have more young people more than old people. Some people think a high youth population is good because it could increase the population in the future. Other people think it is not good because more young people will result in overpopulation. <sup>1</sup><span style="background-color:#00ff00">This essay will discuss the advantages and disadvantages of having a youth-dominated society.</span></p>
+
+			<p>One of the advantages is increasing the population. <sup>2</sup><span style="background-color:#00ff00">Some countries have incentives to replenish their youth population, such as in Singapore and the Philippines</span>. There are more chances to improve education as <sup>3</sup><span style="background-color:#00ff00">when they have a young generation, the government could improve education. Also, they can develop the system to include qualified teachers and a good atmosphere.</span></p>
+
+			<p><sup>4</sup><span style="background-color:#00ff00">One of the disadvantages is the place for study</span>. If there are a lot of young people, the school will not be big enough for study. <sup>5</sup><span style="background-color:#00ff00">The government should construct more schools. Also, when they have new schools, there will not be enough teachers to teach them. The university should get more student to study about education.</span>&nbsp;</p>
+
+			<p><sup>6</sup><span style="background-color:#00ff00">Another disadvantage is the quality of education.</span> <sup>7</sup><span style="background-color:#00ff00">If many students learn in the classroom, the teachers can not care for all. For instance, when they have a problem, they will need some help from the teachers</span>. Furthermore, <sup>8</sup><span style="background-color:#00ff00">when they grow up, the unemployment problem will happen because the company can not give everybody a job.</span></p>
+
+			<p>In conclusion, <sup>9</sup><span style="background-color:#00ff00">in some countries that have more young than old, the government should manage the education system. Moreover, they should prepare plans for solving unemployment problems which can happen in the future.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Các lỗi Task Response:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:416px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:42px">&nbsp;</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Vấn đề</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>1</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Trả lời thiếu yêu cầu đề bài</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- Introduction mới chỉ đề cập nội dung chính của bài viết là: </span><span style="background-color:#ffffff"><strong>discuss the advantages and disadvantages </strong></span><span style="background-color:#ffffff">(thảo luận về lợi và hại) chứ chưa hề nêu ý kiến cá nhân về việc bên nào hơn bên nào</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>2</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Triển khai ý hời hợt</strong></span></p>
+
+			<p>- Thí sinh đã đưa ra luận điểm về tăng dân số, và có đưa ra lý lẽ để chứng minh luận điểm này. Tuy nhiên, ý này chưa khai thác đủ sâu, nên rất khó hiểu để người đọc tại sao “tăng dân số” lại được coi là một lợi ích.&nbsp;</p>
+
+			<p>- Ngoài ra, ví dụ cũng nêu một cách qua loa, chỉ dừng ở việc liệt kê tên các nước, chứ không hề giải thích các ví dụ này chứng minh và củng cố luận điểm thế nào</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>3</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Lặp ý</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span>Cả 2 câu chỉ dùng để khẳng định vấn đề: chính phủ có thể cải thiện giáo dục. Tác giả chưa hề đề cập tới việc cải thiện thế nào hay tại sao dân số trẻ thì lại cải thiện ngành này</p>
+
+			<p><span style="background-color:#ffffff">=&gt; Chưa chứng minh luận điểm</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>4</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Luận điểm không rõ ràng</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- Đọc qua câu chủ đề này: bất lợi của việc có dân số trẻ là nơi để học - Câu này nghĩa là sao? Cụ thể là dân số trẻ có ảnh hưởng xấu gì lên nơi để học?</span></p>
+
+			<p><span style="background-color:#ffffff">=&gt; Thí sinh chưa hề chứng minh tại sao điều này lại là một bất lợi</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>5</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Triển khai ý hời hợt</strong></span></p>
+
+			<p>Câu trước nêu ảnh hưởng xấu là trường ko đủ chỗ cho tất cả học sinh. Nhưng thay vì phân tích hậu quả của hiện tượng này, thí sinh lại chuyển hướng: Đưa ra lời khuyên nên làm gì để khắc phục tình thế, và rồi nêu thông tin mới về việc kể cả có trường thì cũng không đủ giáo viên và chốt bằng câu ĐH nên khuyên học sinh đi học khối sư phạm</p>
+
+			<p>=&gt; Triển khai lập luận không rõ ràng, vẫn không hề chỉ ra tại sao đây là một <strong>disadvantage </strong>(bất lợi)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>6</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Luận điểm không rõ ràng</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- Đọc qua câu chủ đề này: bất lợi của việc có dân số trẻ là chất lượng giáo dục - Câu này nghĩa là sao? Cụ thể là dân số trẻ có ảnh hưởng như thế nào lên chất lượng giáo dục?</span></p>
+
+			<p><span style="background-color:#ffffff">=&gt; Thí sinh chưa hề chứng minh tại sao điều này lại là một bất lợi</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>7</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Triển khai ý hời hợt</strong></span></p>
+
+			<p>- Nêu lập luận: <strong>the quality of education</strong> (chất lượng giáo dục), nhưng lý luận trong bài chưa chứng minh luận điểm mà chỉ dừng ở việc nói rằng “giáo viên sẽ không thể quan tâm hết”.&nbsp;</p>
+
+			<p>=&gt; Chúng ta vẫn không thể hiểu giáo viên không quan tâm thì ảnh hưởng thế nào tới chất lượng.&nbsp;</p>
+
+			<p>=&gt; Ví dụ cũng nêu rất qua loa, chung chung về việc có vấn đề thì không có ai trợ giúp, chứ không hề tập trung vào tình huống cụ thể nào</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>8</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Luận điểm không rõ ràng</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span>Thay vì diễn giải, triển khai và chứng minh thêm về mối liên hệ giữa “<strong>dân số trẻ</strong>” và “<strong>chất lượng giáo dục</strong>”, thí sinh lại bẻ lại sang hẳn một ý mới: <strong>unemployment problem</strong> (vấn đề thất nghiệp)</p>
+
+			<p>=&gt; Đây là một ý hoàn toàn tách biệt, và nên được phân tích, triển khai riêng để chứng minh quan điểm của người viết cho thuyết phục và sâu sắc hơn</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:42px">
+			<p><span style="background-color:#ffffff"><strong>9</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:374px">
+			<p><span style="background-color:#ffffff"><strong>Trả lời thiếu yêu cầu đề bài</strong></span></p>
+
+			<p>- Conclusion chưa hề tóm gọn các luận điểm đưa ra trong Body, và cũng chưa hề nhấn mạnh quan điểm cá nhân. Thay vào đó, thí sinh đưa ra lời khuyên về các việc chính phủ nên làm khi có dân số trẻ</p>
+
+			<p>=&gt; Chưa hoàn thành yêu cầu đề bài</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 id="3.2.-cách-khắc-phục"><span style="color:#434343"><strong>3.2. </strong></span><span style="color:#434343">Cách khắc phục:</span></h3>
+
+<p>- Vậy, cần phải sửa một số vấn đề sau để đạt điểm cao trong 2 tiêu chí TR và CC:</p>
+
+<ul>
+	<li style="list-style-type:disc">Sắp xếp lại thông tin trong bài viết</li>
+	<li style="list-style-type:disc">Tóm gọn lại ví dụ</li>
+	<li style="list-style-type:disc">Phát triển lại các lập luận trong các Body Paragraph</li>
+</ul>
+
+<p>- Sửa những lỗi này, có phần bài viết hoàn chỉnh như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:justify"><span style="color:#0000ff"><strong>In today’s world, it is often argued that history is an essential subject, while others say that science-related (STEM) subjects are of greater relevance</strong></span>. This essay explores both perspectives and argues for their equal importance in the development of individuals and society.</p>
+
+			<p style="text-align:justify">Advocates of history highlight two primary advantages. Firstly, understanding the past helps individuals make informed future decisions. History provides a framework for understanding the present, such as how societies have domesticated animals or interacted with each other, <span style="color:#0000ff"><strong>thereby helping individuals appreciate the context in which they live. Hence, it allows them to learn from the successes and failures of previous generations and to build on their achievements.</strong></span> Moreover, history fosters international understanding. By learning the history of different nations, people gain insight into other cultures, traditions, and challenges. <span style="color:#0000ff"><strong>This knowledge instills respect and understanding between nations. For example, in Vietnam, when foreigners learn about our struggles against French and American invaders, they often express admiration for our resilience.</strong></span></p>
+
+			<p style="text-align:justify">However, proponents of science and technology also present compelling arguments. The main one is that these subjects drive the technological advancements revolutionizing society. From life-saving medical procedures to digital communication tools, scientific breakthroughs shape human lives<span style="color:#0000ff"><strong>, making it critical for students to study science-related subjects. </strong></span>Additionally, focusing on science and technology offers better job opportunities. <span style="color:#0000ff"><strong>With science taking center stage globally, there is a growing demand for careers in fields like data analysis and programming, making it easier for STEM graduates to secure jobs. For instance, Vietnam is experiencing rapid growth in IT and AI development, significantly increasing the demand for skilled professionals in these sectors. This surge has made it easier for technology graduates to secure well-paying jobs quickly.</strong></span></p>
+
+			<p style="text-align:justify">In conclusion,<span style="color:#0000ff"><strong> I believe both history and science and technology are invaluable for societal and personal growth</strong></span>. History helps humans learn from past mistakes and enhances international understanding, while science and technology drive innovation and improve employment prospects.<span style="color:#0000ff"><strong> Thus, in my opinion, young people should study both disciplines to address present and future challenges.</strong></span>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </div>

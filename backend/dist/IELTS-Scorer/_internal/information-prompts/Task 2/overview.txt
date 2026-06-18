@@ -1,0 +1,260 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="lesson-1-giới-thiệu-writing-task-2"><span><span style="background-color:#ffffff">Lesson 1: Giới thiệu Writing Task 2</span></span></h1>
+
+<h2 id="1.-thông-tin-chung"><span><span style="background-color:#ffffff"><strong>1. </strong></span></span><span><span style="background-color:#ffffff">Thông tin chung</span></span></h2>
+
+<p><span><span style="background-color:#ffffff">- Task 2 chiếm ⅔ tổng số điểm trong bài thi Writing</span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Thông tin chung về bài thi Task 2:</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:591px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:149px">
+			<p style="text-align:justify"><span><span style="background-color:#ffffff"><strong>Thời gian</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:442px">
+			<p style="text-align:justify"><span><span style="background-color:#ffffff">40 phút</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:149px">
+			<p style="text-align:justify"><span><span style="background-color:#ffffff"><strong>Độ dài</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:442px">
+			<p style="text-align:justify"><span><span style="background-color:#ffffff">Tối thiểu 250 từ</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:149px">
+			<p style="text-align:justify"><span><span style="background-color:#ffffff"><strong>Yêu cầu</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:442px">
+			<p style="text-align:justify"><span>Viết một bài luận (</span><span><strong>essay</strong></span><span>). Câu hỏi xoay quanh nhiều chủ đề và yêu cầu thí sinh:&nbsp;</span></p>
+
+			<ul>
+				<li style="list-style-type:disc"><span><strong>Đánh giá một vấn đề&nbsp;</strong></span></li>
+			</ul>
+
+			<ul>
+				<li style="list-style-type:disc"><span><strong>So sánh và đối chiếu các ý kiến/ quan điểm khác nhau&nbsp;</strong></span></li>
+				<li style="list-style-type:disc"><span><strong>Phản biện một luận điểm/ ý kiến&nbsp;</strong></span></li>
+				<li style="list-style-type:disc"><span><strong>Đề xuất một giải pháp</strong></span></li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 id="2.-các-dạng-bài"><span><span style="background-color:#ffffff"><strong>2.</strong></span></span><span><span style="background-color:#ffffff"> Các dạng bài</span></span><span>:&nbsp;</span></h2>
+
+<p><span><span style="background-color:#ffffff">- Khi nhận đề, các bạn sẽ thấy rằng đề bài của IELTS Writing Task 2 sẽ luôn chứa 2 câu</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Câu thứ nhất: Background Statement:</strong></span></span><span><span style="background-color:#ffffff"> Đưa ra một chủ đề cụ thể, yêu cầu bạn phải bàn luận/phân tích chủ đề này một cách cân bằng trong bài viết của mình</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Câu thứ hai: Question/Task: </strong></span></span><span>Câu hỏi giúp bạn xác định được hướng trả lời câu hỏi của đề bài</span></li>
+</ul>
+
+<p><span><span style="background-color:#ffffff"><strong>Ví dụ:&nbsp;</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUVqtv2We4xuwMMJ4KLlWGRwuJb-ZhJ3wtgS63pLD2wUrxVkaJ5F8TLreskPNtsvnnzDiOmvdwKwuawsUBhk7AtFHY3GDqMnwYXLZcur389NnA0Mk01fI8d75bf09c-yP72hGWGlv98vBuW5rdxJE6OO0?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:131px; width:624px"></span></span></p>
+
+<p style="text-align:center"><span><span style="background-color:#ffffff">(Một số người tin rằng nên đưa các hoạt động tình nguyện nên trở thành bắt buộc trong chương trình giáo dục phổ thông [ví dụ như giúp đỡ các tổ chức từ thiện, cải thiện làng xóm hay dạy trẻ nhỏ các môn thể thao]. Bạn đồng ý hay không đồng ý với quan điểm này?)</span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Phân tích:&nbsp;</strong></span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Background statement: </span></span><span><span style="background-color:#ffffff"><strong>Some people believe that unpaid community service should be a compulsory part of highschool programmes (for example working for a charity, improving the neighborhood or teaching sports to younger children)</strong></span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Question/Task: </span></span><span><span style="background-color:#ffffff"><strong>To what extent do you agree or disagree?</strong></span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Dựa vào phần </span></span><span><span style="background-color:#ffffff"><strong>question</strong></span></span><span><span style="background-color:#ffffff">, </span></span><span><span style="background-color:#ffffff"><strong>Task 2</strong></span></span><span><span style="background-color:#ffffff"> được chia thành 5 dạng sau:</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Opinion Essay</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span><span style="background-color:#ffffff">(Dạng bài hỏi ý kiến cá nhân)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Positive/Negative Essay</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span><span style="background-color:#ffffff">(Dạng bài phân tích tích cực/tiêu cực)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Discussion Essay</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span><span style="background-color:#ffffff">(Dạng bài thảo luận)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Advantages and Disadvantages Essay</strong></span></span><span><span style="background-color:#ffffff">&nbsp;</span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span><span style="background-color:#ffffff">(Dạng bài phân tích lợi và hại)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Two-Part Question Essay</strong></span></span><span><span style="background-color:#ffffff"> </span></span><span><span style="background-color:#ffffff"><strong>(Problems-Solutions, Causes-Positive/Negative, etc)</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span><span style="background-color:#ffffff">(Dạng bài hai câu hỏi)</span></span></p>
+
+<p><span><span style="background-color:#ffffff">=&gt; </span></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>Chi tiết về đặc điểm, lưu ý và cách làm từng dạng bài sẽ được thảo luận ở các Lesson sau</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">- </span></span><span>Mỗi dạng bài đều có nhiều cách tiếp cận, không chỉ một cách cố định. Một chủ đề có thể có nhiều dạng câu hỏi khác nhau</span></p>
+
+<p><span>=&gt; Bên cạnh việc tiếp xúc với nhiều chủ đề khác nhau để nâng cao khả năng ngôn ngữ, thí sinh còn cần rèn luyện những kỹ năng sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Bàn luận và đánh giá về những lợi ích và bất lợi của một hiện tượng</span></li>
+	<li style="list-style-type:disc"><span>Bàn luận về 1 hoặc 2 ý kiến về một chủ đề và đưa ý kiến riêng của người viết</span></li>
+	<li style="list-style-type:disc"><span>Bàn luận về nguyên nhân của một vấn đề và những ảnh hưởng/ tác động của nó</span></li>
+	<li style="list-style-type:disc"><span>Bàn luận về những vấn đề liên quan đến một hiện tượng và đề xuất giải pháp&nbsp;</span></li>
+</ul>
+
+<p><span><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Các bạn cùng theo dõi ví dụ về các đề Task 2 thuộc 5 dạng bài nêu trên:</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Opinion Essay</strong></span></span><span><span style="background-color:#ffffff">:&nbsp;</span></span></li>
+</ul>
+
+<p style="text-align:center"><span><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQkWM4ZJjEp52nO-X7o0NH1E54Hr_78r95aJkn2tdhh2QFbsD_e65uOlBbe1eGbAmqZ8N_GFxBJaOjmH-bqK5ChA9Af4tMYUbRHQA6uKw-xPVNqr-IjqJ5nlvfBAGKtaYLg6YujQC3ncXP9d0VzsfzA-XP?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:114px; width:557px"></span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Question/Task: Do you agree or disagree? </strong></span></span><span><span style="background-color:#ffffff">(Liệu bạn đồng ý hay không đồng ý?)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Positive/Negative Essay</strong></span></span><span><span style="background-color:#ffffff">:</span></span></li>
+</ul>
+
+<p style="text-align:center"><span><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdBR91BMUehbJ4-ZAf-6EkxWwYo8bsuZDd66JqwI2v0zLvGNQigylYLEtgdqulcimJShRHEge8VTUWzGaRSkS1pYOXVnpgNBnuW8bnYx1EgiAWaz0OebQpylTH3MTWoB7-Cz0ohfsqbzy1tWGGJ3Qng724?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:98px; width:564px"></span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Question/Task: Do you think this is a positive or a negative development? </strong></span></span><span><span style="background-color:#ffffff">(Liệu bạn cho rằng xu hướng này là tốt hay xấu?)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Discussion Essay</strong></span></span><span><span style="background-color:#ffffff">:</span></span></li>
+</ul>
+
+<p style="text-align:center"><span><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfC1vqLPvNOqL9xBMom6Xx78m7IXDjB0lKy1hinbE0TvuumWjuAVsfRjAedTIgU_JWUjlfOVtqSq7oS_FpCHyGxpEeN-YyWbsI_L3zEITYbXDSatwWz37en1tCy-8q6UfuwBVaPU_JrPfkJ-ldE-r2Vfi_H?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:120px; width:577px"></span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Question/Task: Discuss both these views and give your own opinion </strong></span></span><span><span style="background-color:#ffffff">(Thảo luận về cả 2 chiều ý kiến và nêu quan điểm cá nhân)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Advantages and Disadvantages Essay</strong></span></span><span><span style="background-color:#ffffff">&nbsp;</span></span></li>
+</ul>
+
+<p style="text-align:center"><span><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXehCyWgha27wZjh-xqse7cPXg5doEYnpT2-iSb-5UZiVUzEpGCM3BoO0w3NvhjFDHiLrhRAChxDP5547uQnqsKIuKldJkuDASlE-dnCTF-7TP3dLCypQUuZ5C2wMQSSFbl0HnjpzwEWdbEvbWXA0D7jCH3k?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:106px; width:583px"></span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Question/Task: Do you think the advantages of taking risks outweigh the disadvantages? </strong></span></span><span><span style="background-color:#ffffff">(Liệu bạn nghĩ lợi thế từ việc mạo hiểm có lớn hơn bất lợi?)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Two-Part Question Essay</strong></span></span><span><span style="background-color:#ffffff"> </span></span><span><span style="background-color:#ffffff"><strong>(Problems-Solutions, Causes-Positive/Negative, etc)</strong></span></span></li>
+</ul>
+
+<p style="text-align:center"><span><span style="background-color:#ffffff"><strong><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdxRWyMNg1brJ9WxiVAFAwPa_uVoMnbsr5M5zaHFAAHf6hAyat8dA4R7B70-KzN865NT5IeIXqheCu9wuP8Fw0EzNxZ-4hq5T-59Fhw4BPk2s7ntubh5wNXhOCq3iB0FdXtipNbsYaNgGuZ0ADOwic3DmI?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:108.9172; margin-top:-5px; width:583.0286"></strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Question/Task: Why is this the case? Do you think this is a positive or negative development? </strong></span></span><span><span style="background-color:#ffffff">(Tại sao lại như vậy? Liệu bạn cho rằng đây là xu hướng tích cực hay tiêu cực?)</span></span></p>
+
+<p><span><span style="background-color:#ffffff">=&gt; </span></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>Dựa vào câu hỏi (question/task) để xác định lần lượt từng dạng</strong></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">Cụ thể, với đề Opinion:</span></span></p>
+
+<p style="text-align:center"><span><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQkWM4ZJjEp52nO-X7o0NH1E54Hr_78r95aJkn2tdhh2QFbsD_e65uOlBbe1eGbAmqZ8N_GFxBJaOjmH-bqK5ChA9Af4tMYUbRHQA6uKw-xPVNqr-IjqJ5nlvfBAGKtaYLg6YujQC3ncXP9d0VzsfzA-XP?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:114px; width:557px"></span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Khi viết, chúng ta sẽ cần phải áp dụng các kỹ năng này như sau:</span></span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span>Bàn về tác động của đồ ăn/ đồ uống nhiều đường lên sức khỏe&nbsp;&nbsp;</span></li>
+	<li style="list-style-type:disc"><span>Bàn về lợi ích/ bất lợi của việc tăng giá đường để khuyến khích người dân&nbsp;</span></li>
+</ul>
+
+<p style="margin-left:96px"><span>giảm tiêu thụ đường</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Đưa ra ý kiến riêng đồng ý hay không đồng ý, tại sao?&nbsp;&nbsp;</span></li>
+	<li style="list-style-type:disc"><span>Nếu không đồng ý thì có thể đề xuất giải pháp khác hiệu quả hơn&nbsp;&nbsp;&nbsp;</span></li>
+</ul>
+
+<h2 id="3.-các-tiêu-chí-chấm-điểm"><span><strong>3. </strong></span><span>Các tiêu chí chấm điểm:</span></h2>
+
+<p><span>- Giống như Task 1, Task 2 cũng được đánh giá dựa trên 4 tiêu chí:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:620px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #666666; border-left:1px solid #666666; border-right:1px solid #666666; border-top:1px solid #666666; vertical-align:top; width:162px">
+			<ul>
+				<li style="list-style-type:disc"><span><strong>Task response</strong></span></li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid #666666; border-left:1px solid #666666; border-right:1px solid #666666; border-top:1px solid #666666; vertical-align:top; width:458px">
+			<p><span>- Bài viết đã trả lời tất cả các ý trong câu hỏi chưa?</span></p>
+
+			<p><span>- Lập luận đã cân bằng và chặt chẽ chưa? Có dẫn chứng và ví dụ để chứng minh cho luận điểm đưa ra không?</span></p>
+
+			<p><span>- Tất cả các luận điểm trong bài có đều liên quan đến câu hỏi không?</span></p>
+
+			<p><span>- Bài viết có đủ 250 chữ không?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #666666; border-left:1px solid #666666; border-right:1px solid #666666; border-top:1px solid #666666; vertical-align:top; width:162px">
+			<ul>
+				<li style="list-style-type:disc"><span><strong>Coherence &amp; Cohesion</strong></span></li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid #666666; border-left:1px solid #666666; border-right:1px solid #666666; border-top:1px solid #666666; vertical-align:top; width:458px">
+			<p><span>- Bài viết có dễ hiểu không?</span></p>
+
+			<p><span>- Các luận điểm có được sắp xếp một cách logic và hợp lý không?&nbsp;</span></p>
+
+			<p><span>- Các ý có liên kết với nhau không?&nbsp;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #666666; border-left:1px solid #666666; border-right:1px solid #666666; border-top:1px solid #666666; vertical-align:top; width:162px">
+			<ul>
+				<li style="list-style-type:disc"><span><strong>Lexical Resource</strong></span></li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid #666666; border-left:1px solid #666666; border-right:1px solid #666666; border-top:1px solid #666666; vertical-align:top; width:458px">
+			<p><span>- Từ vựng trong bài viết có phong phú không?</span></p>
+
+			<p><span>- Từ vựng có được dùng chính xác và hiệu quả không?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #666666; border-left:1px solid #666666; border-right:1px solid #666666; border-top:1px solid #666666; vertical-align:top; width:162px">
+			<ul>
+				<li style="list-style-type:disc"><span><strong>Grammatical Range &amp; Accuracy</strong></span></li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid #666666; border-left:1px solid #666666; border-right:1px solid #666666; border-top:1px solid #666666; vertical-align:top; width:458px">
+			<p><span>- Ngữ pháp trong bài viết có phong phú không?</span></p>
+
+			<p><span>- Ngữ pháp có được dùng chính xác và hiệu quả không?&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span>=&gt; </span><span style="color:#ff0000"><strong>Chúng ta sẽ cùng giải quyết các vấn đề liên quan tới từng tiêu chí ở những Lesson sau</strong></span></p>
+
+<p>&nbsp;</p>
+        </div>

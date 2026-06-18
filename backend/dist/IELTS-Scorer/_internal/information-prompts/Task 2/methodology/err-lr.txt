@@ -1,0 +1,1842 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="các-lỗi-về-lexical-resource"><span><span style="background-color:#ffffff">Các lỗi về Lexical Resource</span></span></h1>
+
+<h2 id="1.-yêu-cầu"><span><span style="background-color:#ffffff"><strong>1.</strong></span></span><span><span style="background-color:#ffffff"> Yêu cầu</span></span></h2>
+
+<p><span><span style="background-color:#ffffff">- Để đạt band 7+ ở tiêu chí LR, thí sinh cần đảm bảo những yếu tố sau:</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Accurate spelling/ word form</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span><span style="background-color:#ffffff">(Viết đúng chính tả/ cấu tạo từ)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Natural words</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span><span style="background-color:#ffffff">(Dùng từ vựng tự nhiên)</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Some uncommon and/ or idiomatic items with awareness of style and collocation&nbsp;</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span><span style="background-color:#ffffff">(Dùng ngôn ngữ ít phổ biến phù hợp với văn phong và cách kết hợp từ)</span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Để nắm rõ cách các yếu tố này được thể hiện trong một bài viết, chúng ta cùng phân tích một ví dụ:</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><strong>Some university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.</strong></span></p>
+
+			<p style="text-align:center"><span>(Một số sinh viên đại học muốn học các môn khác ngoài môn chuyên ngành. Một số người khác lại tin rằng điều quan trọng là cần phải dành hết thời gian và chỉ để tâm tới việc học để lấy bằng cấp. Bình luận về cả hai ý kiến này và đưa ra quan điểm cá nhân)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>Students attend university to improve their prospects and find suitable employment after graduation. For this reason, some feel that they should focus all their energy on their main subjects to gain </span><span><span style="background-color:#ff00ff"><strong>a relevant qualification</strong></span></span><span>. Others want a more </span><span><span style="background-color:#ff00ff"><strong>well-rounded education</strong></span></span><span>, so they try to learn about additional subjects.</span></p>
+
+			<p><span>It is perfectly reasonable for students to enter university with a </span><span><span style="background-color:#ff00ff"><strong>strong sense of curiosity</strong></span></span><span> and a desire to learn as much as possible. Unfortunately, we tend to </span><span><span style="background-color:#ff00ff"><strong>put subjects into artificial</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>boxes</strong></span></span><span>, suggesting that business, art and science are not connected. If students become too focused on a single area, it may </span><span><span style="background-color:#ff00ff"><strong>stifle their initial curiosity</strong></span></span><span>, limiting their potential. They could also graduate with a very narrow skill set that doesn't translate well to the current job market, which often favours those who have taken a</span><span><span style="background-color:#ffffff"><strong> </strong></span></span><span><span style="background-color:#ff00ff"><strong>multidisciplinary approach</strong></span></span><span> to their studies.</span></p>
+
+			<p><span>Despite this, caution is certainly needed. The more we learn about a subject, the more complex it becomes. </span><span><span style="background-color:#ff00ff"><strong>Gaining an in-depth, specialist knowledge</strong></span></span><span> of a subject requires a certain level of focus and dedication over a long period. If we try to learn about too many things at once, our knowledge may lack the depth required to obtain a qualification. If they are not careful, young people could begin to lose interest in their main subjects, which would be </span><span><span style="background-color:#ff00ff"><strong>detrimental to their studies</strong></span></span><span>.</span></p>
+
+			<p><span>While learning about other subjects is not necessarily a bad thing, I believe university students should ensure that their main subjects</span><span><span style="background-color:#ffffff"><strong> </strong></span></span><span><span style="background-color:#ff00ff"><strong>remain the priority</strong></span></span><span> so that they do not </span><span><span style="background-color:#ff00ff"><strong>lose</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>sight of their objective</strong></span></span><span>: gaining a qualification. Then they can calculate how much time, energy and </span><span><span style="background-color:#ff00ff"><strong>headspace</strong></span></span><span> they have left for learning about other topics.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:right"><span>(Bài viết mẫu của examiner, Cambridge 18, p.131)</span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Bài viết đã thể hiện sự linh hoạt, sắc sảo trong việc sử dụng từ như sau:</span></span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>a relevant qualification:</strong></span></span><span><span style="background-color:#ffffff"> bằng cấp phù hợp hoặc bằng cấp liên quan đến chuyên ngành</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>well-rounded education:</strong></span></span><span><span style="background-color:#ffffff"> giáo dục toàn diện</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>strong sense of curiosity:</strong></span></span><span><span style="background-color:#ffffff"> tính tò mò lớn</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>put subjects into artificial</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>boxes:</strong></span></span><span><span style="background-color:#ffffff"><strong> </strong></span></span><span><span style="background-color:#ffffff">quy chụp các môn vào các khối học</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>stifle their initial curiosity:</strong></span></span><span><span style="background-color:#ffffff"> thúc đẩy tính tò mò</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>multidisciplinary approach:</strong></span></span><span><span style="background-color:#ffffff"> cách tiếp cận đa ngành</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>Gaining an in-depth, specialist knowledge:</strong></span></span><span><span style="background-color:#ffffff"> có được kiến thức chuyên môn</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>detrimental to their studies:</strong></span></span><span><span style="background-color:#ffffff"> quan trọng tới học tập</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>remain the priority:</strong></span></span><span><span style="background-color:#ffffff"> vẫn đóng vai trò ưu tiên&nbsp;</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>lose</strong></span></span><span><span style="background-color:#ff00ff"> </span></span><span><span style="background-color:#ff00ff"><strong>sight of their objective:</strong></span></span><span><span style="background-color:#ffffff"> mất phương hướng</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ff00ff"><strong>headspace:</strong></span></span><span><span style="background-color:#ffffff"> tư duy</span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Vậy, mắc lỗi nào thì sẽ hạ điểm bài viết? - Chúng ta cùng tìm hiểu về các vấn đề mà bài viết band 4, 5, 6 LR gặp phải:&nbsp;</span></span></p>
+
+<div style="margin-left:-17px">
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:688px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:53px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Band</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:136px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Range</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:284px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Word choice</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:215px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Spelling/Word formation</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:53px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>6</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:136px">
+			<p><span><strong>The resource is </strong></span><span><span style="background-color:#00ff00"><strong>generally adequate and appropriate</strong></span></span><span><strong> for the task.</strong></span></p>
+
+			<p><span>Vốn từ vựng&nbsp;</span></p>
+
+			<p><span>nói chung là đủ và phù hợp với đề bài.&nbsp;</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:284px">
+			<p><span><span style="background-color:#00ff00"><strong>The meaning is generally clear</strong></span></span><span><strong> in spite of a </strong></span><span><span style="background-color:#ffff00"><strong>rather restricted range or a lack of precision in word choice.&nbsp;</strong></span></span></p>
+
+			<p><span>Ý nghĩa nhìn chung được thể hiện rõ ràng, mặc dù độ linh hoạt hay tính chính xác trong cách dùng từ còn hạn chế.&nbsp;</span></p>
+
+			<p><span><strong>If the writer is a risk-taker, there will be </strong></span><span><span style="background-color:#00ff00"><strong>a wider range of vocabulary used </strong></span></span><span><span style="background-color:#ffff00"><strong>but higher degrees of inaccuracy or inappropriacy.</strong></span></span><span><strong>&nbsp;</strong></span></p>
+
+			<p><span>Nếu người viết chấp nhận rủi ro, họ sẽ dùng nhiều từ vựng phong phú hơn nhưng cũng kéo theo nhiều lỗi sai hơn về nghĩa và văn phong.&nbsp;</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:215px">
+			<p><span><strong>There are </strong></span><span><span style="background-color:#ffff00"><strong>some errors</strong></span></span><span><strong> in spelling and/or word formation, but these </strong></span><span><span style="background-color:#00ff00"><strong>do not impede communication.</strong></span></span></p>
+
+			<p><span>Mắc một số lỗi chính tả và/hoặc cấu tạo từ, nhưng không cản trở giao tiếp.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:53px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>5</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:136px">
+			<p><span><strong>The resource is </strong></span><span><span style="background-color:#ffff00"><strong>limited but minimally adequate for the task.</strong></span></span></p>
+
+			<p><span>Vốn từ vựng hạn chế nhưng vẫn tạm đủ để đáp ứng yêu cầu đề bài.&nbsp;&nbsp;</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:284px">
+			<p><span><strong>Simple vocabulary may be used accurately but </strong></span><span><span style="background-color:#ffff00"><strong>the range does not permit much variation in expression</strong></span></span><span><strong>.&nbsp;</strong></span></p>
+
+			<p><span>Có thể sử dụng chính xác những từ vựng đơn giản nhưng cách diễn đạt không đa dạng&nbsp;</span></p>
+
+			<p><span><strong>There may be </strong></span><span><span style="background-color:#ffff00"><strong>frequent lapses in the appropriateness of word choice</strong></span></span><span><strong>, and </strong></span><span><span style="background-color:#ffff00"><strong>a lack of flexibility is apparent in frequent simplifications and/or repetitions</strong></span></span><span><strong>.&nbsp;</strong></span></p>
+
+			<p><span>Thường xuyên mắc lỗi trong chọn từ và thiếu linh hoạt do thường đơn giản hóa và/hoặc lặp từ&nbsp;</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:215px">
+			<p><span><strong>Errors in spelling and/or word formation </strong></span><span><span style="background-color:#ffff00"><strong>may be noticeable and may cause some difficulty for the reader.</strong></span></span></p>
+
+			<p><span>Mắc nhiều lỗi chính tả và/ hoặc cấu tạo từ và có thể gây khó khăn cho người đọc.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:53px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>4</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:136px">
+			<p><span><strong>The resource is </strong></span><span><span style="background-color:#ffff00"><strong>limited and inadequate for or unrelated to the task.</strong></span></span><span>&nbsp;</span></p>
+
+			<p><span>Vốn từ sử dụng còn hạn chế, và không đủ hoặc không liên quan tới đề bài.&nbsp;</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:284px">
+			<p><span><strong>Vocabulary is </strong></span><span><span style="background-color:#ffff00"><strong>basic and may be used repetitively</strong></span></span><span><strong>.&nbsp;</strong></span></p>
+
+			<p><span>Từ vựng còn khá cơ bản và có thể bị lặp lại nhiều lần.</span></p>
+
+			<p><span><strong>There may be inappropriate use of lexical chunks (e.g. </strong></span><span><span style="background-color:#ffff00"><strong>memorized phrases, formulaic language and/or language from the input material</strong></span></span><span><strong>).&nbsp;</strong></span></p>
+
+			<p><span>Kết hợp từ chưa đúng (VD: các cụm từ học thuộc lòng, ngôn ngữ kiểu khuôn mẫu và/hoặc lấy y nguyên từ đề bài)&nbsp;</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:215px">
+			<p><span><span style="background-color:#ffff00"><strong>Inappropriate</strong></span></span><span><strong> word choice and/or errors in word formation and/or in spelling </strong></span><span><span style="background-color:#ffff00"><strong>may impede meaning</strong></span></span><span><strong>.</strong></span><span>&nbsp;</span></p>
+
+			<p><span>Dùng từ chưa phù hợp và/hoặc có nhiều lỗi trong việc dùng từ và/hoặc lỗi chính tả gây ảnh hưởng tới nghĩa của câu.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Vậy, chúng ta rút ra một số </span></span><span>lỗi khiến điểm LR thấp là:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Limited resource</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span>(Vốn từ vựng hạn chế)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Inaccurate or inappropriate word choice&nbsp;</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span>(Dùng từ chưa chính xác hoặc không phù hợp)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Frequent errors in spelling/ word formation</strong></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span>(Mắc nhiều lỗi chính tả/ cấu tạo từ)</span></p>
+
+<h2 id="2.-các-lỗi-sai--cách-khắc-phục"><span><span style="background-color:#ffffff"><strong>2.</strong></span></span><span><span style="background-color:#ffffff"> Các lỗi sai &amp; Cách khắc phục</span></span></h2>
+
+<h3 id="2.1.-vốn-từ-vựng-hạn-chế"><span><strong>2.1.</strong></span><span> Vốn từ vựng hạn chế</span></h3>
+
+<h4 id="2.1.1.-biểu-hiện"><span><strong>2.1.1. </strong></span><span>Biểu hiện</span></h4>
+
+<p><span>- Vốn từ vựng hạn chế thể hiện ở việc bài viết chỉ sử dụng những từ vựng cơ bản, level thấp và thường xuyên lặp từ</span></p>
+
+<p><span>- Một biểu hiện khác là việc copy toàn bộ từ trong đề bài vào bài viết, mà không dùng cách diễn đạt khác đi</span></p>
+
+<p><span>- Biểu hiện cuối cùng là việc sử dụng từ vựng với nghĩa không rõ ràng, quá chung chung hoặc mập mờ, gây khó hiểu</span></p>
+
+<p><span><strong>Lưu ý:</strong></span></p>
+
+<p><span>- Vậy, thế nào là từ vựng cơ bản/level thấp? - Khả năng sử dụng tiếng Anh được đánh giá dựa trên khung tham chiếu Châu Âu như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:483px">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:#cccccc; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:197px">
+			<p style="text-align:center"><span>CEFR</span></p>
+			</td>
+			<td style="background-color:#cccccc; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:71px">
+			<p style="text-align:center"><span>IELTS Bands</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:#00ff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:197px">
+			<p><span>Proficient user</span></p>
+			</td>
+			<td style="background-color:#00ff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:71px">
+			<p style="text-align:center"><span>C2</span></p>
+			</td>
+			<td style="background-color:#00ff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:215px">
+			<p><span>8.5 - 9</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#00ff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:197px">
+			<p style="text-align:center"><span>C1</span></p>
+			</td>
+			<td style="background-color:#00ff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:71px">
+			<p><span>7 - 7.5</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:#ffff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:197px">
+			<p><span>Independent user</span></p>
+			</td>
+			<td style="background-color:#ffff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:71px">
+			<p style="text-align:center"><span>B2</span></p>
+			</td>
+			<td style="background-color:#ffff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:215px">
+			<p><span>5.5 - 6.5</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#ffff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:197px">
+			<p style="text-align:center"><span>B1</span></p>
+			</td>
+			<td style="background-color:#ffff00; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:71px">
+			<p><span>4 - 5</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:#fff2cc; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:197px">
+			<p><span>Basic user</span></p>
+			</td>
+			<td style="background-color:#fff2cc; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:71px">
+			<p style="text-align:center"><span>A2</span></p>
+			</td>
+			<td style="background-color:#fff2cc; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:215px">
+			<p><span>3 - 3.5</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#fff2cc; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:197px">
+			<p style="text-align:center"><span>A1</span></p>
+			</td>
+			<td style="background-color:#fff2cc; border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:71px">
+			<p><span>1 - 2</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>&nbsp;</span></p>
+
+<p><span>- Chúng ta cũng hoàn toàn biết được level của từ vựng được sử dụng nếu nhìn qua từ điển:</span></p>
+
+<p style="text-align:center"><span><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdnuZOCeE0YnP4VZ-HREgtWFfYhWtBAbr3cpT3a6VL2nTAsRktBaLuHSeGxNIHmBisi_EbMq8wG1zMs7LsGdvvKS0x_X4N8SfxbFjnMGiMulRosV9fruxlevDHYuIz5onkw5aeCIQ?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:261px; width:473px"></span></p>
+
+<p><span>- Việc sử dụng từ vựng A1 - A2 không hề xấu. Tuy nhiên, nếu bạn chỉ dùng từ vựng cơ bản mà không kết hợp với những từ vựng level cao hơn (B1 - C2), giám khảo sẽ đánh giá rằng vốn từ của bạn còn hạn chế và bạn không có khả năng sử dụng những từ chính xác hơn để diễn đạt ý của mình (đặc điểm của LR band 5).&nbsp;</span></p>
+
+<h4 id="2.1.2.-cách-khắc-phục"><span><strong>2.1.2. </strong></span><span>Cách khắc phục</span></h4>
+
+<p><span>- Khi học, xây dựng vốn từ vựng chủ động (active vocabulary)&nbsp;</span></p>
+
+<p><span>- Khi viết bài, áp dụng các cách diễn đạt linh hoạt sau:&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Dùng từ đồng nghĩa/gần nghĩa; hoặc cụ thể hóa khái niệm</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Thay đổi cấu tạo từ</strong></span></li>
+	<li style="list-style-type:disc"><span><strong>Thay đổi cấu trúc câu</strong></span></li>
+</ul>
+
+<p><span>- Chúng ta cùng quan sát các ví dụ cụ thể về các bài viết mà mắc phải lỗi này:</span></p>
+
+<p><span><strong>Ví dụ 1: Lỗi lặp từ + diễn đạt dài dòng</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><strong>Some people argue that governments should not pay money for international aid when there are some disadvantaged people in their own country, such as the homeless and the unemployed. To what extent do you agree or disagree?</strong></span></p>
+
+			<p style="text-align:center"><span>(Một số người tranh cãi rằng chính phủ không nên chi tiêu vào các khoản hỗ trợ quốc tế khi trong nước vẫn còn những người gặp hoàn cảnh khó khăn, như người vô gia cư hay người thất nghiệp. Liệu bạn đồng ý hay không đồng ý?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Với đề bài này, thí sinh có đoạn BP2 như sau:</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span>On the other hand, paying attention to </span><span style="color:#0000ff"><strong>other countries</strong></span><span> instead of paying money for</span><span><strong> </strong></span><span style="color:#ff9900"><strong>people in their own country</strong></span><span> causes several drawbacks. Firstly, </span><span style="color:#017837"><strong>funding for international aid</strong></span><span><strong> </strong></span><span>can negatively affect national security of </span><span style="color:#017837"><strong>the countries providing money</strong></span><span>. To be more specific,</span><span style="color:#ff9900">&nbsp; </span><span style="color:#ff9900"><strong>unemployed and homeless people in their own country</strong></span><span> will not have enough money to live. As a consequence,</span><span style="color:#ff9900"><strong> the people in the country</strong></span><span><strong> </strong></span><span>will do unlawful actions such as burglary and pickpocketing to earn their living, which can lead to a higher crime rate in society. Moreover,</span><span style="color:#017837"> </span><span style="color:#017837"><strong>funding for international aid</strong></span><span> can not help </span><span style="color:#0000ff"><strong>other countries</strong></span><span><strong> </strong></span><span>improve economic development. To be particular, </span><span style="color:#0000ff"><strong>people in some countries</strong></span><span><strong> </strong></span><span style="color:#0000ff"><strong>which need international</strong></span><span><strong> </strong></span><span style="color:#0000ff"><strong>aid</strong></span><span><strong> </strong></span><span>can only earn their living from </span><span style="color:#017837"><strong>money which other countries pay for them</strong></span><span>. As a consequence, they will become reliant on these aids, hindering the development of any sustainable economic practices. Indeed, </span><span style="color:#017837"><strong>funding for international aid</strong></span><span> can negatively affect national development and economic development of </span><span style="color:#0000ff"><strong>other countries</strong></span><span>.&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(Bài viết nêu lý do không ủng hộ việc chi tiêu vào các khoản trợ cấp quốc tế)</span></p>
+
+<p><span><strong>Phân tích:</strong></span></p>
+
+<p><span>- Bài viết nhiều lần mắc lỗi lặp từ, cụ thể:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="color:#0000ff"><strong>other countries</strong></span><span>: lặp lại 2 lần</span></li>
+	<li style="list-style-type:disc"><span style="color:#ff9900"><strong>people in their own country</strong></span><span>: lặp lại 3 lần&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="color:#017837"><strong>funding for international aid</strong></span><span>: lặp lại 3 lần</span></li>
+</ul>
+
+<p><span>- Trong những lần tránh được lặp từ, thì bài viết lại paraphrase các cụm quá dài dòng/sai nghĩa. Cụ thể:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="color:#017837"><strong>the countries providing money</strong></span><span>: diễn đạt dài dòng và chưa sát nghĩa với cụm “</span><span><strong>international aid</strong></span><span>”</span></li>
+	<li style="list-style-type:disc"><span style="color:#0000ff"><strong>people in some countries</strong></span><span><strong> </strong></span><span style="color:#0000ff"><strong>which need international</strong></span><span><strong> </strong></span><span style="color:#0000ff"><strong>aid</strong></span><span>: diễn đạt dài dòng</span></li>
+	<li style="list-style-type:disc"><span style="color:#017837"><strong>money which other countries pay for them</strong></span><span>: paraphrase sai hẳn về mặt nghĩa</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Vậy, chúng ta sẽ có bản chỉnh sửa như sau:</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span>On the other hand, </span><span style="color:#ff0000"><strong>funding international aid</strong></span><span style="color:#ff0000"> </span><span>causes several drawbacks. Firstly, </span><span style="color:#017837"><strong>it </strong></span><span>can negatively affect national security of</span><span style="color:#ff0000"><strong> those providing support</strong></span><span>. To be more specific,</span><span style="color:#ff0000"><strong> the unemployed and homeless in these countries</strong></span><span> will not have enough money to live. As a consequence, </span><span style="color:#ff0000"><strong>they</strong></span><span> will do unlawful actions such as burglary and pickpocketing to earn their living, which can lead to a higher crime rate in society. Moreover,</span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>this</strong></span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>development</strong></span><span> can not help </span><span style="color:#ff0000"><strong>underdeveloped</strong></span><span style="color:#0000ff"> </span><span style="color:#ff0000"><strong>nations</strong></span><span> improve economic development. To be particular, </span><span style="color:#ff0000"><strong>the</strong></span><span style="color:#0000ff"><strong> </strong></span><span style="color:#ff0000"><strong>people</strong></span><span style="color:#0000ff"><strong> </strong></span><span style="color:#ff0000"><strong>living</strong></span><span style="color:#0000ff"><strong> </strong></span><span style="color:#ff0000"><strong>in</strong></span><span style="color:#0000ff"><strong> </strong></span><span style="color:#ff0000"><strong>these</strong></span><span style="color:#0000ff"><strong> </strong></span><span style="color:#ff0000"><strong>countries</strong></span><span> can only earn their living from</span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>money</strong></span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>which</strong></span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>given</strong></span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>to</strong></span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>them</strong></span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>through</strong></span><span> </span><span style="color:#ff0000"><strong>aid</strong></span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>packages</strong></span><span>. As a consequence, they will become reliant on these aids, hindering the development of any sustainable economic practices. Indeed,</span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>international</strong></span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>aid</strong></span><span> can negatively affect </span><span style="color:#ff0000"><strong>both parties involved, regarding both national and economic development</strong></span><span>.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(Bài viết nêu lý do không ủng hộ việc chi tiêu vào các khoản trợ cấp quốc tế)</span></p>
+
+<p><span><strong>Ví dụ 2: Lỗi sử dụng từ vựng chung chung, gây khó hiểu</strong></span></p>
+
+<p><span>- Chúng ta cùng phân tích câu lập luận sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span>Without Science and Technology we're just normal human beings. We spend our daily life </span><span style="color:#017837"><strong>with no useful</strong></span><span>. Without</span><span style="color:#017837"> </span><span>them</span><span style="color:#017837"> </span><span>we have no light we have no food we have no </span><span style="color:#017837"><strong>comfortable stuff and things</strong></span><span>.&nbsp;&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(Thiếu Khoa Học và Công Nghệ thì chúng ta chỉ là những con người bình thường. Chúng ta dành cuộc sống hằng ngày với không gì hữu dụng. Thiếu nó chúng ta không có ánh sáng chúng ta không có đồ ăn chúng ta không có đồ thoải mái)</span></p>
+
+<p><span><strong>Phân tích:</strong></span></p>
+
+<p><span>- Với cụm “</span><span><strong>with</strong></span><span> </span><span><strong>no</strong></span><span> </span><span><strong>useful</strong></span><span>” (với không hữu dụng), thì ngay cả khi dịch sang tiếng Việt, câu này vẫn rất khó hiểu và không thể biết tác giả đang nói gì</span></p>
+
+<p><span>- Hai từ “</span><span><strong>stuff</strong></span><span>” và “</span><span><strong>thing</strong></span><span>” chỉ tới các khái niệm quá mơ hồ. Những thứ mà gây thoải mái cụ thể là vật gì?</span></p>
+
+<p><span>=&gt; </span><span style="color:#ff0000"><strong>Mặc dù không sai về mặt nghĩa, nhưng thể hiện sự hạn chế trong việc sử dụng từ vựng</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Vậy, chúng ta sẽ có bản chỉnh sửa như sau:</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span>Without Science and Technology, we're just normal human beings. We spend our daily life </span><span style="color:#ff0000"><strong>without modern appliances</strong></span><span>. Without them, we have no light, we have no food, we have no comfortable</span><span style="color:#017837"><strong> </strong></span><span style="color:#ff0000"><strong>modern conveniences such as rice cookers or microwaves</strong></span><span>.&nbsp;&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(Thiếu Khoa Học và Công Nghệ thì chúng ta chỉ là những con người bình thường. Cuộc sống hằng ngày của chúng ta sẽ </span><span style="color:#ff0000"><strong>thiếu đi các thiết bị hiện đại</strong></span><span>. Thiếu nó chúng ta không có ánh sáng chúng ta không có đồ ăn chúng ta không có các </span><span style="color:#ff0000"><strong>thiết bị hiện đại như nồi cơm điện hay lò vi sóng</strong></span><span>)</span></p>
+
+<p>&nbsp;</p>
+
+<h3 id="2.2.-dùng-từ-sai-hoặc-không-phù-hợp"><span><strong>2.2.</strong></span><span> Dùng từ sai hoặc không phù hợp</span></h3>
+
+<h4 id="2.2.1.-biểu-hiện"><span><strong>2.2.1. </strong></span><span>Biểu hiện</span></h4>
+
+<p><span><span style="background-color:#ffffff">- Dùng từ sai/không phù hợp có rất nhiều biểu hiện. Phổ biến nhất là việc dùng từ sai ngữ cảnh.&nbsp;</span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Một biểu hiện khác là lạm dụng từ lạ/ từ hiếm, level cao nhưng sai nghĩa hoặc không phù hợp.</span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Biểu hiện cuối cùng là sử dụng từ không phù hợp văn phong.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Về việc sử dụng các idioms trong Writing Task 2, cần khẳng định rằng idioms là một phần của idiomatic language - yếu tố để giúp LR đạt band 7+&nbsp;</span></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Tuy nhiên, phần lớn các idioms mang tính informal, vì vậy không nên dùng trong Writing. </span></span><span><span style="background-color:#ffffff"><strong>VD: cost an arm and a leg</strong></span></span><span><span style="background-color:#ffffff"> (rất đắt đỏ)&nbsp;</span></span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff">Một số ít các idioms đủ formal để dùng được trong Writing, nhưng cần chú ý cách dùng. </span></span><span><span style="background-color:#ffffff"><strong>VD: in the long run</strong></span></span><span><span style="background-color:#ffffff"> (trong dài hạn), </span></span><span><span style="background-color:#ffffff"><strong>the key to this issue</strong></span></span><span><span style="background-color:#ffffff"> (giải pháp cho vấn đề này), </span></span><span><span style="background-color:#ffffff"><strong>pave the way</strong></span></span><span><span style="background-color:#ffffff"> (mở đường cho), </span></span><span><span style="background-color:#ffffff"><strong>bridge the gap</strong></span></span><span><span style="background-color:#ffffff"> (tạo cầu nối)&nbsp;&nbsp;&nbsp;</span></span></li>
+</ul>
+
+<p><span><span style="background-color:#ffffff">=&gt; Thay vì sử dụng idioms, phrasal verbs (cụm động từ) là một dạng idiomatic language được dùng phổ biến trong Writing.&nbsp;</span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>VD: bring about</strong></span></span><span><span style="background-color:#ffffff"> (mang lại), </span></span><span><span style="background-color:#ffffff"><strong>look after</strong></span></span><span><span style="background-color:#ffffff"> (chăm sóc)&nbsp;&nbsp;</span></span></p>
+
+<p><span><span style="background-color:#ffffff">=&gt; Ngoài ra, collocations (các cụm cố định, các từ thường đi cùng nhau tạo thành cụm có nghĩa) là một yếu tố giúp tăng điểm LR. Nhiều collocations còn mang tính idiomatic.&nbsp;</span></span></p>
+
+<p><span><span style="background-color:#ffffff"><strong>VD: a heavy smoker </strong></span></span><span><span style="background-color:#ffffff">(một người nghiện thuốc lá)&nbsp;&nbsp;</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff"><strong>- </strong></span></span><span>Quan niệm: “dùng càng nhiều từ hiếm, từ lạ, từ level cao càng tốt” là sai lầm.&nbsp;&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Từ vựng ở bất cứ level nào cũng cần ưu tiên dùng đúng: đúng nghĩa, đúng ngữ cảnh và đúng văn phong.&nbsp;</span></li>
+	<li style="list-style-type:disc"><span>Mục đích chính là diễn đạt chính xác ý người viết muốn nói&nbsp;</span></li>
+</ul>
+
+<p><span>=&gt; Dùng nhiều từ vựng level cao nhưng sai nghĩa, sai ngữ cảnh hoặc không phù hợp văn phong sẽ khiến bài viết bị khó hiểu, dẫn tới việc điểm LR thấp.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p><span>- Văn phong formal không đồng nghĩa với việc bài viết không được thể hiện quan điểm cá nhân.&nbsp;&nbsp;</span></p>
+
+<p><span>=&gt; Việc dùng các từ/ cụm từ thể hiện quan điểm cá nhân (I think…/ In my opinion,...) là cần thiết trong writing Task 2 vì nó nằm trong yêu cầu đề bài.&nbsp;&nbsp;</span></p>
+
+<h4 id="2.2.2.-cách-khắc-phục"><span><strong>2.2.2. </strong></span><span>Cách khắc phục</span></h4>
+
+<p><span><span style="background-color:#ffffff">- Khi học, cần tra cứu từ điển để hiểu rõ ý nghĩa và cách dùng từ.&nbsp;</span></span></p>
+
+<p><span><span style="background-color:#ffffff">VD:&nbsp; </span></span><span><span style="background-color:#ffffff"><strong>able</strong></span></span><span><span style="background-color:#ffffff"> (</span></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>A2</strong></span></span><span><span style="background-color:#ffffff">): </span></span><span><span style="background-color:#ffffff"><strong>to have the necessary physical strength, mental power, skill, time, money, or opportunity to do something&nbsp;</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(có đủ sức khoẻ, tinh thần, kỹ năng, thời gian, tiền hay cơ hội để làm gì)</span></span></p>
+
+<p><span><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: </span></span><span><span style="background-color:#ffffff"><strong>Will she be able to cope with the work?</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Liệu cô ấy có làm được việc không?)</span></span></p>
+
+<p><span><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span><span style="background-color:#ffffff"><strong>able</strong></span></span><span><span style="background-color:#ffffff"> (</span></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>C2</strong></span></span><span><span style="background-color:#ffffff">): </span></span><span><span style="background-color:#ffffff"><strong>intelligent or good at what you do</strong></span></span><span><span style="background-color:#ffffff">&nbsp;</span></span></p>
+
+<p><span><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thông minh hoặc giỏi trong việc làm gì)</span></span></p>
+
+<p><span><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: </span></span><span><span style="background-color:#ffffff"><strong>This problem is now being looked at by some of the ablest scientists in the country.</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Vấn đề này giờ đang được giải quyết bởi các nhà khoa học hàng đầu cả nước)</span></span></p>
+
+<p><span><span style="background-color:#ffffff">=&gt; Một từ có thể có nhiều hàm nghĩa khác nhau</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff">- Học từ theo ngữ cảnh và collocation.</span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Xây dựng ý thức về văn phong khi lựa chọn từ vựng.&nbsp;</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span>- Chúng ta cùng theo dõi các ví dụ về biểu hiện và cách khắc phục các lỗi sai này:</span></p>
+
+<p><span><strong>Ví dụ 1: dùng từ ít phổ biến nhưng sai ngữ cảnh</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span>To be more specific, the unemployed and homeless in countries that provide foreign aid will not have enough money to live. As a consequence, they will commit crimes such as burglary and pickpocketing to </span><span><span style="background-color:#d9ead3"><strong>earn their living</strong></span></span><span>, which can lead to a higher crime rate in society.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(Đoạn phân tích lý do không nên ủng hộ chi tiêu vào các khoản hỗ trợ quốc tế)</span></p>
+
+<p><span><strong>Phân tích:</strong></span></p>
+
+<p><span>- “</span><span><strong>Earn their living</strong></span><span>” cũng là kiếm tiền nhưng là được trả tiền để trang trải cuộc sống (kiếm tiền từ công việc).</span></p>
+
+<p><span>=&gt; Không phù hợp với ngữ cảnh diễn tả hành vi trộm cắp để kiếm tiền.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Vậy, chúng ta sẽ cần sửa như sau:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span>To be more specific, the unemployed and homeless in countries that provide aid will not have enough money to live. As a consequence, they will commit crimes such as burglary and pickpocketing to </span><span><span style="background-color:#fedb51"><strong>obtain money</strong></span></span><span>, which can lead to a higher crime rate in society</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Ví dụ 2: dùng từ ít phổ biến nhưng sai nghĩa</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span>Movie actors, singers or poets have the potential of </span><span><span style="background-color:#d9ead3"><strong>gaining huge earnings</strong></span></span><span>.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(Diễn viên, ca sĩ hay các nhà thơ thường có khả năng có doanh thu khổng lồ)</span></p>
+
+<p><span><strong>Phân tích:</strong></span></p>
+
+<p><span>- “</span><span><strong>Gain</strong></span><span>” là “nhận được” nhưng từ “</span><span><strong>earning</strong></span><span>” lại chính để chỉ “</span><span><strong>số tiền nhận được</strong></span><span>”</span></p>
+
+<p><span>- Không phù hợp về mặt ngữ nghĩa, từ “</span><span><strong>earn</strong></span><span>” và từ “</span><span><strong>gain</strong></span><span>” là 2 từ đồng nghĩa</span></p>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Vậy, chúng ta sẽ cần sửa như sau:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>Movie actors, singers or poets have the potential to</span><span><strong> </strong></span><span><span style="background-color:#fedb51"><strong>earn a great deal</strong></span></span><span>.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(... </span><span><span style="background-color:#fedb51"><strong>thu về rất nhiều tiền</strong></span></span><span>)</span></p>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Ví dụ 3: dùng từ với hàm nghĩa quá rộng/mạnh</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>There are </span><span><span style="background-color:#d9ead3"><strong>tangible</strong></span></span><span><strong> </strong></span><span>benefits of learning a foreign language in primary school such as acquiring the language faster or becoming more well-rounded individuals.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(Có nhiều lợi ích</span><span><span style="background-color:#ffffff"><strong> </strong></span></span><span><span style="background-color:#d9ead3"><strong>hữu hình</strong></span></span><span> của việc học tiếng nước ngoài ở trường tiểu học chẳng hạn như là học tiếng nhanh hơn hay trở thành con người phát triển toàn diện hơn)</span></p>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Phân tích:</strong></span></p>
+
+<p><span>- “</span><span><strong>Tangible</strong></span><span>” hữu hình nhưng các lợi ích được đưa ra thì mới chung chung, trừu tượng.</span></p>
+
+<p><span>=&gt; Không phù hợp về mặt ngữ nghĩa, xuất hiện chỉ để “khoe” vốn từ chứ không phải để diễn đạt chính ý người viết muốn nói</span></p>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Vậy, chúng ta sẽ cần sửa như sau:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span>There are </span><span><span style="background-color:#fedb51"><strong>clear</strong></span></span><span><strong> </strong></span><span>benefits of learning a foreign language in primary school such as acquiring the language faster or becoming more well-rounded individuals</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(...</span><span><span style="background-color:#ffffff"><strong> </strong></span></span><span><span style="background-color:#fedb51"><strong>rõ ràng</strong></span></span><span> …)</span></p>
+
+<p><br>
+<span><strong>Ví dụ 4: Dùng các diễn đạt mang sắc thái informal hay không rõ nghĩa</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span><strong>Body Paragraph 1:</strong></span><span> </span><span><span style="background-color:#d9ead3"><strong>What I think primarily causes this development</strong></span></span><span><strong> </strong></span><span>is that celebrities are too popular. Athletes and entertainers </span><span><span style="background-color:#d9ead3"><strong>easily captivate</strong></span></span><span> millions of people globally through games, concerts and songs. Hence, celebrities can make</span><span><strong> </strong></span><span><span style="background-color:#d9ead3"><strong>a ton of dough</strong></span></span><span> through ticket sales, advertising, and broadcasting rights. For instance, a single football match can attract </span><span><span style="background-color:#d9ead3"><strong>a bunch of viewers</strong></span></span><span> who bring in </span><span><span style="background-color:#d9ead3"><strong>such important</strong></span></span><span><strong> </strong></span><span>advertising and sponsorship deals. Thus, </span><span><span style="background-color:#d9ead3"><strong>celebrities are just so famous that sports athletes and other entertainers deserve high salaries</strong></span></span><span>.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span>(Đoạn BP1 phân tích lý do người nổi tiếng nên được trả lương cao)</span></p>
+
+<p><span><strong>Phân tích:&nbsp;</strong></span></p>
+
+<p><span>- Bài viết sử dụng quá nhiều từ/cụm từ nêu ý kiến cá nhân hoặc sử dụng từ sai văn phong. Cụ thể:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#d9ead3"><strong>What I think primarily causes this development:</strong></span></span><span><span style="background-color:#ffffff"> đọc lên, chúng ta sẽ thấy giống cách mở đầu một bài nói hay là một bài thuyết trình</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#d9ead3"><strong>easily captivate:</strong></span></span><span><span style="background-color:#ffffff"> quá thiên về ý kiến cá nhân</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#d9ead3"><strong>A ton of dough &amp; a bunch of viewers:</strong></span></span><span><span style="background-color:#ffffff"> là tiếng lóng</span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#d9ead3"><strong>such important &amp; celebrities are just so famous that sports athletes and other entertainers deserve high salaries:</strong></span></span><span><span style="background-color:#ffffff"> là các câu cảm thán, quá thiên về ý kiến cá nhân</span></span></li>
+</ul>
+
+<p><span><span style="background-color:#ffffff">=&gt; Cách sử dụng từ như trên khiến bài viết được đánh giá là “</span></span><span><span style="background-color:#ffffff"><strong>dùng từ sai hoặc không phù hợp</strong></span></span><span><span style="background-color:#ffffff">”</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Vậy, chúng ta sẽ cần sửa như sau:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span><strong>Body Paragraph 1: </strong></span><span style="color:#ff0000"><strong>Firstly, I believe celebrities deserve their high income</strong></span><span> because of their popularity. Athletes and entertainers </span><span style="color:#ff0000"><strong>may captivate</strong></span><span> millions of people globally through games, concerts and songs. Hence, famous people can </span><span style="color:#ff0000"><strong>generate substantial revenue</strong></span><span> through ticket sales of their performances, advertising, and broadcasting rights. For instance, a single football match can attract </span><span style="color:#ff0000"><strong>millions</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>of</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>viewers</strong></span><span>, bringing in significant advertising and sponsorship deals for the players. Thus, </span><span style="color:#ff0000"><strong>it is justifiable to claim that sports athletes and other entertainers deserve their high salaries</strong></span><span>.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="2.3.-mắc-nhiều-lỗi-chính-tả,-cấu-tạo-từ"><span><strong>2.3.</strong></span><span> Mắc nhiều lỗi chính tả, cấu tạo từ</span></h3>
+
+<h4 id="2.3.1.-biểu-hiện"><span><strong>2.3.1. </strong></span><span>Biểu hiện</span></h4>
+
+<p><span>- Lỗi chính tả có biểu hiện là bài viết nhiều lần viết sai từ. Vấn đề này 2 nguyên nhân là:&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span>Bất cẩn khi viết bài vội/đánh máy</span></li>
+	<li style="list-style-type:disc"><span>Không nắm chắc cách đánh vần của các từ&nbsp;</span></li>
+</ul>
+
+<p><span>- Lỗi cấu tạo có biểu hiện là bài viết dùng sai từ loại, hoặc dùng sai tiền tố/hậu tố&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p><span><strong>Lưu ý:</strong></span></p>
+
+<p><span>- Nhiều thí sinh cho rằng yếu tố này là tiểu tiết, không quan trọng</span></p>
+
+<p><span>LR band 7.0 vẫn cho phép việc mắc lỗi chính tả/cấu tạo từ, nhưng số lượng lỗi phải rất nhỏ</span></p>
+
+<p><span>Nếu lỗi chính tả/cấu tạo từ không cản trở việc diễn đạt ý, LR sẽ ở band 6.0. Nếu chúng gây chú ý và khiến người đọc khó hiểu, giám khảo sẽ hạ điểm LR xuống band 5.0</span></p>
+
+<p><span>=&gt; Yếu tố vẫn ảnh hưởng tới kết quả bài thi của bạn, vậy không nên bỏ qua để tránh bị trừ điểm một cách đáng tiếc</span></p>
+
+<h4 id="2.3.2.-cách-khắc-phục"><span><strong>2.3.2. </strong></span><span>Cách khắc phục</span></h4>
+
+<p><span>- Để hạn chế tối đa các lỗi chính tả và cấu tạo từ, cần:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Nắm vững các quy tắc cấu tạo từ&nbsp;</strong></span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Ghi nhớ chính xác chính tả của từ</strong></span></span></li>
+	<li style="list-style-type:disc"><span><span style="background-color:#ffffff"><strong>Tập thói quen dành thời gian kiểm tra lại bài sau khi viết để sửa lỗi</strong></span></span></li>
+</ul>
+
+<p><span><span style="background-color:#ffffff">- Chúng ta cần phân tích ví dụ để nắm rõ hơn về biểu hiện và cách khắc phục lỗi này:</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span><strong>In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?</strong></span></p>
+
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(Ở nhiều nước trên thế giới ngày nay, người tiêu dùng có thể tới siêu thị và mua thực phẩm được sản xuất ở khắp nơi trên thế giới. Liệu bạn nghĩ rằng đây là xu hướng phát triển tích cực hay tiêu cực?)</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span><strong>Body Paragraph 2:</strong></span><span> On the other hand, the environmental impact of transporting food across a huge distance is alarming. The </span><span><span style="background-color:#d9ead3"><strong>shiping</strong></span></span><span>, </span><span><span style="background-color:#d9ead3"><strong>preseving</strong></span></span><span> and packaging procedures </span><span><span style="background-color:#d9ead3"><strong>emission</strong></span></span><span> a large amount of greenhouse gas and </span><span><span style="background-color:#d9ead3"><strong>petential</strong></span></span><span> non-degradable material such as plastic bottles and nylon bags. To </span><span><span style="background-color:#d9ead3"><strong>illustrative</strong></span></span><span>, in 2020, a naturalist noted that cargo ships were a huge contributor to carbon dioxide </span><span><span style="background-color:#d9ead3"><strong>emission</strong></span></span><span>, while the packaging industry intensified waste from </span><span><span style="background-color:#d9ead3"><strong>nillon</strong></span></span><span> bags.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span><span style="background-color:#ffffff">(Đoạn BP2 thảo luận về tác động xấu của việc nhập khẩu thực phẩm từ nước ngoài)</span></span></p>
+
+<p><span><strong>Phân tích:&nbsp;</strong></span></p>
+
+<p><span>- Bài viết đã mắc các lỗi về chính tả và cấu tạo từ sau:&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span><strong>Lỗi chính tả: </strong></span><span><span style="background-color:#d9ead3"><strong>shiping</strong></span></span><span><span style="background-color:#ffffff">, </span></span><span><span style="background-color:#d9ead3"><strong>preseving</strong></span></span><span>, </span><span><span style="background-color:#d9ead3"><strong>petential</strong></span></span><span>, </span><span><span style="background-color:#d9ead3"><strong>nillon</strong></span></span><span>&nbsp;</span></li>
+	<li style="list-style-type:disc"><span><strong>Lỗi cấu tạo từ:</strong></span><span> </span><span><span style="background-color:#d9ead3"><strong>emission</strong></span></span><span>, </span><span><span style="background-color:#d9ead3"><strong>illustrative</strong></span></span><span><span style="background-color:#ffffff">, </span></span><span><span style="background-color:#d9ead3"><strong>emission</strong></span></span></li>
+</ul>
+
+<p><span><span style="background-color:#ffffff">=&gt; Cách sử dụng từ như trên khiến bài viết được đánh giá là “</span></span><span><span style="background-color:#ffffff"><strong>dùng từ sai hoặc không phù hợp</strong></span></span><span><span style="background-color:#ffffff">”</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span>Vậy, chúng ta sẽ cần sửa như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span><strong>Body Paragraph 2:</strong></span><span> On the other hand, I find the environmental impact of transporting food across a huge distance alarming. The </span><span style="color:#ff0000"><strong>shipping</strong></span><span>, </span><span style="color:#ff0000"><strong>preserving</strong></span><span> and packaging procedures </span><span style="color:#ff0000"><strong>emit</strong></span><span> a large amount of greenhouse gas and </span><span style="color:#ff0000"><strong>potential</strong></span><span> non-degradable material such as plastic bottles and nylon bags. To </span><span style="color:#ff0000"><strong>illustrate</strong></span><span>, in 2020, a naturalist noted that cargo ships were a huge contributor to carbon dioxide </span><span style="color:#ff0000"><strong>emissions</strong></span><span>, while the packaging industry intensified waste from </span><span style="color:#ff0000"><strong>nylon</strong></span><span> bags</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Việc hiểu ý nghĩa của các tiền tố/hậu tố giúp mở rộng vốn từ, sử dụng từ linh hoạt và chính xác cũng như đoán được nghĩa của từ lạ khi đọc</span></span></p>
+
+<p><span><span style="background-color:#ffffff">- Dưới đây là một số tiền tố/hậu tố phổ biến:&nbsp;</span></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:565px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Tiền Tố / Hậu Tố</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Nghĩa</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Loại Từ</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff"><strong>Ví Dụ</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-able, -ible</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">có thể làm gì</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">eatable, payable, drinkable, playable</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-al</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">mang tầm vóc</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">national, political, international</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ance, -ence</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">sự</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">appearance, difference</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-an, -ian</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">thuộc về</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">American, Christian</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">anti-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">chống lại</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">anti-slavery, antiwar</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">audi-, audio-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(thuộc về) âm thanh</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">auditor, auditorium</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">auto-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tự động, tự làm</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">automatic, autobiography</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">bi-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">hai</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">bicycle, bimonthly</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">bio-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(thuộc về) sự sống, sinh học</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">biology, biography</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">cent-, centi-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">100 hoặc thứ 100</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">century, centimeter</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">counter-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">chống lại, trái lại</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">countermeasure, counterattack</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">dic-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">nói</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">diction, dictate</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">dis-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">không</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">3 dạng từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">disagree, dishonest</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">en-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">gây ra, làm ra</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">endanger, enrich</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-en</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">khiến cho</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">widen, strengthen</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-er, -or</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">người hoặc vật có trách nghiệm làm gì</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">teacher, actor</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ent, -ant</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) tính chất của vật</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">different, pleasant</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ese</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">quốc tịch hoặc ngôn ngữ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">Chinese, Japanese</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">ex-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">cựu</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">ex-wife, ex-student</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ful</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) tính chất hoặc số lượng</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">handful, joyful</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-fy, -ify</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">khiến cho trở thành</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">purify, terrify</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">geo-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(thuộc) Trái Đất</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">geology, geography</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-graph-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(nói về) vật được viết hoặc vẽ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">autograph, graphology</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-hood</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">trạng thái hoặc chất lượng của vật</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">childhood, livelihood</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">homo-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">giống</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">homosexual, homophone</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">il-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">trái lại</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">illegal, illogical</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">im-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">không</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ &amp; động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">impossible, import</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">in-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">không</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ &amp; động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">incomplete, inhale</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">inter-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">ở giữa</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">international, intermediate</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">intra-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">ở trong</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">intracity, intracompany</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">ir-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">trái lại</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">irresponsible, irregular</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ish</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">có tính chất của vật hoặc nước nào đó</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">childish, Swedish</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ism</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(thuộc) giáo lý</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">Buddhism, socialism</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ist</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) chuyên gia hoặc người có chuyên môn trong lĩnh vực</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">artist, scientist</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ive, -tive</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">có tính cách, tính chất của vật</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">effective, sensitive</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ize, -ise</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">gây ra, khiến trở thành</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">realize, nationalize</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">kilo-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">1000</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">kilogram, kilometer</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-less</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">thiếu, không có</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">careless, helpless</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-logy, -ology</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) nghiên cứu về cái gì</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">psychology, biology</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ly</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) làm việc gì đó theo cách nào</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">trạng từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">quickly, quietly</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">mal-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(nhấn mạnh) tiêu cực, xấu, sai</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">malpractice, maltreat</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ment</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">sự</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">movement, statement</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">milli-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">1/1000</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">milligram, millimeter</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">mini-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">rất bé</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">miniskirt, minicab</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">mis-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">sai, tiêu cực</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">misfortune, misunderstand</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">mono-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">một</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">monologue, monotonous</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">multi-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">nhiều</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">multiply, multinational</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ness</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) trạng thái</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">illness, sadness</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">non-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">thiếu</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">nonfiction, non-profit</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ous</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">mang tính</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">joyous, monotonous</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">out-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">hơn</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">outrun, outnumber</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">over-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">quá nhiều</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">overwork, oversleep</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-phon-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) âm thanh</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ &amp; danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">telephone, phonology</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-port-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">di chuyển</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">transport, portable</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">post-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">sau</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">postwar, postgraduate</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">pre-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">trước</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">prewar, pretest</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">re-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">một lần nữa</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">replay, rewrite</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">semi-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">một nửa</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">semicircle, semiannual</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-sens-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">cảm giác</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ &amp; động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">sensitive, sensitize</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ship</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) chất lượng hoặc trạng thái</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">friendship, scholarship</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-spect-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">nhìn</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">spectator, inspect</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">sub-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">dưới mức, ít quan trọng</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">subzero, subeditor</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">super-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">nhiều hơn mức</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">supernatural, superpower</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">tele-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">giữa khoảng cách xa</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">television, telegram</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">thermo-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(thuộc) nhiệt</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">thermometer, thermoplastic</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-tion, -sion, -ion, -ation, -ition, -xion</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(chỉ) hành động hoặc quy trình</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">explanation, explosion</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">trans-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">chuyển sang</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">translate, transplant</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">tri-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">3</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">tricycle, triangle</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">un-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">không (mang nghĩa tiêu cực)</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">unfortunate, unfair</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">uni-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">(nhấn mạnh) độc nhất, một</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">uniform, unisex</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">under-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">thiếu, chưa đủ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">động từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">underwork, undercook</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">vis-</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">nhìn</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">danh từ &amp; tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">vision, visible</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-ward, -wards</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">theo hướng</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">trạng từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">downward, northward</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:129px">
+			<p><span><span style="background-color:#ffffff">-y</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:120px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">trong tình trạng</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:115px">
+			<p style="text-align:center"><span><span style="background-color:#ffffff">tính từ</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:201px">
+			<p><span><span style="background-color:#ffffff">rainy, cloudy</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </div>

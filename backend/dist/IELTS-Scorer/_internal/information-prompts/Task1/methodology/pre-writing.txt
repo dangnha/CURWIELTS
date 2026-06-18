@@ -1,0 +1,334 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="các-bước-làm-bài-chung">Các bước làm bài chung</h1>
+
+<h2 id="1.-pre-writing"><strong>1. </strong>Pre-Writing</h2>
+
+<p>- Lập dàn ý gồm <strong>3 bước</strong> là:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Bước 1: noticing details&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(phân tích đề bài)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Bước 2: identifying key features&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(phân tích biểu đồ để chọn ý chính)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Bước 3: organising information&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(sắp xếp ý chính)</p>
+
+<h3 id="1.1.-noticing-details"><strong>1.1. </strong>Noticing details</h3>
+
+<p>- Người viết đọc đề bài và ghi lại một số các đặc điểm trên biểu đồ. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc">Nhìn vào tên của biểu đồ, ta xác định được:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Topic</strong></span><strong> - What is the subject of the graph </strong>(chủ đề của biểu đồ)</li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Place</strong></span><strong> - Where was the data collected </strong>(địa điểm thu thập thông tin)</li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Time</strong></span><strong> - When was the data for the graph collected </strong>(thời gian thu thập thông tin)</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Nhìn vào biểu đồ, ta xác định được:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Categories</strong></span><strong> - What is being measured or counted? </strong>(cách phân loại các đối tượng trong biểu đồ)</li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Number of categories</strong></span><strong> - How many categories are mentioned in the graph </strong>(Có mấy cách phân loại)&nbsp;</li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Type of measurement</strong></span> (đơn vị đo lường)</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p><strong><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1sq5rYdiTQx2sNC2Nf5ArKtajL7AGZpoh9cUEnDtyNLav6RAnSJRjw9lMsPdoQpC7E1lIfcSMKnN0coVldjhsO7SS4UhxZ4nB1P5lbjiHo5Go3jlkxxvM_6RMs4fddmVpJ4lD?key=MrN027RcoW1RvoF_ioC4pg" style="height:393px; width:624px"></strong></p>
+
+<p><br>
+&nbsp;</p>
+
+<p><strong>Lưu ý:</strong></p>
+
+<p><strong>- </strong>Quan niệm: “<strong>viết bài ngay sẽ tiết kiệm thời gian và có thể vừa viết thân bài vừa phân tích biểu đồ</strong>” là sai lầm. Nếu không dành thời gian phân tích đề bài, người viết sẽ dễ dàng bị lạc đề</p>
+
+<p><strong>VD:</strong></p>
+
+<p style="text-align:center"><s><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXepdL1G2vBCV8eyX13fEgc58hkHyku6SRQEHW8xrUnYsgqhtkCxn5VdG-b7zjVREK5Vg__jo-rWDOA3xBuOntju63k7d6Zvb7i9i8cw2Luad1D_wHpPEyWnTAoQmAsN_MTOecCG77gTyonQt4whYjA8hC0?key=MrN027RcoW1RvoF_ioC4pg" style="height:249px; width:485px"></s></p>
+
+<p>&nbsp;</p>
+
+<p>(Biểu đồ <span style="background-color:#ffffff"><strong>so sánh carbon emissions from gas, coal and oil</strong></span><span style="background-color:#ffffff">, tức là lượng khí thải các-bon từ việc sử dụng ga, than hoặc dầu)</span></p>
+
+<p>Tuy nhiên, thí sinh đã viết phần <strong>Overview </strong>như sau:</p>
+
+<p><span style="background-color:#ffffff"><strong>“Overall, while the amount of oil and coal witnessed a downward trend, an upward trend was seen in the amount of gas.</strong></span><span style="background-color:#ffffff">”</span></p>
+
+<p><span style="background-color:#ffffff">(phần Overview này đang so sánh về khối lượng oil, coal và gas được sản xuất ra)</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Đối tượng được so sánh khác hoàn toàn so với đề bài</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Lạc đề, không quá band 3.0 ở TA</p>
+
+<p>&nbsp;</p>
+
+<h3 id="1.2.-identify-key-features"><strong>1.2.</strong> Identify key features</h3>
+
+<p>- Đề bài Task 1 có chung yêu cầu như sau:</p>
+
+<p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFyZtAO7GU-t_EC3HjKHFK7c947OOZ5zWBGgWnnkmcKIxSmecfgze-iMOnsWIRpKsMWWFgMlb2gz93IYamxsPJD6hySQwS5SibW3yg0jr7XX4wBaoQ_f-UU-glAKlEN7AF4B9WAQ?key=MrN027RcoW1RvoF_ioC4pg" style="height:164.99599999999998; margin-top:-70px; width:624px"></p>
+
+<p><strong>Cụ thể:&nbsp;</strong></p>
+
+<p>[<strong>Summarize the information</strong>]:<span style="background-color:#ffffff"> tóm tắt thông tin&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>selecting and reporting the main features</strong></span><span style="background-color:#ffffff">]: lựa chọn và phân tích những đặc điểm chính&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>make comparisons where relevant</strong></span><span style="background-color:#ffffff">]: so sánh các số liệu, đặc điểm liên quan&nbsp;&nbsp;&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Cần hiểu và tìm ra mối liên hệ giữa thông tin trong biểu đồ. Cụ thể, cần để ý các chi tiết sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Big changes in data</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Các thay đổi lớn về mặt dữ liệu)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>The highest and lowest points</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Mốc cao nhất và thấp nhất)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Any similarities</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Các điểm tương đồng giữa các dữ liệu)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Anything that stayed the same</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Các dữ liệu không có sự thay đổi)</p>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng áp dụng các bước identifying key features trong một ví dụ cụ thể:</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvItELolho4-SoHfCpj57sSdj17tUd6NxceOseR1t75tsmUDXly_ENmY_GFcSoyVnb-qwx4PvC7uSdvqiYOvejrbE6yQqNp8TzAxKc26xOhsqUnR0KM5hesA7Uu-VD1vlrPNRHvQ?key=MrN027RcoW1RvoF_ioC4pg" style="height:410px; width:499px"></p>
+
+<p>&nbsp;</p>
+
+<p><strong>-</strong> Với biểu đồ này, chúng ta cùng phân tích thông tin theo từng đối tượng</p>
+
+<ul>
+	<li style="list-style-type:disc">Trước hết, bắt đầu với “<strong>fresh coffee</strong>” (cà phê nguyên chất):</li>
+</ul>
+
+<p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQpZk6kMTnYZol_PS3hGRdtZ3ulQ5YMWyl7n8v9Iv9fJ-Ug7nGfSkMXz-nFlyJYMhPPjZstVsgCLo6deAUrbWOe_4PW8MraswzDY-4idNkMmOQc4G4qgvEKrAtsg_ROwAOCxCi?key=MrN027RcoW1RvoF_ioC4pg" style="height:517px; width:624px"></p>
+
+<p><strong>Phân tích:</strong></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Fresh</strong> <strong>coffee</strong> kém phổ biến nhất trong cả 5 thành phố</li>
+	<li style="list-style-type:disc">Tỷ lệ tiêu thụ <strong>fresh</strong> <strong>coffee</strong> ở <strong>Melbourne</strong> và <strong>Sydney</strong> cao nhất, <strong>Hobart</strong> cao nhì và <strong>Brisbane</strong> và <strong>Adelaide</strong> thì thấp nhất</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Tiếp theo, phân tích “<strong>instant coffee</strong>” (cà phê pha sẵn):</li>
+</ul>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeUAWDIqGAl86Zyi2rW4Tsr5EAwWXghKZnbkml-N6cdkFopY55dm_PwWQd6H2jPHhqK7t1T_CmE9VseayOdUc8MX8mj0qfQnlr35710QTBShJdFLBSN7TJ_4oVN78ixqyLcUL11Gg?key=MrN027RcoW1RvoF_ioC4pg" style="height:537px; width:624px"></p>
+
+<p><strong>Phân tích:</strong></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Instant</strong> <strong>coffee</strong> lớn hơn <strong>fresh</strong> <strong>coffee</strong>, nhưng<strong> </strong>thấp hơn <strong>cafe</strong></li>
+	<li style="list-style-type:disc">Tỷ lệ tiêu thụ <strong>fresh</strong> <strong>coffee</strong> ở <strong>Brisbane</strong> và <strong>Hobart </strong>cao nhất, <strong>Adelaide </strong>cao nhì và <strong>Sydney</strong> và <strong>Melbourne</strong> thì thấp nhất</li>
+	<li style="list-style-type:disc">Tỷ lệ tiêu thụ <strong>instant</strong> <strong>coffee</strong> ở <strong>Adelaide</strong> lớn hơn tỷ lệ đi <strong>cafe</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Cuối cùng, phân tích “<strong>went to a cafe</strong>” (ra quán cà phê):</li>
+</ul>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeUlJAkVAxhhz4nZkhgtwh1XnyUtqIG1gu4lXLgUqX4O9TViJ0A7ttX-z8uFJ9soQvx4lZO04u2qwk34DH5L2N6V5-pKz2eqNAGS5XZa3UtrQ5TJpe8FraWVCboWnlFqhF5FNS1?key=MrN027RcoW1RvoF_ioC4pg" style="height:533px; width:624px"></p>
+
+<p><strong>Phân tích:</strong></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Cafe</strong> cao nhất</li>
+	<li style="list-style-type:disc">Tỷ lệ tiêu thụ ở <strong>Sydney, Melbourne </strong>và <strong>Hobart </strong>cao nhất, <strong>Brisbane </strong>cao nhì và <strong>Adelaide </strong>thì thấp nhất</li>
+	<li style="list-style-type:disc">Tỷ lệ tiêu thụ <strong>instant</strong> <strong>coffee</strong> ở <strong>Adelaide</strong> lớn hơn tỷ lệ đi <strong>cafe</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Tổng kết các yếu tố này, chúng ta sẽ có dàn ý như sau:</p>
+
+<p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIqKPfSXIS4SMcxkcrVQoJC7lUF-6iX3ste7Ui5SjviahQMZAbqvPP8vSPI47SqxvNSlIzh5Z7V3lkfBM8uiQSDWSKCKFSU7r5znU3apILba3QB96ikot5AVvVT5mnQ8ky_r4SSw?key=MrN027RcoW1RvoF_ioC4pg" style="height:523px; width:624px"></p>
+
+<p>Từ dàn ý này, chúng ta rút ra được <strong>trend </strong>(xu hướng chung) là: <strong>cafe = most popular, except Adelaide</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:</strong></p>
+
+<p>- Với hình thức <strong>thi trên giấy</strong> được phép nháp vào đề thi, các bạn có thể tham khảo cách dùng ký hiệu như trên, hoặc tự nghĩ ra cách đánh dấu cho riêng mình để làm bước này một cách nhanh nhất.&nbsp;</p>
+
+<p>- Với hình thức <strong>thi trên máy tính</strong>, đề bài hiện trên màn hình, các bạn hãy take note lại key features vào bài làm (nhớ xóa đi sau khi hoàn thành bài) hoặc vào giấy nháp được phát. Khi take note, các bạn cũng dùng ký hiệu và viết tắt, miễn là bạn có thể hiểu và phân biệt được tên các category. Với đề bài trên, các key features được note lại như sau:&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:270px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:270px">
+			<p><span style="background-color:#ff00ff"><strong>Fresh coffee</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>lowest</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : S, M</span></p>
+
+			<p><span style="background-color:#ffffff">2: H</span></p>
+
+			<p><span style="background-color:#ffffff">3 : B = A&nbsp;</span></p>
+
+			<p><span style="background-color:#3d85c6"><strong>instant coffee</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>2nd except A</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : </span>H, B&nbsp;</p>
+
+			<p>2: A* instant &gt; cafe</p>
+
+			<p><span style="background-color:#ffffff">3 : </span>M, S&nbsp;</p>
+
+			<p><span style="background-color:#e06666"><strong>cafe</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>highest except A</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : </span>S, M, H&nbsp;</p>
+
+			<p><span style="background-color:#ffffff">2 : B, A</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="1.3.-organizing-information">1.3. Organizing information</h3>
+
+<p>- Sắp xếp thông tin hợp lý được thể hiện rõ nhất trong bài viết qua việc chia đoạn, vậy nên cần phải quyết định cách phân chia thông tin trong từng đoạn trước khi viết</p>
+
+<p>- Một bài viết sẽ có nhiều cách chia đoạn</p>
+
+<p>VD: <strong>Với bài “coffee and tea drinking habits” (thói quen uống trà và cà phê), bạn có thể chia theo thành phố và chia theo lớn nhất/bé nhất. Thậm chí, bạn có thể chia theo thói quen và viết thành 3 đoạn Body riêng</strong></p>
+
+<p>=&gt; Phân đoạn thế nào sẽ phụ thuộc vào quyết định của người viết, miễn sao đảm bảo rằng:&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Thông tin được sắp xếp một cách rõ ràng và logic </strong>(tăng điểm CC)</li>
+	<li style="list-style-type:disc"><strong>Cách sắp xếp tạo điều kiện để người viết so sánh số liệu</strong> (tăng điểm TR)</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Để minh hoạ điều này, chúng ta cùng theo dõi cách chia thông tin trong một số bài sau:</p>
+
+<p><strong>Ví dụ 1: Bar Chart</strong></p>
+
+<p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIqKPfSXIS4SMcxkcrVQoJC7lUF-6iX3ste7Ui5SjviahQMZAbqvPP8vSPI47SqxvNSlIzh5Z7V3lkfBM8uiQSDWSKCKFSU7r5znU3apILba3QB96ikot5AVvVT5mnQ8ky_r4SSw?key=MrN027RcoW1RvoF_ioC4pg" style="height:523px; width:624px"></p>
+
+<p>=&gt; Có 3 đối tượng thì chỉ cần phân tích mỗi đối tượng trong đoạn Body riêng</p>
+
+<p>- Chúng ta sẽ có phần nháp như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:364px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:364px">
+			<p>BP1: <span style="background-color:#ff00ff"><strong>fresh coffee</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>lowest</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : S, M</span></p>
+
+			<p><span style="background-color:#ffffff">2: H</span></p>
+
+			<p><span style="background-color:#ffffff">3 : B = A&nbsp;</span></p>
+
+			<p>BP2: <span style="background-color:#3d85c6"><strong>instant coffee</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>2nd except A</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : </span>H, B&nbsp;</p>
+
+			<p>2: A* instant &gt; cafe</p>
+
+			<p><span style="background-color:#ffffff">3 : </span>M, S&nbsp;</p>
+
+			<p>BP3: <span style="background-color:#ea9999"><strong>cafe</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>highest except A</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : </span>S, M, H&nbsp;</p>
+
+			<p><span style="background-color:#ffffff">2 : B, A</span></p>
+
+			<p>=&gt; trend: cafe = most popular, except Adelaide</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ 2: Map</strong></p>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKC2wHyZDI-isZpBTqilJf8MYrzvSdXh3bqlTbLC05XQFLjpK42MiQ9wekfCVoJVZxTSae6zaFeVOzyMv7OIQ1x6Euu5Ch7yZHM7lBv0nh7kUuiIQkR0Y74UBsuPltoIvGeV49Kw?key=MrN027RcoW1RvoF_ioC4pg" style="height:463px; width:391px"></p>
+
+<p>=&gt; Có 2 bản đồ, thì mỗi đoạn Body phân tích một bản đồ. Vậy, chúng ta chia thông tin như sau:</p>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUBZr6w6wJtNjXuV9qAUK2YhIQjO3PyQO0HugDvuqBKutYpKG4JxDaTNRKTU5F5BDYjgKlYMopg7FyG8xfYtDtZe35vMTmotZsUp8Qq3mo0_uaGp_M110_3c9NhGvpb93Ri74YSA?key=MrN027RcoW1RvoF_ioC4pg" style="height:609px; width:575px"></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:&nbsp;</strong></p>
+
+<p><em>- </em>Nếu chỉ chia thông tin thành các Body, thì chưa đủ để thể hiện rằng bài viết đã sắp xếp thông tin hợp lý</p>
+
+<p><strong>VD:</strong></p>
+
+<p style="text-align:center"><span style="background-color:#ffffff"><strong><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGaqJ_m_xw3PHXleV81yN6Sm3GkjH6RemcbDjYJhfNU7_dqS4xkRKBbQoPlrNyyCEUMm_fO4u0r7ZWUYMlrnSv2pc2OB7EnofLY7yjqRRycRvvfUIPwtlZqI4KpmQ9vKpy9zXJDA?key=MrN027RcoW1RvoF_ioC4pg" style="height:361px; width:624px"></strong></span></p>
+
+<p style="text-align:right"><span style="background-color:#ffffff">(Bài viết band 5.0, Cambridge 12, p.124)</span></p>
+
+<p><span style="background-color:#ffffff">Trong bài viết, thí sinh </span><span style="background-color:#ffffff"><strong>không thể hiện mạch phát triển logic </strong></span><span style="background-color:#ffffff">(đang phân tích độ tuổi 15-24, rồi nhảy cóc sang phân tích 25-64 trong cùng một đoạn) và </span><span style="background-color:#ffffff"><strong>phân chia đoạn bất hợp lý</strong></span><span style="background-color:#ffffff"> (phân tích nhóm trên 45 chỉ trong 2 câu, các câu được tách như các đoạn Body riêng)</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Nhận xét của examiner:</span><span style="background-color:#ffffff"><strong> “</strong></span><strong>Organization is evident, however not wholly logical, and it is sometimes difficult to relate data to specific age groups</strong>”</p>
+
+<p>(Có sự phân chia thông tin rõ ràng, nhưng chưa hoàn toàn logic, và đôi khi khó xác định số liệu cho những nhóm tuổi)</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Trong trường hợp gặp đề khó, không nghĩ ra cách phân chia thông tin, thì chúng ta cần phân tích biểu đồ để tìm ra 2 (hoặc 3) điểm chung giữa các số liệu để từ đó phân chia vào các đoạn Body&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff"><strong>VD:&nbsp;</strong></span></p>
+
+<p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfiNa9INZqDLts_eojJLxggOeQ7Fjkp7vfTBk6Qib2vaNIAjKAEDJbfO7xJigPkBzDzG0l4Ot7uRrr28_3NBz2aLVkHcOqTYmzKN7DEwDwdKXCVzDdp8PdNtg2VBY7rcF6DFSml?key=MrN027RcoW1RvoF_ioC4pg" style="height:327px; width:624px"></p>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- Rõ ràng, nếu phân tích mỗi đối tượng trong một đoạn BP riêng, thì bài viết sẽ trở nên quá dài</p>
+
+<p>=&gt; Cần phải phân tích biểu đồ và quyết định điểm giống/khác nhau giữa các đối tượng để từ đó phân chia đoạn theo <strong>các cặp </strong>như: <strong>cao nhất-thấp nhất</strong>,<strong> giống nhau-khác nhau</strong>, v.v</p>
+        </div>

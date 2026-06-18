@@ -1,0 +1,1319 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="các-lỗi-về-task-response"><span style="background-color:#ffffff">Các lỗi về Task Response</span></h1>
+
+<h2 id="1.-yêu-cầu"><strong>1. </strong>Yêu cầu</h2>
+
+<p>- Là tiêu chí đánh giá khả năng hoàn thành đúng và đủ các yêu cầu đề bài</p>
+
+<p><span style="background-color:#ffffff">- </span>Đề bài Task 2 có chung yêu cầu như sau:</p>
+
+<p><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGffR9tTfoJAkysxFOd-PeCDp3HG1x_W4zbe3l9hL_80j0wLMBHnA4iY1CtG6qUbIN3sVa1iwOdINVGQceXHNksXW7IC7KiEBPj08SJu_yHcuXAZsWAIEAnBWjFWe7JGSLNa4K?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:93px; width:624px"></span></p>
+
+<p><span style="background-color:#ffffff">Trong đó:</span></p>
+
+<p><span style="background-color:#ffffff"><strong>[</strong></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>give reasons for your answer</strong></span></span><span style="background-color:#ffffff"><strong>]: </strong></span><span style="background-color:#ffffff">đưa ra lý do bảo vệ câu trả lời</span></p>
+
+<p><span style="background-color:#ffffff"><strong>[</strong></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>include any relevant examples</strong></span></span><span style="background-color:#ffffff"><strong>]: </strong></span><span style="background-color:#ffffff">đưa ra ví dụ củng cố câu trả lời</span></p>
+
+<p>&nbsp;</p>
+
+<p>- So sánh sự khác biệt giữa các band điểm trong tiêu chí TA:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Part of the task </strong>(yêu cầu bài viết) và <strong>position</strong> (quan điểm cá nhân) là 2 đặc điểm được nhắc đến nhiều nhất trong TR</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:637px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:51px">
+			<p style="text-align:center"><strong>Band</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:296px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Parts of the task</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:290px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Position</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>8</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:296px">
+			<p><span style="background-color:#00ff00"><strong>Sufficiently and appropriately addresses all parts of the task</strong></span><span style="background-color:#ffff00"><strong>&nbsp;</strong></span></p>
+
+			<p>Trả lời các yêu cầu chính của đề bài một cách hợp lý và đầy đủ</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:290px">
+			<p><span style="background-color:#00ff00"><strong>Well-developed with relevant, extended and supported ideas</strong></span></p>
+
+			<p>Được trình bày rõ ràng, hoàn thiện đi kèm các dẫn chứng đã được phát triển kỹ càng</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>7</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:296px">
+			<p><span style="background-color:#00ff00"><strong>Addresses all parts of the task appropriately</strong></span></p>
+
+			<p>Trả lời tất cả các yêu cầu chính của đề bài một cách hợp lý</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:290px">
+			<p><span style="background-color:#00ff00"><strong>Presented clearly</strong></span></p>
+
+			<p>Được trình bày rõ ràng</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>6</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:296px">
+			<p><span style="background-color:#00ff00"><strong>Addresses all parts of the task,</strong></span><strong> </strong><span style="background-color:#ffff00"><strong>although some parts may be more fully covered than others</strong></span></p>
+
+			<p>Trả lời được các yêu cầu của đề bài, nhưng độ sâu khi triển khai mỗi ý không đồng đều</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:290px">
+			<p><span style="background-color:#00ff00"><strong>Presented relevantly</strong></span><strong> </strong><span style="background-color:#ffff00"><strong>although conclusions may become unclear, unjustified or repetitive</strong></span></p>
+
+			<p>Bám sát đề bài, nhưng có thể kết luận không rõ, không được chứng minh hoặc bị trùng lặp</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Main idea </strong>(ý chính) cũng<span style="color:#ff0000"> </span>là một yếu tố quyết định điểm TR. Việc phát triển, chứng minh ý chính là một trở ngại lớn đối với các thí sinh ở band 5, 6</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:639px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p style="text-align:center"><strong>Band</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:577px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Main idea</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>6</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:577px">
+			<p><span style="background-color:#00ff00"><strong>Relevant</strong></span><strong>, </strong><span style="background-color:#ffff00"><strong>but some may be insufficiently developed or may lack clarity</strong></span></p>
+
+			<p>Ý chính bám sát đề bài nhưng một số ý có thể triển khai thiếu hoặc chưa rõ</p>
+
+			<p><span style="background-color:#ffff00"><strong>Some supporting arguments and evidence may be less relevant or inadequate.</strong></span></p>
+
+			<p>Các lập luận, dẫn chứng có thể chưa sát đề hoặc còn thiếu</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>5</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:577px">
+			<p><span style="background-color:#00ff00"><strong>Some main ideas are put forward,</strong></span><strong> </strong><span style="background-color:#ffff00"><strong>but they are limited and are not sufficiently developed and/or there may be irrelevant detail.&nbsp;</strong></span></p>
+
+			<p>Trình bày được một vài ý chính nhưng còn hạn chế và chưa được triển khai đầy đủ; có thể có chi tiết lạc đề</p>
+
+			<p><span style="background-color:#ffff00"><strong>There may be some repetition.</strong></span></p>
+
+			<p>Xuất hiện tình trạng lặp ý tưởng</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Như vậy, thí sinh cần thực hiện các yêu cầu sau để đạt band 7+ ở tiêu chí TR:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Address all parts of the task</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Hoàn thành đủ yêu cầu đề bài)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Present a clear position</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Đưa ra quan điểm rõ ràng)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Present, extend and support main ideas</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Đưa ra ý chính; đưa ra lập luận để phát triển, củng cố các ý chính)</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Chúng ta cùng phân tích ví dụ để nắm cách các yêu cầu được hoàn thành:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>In many countries, people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people. To what extent do the advantages of having an ageing population outweigh the disadvantages?</strong></p>
+
+			<p style="text-align:center">(Ở nhiều nước, con người giờ đang sống thọ hơn trước. Một số người nói rằng dân số già tạo vấn đề cho chính phủ. Người khác nghĩ rằng có lợi ích nếu xã hội có thêm người già. Liệu bạn nghĩ rằng lợi ích có nhiều hơn bất lợi không?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>The population in most parts of the world is ageing: people are living longer and there are fewer young people in many places as birth rates fall. This phenomenon has pros and cons, but the essay will <span style="background-color:#00ff00"><strong>contend that</strong></span>, on balance, <strong><u>the advantages of having an older population outweigh the negatives</u></strong>.</p>
+
+			<p><span style="background-color:#00ff00"><strong>The first issue that occurs</strong></span> to many people when considering the ageing population is the expense. If people live longer, they may have more than 20 years of retirement and may need to be supported financially by the government or their families. If they experience age-related illness, this impacts the health system and takes up resources needed by other people in society. Moreover, when older people are financially independent, it might be hard for younger people if they have to compete to get a foot in the door of the housing market or gain employment.</p>
+
+			<p><span style="background-color:#00ff00"><strong>That being said,</strong></span> older people have a lot to contribute in terms of wisdom, experience and skills. Many people are active and productive for longer than their counterparts were 50 years ago and are an asset to the economy and society well into their old age. They are able to work for longer and after retirement they contribute in many ways too, such as by doing charitable work, spending money as consumers and supporting their families. Grandparents often care for their young grandchildren, making it easier for both parents to work.</p>
+
+			<p>While it is true that an ageing population poses challenges for governments, <span style="background-color:#00ff00"><strong>it is clear that</strong></span><strong> </strong><strong><u>these are outweighed by the significant benefits</u></strong> that elderly people bring to society.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:right">(Bài viết mẫu của examiner, Cambridge 18, p.136)</p>
+
+<p><span style="background-color:#ffffff"><strong>Phân tích:&nbsp;</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Trước hết, bài viết đã nêu quan điểm một cách rõ ràng qua cụm “</span><span style="background-color:#ffffff"><strong>the advantages … the negatives</strong></span><span style="background-color:#ffffff">” (lợi ích lớn hơn bất lợi)</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Hoàn thành 2 nhiệm vụ:</span><span style="background-color:#ffffff"><strong> hoàn thành đủ yêu cầu đề bài</strong></span><span style="background-color:#ffffff"> và</span><span style="background-color:#ffffff"><strong> đưa ra quan điểm rõ ràng</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Ngoài ra, bài viết cũng đã mở đầu với một cụm để nêu rõ thông tin của toàn đoạn. Cụ thể, ở BP1, người viết mở với cụm “</span><span style="background-color:#00ff00"><strong>the first issue that occurs</strong></span><span style="background-color:#ffffff">” (vấn đề đầu tiên xảy ra) giúp giám khảo dễ dàng hiểu rằng BP1 phân tích vấn đề. Tương tự, ở BP2, người viết mở với cụm “</span><span style="background-color:#00ff00"><strong>That being said,</strong></span><span style="background-color:#ffffff">” (mặc dù nói vậy) giúp giám khảo hiểu rằng BP2 phân tích lợi ích</span></p>
+
+<p><span style="background-color:#ffffff">- Về mặt lập luận, người viết kết hợp nhiều cách lập luận trong bài như thêm thông tin và nêu nguyên nhân-kết quả</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>Bài viết được đánh giá cao về TR</strong></span></span></p>
+
+<p>&nbsp;</p>
+
+<p>- Nhìn vào các band điểm 3, 4, 5, ta thấy được các vấn đề mà thí sinh ở band thấp mắc phải:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:620px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:53px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Band</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:567px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Task Response</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:53px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>5</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:567px">
+			<p><span style="background-color:#ffff00"><strong>The main parts of the prompt are incompletely addressed. The format may be inappropriate in places.&nbsp;</strong></span></p>
+
+			<p>Trả lời thiếu yêu cầu chính của đề bài. Hình thức bài viết đôi khi chưa phù hợp</p>
+
+			<p><span style="background-color:#00ff00"><strong>The writer expresses a position,</strong></span><strong> but </strong><span style="background-color:#ffff00"><strong>the development is not always clear.</strong></span></p>
+
+			<p>Người viết thể hiện quan điểm, nhưng triển khai có chỗ không rõ ràng</p>
+
+			<p><span style="background-color:#00ff00"><strong>Some main ideas are put forward,</strong></span><strong> but </strong><span style="background-color:#ffff00"><strong>they are limited and are not sufficiently developed and/or there may be irrelevant detail.</strong></span></p>
+
+			<p>Trình bày một vài ý chính nhưng còn hạn chế và chưa được triển khai đầy đủ; có thể có chi tiết lạc đề</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:53px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>4</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:567px">
+			<p><span style="background-color:#ffff00"><strong>The prompt is tackled in a minimal way, or the answer is tangential, possibly due to some misunderstanding of the prompt. The format may be inappropriate.&nbsp;</strong></span></p>
+
+			<p>Trả lời yêu cầu đề bài một cách nông cạn, hoặc lạc đề; có thể do chưa hiểu đề bài. Hình thức bài luận chưa phù hợp</p>
+
+			<p><span style="background-color:#00ff00"><strong>A position is discernible,</strong></span><strong> but </strong><span style="background-color:#ffff00"><strong>the reader has to read carefully to find it.</strong></span></p>
+
+			<p>Bài viết có thể hiện quan điểm, nhưng phải đọc rất kỹ mới xác định được</p>
+
+			<p><span style="background-color:#ffff00"><strong>Main ideas are difficult to identify and such ideas that are identifiable may lack relevance, clarity and/or support.</strong></span></p>
+
+			<p>Ý chính khó theo dõi và các ý này thường lạc đề, thiếu rõ ràng hoặc không có dẫn chứng bổ trợ</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:53px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>3</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:567px">
+			<p><span style="background-color:#ffff00"><strong>No part of the prompt is adequately addressed, or the prompt has been misunderstood.&nbsp;</strong></span></p>
+
+			<p>Chưa trả lời yêu cầu đề bài, hoặc hiểu lầm yêu cầu đề bài</p>
+
+			<p><span style="background-color:#ffff00"><strong>No relevant position can be identified, and/or there is little direct response to the questions.&nbsp;</strong></span></p>
+
+			<p>Không đưa ra quan điểm, và không trả lời câu hỏi trong đề bài</p>
+
+			<p><span style="background-color:#ffff00"><strong>There are few ideas, and these may be irrelevant or insufficiently developed</strong></span></p>
+
+			<p>Có một vài ý tưởng, nhưng các ý bị lạc đề hoặc chưa được phát triển đầy đủ</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Các lỗi khiến điểm TA thấp:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Does not address all parts of the task</strong></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff"><strong>(</strong></span>Không trả lời hết yêu cầu đề bài)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Does not express a clear position</strong></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff"><strong>(</strong></span>Không đưa ra quan điểm rõ ràng)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>The format is inappropriate</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Hình thức bài luận bất hợp lý)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Ideas are irrelevant or insufficiently developed</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Các ý tưởng bị lạc đề hoặc chưa được phát triển đầy đủ)</p>
+
+<p>&nbsp;</p>
+
+<h2 id="2.-các-lỗi-sai--cách-khắc-phục"><span style="background-color:#ffffff"><strong>2.</strong></span><span style="background-color:#ffffff"> Các lỗi sai &amp; Cách khắc phục</span></h2>
+
+<h3 id="2.1.-không-trả-lời-hết-yêu-cầu-đề-bài"><strong>2.1. </strong>Không trả lời hết yêu cầu đề bài</h3>
+
+<h4 id="2.1.1.-biểu-hiện"><strong>2.1.1. </strong>Biểu hiện</h4>
+
+<p><span style="background-color:#ffffff">- </span>Không trả lời hết yêu cầu đề bài được thể hiện ở việc hiểu sai/chưa đầy đủ yêu cầu đề bài</p>
+
+<p>- Một biểu hiện khác là việc đề bài nêu 2 đối tượng, nhưng chỉ tập trung phân tích một đối tượng mà quên so sánh nó với đối tượng còn lại</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:&nbsp;</strong></p>
+
+<p>- Với một số đề bài, chúng ta sẽ phải phân tích 2 đối tượng. Cụ thể:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:631px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:631px">
+			<p><strong>1.</strong> People should look after their health <span style="background-color:#00ffff"><strong>as a duty to the society</strong></span><strong> </strong>where they live, <span style="background-color:#fff2cc"><strong>rather than</strong></span> <span style="background-color:#00ffff"><strong>for their own benefits</strong></span>. To what extent do you agree or disagree?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:631px">
+			<p><strong>2.</strong> In the future, <span style="background-color:#fff2cc"><strong>nobody will</strong></span> <span style="background-color:#00ffff"><strong>buy printed newspapers or books</strong></span> because <span style="background-color:#fff2cc"><strong>they will</strong></span> be able to <span style="background-color:#00ffff"><strong>read everything they want online without paying</strong></span>. To what extent do you agree or disagree with this statement?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:631px">
+			<p><strong>3.</strong> Rich countries often give money to poorer countries, but it does not solve poverty. Therefore, developed countries should <span style="background-color:#00ffff"><strong>give other types of help</strong></span> to poor countries<span style="background-color:#ffffff"> </span><span style="background-color:#fff2cc"><strong>rather than</strong></span> <span style="background-color:#00ffff"><strong>financial aid</strong></span>. To what extent do you agree or disagree?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:631px">
+			<p><strong>4.</strong> Many people say that <span style="background-color:#00ffff"><strong>cooking and eating at home</strong></span> is <span style="background-color:#fff2cc"><strong>better</strong></span> for the individual and the family<span style="background-color:#ffffff"> </span><span style="background-color:#fff2cc"><strong>than</strong></span> <span style="background-color:#00ffff"><strong>eating out in restaurants</strong></span>. Do you agree or disagree?</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Tất cả các đề bài trên đều có sự xuất hiện của 2 đối tượng thay vì chỉ có một đối tượng.Khi đó, nhiệm vụ của thí sinh là phải so sánh 2 đối tượng với nhau.</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- </span>Một số đề bài sẽ yêu cầu phân tích liệu giải pháp A có phải là giải pháp tốt nhất (<strong>the only/best solution</strong>) cho một vấn đề</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Some people think that the best way to increase road safety is to increase the&nbsp; minimum legal age for driving cars or riding motorbikes. To what extent do you agree or disagree</strong></p>
+
+			<p style="text-align:center">(Một số người cho rằng cách tốt nhất để cải thiện an toàn giao thông là tăng độ tuổi lái xe oto hay xe gắn máy. Bạn đồng ý hay không đồng ý?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Một số thí sinh nói rằng A là giải pháp tốt nhất rồi thân bài chỉ nêu lợi ích, một số thí sinh thì cho rằng A chưa phải tốt nhất rồi thân bài nêu bất lợi</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Cả 2 hướng trả lời đều vô lý. Việc nó có lợi/bất lợi không có nghĩa rằng nó là giải pháp tốt nhất</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Nếu theo “<strong>agree</strong>”, phải chứng minh đây là cách tốt nhất và các cách khác không tốt bằng. Nếu theo “<strong>disagree</strong>”, phải tìm những cách hiệu quả bằng/hơn giải pháp đề bài cho</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Tương tự, </span>nhiều thí sinh cho rằng dạng bài sử dụng cụm “<strong>the only</strong>” và “<strong>the best</strong>” sẽ xử lý giống nhau</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>The only way to improve road safety is to give much stricter punishments on driving offenses. To what extent do you agree or disagree?</strong></p>
+
+			<p style="text-align:center">(Cách duy nhất để cải thiện an toàn giao thông là đưa ra hình phạt nghiêm trọng hơn khi vi phạm giao thông. Bạn đồng ý hay không đồng ý?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Giả dụ rằng </span>bạn nói&nbsp; là “<strong>the only way is to increase the driving age</strong>” (cách duy nhất là tăng độ tuổi lái xe) và thân bài bạn chứng minh tại sao các cách khác không hiệu quả bằng cách này</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Không hợp lý. Nó kém hiệu quả hơn không có nghĩa là không còn cách khác</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Nếu cho rằng giải pháp A là “<strong>the only way</strong>” thì phải chứng minh tại sao các giải pháp khác không giải quyết được vấn đề. Nếu cho rằng giải pháp A không phải “<strong>the only way</strong>” thì chỉ việc chỉ ra rằng cũng có những giải pháp khác&nbsp;</p>
+
+<h4 id="2.1.2.-cách-khắc-phục"><strong>2.1.2. </strong>Cách khắc phục</h4>
+
+<p>- Để viết được câu trả lời đúng và đủ, cần đọc và hiểu rõ yêu cầu cụ thể của đề bài</p>
+
+<p>- Cần phải luyện tập nhiều, tiếp xúc với các loại đề bài để hiểu nhanh và chuẩn hơn ý đồ của người ra đề</p>
+
+<p><span style="background-color:#ffffff">- </span>Trong đó, khi luyện:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Đọc đề thật chậm và từ tốn, đọc đi đọc lại ít nhất 3 lần</strong></li>
+	<li style="list-style-type:disc"><strong>Gạch chân từ khoá quan trọng</strong></li>
+	<li style="list-style-type:disc"><strong>Lập dàn ý sơ lược trước khi viết bài</strong></li>
+	<li style="list-style-type:disc"><strong>Kiểm tra bài viết&nbsp;</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng phân tích các lỗi sai và cách khắc phục các lỗi này trong bài viết cụ thể</p>
+
+<p><strong>Ví dụ 1: Hiểu sai/chưa đủ yêu cầu đề bài</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>The best way to improve road safety is to raise the minimum driving age. To what extent do you agree or disagree?</strong></p>
+
+			<p style="text-align:center">(Cách tốt nhất để cải thiện an toàn giao thông là tăng độ tuổi lái xe. Bạn đồng ý hay không đồng ý?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Thí sinh đã có đoạn </span><span style="background-color:#ffffff"><strong>Body </strong></span><span style="background-color:#ffffff">như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>One of the main reasons why I view this development positively is higher risk awareness. Particularly, with more maturity, people’s cognitive abilities will are allowed to fully develop, thereby making them more aware of the consequences of their actions. Consequently, these older drivers would drive more responsibly, as they would look down on dangerous behaviors. For example, a 16-year-old driver might want to show off his driving skills through reckless behaviors such as overtaking vehicles, even trucks. Conversely, an older one would rather prove himself by contributing to society through either his knowledge or civilized attitude. Thus, it is safe to conclude that the latter would refuse to engage in those superficial activities. Undoubtedly, the older drivers are, the safer the roads become.</p>
+
+			<p>The second reason why I agree with this development is that older drivers have a greater pool of experience than younger participants. This means that they are capable of reacting quickly and handling emergencies properly. Meanwhile, owing to a lack of experience, teenagers might underestimate traffic hazards or panic in dangerous situations. Indeed, the greater experience that older drivers possess is invaluable in promoting road safety.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">(Đoạn văn phân tích lý do tăng độ tuổi lái xe là cách tốt nhất)</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Ở bài này, cả hai đoạn BP đều được sử dụng để nêu lợi ích của việc tăng độ tuổi lái xe</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Vô lý, việc giải pháp này có điểm tốt không đồng nghĩa rằng nó là cách tốt nhất</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Để sửa bài viết này, </span>BP2 cần chứng minh các cách khác hiệu quả hơn/không hiệu quả bằng&nbsp;</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span><span style="background-color:#ffffff"><strong>Có dàn ý chỉnh sửa như sau:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP2: </strong>↑ driving training+↑ infrastructure = solutions</p>
+
+			<p><strong>E1:</strong> ↑ driving training: ↑&nbsp; training = ↑ experience</p>
+
+			<p><strong>E2:</strong> ↑ infrastructure: ↓ dangers = ↓ get hurt</p>
+
+			<p><strong>Eg2:</strong> city = maintained roads =&gt; ↓ accidents</p>
+
+			<p><strong>L:</strong> ↑ driving training+↑ infrastructure = solutions</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><br>
+<strong>Phân tích:</strong></p>
+
+<p><span style="background-color:#ffffff">- Thay vì chỉ tăng độ tuổi lái xe thì có cách tốt hơn, đó là tăng thời gian lượt tập lái xe và</span></p>
+
+<p><span style="background-color:#ffffff">tăng cơ sở vật chất trên mặt đường.&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Tại sao lại tăng thời gian phải học lái xe? - </strong></span><span style="background-color:#ffffff">Vì như thế là tăng thời gian lượt tập và có thêm kinh nghiệm lái xe.&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Tại sao lại cải thiện vật chất trên mặt đường?</strong></span><span style="background-color:#ffffff"> - Vì như thế sẽ làm giảm nguy hiểm và tránh bị tai nạn.Để củng cố ý này, chúng ta nêu ví dụ: ở thành phố thì có nhiều đường được quản lý tốt. Và bởi vì vậy, thành phố thì ít khi xảy ra tai nạn.&nbsp;</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- Cuối cùng, chúng ta kết thúc bằng cách nhấn mạnh lại rằng các giải pháp chúng ta đề ra sẽ tốt hơn</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Bài viết đã chứng minh “<strong>raise legal age</strong>” là giải pháp tốt, nhưng không phải tốt nhất</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Từ dàn ý, chúng ta sẽ có bài sửa hoàn chỉnh như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>However, <span style="color:#ff0000"><strong>there are more effective options to improve road safety</strong></span><strong>. </strong><span style="color:#ff0000"><strong>One noteworthy solution is the extension of driving training</strong></span>. Particularly, drivers should have to do more hours practicing, as they get more time to train. By being more prepared, those drivers would have more experience in dealing with realistic traffic incidents such as being overtaken or encountering jaywalkers. <span style="color:#ff0000"><strong>Another worth considering measure is to renovate the infrastructure</strong></span>. Particularly, as dangers such as potholes would be removed, the likelihood of getting hurt due to running through the obstacles would plummet as well. To illustrate, research indicates that drivers in cities, where the roads are well-maintained, experience fewer less road accidents than those in the poorly developed regions. Thus, it is reasonable to conclude that improvements to the roads and further training could ensure greater security when driving.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ 2: Đề bài phân tích thiếu đối tượng</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>People should look after their health as a duty to the society where they live, rather than for their own benefits.&nbsp; To what extent do you agree or disagree?</strong></p>
+
+			<p style="text-align:center">(Việc chăm lo sức khỏe phải là nghĩa vụ với xã hội, thay vì cho lợi ích cá nhân. Bạn đồng ý hay không đồng ý?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Thí sinh đã có đoạn Body 1 như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, enforcing health obligations may place burdens on existing healthcare systems. Specifically, in remote areas, healthcare facilities are limited, and there is a shortage of medically trained personnel. To accommodate these regions, there would be a heightened demand for medical equipment and medical professionals. The higher demand placed upon the medical sector would increase the workload of individual workers, severely overloading medical facilities.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">(Đoạn văn phân tích lý do không nên yêu cầu mọi người phải chăm lo sức khỏe)</span></p>
+
+<p>&nbsp;</p>
+
+<p>- Phân tích lại bài viết, chúng ta có thể tóm tắt lập luận của thí sinh trong đoạn BP như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: stress for medical workers</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(tăng áp lực lên những nhân viên y tế)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: remote areas = ↓ medical facility+personnel</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ở những vùng hẻo lánh thì lại ít vật trang về y tế và ít nhân sự y tế)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: ↑ demand for medicine = ↑ workload</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(nếu tăng nhu cầu chăm sóc y tế thì làm tăng lượng công việc của những nhân viên y tế)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: health obligation = overload medical facilities</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(việc bắt buộc con người chăm sóc sức khỏe sẽ làm quá tải hệ thống y tế)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Chứng minh bất cập của “<strong>health as a duty</strong>”, nhưng không hề nhắc tới khía cạnh còn lại của đề bài: “<strong>rather than for their own benefit</strong>”</p>
+
+<p>=&gt; Mắc lỗi “mức độ hoàn thành đề bài không đồng đều” (đặc điểm band 6.0)</p>
+
+<p>&nbsp;</p>
+
+<p>- Để sửa bài viết, chúng ta cần sửa ngay từ phần dàn ý. Cụ thể, chúng ta có cách sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>P: </strong>stress for medical workers</p>
+
+			<p><strong>E:</strong> <span style="color:#ff0000"><strong>health = obligation&nbsp;</strong></span></p>
+
+			<p><span style="color:#ff0000"><strong>=&gt; accommodate all areas = ↑ medical demands</strong></span></p>
+
+			<p><strong>E:</strong> <span style="color:#ff0000"><strong>own benefit = choose when to check health</strong></span></p>
+
+			<p><strong>L: </strong>health = own benefit</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Phần lập luận của bản gốc đã được co lại thành một câu <strong>Explanation</strong>, tập trung vào giải thích rằng ép người phải bảo vệ sức khỏe sẽ đồng nghĩa việc là phải cung cấp cho tất cả các vùng và từ đó là tăng nhu cầu về chăm sóc y tế</p>
+
+<p>- Ở bản sửa, câu <strong>Expand</strong> được sử dụng để triển khai ý về đối tượng còn lại. Cụ thể, chúng ta nêu: nếu làm vì lợi ích cá nhân thì hoàn toàn để chọn khi nào kiểm tra sức khỏe</p>
+
+<p>- Cuối cùng, chúng ta chốt lại rằng bảo vệ sức khỏe nên vì lợi ích cá nhân</p>
+
+<p>=&gt; Bám sát cả hai khía cạnh của đề bài</p>
+
+<p>&nbsp;</p>
+
+<p>- Từ dàn ý, chúng ta có bài sửa hoàn chỉnh như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, <span style="color:#ff0000"><strong>I believe that health should be a personal consideration because making self-care obligatory</strong></span><strong> </strong>would place burdens on existing healthcare systems. <span style="color:#0000ff"><strong>Making healthcare a personal responsibility would entail equipping all areas, even remote regions such as mountainous areas and islands, with equal access to facilities and infrastructure, thereby increasing the demand for medical staff and equipment. Consequently, this heightened demand for medical services would overload existing healthcare systems</strong></span>. <span style="color:#ff0000"><strong>In comparison, if people can choose when to seek medical aid, this would alleviate the demand for medical services and reduce the workload of medical staff</strong></span>.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="2.2.-thể-hiện-quan-điểm-không-rõ-ràng"><span style="color:#434343"><strong>2.2. </strong></span><span style="color:#434343">Thể hiện quan điểm không rõ ràng</span></h3>
+
+<h4 id="2.2.1.-biểu-hiện"><strong>2.2.1. </strong>Biểu hiện</h4>
+
+<p><span style="background-color:#ffffff">- </span>Thể hiện quan điểm thiếu rõ ràng có nhiều biểu hiện. Phổ biến nhất là việc mở bài bằng câu luận đề vô giá trị</p>
+
+<p><span style="background-color:#ffffff">- </span>Một biểu hiện khác là thân bài triển khai luận điểm không rõ ràng</p>
+
+<p><span style="background-color:#ffffff">- </span>Biểu hiện cuối cùng là kết luận không tóm tắt và khẳng định quan điểm</p>
+
+<h4 id="2.2.2.-cách-khắc-phục"><strong>2.2.2. </strong>Cách khắc phục</h4>
+
+<p>- Về mặt giải pháp, thí sinh cần phải:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Mở bài: </strong>viết câu luận đề trả lời trực tiếp, rõ ràng câu hỏi của đề bài</li>
+	<li style="list-style-type:disc"><strong>Thân bài:</strong> triển khai rõ các lý do để chứng minh cho các luận điểm</li>
+	<li style="list-style-type:disc"><strong>Kết bài:</strong> khẳng định lại câu trả lời và tóm tắt các luận điểm</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng phân tích vấn đề và cách khắc phục các vấn đề này trong từng phần của bài viết IELTS Writing Task 2</p>
+
+<p><strong>Ví dụ 1: Introduction có câu luận đề vô giá trị</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?</strong></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Ở nhiều nước trên thế giới ngày nay, người tiêu dùng có thể tới siêu thị và mua thực phẩm được sản xuất ở khắp nơi trên thế giới. Liệu bạn nghĩ rằng đây là xu hướng phát triển tích cực hay tiêu cực?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng phân tích một số câu <strong>Introduction</strong> sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:370px">
+			<p><strong>1.</strong> From my perspective, I believe that this development has both benefits and drawbacks</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:254px">
+			<p>- Chưa thực sự phù hợp và có thể đánh giá là một câu luận đề còn yếu, vì không nghề nêu ra ý kiến cá nhân là đây là "<strong>positive</strong>" hay "<strong>negative</strong>" mà chỉ nêu một cách chung chung, đó là "<strong>sự phát chuyển này có cả mặt lợi và mặt hại</strong>"</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:370px">
+			<p style="margin-right:-28px"><strong>2. </strong>This essay will discuss the advantages and disadvantages and provide my viewpoint on the matter</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:254px">
+			<p>- Mặc dù câu trả lời này tương đối là phù hợp, nhưng việc mớm câu trả lời và nói rằng sẽ trả lời câu hỏi của đề bài sau dễ thể hiện với giám khảo rằng bài viết chưa thực sự thể hiện quan điểm một cách rõ ràng.&nbsp;</p>
+
+			<p>=&gt; Chưa thực sự là một câu trả lời phù hợp.&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:370px">
+			<p><strong>3.</strong> Although it may be more convenient for consumers, I would argue that this development causes more damage to food safety and national development</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:254px">
+			<p>- Ở câu 3, chúng ta vừa hiểu được quan điểm của người viết là gì và cũng được cung cấp bản tóm tắt ngắn gọn các luận điểm mà người viết sẽ đề cập tới</p>
+
+			<p>=&gt; Hoàn toàn phù hợp&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Phân tích lại các câu <strong>Introduction</strong>, chúng ta bản sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:623px">
+	<tbody>
+		<tr>
+			<td style="background-color:#ffffff; border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:623px">
+			<p><strong>1.</strong><span style="background-color:#ffffff"> From my perspective, I believe that this development has both benefits and drawbacks</span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>, and I more strongly believe in the latter</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#ffffff; border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:623px">
+			<p style="margin-right:-28px"><strong>2.</strong><span style="background-color:#ffffff"> This essay will discuss the advantages and disadvantages </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>and explain why I lean more heavily towards the benefits/drawbacks</strong></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>=&gt; Chỉ cần phải trả lời trực tiếp câu hỏi của đề bài là sẽ có <strong>Introduction </strong>hoàn chỉnh</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ 2: Body triển khai luận điểm không rõ ràng</strong></p>
+
+<p>- Với cùng đề bài “<strong>food produced all over</strong> <strong>the</strong> <strong>world</strong>” (đồ ăn sản xuất khắp nơi trên thế giới), thí sinh đã có đoạn Body 1 như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Firstly, people can buy everything in a supermarket. To be more particular, people can have difficulty in buying traditional food from a country far from them, which can waste their time when they go to that country and buy it. Therefore, buying food from all over the world in a local supermarket can be more convenient for them. As a result, people can easily have food from other countries by buying them from their local areas. Notably, people have greater convenience because they can buy food from other places in their living areas.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>(Đoạn nêu lợi ích của thực phẩm nhập khẩu)</p>
+
+<p>&nbsp;</p>
+
+<p>- Phân tích lại bài viết, chúng ta có thể tóm tắt lập luận của thí sinh trong đoạn BP như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: buy everything</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(mua mọi thứ)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E1: traditional food = difficult to buy =&gt; waste time</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(đồ ăn truyền thống khó mua, nên tốn thời gian)&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E2: international food = ↑ convenience</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thực phẩm quốc tế giúp tăng tính thuận tiện)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Ep2: buy from from local areas = easy</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(mua từ khu vực địa phương trở nên dễ dàng)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: ↑ convenience</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(tăng tính thuận tiện)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Bài viết mắc <strong>3 lỗi</strong> là:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Quan điểm không rõ ràng</strong></li>
+	<li style="list-style-type:disc"><strong>Lạc đề</strong></li>
+	<li style="list-style-type:disc"><strong>Lập luận, luận điểm bị lặp</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Trước hết, chúng ta cùng phân tích lỗi “<strong>quan điểm không rõ ràng</strong>”</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Firstly, <span style="background-color:#00ff00"><strong>people can buy everything in a supermarket</strong></span>. To be more particular, people can have difficulty in buying traditional food from a country far from them, which can waste their time when they go to that country and buy it. Therefore, buying food from all over the world in a local supermarket can be more convenient for them. As a result, people can easily have food from other countries by buying them from their local areas. Notably, people have greater convenience because they can buy food from other places in their living areas.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>=&gt; Câu đầu tiên chưa nêu rõ quan điểm, không thể biết “<strong>buy everything in a supermarket</strong>” là tốt hay xấu, chỉ đến câu thứ 3 mới nêu quan điểm là “<strong>more convenient</strong>”&nbsp;</p>
+
+<p>=&gt; <strong>Trình bày quan điểm không rõ ràng</strong></p>
+
+<p>&nbsp;</p>
+
+<p>- Tiếp theo, chúng ta cùng phân tích lỗi “<strong>lạc đề</strong>”</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Firstly, people can buy everything in a supermarket. To be more particular, <span style="color:#ff9900"><strong>people can have difficulty in buying traditional food from a country far from them, which can waste their time when they go to that country and buy it</strong></span>. Therefore, buying food from all over the world in a local supermarket can be more convenient for them. As a result, people can easily have food from other countries by buying them from their local areas. Notably, people have greater convenience because they can buy food from other places in their living areas.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>=&gt; Câu sau tiếp tục giải thích lý giải rằng có thể mua đồ ăn của các nước khác ở siêu thị để đỡ tốn thời gian</p>
+
+<p>=&gt; Bởi vì bài hỏi về “<strong>lợi ích của việc phổ biến hàng nhập khẩu</strong>” chứ không hề hỏi về “<strong>lợi ích của việc mua được mọi thứ ở siêu thị</strong>”, nên bị đánh giá là lạc đề</p>
+
+<p>&nbsp;</p>
+
+<p>- Cuối cùng, chúng ta cùng phân tích lỗi “<strong>lặp ý</strong>”</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Firstly, people can buy everything in a supermarket. To be more particular, people can have difficulty in buying traditional food from a country far from them, which can waste their time when they go to that country and buy it. Therefore, <span style="color:#cc0000"><strong>buying food from all over the world in a local supermarket can be more convenient for them</strong></span>. As a result, <span style="color:#cc0000"><strong>people can easily have food from other countries by buying them from their local areas</strong></span>. Notably,<strong> </strong><span style="color:#cc0000"><strong>people have greater convenience because they can buy food from other places in their living areas</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>=&gt; Ba câu sau về đúng hướng, nhưng chỉ nhắc đi nhắc lại vấn đề “<strong>more convenient</strong>”. Bởi vậy nên bài viết mắc lỗi “<strong>lặp ý</strong>”</p>
+
+<p>&nbsp;</p>
+
+<p>- Bởi vì mắc 3 lỗi như vậy, chúng ta sẽ cần phải sửa lại bài ngay từ phần dàn ý:</p>
+
+<ul>
+	<li style="list-style-type:disc">Dàn ý BP1:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: ↑ convenience</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(tăng tính thuận tiện)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: ↑ food options: international food = enjoy diverse cuisines</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(nhờ có thực phẩm nhập khẩu nên được thưởng thức đa dạng các nền ẩm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thực, từ đó tăng tính đa dạng của đồ ăn)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Eg: purchase exotic fruits in my local supermarket</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(mua thực phẩm độc lạ từ siêu thị ở địa phương)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: ↑ convenience</strong></p>
+
+			<p><strong>&nbsp;&nbsp;</strong>&nbsp;&nbsp;(tăng tính thuận tiện)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Dàn ý BP2:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP2: ↓ homesick&nbsp;</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(giảm cảm giác nhớ nhà)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: traditional meals: international food = obtain international ingredients</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(nhờ có thực phẩm nhập khẩu nên có thể mua các nguyên liệu thực phẩm quốc tế, từ đó&nbsp;&nbsp;</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;làm được các món ăn truyền thống)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: closer to home: make national food = taste of home</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(làm được các đồ ăn truyền thống thì sẽ giúp mọi người bớt nhớ nhà)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: ↓ homesick&nbsp;</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(giảm sự nhớ nhà)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Dựa theo dàn ý, chúng ta có bài sửa hoàn chỉnh như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>I see this advancement positively because <span style="color:#ff0000"><strong>it makes buying exotic food products easier</strong></span>. Access to international food options allows people to enjoy diverse cuisines and produce that would otherwise only be available by traveling to different regions. For example, I have been able to purchase exotic products native to New Zealand like kiwis and citrus fruits at my local supermarket.</p>
+
+			<p>Another reason why I support this development is <span style="color:#ff0000"><strong>it reduces homesickness among immigrants</strong></span>. With the availability of international imports, those individuals would easily find the necessary ingredients to make their national foods. Hence, this would give foreigners a taste of home, thereby reminding them of their hometowns. Indeed, it is justifiable to claim that foreign foods imports increase conveniences when searching for exotic products and reduces homesickness for non-natives.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ 3: Conclusion không tóm tắt và thể hiện quan điểm</strong></p>
+
+<p>- Với đề bài “<strong>food produced all over the world</strong>” (đồ ăn sản xuất khắp nơi trên thế giới), thí sinh đã có đoạn <strong>Conclusion </strong>như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>To conclude, although it can be more convenient for consumers, I believe that it is a negative development for consumers, as imports can be more expensive but have low quality. Consequently, the government should consider buying food from other countries at cheaper prices and transporting food faster.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Ta có thể tóm tắt lại hai câu trên trong sơ đồ sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>↑ convenience &gt;&lt; low quality &amp; expensive imports</strong></p>
+
+			<p style="text-align:center">(tăng tính thuận tiện đối lập với thực phẩm nhập khẩu kém và đắt tiền)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>=&gt; negative development</strong></p>
+
+			<p style="text-align:center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xu hướng phát triển xấu)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>=&gt; government should buy food from other countries</strong></p>
+
+			<p style="text-align:center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(chính phủ nên mua đồ ăn từ các nước khác)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>=&gt; Các câu đá nhau, khiến kết luận không rõ ràng</p>
+
+<p>&nbsp;</p>
+
+<p>- Phân tích lại bài viết, chúng ta chỉnh sửa <strong>Conclusion </strong>(kết bài) như sau:</p>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:632px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:295px">
+			<p style="text-align:center"><strong>Nội dung trong Intro và Body</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:337px">
+			<p style="text-align:center"><strong>Conclusion</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:295px">
+			<p>Although it may be more convenient for consumers, <span style="color:#cc0000"><strong>I would argue that this development causes more damage</strong></span> to food safety and national development</p>
+
+			<p>(...<span style="color:#cc0000"><strong> tôi cho rằng xu hướng phát triển gây hại nhiều hơn</strong></span> …)</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:337px">
+			<p>In short,<span style="color:#017837"> </span><span style="color:#cc0000"><strong>I am somewhat positive </strong></span>about the availability of global food products in supermarkets&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:295px">
+			<p>I see this advancement positively because it makes <span style="color:#ff9900"><strong>buying exotic food products easier</strong></span>.</p>
+
+			<p>(<strong>ý chính: </strong>mua thực phẩm quốc tế dễ dàng hơn)</p>
+
+			<p>Another reason why I support this development is <span style="color:#ff00ff"><strong>it reduces homesickness among immigrants</strong></span></p>
+
+			<p>(<strong>ý chính:</strong> giảm cảm giác nhớ nhà của dân tỵ nạn)</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:337px">
+			<p>This development may not only <span style="color:#ff9900"><strong>increase the convenience in purchasing international imports</strong></span> but also<span style="color:#ff00ff"> </span><span style="color:#ff00ff"><strong>reduce&nbsp;feelings of homesickness</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="2.3.-lập-luận-sơ-sài"><span style="color:#434343"><strong>2.3. </strong></span><span style="color:#434343">Lập luận sơ sài</span></h3>
+
+<h4 id="2.3.1.-biểu-hiện"><strong>2.3.1. </strong>Biểu hiện</h4>
+
+<p><span style="background-color:#ffffff">- </span>Việc lập luận còn hời hợt, sơ sài có 2 biểu hiện chính. Phổ biến nhất là việc triển khai ý còn hạn chế</p>
+
+<p><span style="background-color:#ffffff">- </span>Một biểu hiện khác là việc nêu các chi tiết không liên quan</p>
+
+<h4 id="2.3.2.-cách-khắc-phục"><strong>2.3.2. </strong>Cách khắc phục</h4>
+
+<p><span style="background-color:#ffffff"><strong>- </strong></span>Để tránh lỗi này, các bạn hãy sắp xếp ý theo cấu trúc P.E.E.L. Việc áp dụng công thức này giúp tách ý trong quá trình triển khai đoạn văn</p>
+
+<p><span style="background-color:#ffffff"><strong>- </strong></span>Khi dùng P.E.E.L, không nhất thiết phải tách câu cho mỗi phần mà có thể gộp hai phần trong cùng một câu, hoặc cũng có thể viết hai câu để triển khai cho riêng một phần</p>
+
+<p><span style="background-color:#ffffff"><strong>=&gt; </strong></span>Triển khai P.E.E.L theo cách nào cũng được, miễn sao các câu đúng với yêu cầu của đề bài, triển khai đúng ý chính của đoạn và đảm bảo được mạch logic</p>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng phân tích vấn đề và cách khắc phục các vấn đề này trong các bài viết IELTS Writing Task 2</p>
+
+<p><strong>Ví dụ 1: Triển khai ý hạn chế</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>More and more women go out to work, so the government should subsidize them and provide free staff and facilities to care for their children. To what extent do you agree or disagree?</strong></p>
+
+			<p style="text-align:center">(Càng ngày càng có nhiều phụ nữ đi làm, vì vậy chính phủ nên hỗ trợ họ và cung cấp dịch vụ và cơ sở chăm sóc trẻ con miễn phí. Liệu bạn đồng ý hay không đồng ý?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Thí sinh có đoạn <strong>BP1</strong> như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>To begin with, by supporting childcare facilities for working women, governments would significantly alleviate the financial burden on families. Particularly, childcare costs often account for a considerable portion of a family's income, especially in single-parent households. Consequently, by providing free childcare services, governments can foster stable financial conditions within families.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>(Đoạn chứng minh chính phủ sẽ giúp giảm áp lực tài chính lên các hộ gia đình)</p>
+
+<p>&nbsp;</p>
+
+<p>- Người viết đã triển khai ý như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: ↓ financial burden</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(giảm áp lực tài chính)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: childcare = much money, esp single-parent households</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(chăm sóc trẻ con tốn nhiều tiền, đặc biệt với các cha mẹ đơn thân)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: free services = stable financial conditions</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(dịch vụ miễn phí giúp hộ gia đình có tình hình tài chính ổn định)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>=&gt; <strong>Kết luận vội vàng, thiếu logic: </strong>nêu việc “phí nuôi con đắt đỏ”, nhưng không hề chỉ ra việc cung cấp dịch vụ chăm sóc con cái miễn phí thì có thể hỗ trợ các hộ gia đình về mặt kinh tế như thế nào?</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Để sửa bài viết, chúng ta cần phải triển khai lại lập luận trong dàn ý như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: ↓ financial burden</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(giảm áp lực tài chính)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: childcare = much money =&gt; 0 balance between living &amp; childcare&nbsp;</strong></p>
+
+			<p><span style="color:#ff0000">&nbsp;&nbsp;&nbsp;</span>&nbsp;(chăm sóc trẻ con tốn nhiều tiền, nên không có cân bằng giữa chi phí sống và chi phí nuôi&nbsp;&nbsp;</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;con)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: government subsidies = ↓ childcare costs =&gt; ↑money</strong></p>
+
+			<p><span style="color:#ff0000">&nbsp;&nbsp;&nbsp;</span>&nbsp;(trợ cấp của chính phủ giúp giảm chi phí nuôi con, từ đó thêm tiền cho các hộ gia đình)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: free services = stable financial conditions</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(dịch vụ miễn phí giúp thúc đẩy tình hình tài chính ổn định cho các hộ gia đình)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Từ dàn ý trên, chúng ta triển khai lại </span><span style="background-color:#ffffff"><strong>BP1</strong></span><span style="background-color:#ffffff"> như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>I am strongly in favor of this development because it will alleviate the financial burden that childcare imposes on certain families. <span style="color:#ff0000"><strong>As parents have to pay for both staff and facilities to take care of their child during working hours, they may struggle to accommodate both childcare-related costs and living costs. With government subsidies, working parents no longer have to worry about this expense, and can have more money to spend on different areas such as vacation and fashion. Hence, it is justifiable to claim that the government can improve the financial situations of families by providing free childcare services</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ 2: Nêu chi tiết không liên quan</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Nowadays, more people move away from their friends and families for work. Do advantages outweigh the disadvantages?</strong></p>
+
+			<p style="text-align:center">(Hiện nay, nhiều người rời xa nhà và bạn bè để đi làm. Liệu lợi ích lớn hơn bất lợi không?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Thí sinh đã có đoạn <strong>BP1</strong> như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Firstly, one possible benefit of moving for work is the opportunities for work. Specifically, moving to a new city or country can open up a broader range of job that may not be available in one’s hometown. Consequently, relocating often provides individuals with better job prospects <span style="color:#017837"><strong>and career advancement</strong></span>. For example, in Viet Nam, young graduates from the countryside often move to Ha Noi to seek employment. This is because Ha Noi offers work in areas like IT or engineering, which may not be relevant to their region. which may be lacking in their home regions. Hence, this shift enhances work opportunities.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>(Đoạn phân tích lợi ích về tăng cơ hội làm việc)</p>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Bài viết nêu luận điểm chính là “<strong>opportunities for work</strong>” (tăng cơ hội việc làm), nhưng đến phần <strong>Expand</strong> thì nêu lợi ích là “<strong>career advancement</strong>” (thăng tiến nghề nghiệp)</p>
+
+<p>=&gt; Tăng cơ hội việc làm không đồng nghĩa với dễ dàng thăng tiến trong công việc</p>
+
+<p>=&gt; Chi tiết thừa, không liên quan tới luận điểm chính</p>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta sẽ sửa đoạn này như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Firstly, one possible benefit of moving for work is the opportunities for work. Specifically, moving to a new city or country can open up a broader range of job that may not be available in one’s hometown. Consequently, relocating often provides individuals with <span style="color:#ff0000"><strong>better job prospects</strong></span>. For example, in Viet Nam, young graduates from the countryside often move to Ha Noi to seek employment. This is because Ha Noi offers work in areas like IT or engineering, which may not be relevant to their region. which may be lacking in their home regions. Hence, this shift enhances work opportunities.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+        </div>

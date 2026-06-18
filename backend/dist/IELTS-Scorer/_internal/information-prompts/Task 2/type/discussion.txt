@@ -1,0 +1,754 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="dạng-bài-discussion"><span style="background-color:#ffffff">Dạng bài </span><span style="background-color:#ffffff"><strong>Discussion</strong></span></h1>
+
+<h2 id="1.-đặc-điểm"><span style="background-color:#ffffff"><strong>1. </strong></span><span style="background-color:#ffffff">Đặc điểm&nbsp;</span></h2>
+
+<p><span style="background-color:#ffffff">- Dạng bài này nêu 2 quan điểm trái chiều về một chủ đề và yêu cầu người viết bàn luận về 2 quan điểm đó và đưa ra ý kiến cá nhân của mình</span></p>
+
+<p><span style="background-color:#ffffff">- Dạng bài này thường được đưa ra dưới dạng câu hỏi sau:&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Discuss both views and give your own opinion</strong></span><span style="background-color:#ffffff">&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">(Phân tích cả 2 quan điểm và đưa ra ý kiến cá nhân)</span></p>
+
+<h2 id="2.-các-lưu-ý"><strong>2. </strong>Các lưu ý</h2>
+
+<h3 id="2.1.-đưa-quan-điểm-rõ-ràng"><span style="color:#434343"><strong>2.1. </strong></span><span style="color:#434343">Đưa quan điểm rõ ràng</span></h3>
+
+<p>- Nhiều thí sinh chỉ phân tích 2 quan điểm trong đề bài mà không đưa ra ý kiến của mình, dẫn tới việc trả lời thiếu yêu cầu đề bài (điểm TR sẽ không quá 5)&nbsp;</p>
+
+<p>=&gt; Các bạn cần thể hiện thông quan các cụm như: “<strong>I believe/ In my opinion/ I side with/ I agree that…</strong>” và đồng thời đưa ra lập luận thuyết phục&nbsp;</p>
+
+<p>- Người viết có thể đồng tình với 1 trong 2 quan điểm và cũng có thể đồng tình với cả 2.</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Trường hợp chọn 1 trong 2: </strong>chỉ ra tại sao đồng tính với A mà không đồng tình với B&nbsp;&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Trường hợp chọn cả 2: </strong>chỉ ra khi nào đồng tình với A, khi nào đồng tình với B&nbsp;&nbsp;</li>
+</ul>
+
+<h3 id="2.2.-phát-triển-ý-đồng-đều"><span style="color:#434343"><strong>2.2. </strong></span><span style="color:#434343">Phát triển ý đồng đều</span></h3>
+
+<p>- Nhiều thí sinh mắc lỗi phát triển ý không đồng đều, đặc biệt là khi ủng hộ 1 trong 2 quan điểm. Cụ thể: một đoạn thân bài viết rất logic, chặt chẽ nhưng đoạn còn lại thì không rõ ràng, có khi đi lệch hướng hoặc chỉ nhắc đi nhắc lại một ý.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>=&gt; Cần phải lập dàn ý trước khi viết</strong></p>
+
+<p>- Khi nghĩ ý tưởng, chúng ta cần đặt câu hỏi: “Tại sao có người ủng hộ quan điểm A?” hay “A có những lợi ích gì?”. Tuy nhiên, cũng cần hỏi “A có điểm gì bất lợi/ tác hại gì không?”. Chúng ta cũng lặp lại những câu hỏi này với quan điểm B.&nbsp;</p>
+
+<h3 id="2.3.-bố-cục-bài-viết"><span style="color:#434343"><strong>2.3.</strong></span><span style="color:#434343"> Bố cục bài viết</span></h3>
+
+<p><span style="background-color:#ffffff">- </span>Với dạng bài này, chúng ta nên phân tích mỗi quan điểm ở 1 đoạn thân bài.&nbsp;</p>
+
+<p>- Nếu người viết chỉ đồng ý với A mà không đồng ý với B thì nên viết về B trước A sau. Khi đó, người viết có thể phản biện lại những lập luận ủng hộ A và chứng minh tại sao B lại hợp lý hơn.</p>
+
+<p>- Ý kiến cá nhân của người viết cần được nêu ở ngay mở bài và khẳng định lại ở kết bài với các cụm từ như ở phần trước đã lưu ý. Ở thân bài, người viết vẫn có thể dùng đại từ “<strong>I</strong>", “<strong>my</strong>" khi nói về quan điểm của mình.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Trong quá trình viết, các bạn cần thể hiện rõ việc 2 quan điểm trái chiều bằng những từ/cụm từ nối&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">VD: </span>BP1:<strong> On the one hand,...</strong></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BP2: <strong>On the other hand,....</strong></p>
+
+<p>hoặc bắt đầu BP2 với: <strong>However,.../ Nevertheless,...</strong></p>
+
+<p><br>
+&nbsp;</p>
+
+<h2 id="3.-vấn-đề-với-bài-viết-band-6.0--cách-khắc-phục"><strong>3. </strong>Vấn đề với bài viết Band 6.0 &amp; Cách khắc phục</h2>
+
+<h3 id="3.1.-vấn-đề"><span style="color:#434343"><strong>3.1. </strong></span><span style="color:#434343">Vấn đề:</span></h3>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Some people say history is one of the most important school subjects. Other people think that, in today’s world, subjects like science and technology are more important than history. Discuss both views and give your own opinion.</strong></p>
+
+			<p style="text-align:center">(Một số người cho rằng lịch sử là một trong những môn học quan trọng nhất ở trường. Người khác lại nghĩ rằng trong thế giới ngày nay, các môn như khoa học và công nghệ quan trọng hơn môn lịch sử. Phân tích cả hai quan điểm trên và đưa ra ý kiến của bạn.)&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Các bạn theo dõi bài viết đạt band 6.0:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>In my opinion I think every subjects is important for us. We have to learn everything through our past, present and future. Some people say that History is one of the most important school subjects it's true but it has to go along with today's world which is science and Technology. How can we move without our history, the people behind us "The ancient people" is the most powerful people who pushes us to move forward. The taught us how to fire a light. How to find a food, How to lives with other and animals. How to survive and others. Of course we wouldn't know that without them. Science and Technology are important too. They give us a chance to move forward with them. Without Science and Technology we're just a normally humans being We spend our daily life with no useful. without them we have no light we have no food, ve have no comfortable stuff and things. Old people can survived without these things. Humans creates lots of invention to give an unlimited wants of people based on a limited government.</p>
+
+			<p>May I gives one example of the development of science and Technology. With this two things it give us a chance to be a member of ASEAN "Association of South East Asia Nation" we can be able to communicate with the other 9 countries with the high technology it help us to be a TEAMWORK with the 9 other countries to develop our country. help us in terms of transportation, communication, collaboration etc. it can definitely hold on to that hope that in the near future.</p>
+
+			<p>Overall economics can totally achieves, it is a fact that the member of the member of the ASEAN have differences in term of political standing, culture and traditions but its not a problem with our help I know that there’re a bright future are waiting for all of us. and that is a reason why History, Science and Technology is important.</p>
+
+			<p>We use History to learn about others, their culture, their tradition to be understand each other more and more and using science and Technology to help us, our country, our world to be moving forward, to help each other and to give a bright chances and future for everyone, especially kids give a chances to them to study, to go to school, to get knowledge so the next ten years, twenty years to the new up coming year all of them can help each other to pass these chances to other kids go on and on.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h4 id="3.1.1.-vấn-đề-theo-tiêu-chí-grammatical-range-and-accuracy">3.1.1. Vấn đề theo tiêu chí Grammatical range and accuracy</h4>
+
+<p>- Phần này sẽ tập trung vào phân tích các lỗi về mặt dùng từ trong bài viết, cụ thể là lỗi về mặt ngữ pháp và cấu trúc câu. Trước hết, chúng ta cùng phân tích các lỗi về cấu trúc câu mà bài viết mắc phải:&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>In my opinion, I think every subjects is important for us. We have to learn everything through our past, present and future. Some people say that History is one of the most important school subjects. It's true, but it has to go along with today's world, which is science and Technology. <strong><sup>1</sup></strong><span style="background-color:#00ffff"><strong>How can we move without our history? The people behind us, the ancient people, is the most powerful people who pushes us to move forward</strong></span><strong>. </strong><strong><sup>2</sup></strong><span style="background-color:#00ffff"><strong>The taught us how to fire a light, how to find a food, how to lives with other and animals, how to survive and others</strong></span><strong>. </strong><strong><sup>3</sup></strong><span style="background-color:#00ffff"><strong>Of course, we wouldn't know that without them. Science and Technology are important too. They give us a chance to move forward with them. Without Science and Technology, we're just a normally humans being. We spend our daily life with no useful</strong></span>. Without them, <strong><sup>4</sup></strong><span style="background-color:#00ffff"><strong>we have no light, we have no food, we have no comfortable stuff and things</strong></span>. Old people can survived without these things. Humans <strong><sup>5</sup></strong><span style="background-color:#00ffff"><strong>creates lots of invention to give an unlimited wants of people based on a limited government</strong></span>.</p>
+
+			<p>May I gives one example of the development of science and Technology. With this two things, it give us a chance to be a member of ASEAN: "Association of South East Asia Nation". We can be able to communicate with the other 9 countries with the high technology. <strong><sup>6</sup></strong><span style="background-color:#00ffff"><strong>It help us to be a TEAMWORK with the 9 other countries to develop our country</strong></span>,<strong> </strong><strong><sup>7</sup></strong><span style="background-color:#00ffff"><strong>help us in terms of transportation, communication, collaboration, etc</strong></span>. It can definitely hold on to that hope that in the near future.</p>
+
+			<p>Overall, economics can totally achieves. <strong><sup>8</sup></strong><span style="background-color:#00ffff"><strong>It is a fact that the member of the member of the ASEAN have differences in term of political standing, culture and traditions, but its not a problem</strong></span>. With our help, I know that <strong><sup>9</sup></strong><span style="background-color:#00ffff"><strong>there’re a bright future are waiting for all of us</strong></span>, and that is a reason why History, Science and Technology is important.</p>
+
+			<p><strong><sup>10</sup></strong><span style="background-color:#00ffff"><strong>We use History to learn about others, their culture, their tradition to be understand each other more and more and using science and Technology to help us, our country, our world to be moving forward, to help each other and to give a bright chances and future for everyone, especially kids</strong></span>. <strong><sup>11</sup></strong><span style="background-color:#00ffff"><strong>This gives a chances to them to study, to go to school, to get knowledge so the next ten years, twenty years to the new up coming year, all of them can help each other to pass these chances to other kids go on and on.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Các lỗi:</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:458px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:205px">
+			<p style="text-align:center"><strong>Lỗi</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:253px">
+			<p style="text-align:center"><strong>Vị trí</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:205px">
+			<p><strong>Câu dài lê thê</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:253px">
+			<p>2,4,6,8,10,11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:205px">
+			<p><strong>Câu vụn</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:253px">
+			<p>1,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:205px">
+			<p><strong>Nối câu bằng dấu phẩy sai</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:253px">
+			<p>7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:205px">
+			<p><strong>Câu tối nghĩa</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:253px">
+			<p>5</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Chuyển sang lỗi về ngữ pháp, bài viết mắc phải một số lỗi sau</p>
+
+<ul>
+	<li style="list-style-type:disc">Trước hết, cùng phân tích lỗi sử dụng động từ &amp; danh từ:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>In my opinion, I think every <strong><sup>1</sup></strong><span style="background-color:#00ffff"><strong><u>subjects</u></strong></span> is important for us. We have to learn everything through our past, present and future. Some people say that History is one of the most important school subjects. It's true, but it has to go along with today's world, which is science and Technology. How can we move without our history? The people behind us, the ancient people, <strong><sup>2</sup></strong><span style="background-color:#00ffff"><strong>is</strong></span><strong> </strong>the most powerful people who pushes us to move forward. The taught us how to fire a light, how to find a food, how to<strong> </strong><strong><sup>3</sup></strong><span style="background-color:#00ffff"><strong>lives</strong></span><strong> </strong>with<strong> </strong><strong><sup>4</sup></strong><span style="background-color:#00ffff"><strong><u>other</u></strong></span><strong> </strong>and animals, how to survive and others. Of course, we wouldn't know that without them. Science and Technology are important too. They give us a chance to move forward with them. Without Science and Technology, we're just a normally <strong><sup>5</sup></strong><span style="background-color:#00ffff"><strong><u>humans being</u></strong></span>. We spend our daily life with no useful. Without them, we have no light, we have no food, we have no comfortable stuff and things. Old people can <strong><sup>6</sup></strong><span style="background-color:#00ffff"><strong>survived</strong></span><strong> </strong>without these things. Humans<strong> </strong><strong><sup>7</sup></strong><span style="background-color:#00ffff"><strong>creates</strong></span><strong> </strong>lots of invention to give<strong> </strong><strong><sup>8</sup></strong><span style="background-color:#00ffff"><strong><u>an unlimited wants</u></strong></span><strong> </strong>of people based on a limited government.</p>
+
+			<p>May I <strong><sup>9</sup></strong><span style="background-color:#00ffff"><strong>gives</strong></span> one example of the development of science and Technology. With this two things, it<strong> </strong><strong><sup>10</sup></strong><span style="background-color:#00ffff"><strong>give</strong></span> us a chance to be a member of ASEAN: "Association of South East Asia <strong><sup>11</sup></strong><span style="background-color:#00ffff"><strong><u>Nation</u></strong></span>". We can be able to communicate with the other 9 countries with the high technology. It<strong> </strong><strong><sup>12</sup></strong><span style="background-color:#00ffff"><strong>help</strong></span><strong> </strong>us to be a TEAMWORK with the 9 other countries to develop our country, <strong><sup>13</sup></strong><span style="background-color:#00ffff"><strong>help</strong></span> us in terms of transportation, communication, collaboration, etc. It can definitely hold on to that hope that in the near future.</p>
+
+			<p>Overall, economics can totally <strong><sup>14</sup></strong><span style="background-color:#00ffff"><strong>achieves</strong></span>. It is a fact that the <strong><sup>15</sup></strong><span style="background-color:#00ffff"><strong><u>member</u></strong></span> of the member of the ASEAN have differences in term of political standing, culture and traditions, but its not a problem. With our help, I know that <strong><sup>16</sup></strong><span style="background-color:#00ffff"><strong>there’re</strong></span> a bright future are waiting for all of us, and that is a reason why History, Science and Technology <strong><sup>17</sup></strong><span style="background-color:#00ffff"><strong>is</strong></span> important.</p>
+
+			<p>We use History to learn about others, their culture, their <strong><sup>18</sup></strong><span style="background-color:#00ffff"><strong><u>tradition</u></strong></span> to<strong> </strong><strong><sup>19</sup></strong><span style="background-color:#00ffff"><strong>be</strong></span><strong> </strong>understand each other more and more and<strong> </strong><strong><sup>20</sup></strong><span style="background-color:#00ffff"><strong>using</strong></span><strong> </strong>science and Technology to help us, our country, our world <strong><sup>21</sup></strong><span style="background-color:#00ffff"><strong>to be moving</strong></span> forward, to help each other and to give <strong><sup>22</sup></strong><span style="background-color:#00ffff"><strong><u>a bright chances</u></strong></span> and future for everyone, especially kids. This gives <strong><sup>23</sup></strong><span style="background-color:#00ffff"><strong><u>a chances</u></strong></span><strong> </strong>to them to study, to go to school, to get knowledge so the next ten years, twenty years to the new up coming year, all of them can help each other to pass these chances to other kids go on and on.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Các lỗi:</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:556px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Lỗi</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Vị trí</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Động từ không hòa hợp với chủ ngữ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>2,7,10,12,13,16,17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Chia sai động từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>3,6,9,14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Ghép động từ thường&nbsp;</strong></p>
+
+			<p><strong>với động từ “to be”</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>19,21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Dùng động từ không&nbsp;</strong></p>
+
+			<p><strong>song song</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Chia danh từ số ít/</strong></p>
+
+			<p><strong>số nhiều sai</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>1,4,5,7,11,15,18,22,23</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Bài viết cũng mắc lỗi sai trong việc sử dụng mạo từ, đại từ, liên từ, trạng từ và giới từ:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>In my opinion, I think every subjects is important for us. We have to learn everything through our past, present and future. Some people say that History is one of the most important school subjects. It's true, but it has to go along with today's world, which is science and Technology. How can we move without our history? The people behind us, the ancient people, is the most powerful people who pushes us to move forward. The taught us how to <strong><sup>1</sup></strong><span style="background-color:#00ffff"><strong>fire a light</strong></span>, how to<strong> </strong><strong><sup>2</sup></strong><span style="background-color:#00ffff"><strong>find a food</strong></span>, how to lives with other and animals, how to survive<strong> </strong><strong><sup>3</sup></strong><span style="background-color:#00ffff"><strong>and</strong></span><strong> </strong>others. Of course, we wouldn't know that without them. Science and Technology are important too. They give us a chance to move forward with them. Without Science and Technology, we're just <strong><sup>4</sup></strong><span style="background-color:#00ffff"><strong>a</strong></span><strong> </strong><strong><sup>5</sup></strong><span style="background-color:#00ffff"><strong>normally</strong></span> humans being. We spend our daily life with no useful. Without them, we have no light, we have no food, we have no comfortable stuff and things. Old people can survived without these things. Humans creates lots of invention to give an unlimited wants of people based on a limited government.</p>
+
+			<p>May I gives one example of the development of science and Technology. With<strong> </strong><strong><sup>6</sup></strong><span style="background-color:#00ffff"><strong>this</strong></span><strong> </strong>two things,<strong> </strong><strong><sup>7</sup></strong><span style="background-color:#00ffff"><strong>it</strong></span> give us a chance to be a member of ASEAN: "Association of South East Asia Nation". We can be able to communicate with the other 9 countries with <strong><sup>8</sup></strong><span style="background-color:#00ffff"><strong>the</strong></span><strong> </strong>high technology. It help us to be <strong><sup>9</sup></strong><span style="background-color:#00ffff"><strong>a TEAMWORK</strong></span><strong> </strong>with the 9 other countries to develop our country, help us in terms of transportation, communication, collaboration, etc. It can definitely hold on to that hope that in the near future.</p>
+
+			<p>Overall, economics can totally achieves. It is a fact that the member of the member of<strong> </strong><strong><sup>10</sup></strong><span style="background-color:#00ffff"><strong>the</strong></span><strong> </strong>ASEAN have differences in term of political standing, culture and traditions, but<strong> </strong><strong><sup>11</sup></strong><span style="background-color:#00ffff"><strong>its</strong></span><strong> </strong>not a problem. With our help, I know that there’re a bright future are waiting for all of us, and that is a reason why History, Science and Technology is important.</p>
+
+			<p>We use History to learn about others, their culture, their tradition to be understand each other more and more and using science and Technology to help us, our country, our world to be moving forward, to help each other and to give a bright chances and future for everyone, especially kids. This gives a chances<strong> </strong><strong><sup>12</sup></strong><span style="background-color:#00ffff"><strong>to</strong></span><strong> </strong>them to study, to go to school, to get knowledge <strong><sup>13</sup></strong><span style="background-color:#00ffff"><strong>so</strong></span><strong> </strong>the next ten years, twenty years<strong> </strong><strong><sup>14</sup></strong><span style="background-color:#00ffff"><strong>to</strong></span> the new up coming year, all of them can help each other to pass these chances to other kids go on and on.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Các lỗi:</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:501px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:372px">
+			<p style="text-align:center"><strong>Lỗi</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:129px">
+			<p style="text-align:center"><strong>Vị trí</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:372px">
+			<p><strong>Dùng sai mạo từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:129px">
+			<p>1,2,4,8,9,10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:372px">
+			<p><strong>Dùng sai đại từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:129px">
+			<p>6,7,11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:372px">
+			<p><strong>Dùng sai liên từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:129px">
+			<p>3,13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:372px">
+			<p><strong>Dùng thừa/thiếu/sai giới từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:129px">
+			<p>12,14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:372px">
+			<p><strong>Dùng nhầm tính từ đuôi “-ly” như trạng từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:129px">
+			<p>5</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h4 id="3.1.2.-vấn-đề-theo-tiêu-chí-lexical-resource"><strong>3.1.2. </strong>Vấn đề theo tiêu chí Lexical Resource</h4>
+
+<p>- Hãy đọc lại bài viết band 6.0 và xác định các lỗi từ vựng, lỗi chính tả hoặc lỗi diễn đạt mang sắc thái <strong>informal </strong>(thiếu trang trọng)</p>
+
+<ul>
+	<li style="list-style-type:disc">Trước hết là bài viết mắc khá nhiều lỗi về mặt dùng từ:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>In my opinion, I think every subjects is important for us. We have to learn everything through our past, present and future. Some people say that History is one of the most important school subjects. It's true, but it has to <strong><sup>1</sup></strong><span style="background-color:#ff00ff"><strong>go along with today's world</strong></span>, which is science and Technology. How can we move without our history? The people behind us, the ancient people, is the most powerful people who pushes us to move forward. <strong><sup>2</sup></strong><span style="background-color:#ff00ff"><strong>The</strong></span> taught us how to <strong><sup>3</sup></strong><span style="background-color:#ff00ff"><strong>fire a</strong></span><span style="background-color:#ff00ff"> </span><span style="background-color:#ff00ff"><strong>light</strong></span>, how to find a food, how to lives with other and animals, how to survive and others. Of course, we wouldn't know that without them. Science and Technology are important too. They give us a chance to move forward with them. Without Science and Technology, we're just a normally humans being. We spend our daily life with no <strong><sup>4</sup></strong><span style="background-color:#ff00ff"><strong>useful</strong></span>. Without them, we have no light, we have no food, we have no comfortable stuff and things. Old people <strong><sup>5</sup></strong><span style="background-color:#ff00ff"><strong>can</strong></span><strong> </strong>survived without these things. Humans creates lots of invention to <strong><sup>6</sup></strong><span style="background-color:#ff00ff"><strong>give an unlimited wants</strong></span> of people based on <strong><sup>7</sup></strong><span style="background-color:#ff00ff"><strong>a limited government</strong></span>.</p>
+
+			<p>May I gives one example of the development of science and Technology. With this two things, it give us a chance to be a member of ASEAN: "Association of<strong> </strong><strong><sup>8</sup></strong><span style="background-color:#ff00ff"><strong>South East Asia</strong></span><strong> </strong>Nation". We <strong><sup>9</sup></strong><span style="background-color:#ff00ff"><strong>can be able</strong></span> to communicate with the other 9 countries with the <strong><sup>10</sup></strong><span style="background-color:#ff00ff"><strong>high technology</strong></span>. It help us to <strong><sup>11</sup></strong><span style="background-color:#ff00ff"><strong>be a TEAMWORK</strong></span><strong> </strong>with the <strong><sup>12</sup></strong><span style="background-color:#ff00ff"><strong>9 other countries</strong></span><strong> </strong>to develop our country, help us in terms of transportation, communication, collaboration, etc. It can definitely hold on to<strong> </strong><strong><sup>13</sup></strong><span style="background-color:#ff00ff"><strong>that hope that</strong></span><strong> </strong>in the near future.</p>
+
+			<p>Overall, economics can totally achieves. It is a fact that <strong><sup>14</sup></strong><span style="background-color:#ff00ff"><strong>the member of the member of</strong></span> the ASEAN have differences in term of political standing, culture and traditions, but its not a problem. With our help, I know that there’re a bright future are waiting for all of us, and that is a reason why History, Science and Technology is important.</p>
+
+			<p>We use History to learn about others, their culture, their tradition to be understand each other more and more and using science and Technology to help us, our country, our world to be moving forward, to help each other and to give a bright chances and future for everyone, especially kids. This gives a chances to them to study, to go to school, to get knowledge so the next ten years, twenty years to the new <strong><sup>15</sup></strong><span style="background-color:#ff00ff"><strong>up coming</strong></span><strong> </strong>year, all of them can help each other to <strong><sup>16</sup></strong><span style="background-color:#ff00ff"><strong>pass these chances</strong></span><strong> </strong>to other kids go on and on.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Các lỗi:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:556px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Lỗi</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Vị trí</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Lỗi collocation</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>1,3,6,7,9,11,16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Lỗi word choice/form</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>2,4,5,8,10,15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Lỗi lặp từ</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>12,13,14</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Một lỗi nữa đặc biệt đáng nói là lỗi văn phong của bài viết:&nbsp;</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>In my opinion, I think every subjects is important for <u>us</u>. <u>We</u> have to learn everything through <u>our</u> past, present and future. Some people say that History is one of the most important school subjects. <strong><sup>1</sup></strong><span style="background-color:#ff00ff"><strong>It's</strong></span><strong> </strong>true, but it has to go along with today's world, which is<strong> </strong><strong><sup>2</sup></strong><span style="background-color:#ff00ff"><strong>science</strong></span><strong> </strong>and Technology. How can <u>we</u> move without our history? The people behind <u>us</u>, the ancient people, is the most powerful people who pushes <u>us</u> to move forward. The taught <u>us</u> how to fire a light, how to find a food, how to lives with other and animals, how to survive and others. Of course, <u>we</u> <strong><sup>3</sup></strong><span style="background-color:#ff00ff"><strong>wouldn't</strong></span> know that without them. Science and Technology are important too. They give <u>us</u> a chance to move forward with them. Without Science and Technology, <strong><sup>4</sup></strong><span style="background-color:#ff00ff"><strong><u>we</u></strong></span><span style="background-color:#ff00ff"><strong>'re</strong></span><strong> </strong>just a normally humans being. <u>We</u> spend our daily life with no useful. Without them, <u>we</u> have no light, <u>we</u> have no food, <u>we</u> have no comfortable <strong><sup>5</sup></strong><span style="background-color:#ff00ff"><strong>stuff and things</strong></span>. Old people can survived without these things. Humans creates lots of invention to give an unlimited wants of people based on a limited government.</p>
+
+			<p>May I gives one example of the development of <strong><sup>6</sup></strong><span style="background-color:#ff00ff"><strong>science</strong></span> and Technology. With this two things, it give <u>us</u> a chance to be a member of ASEAN: "Association of South East Asia Nation". <u>We</u> can be able to communicate with the other 9 countries with the high technology. It help <u>us</u> to be a<strong> </strong><strong><sup>7</sup></strong><span style="background-color:#ff00ff"><strong>TEAMWORK</strong></span><strong> </strong>with the 99 other countries to develop <u>our</u> country, help <u>us</u> in terms of transportation, communication, collaboration,<strong> </strong><strong><sup>8</sup></strong><span style="background-color:#ff00ff"><strong>etc</strong></span>. It can definitely hold on to that hope that in the near future.</p>
+
+			<p>Overall, economics can<strong> </strong><strong><sup>9</sup></strong><span style="background-color:#ff00ff"><strong>totally</strong></span> achieves. It is a fact that the member of the member of the ASEAN have differences in term of political standing, culture and traditions, but its not a problem. With <u>our</u> help, I know that<strong> </strong><strong><sup>10</sup></strong><span style="background-color:#ff00ff"><strong>there’re</strong></span> a bright future are waiting for all of <u>us</u>, and that is a reason why History, Science and Technology is important.</p>
+
+			<p><u>We</u> use History to learn about others, their culture, their tradition to be understand each other <strong><sup>11</sup></strong><span style="background-color:#ff00ff"><strong>more and more</strong></span><strong> </strong>and using <strong><sup>12</sup></strong><span style="background-color:#ff00ff"><strong>science</strong></span><strong> </strong>and Technology to help <u>us</u>, <u>our</u> country, <u>our</u> world to be moving forward, to help each other and to give a bright chances and future for everyone, especially<strong> </strong><strong><sup>13</sup></strong><span style="background-color:#ff00ff"><strong>kids</strong></span>. This gives a chances to them to study, to go to school, to get knowledge so the next ten years, twenty years to the new up coming year, all of them can help each other to pass these chances to other <strong><sup>14</sup></strong><span style="background-color:#ff00ff"><strong>kids</strong></span><strong> </strong><strong><sup>15</sup></strong><span style="background-color:#ff00ff"><strong>go on and on</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Các lỗi:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:556px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Lỗi</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p style="text-align:center"><strong>Vị trí</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Dùng tiếng lóng, ngôn ngữ nói</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>5,8,9,11,13,14,15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Viết tắt</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>1,3,4,10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p><strong>Thiếu nhất quán về viết hoa chữ cái</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:278px">
+			<p>2,6,7,12</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Ngoài các lỗi này, </span>cần nhấn mạnh thêm một vấn đề: sử dụng đại từ nhân xưng trong bài viết. Trong đó, các trường hợp sử dụng đại từ như “<strong>we</strong>”, “<strong>our</strong>”, “<strong>you</strong>” đã được gạch chân.&nbsp;</p>
+
+<p>=&gt; Việc sử dụng các từ này có ảnh hưởng tới văn phong của bài viết, khiến cho bài trở nên suống sã, nghe như bài thuyết trình</p>
+
+<p>=&gt; Cần khẳng định lại rằng: các bạn chỉ nên dùng từ “<strong>I</strong>”, và chỉ dùng khi nêu ý kiến cá nhân&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h4 id="3.1.3.-vấn-đề-theo-tiêu-chí-coherence--cohesion"><strong>3.1.3. </strong>Vấn đề theo tiêu chí Coherence &amp; Cohesion</h4>
+
+<p><span style="background-color:#ffffff">- Để tập trung vào phân tích 2 tiêu chí CC và TR, các lỗi về mặt ngữ pháp và từ vựng đã được sửa. Tuy nhiên, bài viết vẫn mắc phải lỗi về CC như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong><sup>1</sup></strong><span style="background-color:#ffff00"><strong>In my opinion, I think every subject is important. People have to learn everything through past, present and future.</strong></span> Some people say that History is one of the most important school subjects. <strong><sup>2</sup></strong><span style="background-color:#ffff00"><strong>It is true but science-related (STEM) subjects are of equal relevance</strong></span>. Understanding the past helps individuals make informed future decision. History provides a framework for understanding the present, such as how societies have domesticated animals or interacted with each other. <strong><sup>3</sup></strong><span style="background-color:#ffff00"><strong>Science and Technology drive the technological advancements revolutionizing society</strong></span>. Without Science and Technology, people would not have life-saving medical procedures or digital communication tools. <strong><sup>4</sup></strong><span style="background-color:#ffff00"><strong>Old people cannot survive without these things. Scientific breakthrough shape human lives.</strong></span></p>
+
+			<p><strong><sup>5</sup></strong><span style="background-color:#ffff00"><strong>May I give one example of the development of Science and Technology.</strong></span> With these two things, they give people a chance to be a member of ASEAN: "Association of Southeast Asian Nations". <strong><sup>6</sup></strong><span style="background-color:#ffff00"><strong>They can communicate with the other 9 countries with hi-tech technology</strong></span>. This collaboration promotes national development in all areas such as transportation and communication. <strong><sup>7</sup></strong><span style="background-color:#ffff00"><strong>It</strong></span> can definitely hold on to that hope in the near future.</p>
+
+			<p><strong><sup>8</sup></strong><span style="background-color:#ffff00"><strong>Overall, economics can totally achieve</strong></span>. Although the members of ASEAN have differences in term of political standing, culture and traditions, this is not a problem. With <strong><sup>9</sup></strong><span style="background-color:#ffff00"><strong>each other’s</strong></span> help, I know that there is a bright future waiting for all, and that is a reason why History, Science and Technology are important.</p>
+
+			<p><strong><sup>10</sup></strong><span style="background-color:#ffff00"><strong>History can foster international understanding as people gain insight into other cultures and traditions, while Science and Technology drives innovation and improve employment prospects, especially for youths</strong></span>. <strong><sup>11</sup></strong><span style="background-color:#ffff00"><strong>This</strong></span> gives a chance for them to study, to go to school, to get knowledge. Hence, in the next ten years, twenty years or the new upcoming year, these chances can be passed down to other children.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Các lỗi Coherence and Cohesion:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:62px">&nbsp;</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:354px">
+			<p><span style="background-color:#ffffff"><strong>Vấn đề</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p><span style="background-color:#ffffff"><strong>1, 5</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:354px">
+			<p><span style="background-color:#ffffff"><strong>Phân chia đoạn bất hợp lý</strong></span></p>
+
+			<p><span style="background-color:#ffffff">-</span><span style="background-color:#ffffff"><strong> 1:</strong></span><span style="background-color:#ffffff"> </span>Mặc dù đã nêu ra quan điểm nhưng rất khó để examiner có thể theo dõi đâu là Intro, và đâu là Body&nbsp;</p>
+
+			<p><span style="background-color:#ffffff">-</span><span style="background-color:#ffffff"><strong> 5:</strong></span><span style="background-color:#ffffff"> </span>Để chứng minh luận điểm về Science and Technology, người viết triển khai ví dụ ở một đoạn hoàn toàn riêng, hoàn toàn tách biệt luận điểm được nêu</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p><span style="background-color:#ffffff"><strong>2</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:354px">
+			<p><span style="background-color:#ffffff"><strong>Sắp xếp thông tin bất hợp lý</strong></span></p>
+
+			<p>- Câu trước nêu vấn đề là “<strong>History is one of the most important school subject</strong>” (lịch sử là một trong những môn quan trọng nhất), khiến giám khảo trông đợi người viết sẽ liệt kê lý do tại sao nó lại quan trọng. Thế nhưng, ở câu sau, thí sinh lại nói rằng các môn khoa học-công nghệ cũng quan trọng không kém</p>
+
+			<p>=&gt; Thiếu nhất quán giữa câu chủ đề và lập luận</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p><span style="background-color:#ffffff"><strong>3</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:354px">
+			<p><span style="background-color:#ffffff"><strong>Thiếu tính liên kết giữa các ý và sắp xếp thông tin bất hợp lý</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span>Về lỗi triển khai ý, người viết không hề sử dụng từ nối/phương tiện liên kết khiến cho giám khảo khó có thể nắm được mối liên kết giữa các lập luận&nbsp;</p>
+
+			<p>- Về lỗi chia thông tin, trong một đoạn này, thí sinh vừa nêu ý kiến, vừa nêu lý do ủng hộ học Lịch Sử, vừa nêu lý do ủng hộ KH-CN</p>
+
+			<p>=&gt; Quá nhiều thông tin trong cùng một đoạn&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p><span style="background-color:#ffffff"><strong>4,10</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:354px">
+			<p><span style="background-color:#ffffff"><strong>Các câu/đoạn thiếu tính liên kết</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>4:</strong></span><span style="background-color:#ffffff"> </span>Do chỉ liệt kê hai câu mà không dùng bất kỳ từ nối nào, nên rất khó để có thể tìm ra mối liên kết giữa câu “người già không thể sống thiếu công nghệ” và “đột phá trong lĩnh vực khoa làm thay đổi cuộc sống con người.</p>
+
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>10: </strong></span>Chưa có từ nối nào để báo hiệu đây là đoạn kết bài</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p><span style="background-color:#ffffff"><strong>6</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:354px">
+			<p><span style="background-color:#ffffff"><strong>Triển khai ý không rành mạch và sử dụng cohesive devices thiếu hiệu quả</strong></span></p>
+
+			<p>- Do không sử dụng từ nối, giám khảo khó có thể theo dõi mối quan hệ giữa câu “<strong>trở thành thành viên ASEAN</strong>” và “<strong>giao tiếp với 9 nước còn lại sử dụng công nghệ tân tiến</strong>”</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p><span style="background-color:#ffffff"><strong>7,9,11</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:354px">
+			<p><span style="background-color:#ffffff"><strong>Referencing không rõ ràng&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>7:</strong></span><span style="background-color:#ffffff"> </span><strong>It</strong> ở đây để tham chiếu về cụm nào: <strong>transportation</strong>? <strong>communication</strong>? hay <strong>this collaboration</strong>?</p>
+
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>9: </strong></span><strong>each other</strong> là lẫn nhau, nhưng trong trường hợp này, tác giả chưa hề nói ai giúp ai</p>
+
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>11: </strong></span>This ở đây tham chiếu về cái gì, “<strong>Science</strong>” hay “<strong>History</strong>?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:62px">
+			<p><span style="background-color:#ffffff"><strong>8</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:354px">
+			<p><span style="background-color:#ffffff"><strong>Câu luận điểm không rõ ràng</strong></span></p>
+
+			<p>- Đọc câu này, giám khảo không thể hiểu đoạn này ủng hộ bên nào hay là ủng hộ. Phải đọc câu cuối, chúng ta mới có thể hiểu position của người viết: “<strong>History, Science and Technology are important</strong>” (Lịch Sử, KH-CN đều quan trọng)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h4 id="3.1.4.-vấn-đề-theo-tiêu-chí-task-response"><strong>3.1.4. </strong>Vấn đề theo tiêu chí Task Response</h4>
+
+<p><span style="background-color:#ffffff">- Bài viết có các lỗi sai TR như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>In my opinion, I think every subject is important. People have to learn everything through past, present and future. <strong><sup>1</sup></strong><span style="background-color:#00ff00"><strong>Some people say that History is one of the most important school subjects</strong></span>. It is true but science-related (STEM) subjects are of equal relevance. Understanding the past helps individuals make informed future decision. History provides a framework for understanding the present, such as how societies have domesticated animals or interacted with each other.<strong><sup> 2</sup></strong><span style="background-color:#00ff00"><strong>Science and Technology drive the technological advancements revolutionizing society</strong></span>. Without Science and Technology, people would not have life-saving medical procedures or digital communication tools.<strong><sup> 3</sup></strong><span style="background-color:#00ff00"><strong>Old people cannot survive without these things. Scientific breakthrough shape human lives.</strong></span></p>
+
+			<p><strong><sup>4</sup></strong><span style="background-color:#00ff00"><strong>May I give one example of the development of Science and Technology. With these two things, they give people a chance to be a member of ASEAN: "Association of Southeast Asian Nations". They can communicate with the other 9 countries with hi-tech technology. This collaboration promotes national development in all areas such as transportation and communication.</strong></span><strong><sup> 5</sup></strong><span style="background-color:#00ff00"><strong>It can definitely hold on to that hope in the near future</strong></span>.</p>
+
+			<p><strong><sup>6</sup></strong><span style="background-color:#00ff00"><strong>Overall, economics can totally achieve. Although the members of ASEAN have differences in term of political standing, culture and traditions, this is not a problem. With each other’s help, I know that there is a bright future waiting for all</strong></span>, and that is a reason why History, Science and Technology are important.</p>
+
+			<p><strong><sup>7</sup></strong><span style="background-color:#00ff00"><strong>History can foster international understanding as people gain insight into other cultures and traditions</strong></span>, while Science and Technology drives innovation and<strong><sup> 8</sup></strong><span style="background-color:#00ff00"><strong>improve</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>employment prospects</strong></span>, especially for youths.<strong><sup> 9</sup></strong><span style="background-color:#00ff00"><strong>This gives a chance for them to study, to go to school, to get knowledge. Hence, in the next ten years, twenty years or the new upcoming year, these chances can be passed down to other children</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Các lỗi Task Response:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:63px">&nbsp;</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:353px">
+			<p><span style="background-color:#ffffff"><strong>Vấn đề</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:63px">
+			<p><span style="background-color:#ffffff"><strong>1, 2</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:353px">
+			<p><span style="background-color:#ffffff"><strong>Triển khai luận điểm không rõ ràng</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span><strong>1:</strong><span style="background-color:#ffffff"> </span>Câu này nêu “<strong>lịch sử quan trọng nhất</strong>” nhưng câu tiếp theo không hề chứng minh quan điểm này, mà lại nói rằng “<strong>KH-CN cũng có quan trọng ngang hàng</strong>”</p>
+
+			<p>=&gt; Khó theo dõi mạch phát triển ý của bài</p>
+
+			<p>- <strong>2:</strong><span style="background-color:#ffffff"> </span>Câu trước đang chứng minh lý do ủng hộ Lịch Sử nhưng câu sau không hề triển khai tiếp luận điểm mà chuyển luôn sang ý mới để chứng minh KHCN</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:63px">
+			<p><span style="background-color:#ffffff"><strong>3,5</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:353px">
+			<p><span style="background-color:#ffffff"><strong>Triển khai và chứng minh ý sơ sài</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span><strong>3:</strong><span style="background-color:#ffffff"> </span>Câu trước lặp ý, chỉ nhắc lại việc “<strong>con người không thể sống thiếu các vật có từ phát triển CN</strong>” và câu sau chỉ lặp lại luận điểm</p>
+
+			<p>- <strong>5:</strong><span style="background-color:#ffffff"> </span>Câu trước nêu việc “<strong>phát triển ở mọi mảng</strong>”, nhưng câu này lại nói về việc có thể giữ hy vọng đó trong tương lai</p>
+
+			<p>=&gt; Không hề chứng minh hay triển khai lập luận ở câu trước</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:63px">
+			<p><span style="background-color:#ffffff"><strong>4</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:353px">
+			<p><span style="background-color:#ffffff"><strong>Ví dụ sơ sài</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span>Câu trước đang chứng minh ý “<span style="background-color:#ffffff"><strong>Science and Technology drive the technological advancements revolutionizing society</strong></span>” (KH-CN thúc đẩy sự phát triển của công nghệ, giúp thay đổi toàn xã hội) nhưng lại nêu ví dụ về lợi ích của việc tham gia ASEAN</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:63px">
+			<p><span style="background-color:#ffffff"><strong>6</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:353px">
+			<p><span style="background-color:#ffffff"><strong>Trả lời sai yêu cầu đề bài và hình thức bài viết bất hợp lý</strong></span></p>
+
+			<p><span style="background-color:#ffffff">- </span>Với vấn đề đầu, đề bài yêu cầu chúng ta phân tích độ quan trọng của môn Lịch Sử và môn KHCN, nhưng đây lại chuyển sang nói về tầm quan trọng của ASEAN</p>
+
+			<p>- Với vấn đề hai, người viết dùng cả đoạn này chỉ được dùng để tóm gọn thông tin chính từ ví dụ</p>
+
+			<p><span style="background-color:#ffffff">=&gt;</span> Không cần thiết, khiến cho mạch phát triển của bài viết trở nên rối rắm</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:63px">
+			<p><span style="background-color:#ffffff"><strong>7,8,9</strong></span></p>
+			</td>
+			<td colspan="2" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:353px">
+			<p><span style="background-color:#ffffff"><strong>Liệt kê thông tin mới</strong></span></p>
+
+			<p><strong>- 7: </strong>Việc tăng hiểu biết giữa các quốc gia mới chỉ dừng ở mức liệt kê, chứ chưa hề được chứng minh bằng luận điểm hay ví dụ</p>
+
+			<p><strong>- 8: </strong>Tương tự câu trên, bài viết chưa hề chứng minh được ý tăng tiềm năng trong mắt nhà tuyển bằng lập luận hay ví dụ, mà chỉ dừng ở mức liệt kê</p>
+
+			<p><strong>- 9: </strong>Chỉ dừng ở việc nói rằng: có thể cho trẻ con cơ hội học và có thể truyền cơ hội này cho trẻ con khác</p>
+
+			<p>=&gt; Không hề liên quan tới hai câu trước đó</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Vậy, từ bài viết, chúng ta rút ra một số việc cần sửa như sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Sắp xếp lại thông tin trong bài viết</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Tóm gọn ví dụ</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Phát triển lại các đoạn văn trong bài</strong></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3 id="3.2.-cách-khắc-phục"><span style="color:#434343"><strong>3.2. </strong></span><span style="color:#434343">Cách khắc phục:</span></h3>
+
+<p>- Sửa những lỗi này, có phần bài viết hoàn chỉnh như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:justify"><span style="color:#0000ff"><strong>In today’s world, it is often argued that history is an essential subject, while others say that science-related (STEM) subjects are of greater relevance</strong></span>. This essay explores both perspectives and argues for their equal importance in the development of individuals and society.</p>
+
+			<p style="text-align:justify">Advocates of history highlight two primary advantages. Firstly, understanding the past helps individuals make informed future decisions. History provides a framework for understanding the present, such as how societies have domesticated animals or interacted with each other, <span style="color:#0000ff"><strong>thereby helping individuals appreciate the context in which they live. Hence, it allows them to learn from the successes and failures of previous generations and to build on their achievements</strong></span>. Moreover, history fosters international understanding. By learning the history of different nations, people gain insight into other cultures, traditions, and challenges. <span style="color:#0000ff"><strong>This knowledge instills respect and understanding between nations. For example, in Vietnam, when foreigners learn about our struggles against French and American invaders, they often express admiration for our resilience</strong></span>.</p>
+
+			<p style="text-align:justify">However, proponents of science and technology also present compelling arguments. The main one is that these subjects drive the technological advancements revolutionizing society. From life-saving medical procedures to digital communication tools, scientific breakthroughs shape human lives<span style="color:#0000ff"><strong>, making it critical for students to study science-related subject</strong></span><span style="color:#0000ff">s</span>. Additionally, focusing on science and technology offers better job opportunities. <span style="color:#0000ff"><strong>With science taking center stage globally, there is a growing demand for careers in fields like data analysis and programming, making it easier for STEM graduates to secure jobs. For instance, Vietnam is experiencing rapid growth in IT and AI development, significantly increasing the demand for skilled professionals in these sectors. This surge has made it easier for technology graduates to secure well-paying jobs quickly.</strong></span></p>
+
+			<p style="text-align:justify">In conclusion, <span style="color:#0000ff"><strong>I believe both history and science and technology are invaluable for societal and personal growth</strong></span>. History helps humans learn from past mistakes and enhances international understanding, while science and technology drive innovation and improve employment prospects. <span style="color:#0000ff"><strong>Thus, in my opinion, young people should study both disciplines to address present and future challenges</strong></span><span style="color:#0000ff">.</span>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </div>

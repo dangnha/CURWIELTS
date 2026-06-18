@@ -1,0 +1,560 @@
+<div class="contentblock">
+            <h3 id="2.3.-lexical-resource">2.3. Lexical Resource&nbsp;</h3>
+
+<h4 id="2.3.1.-yêu-cầu"><strong>2.3.1. Yêu cầu:</strong></h4>
+
+<p>- Tiêu chí này đánh giá về khả năng sử dụng từ vựng một cách phong phú, chính xác và linh hoạt trong bài viết của thí sinh.&nbsp;</p>
+
+<p>- Nhìn chung, tiêu chí này được đánh giá dựa trên các yếu tố:&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Range of vocabulary (within the scope of the task)</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Độ rộng của vốn từ [trong phạm vi đề bài])</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Word choice + Awareness of style and collocation</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Độ chính xác trong cách dùng từ+Ý thức về văn phong và kết hợp từ)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Spelling/ word formation</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Viết đúng chính tả/ cấu tạo từ)</p>
+
+<p>&nbsp;</p>
+
+<p>- So sánh sự khác biệt giữa các band điểm trong tiêu chí <strong>LR:</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:647px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:58px">
+			<p style="text-align:center"><strong>Band</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:194px">
+			<p style="text-align:center"><strong>Range&nbsp;</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:191px">
+			<p style="text-align:center"><strong>Word choice + Awareness of style and collocation&nbsp;</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:204px">
+			<p style="text-align:center"><strong>Spelling/Word formation</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:58px">
+			<p style="text-align:center"><strong>9</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><span style="background-color:#00ff00"><strong>Full flexibility and precise use are evident</strong></span><strong> within the scope of the task.</strong></p>
+
+			<p>Vốn từ vựng thể hiện độ linh hoạt và chính xác tuyệt đối trong phạm vi đề bài.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:191px">
+			<p><strong>A wide range of vocabulary is used </strong><span style="background-color:#00ff00"><strong>accurately and appropriately</strong></span><strong> with </strong><span style="background-color:#00ff00"><strong>very natural and sophisticated control of lexical features.</strong></span></p>
+
+			<p>Một lượng lớn từ vựng được sử dụng chính xác và phù hợp với khả năng kiểm soát các đặc điểm từ vựng một cách tự nhiên và tinh tế.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:204px">
+			<p><span style="background-color:#00ff00"><strong>Minor errors</strong></span><strong> in spelling and word formation are </strong><span style="background-color:#00ff00"><strong>extremely rare</strong></span><strong> and </strong><span style="background-color:#00ff00"><strong>have minimal impact on communication.</strong></span></p>
+
+			<p>Lỗi chính tả/ cấu tạo từ rất nhỏ và cực kỳ hiếm xảy ra. Hầu như không có ảnh hưởng đến giao tiếp.&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:58px">
+			<p style="text-align:center"><strong>8</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><span style="background-color:#00ff00"><strong>A wide resource is fluently and flexibly</strong></span><strong> </strong><span style="background-color:#00ff00"><strong>used</strong></span><strong> to convey precise meanings within the scope of the task.</strong></p>
+
+			<p>Vốn từ đa dạng được sử dụng một cách thành thạo và linh hoạt để diễn đạt ý một cách chính xác trong phạm vi đề bài.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:191px">
+			<p><strong>There is </strong><span style="background-color:#00ff00"><strong>skilful use of uncommon and/or idiomatic items when appropriate</strong></span><strong>, despite </strong><span style="background-color:#ffff00"><strong>occasional inaccuracies in word choice and collocation</strong></span><strong>.&nbsp;&nbsp;</strong></p>
+
+			<p>Sử dụng khéo léo từ vựng ít phổ biến và/ hoặc cách diễn đạt tượng hình với văn phong phù hợp, mặc dụ thi thoảng có lỗi trong cách dùng từ hoặc kết hợp từ.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:204px">
+			<p><span style="background-color:#ffff00"><strong>Occasional errors</strong></span><strong> in spelling and/or word formation may occur, but </strong><span style="background-color:#00ff00"><strong>have</strong></span><strong> </strong><span style="background-color:#00ff00"><strong>minimal impact on communication.</strong></span>&nbsp;</p>
+
+			<p>Thi thoảng mắc lỗi chính tả và/hoặc cấu tạo từ, nhưng ảnh hưởng rất ít tới giao tiếp.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:58px">
+			<p style="text-align:center"><strong>7</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><span style="background-color:#00ff00"><strong>The resource is sufficient to allow some flexibility and precision.</strong></span></p>
+
+			<p>Vốn từ vựng đủ dùng và cho thấy một chút sự linh hoạt và chính xác</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:191px">
+			<p><strong>There is </strong><span style="background-color:#00ff00"><strong>some ability to use less common and/or idiomatic items.</strong></span></p>
+
+			<p>Có khả năng sử dụng từ vựng ít phổ biến và/ hoặc cách diễn đạt tượng hình.&nbsp;</p>
+
+			<p><span style="background-color:#00ff00"><strong>An awareness of style and collocation is evident,</strong></span><span style="background-color:#ffff00"><strong> though inappropriacies occur.</strong></span><strong>&nbsp;</strong></p>
+
+			<p>Có ý thức về văn phong và cách kết hợp từ, mặc dù đôi chỗ chưa phù hợp.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:204px">
+			<p><strong>There are </strong><span style="background-color:#ffff00"><strong>only a few errors</strong></span><strong> in spelling and/or word formation, and they </strong><span style="background-color:#00ff00"><strong>do not detract from overall clarity</strong></span><strong>.</strong></p>
+
+			<p>Có một vài lỗi về chính tả và/hoặc cấu tạo từ nhưng không làm mất đi sự rõ ràng chung của bài viết.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:58px">
+			<p style="text-align:center"><strong>6</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><strong>The resource is </strong><span style="background-color:#00ff00"><strong>generally adequate and appropriate</strong></span><strong> for the task.</strong></p>
+
+			<p>Vốn từ vựng nói chung là đủ và phù hợp với đề bài.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:191px">
+			<p><span style="background-color:#00ff00"><strong>The meaning is generally clear</strong></span><strong> in spite of a </strong><span style="background-color:#ffff00"><strong>rather restricted range or a lack of precision in word choice.</strong></span><span style="background-color:#ffff00">&nbsp;</span></p>
+
+			<p>Ý nghĩa nhìn chung được thể hiện rõ ràng, mặc dù độ linh hoạt hay tính chính xác trong cách dùng từ còn hạn chế.&nbsp;</p>
+
+			<p><strong>If the writer is a risk-taker, there will be </strong><span style="background-color:#00ff00"><strong>a wider range of vocabulary used </strong></span><span style="background-color:#ffff00"><strong>but higher degrees of inaccuracy or inappropriacy.</strong></span><strong>&nbsp;</strong></p>
+
+			<p>Nếu người viết chấp nhận rủi ro, họ sẽ dùng nhiều từ vựng phong phú hơn nhưng cũng kéo theo nhiều lỗi sai hơn về nghĩa và văn phong.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:204px">
+			<p><strong>There are </strong><span style="background-color:#ffff00"><strong>some errors</strong></span><strong> in spelling and/or word formation, but these </strong><span style="background-color:#00ff00"><strong>do not impede communication.</strong></span></p>
+
+			<p>Mắc một số lỗi chính tả và/hoặc cấu tạo từ, nhưng không cản trở giao tiếp.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:58px">
+			<p style="text-align:center"><strong>5</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:194px">
+			<p><strong>The resource is </strong><span style="background-color:#ffff00"><strong>limited but minimally adequate </strong></span><strong>for the task.</strong></p>
+
+			<p>Vốn từ vựng hạn chế nhưng vẫn tạm đủ để đáp ứng yêu cầu&nbsp;</p>
+
+			<p>đề bài.&nbsp;&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:191px">
+			<p><span style="background-color:#ffff00"><strong>Simple vocabulary may be used accurately</strong></span><strong> but </strong><span style="background-color:#ffff00"><strong>the range does not permit much variation in expression.</strong></span><strong>&nbsp;</strong></p>
+
+			<p>Có thể sử dụng chính xác những từ vựng đơn giản nhưng cách&nbsp;</p>
+
+			<p>diễn đạt không đa dạng&nbsp;</p>
+
+			<p><span style="background-color:#ffff00"><strong>There may be frequent lapses in the appropriateness of word choice, and a lack of flexibility is apparent in frequent simplifications and/or repetitions.&nbsp;</strong></span></p>
+
+			<p>Thường xuyên mắc lỗi trong chọn từ và thiếu sự linh hoạt do thường đơn giản hóa và/hoặc lặp từ</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:204px">
+			<p><span style="background-color:#ffff00"><strong>Errors </strong></span><strong>in spelling and/or word formation </strong><span style="background-color:#ffff00"><strong>may be noticeable and may cause some difficulty for the reader.</strong></span></p>
+
+			<p>Mắc nhiều lỗi chính tả và/ hoặc cấu tạo từ và có thể gây khó khăn cho người đọc.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Để đạt band 7+ ở tiêu chí LR, thí sinh cần đảm bảo những yếu tố sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Accurate spelling/ word form</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Viết đúng chính tả/ cấu tạo từ)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Natural words</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Dùng từ vựng tự nhiên)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Some uncommon and/ or idiomatic items with awareness of style and collocation&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Dùng ngôn ngữ ít phổ biến phù hợp với văn phong và cách kết hợp từ)</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeshwwFfhIairGciCZ28s4QUhjTf2WUUipc1Fq_cBFi7Wg1vSHFJeYedIBs7gPLJtzdUvOfliikL1QrLEKnG7qztDO4stdm5t12ve1eRDyCsAnD3rWHiQSLD1wDJZupKwzMoL0JUw?key=MrN027RcoW1RvoF_ioC4pg" style="height:664px; width:600px"></p>
+
+<p style="text-align:justify">The chart shows <span style="background-color:#00ff00"><strong>the time spent by UK residents on different types of telephone calls</strong></span> between 1995 and 2002.</p>
+
+<p style="text-align:justify">Local fixed line calls were <span style="background-color:#00ff00"><strong>the</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>highest</strong></span> throughout the period, <span style="background-color:#00ff00"><strong>rising</strong></span> from 72 billion minutes in 1995 to just under 90 billion in 1998. After <span style="background-color:#00ff00"><strong>peaking</strong></span> at 90 billion the following year, these calls <span style="background-color:#00ff00"><strong>had</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>fallen</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>back</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>to</strong></span> the 1995 figure by 2002.</p>
+
+<p style="text-align:justify">National and international fixed line calls <span style="background-color:#00ff00"><strong>grew</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>steadily</strong></span> from 38 billion to 61 billion at the end of the period in question, though <span style="background-color:#00ff00"><strong>the</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>growth</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>slowed</strong></span> over the last two years.</p>
+
+<p style="text-align:justify"><span style="background-color:#00ff00"><strong>There</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>was</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>a</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>dramatic</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>increase</strong></span> in mobile calls from 2 billion to 46 billion minutes. <span style="background-color:#00ff00"><strong>This rise</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>was</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>particularly</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>noticeable</strong></span> between 1999 and 2002, during which time the use of mobile phones <span style="background-color:#00ff00"><strong>tripled</strong></span>.</p>
+
+<p style="text-align:justify">To sum up, although local fixed line calls were still <span style="background-color:#00ff00"><strong>the</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>most</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>popular</strong></span> in 2002, <span style="background-color:#00ff00"><strong>the</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>gap</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>between</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>the</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>three</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>categories</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>had</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>narrowed</strong></span><span style="background-color:#00ff00"> </span><span style="background-color:#00ff00"><strong>considerably</strong></span> over the second half of the period in question.</p>
+
+<p style="text-align:right">(Bài mẫu của examiner, Cambridge 9, p.164)</p>
+
+<p style="text-align:justify">=&gt; Bài viết không sử dụng từ “đao to búa lớn” mà sử dụng ngôn ngữ tự nhiên, linh hoạt và chính xác, giúp người viết thể hiện chính xác những gì đã được thể hiện trên biểu đồ</p>
+
+<p>&nbsp;</p>
+
+<p>- Trong Task 1, không copy toàn bộ ngôn ngữ trong đề bài.&nbsp;</p>
+
+<p><strong>VD: </strong>Trong Intro, tác giả đã paraphrase “<strong>the total number of minutes of telephone calls in the UK divided into 3 categories</strong>” thành “<strong>the time spent by UK residents on different types of telephone calls.</strong>”</p>
+
+<p>- Tương tự, từ vựng miêu tả số liệu tăng giảm dùng tự nhiên, linh hoạt, không bị trùng lặp. Thay vào đó, người viết đã kết hợp động từ với trạng từ, tính từ với danh từ một cách chính xác và khéo léo.</p>
+
+<ul>
+	<li style="list-style-type:disc">Tính linh hoạt thể hiện ở việc sử dụng nhiều từ loại/ cấu trúc để diễn đạt:&nbsp;</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Phân từ: <strong>rising</strong>, <strong>peaking</strong></li>
+	<li style="list-style-type:disc">Động từ:<strong> had fallen back to</strong>, <strong>grew</strong> <strong>steadily</strong>, <strong>tripled</strong> (không chỉ diễn tả tăng giảm mà còn gấp mấy lần)</li>
+	<li style="list-style-type:disc">Danh từ làm chủ ngữ của câu: <strong>the</strong> <strong>growth</strong> <strong>slowed</strong> (dùng động từ <strong>slowed</strong> diễn tả tốc độ tăng thay vì tính từ), <strong>this rise was particularly noticeable</strong>&nbsp;&nbsp;</li>
+	<li style="list-style-type:disc">Danh từ với cấu trúc <strong>there</strong> <strong>was</strong>: <strong>There was a dramatic increase</strong></li>
+	<li style="list-style-type:disc">Tính từ so sánh nhất: <strong>the</strong> <strong>highest</strong>, <strong>the</strong> <strong>most</strong> <strong>popular</strong></li>
+	<li style="list-style-type:disc"><strong>Idiomatic items</strong> (cụm từ tượng hình):<strong> the gap between the three categories had narrowed considerably&nbsp;</strong></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Sự chính xác trong <strong>word choice</strong> và <strong>collocation</strong> thể hiện ở việc các động từ miêu tả đúng nghĩa - kết hợp đúng động từ với trạng từ, tính từ với danh từ. Cụ thể:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Peaking:</strong> đạt đỉnh - số liệu cao nhất&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Had fallen back to</strong>: rơi về mốc - giảm mạnh (<strong>idiomatic</strong>)</li>
+	<li style="list-style-type:disc"><strong>Grew steadily:</strong> tăng đều&nbsp;</li>
+	<li style="list-style-type:disc"><strong>A dramatic increase:</strong> sự tăng lên đột ngột và đáng kể (từ 2 lên 46)&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Particularly noticeable: </strong>đặc biệt đáng chú ý&nbsp;&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Tripled: </strong>tăng gấp 3&nbsp;</li>
+	<li style="list-style-type:disc"><strong>The gap between the three categories had narrowed considerably:</strong> khoảng cách giữa 3 đối tượng được thu hẹp lại đáng kể (<strong>idiomatic</strong>)</li>
+</ul>
+
+<p>=&gt; Hai yếu tố này đã giúp người viết thể hiện số liệu và hình dáng biểu đồ tăng giảm thế nào. Ngoài ra, trong bài viết, style được kiểm soát tốt, formal vừa đủ, không có từ nào informal hay kết hợp từ không đúng và không có lỗi chính tả hay lỗi cấu tạo từ.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h4 id="2.3.2.-vấn-đề"><strong>2.3.2. Vấn đề:</strong></h4>
+
+<p>- Phân tích band descriptors của band 3, 4, 5 để tìm ra các lỗi:&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:663px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:54px">
+			<p style="text-align:center"><strong>Band</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:187px">
+			<p style="text-align:center"><strong>Range</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:223px">
+			<p style="text-align:center"><strong>Word choice</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:199px">
+			<p style="text-align:center"><strong>Spelling/Word formation</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:54px">
+			<p style="text-align:center"><strong>5</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:187px">
+			<p><strong>The resource is </strong><span style="background-color:#ffff00"><strong>limited but minimally adequate for the task.</strong></span></p>
+
+			<p>Vốn từ vựng hạn chế nhưng vẫn tạm đủ để đáp ứng yêu cầu đề bài.&nbsp;&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:223px">
+			<p><strong>Simple vocabulary may be used accurately but </strong><span style="background-color:#ffff00"><strong>the range does not permit much variation in expression</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Có thể sử dụng chính xác những từ vựng đơn giản nhưng cách diễn đạt không đa dạng&nbsp;</p>
+
+			<p><strong>There may be </strong><span style="background-color:#ffff00"><strong>frequent lapses in the appropriateness of word choice</strong></span><strong>, and </strong><span style="background-color:#ffff00"><strong>a lack of flexibility is apparent in frequent simplifications and/or repetitions</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Thường xuyên mắc lỗi trong chọn từ và thiếu linh hoạt do thường đơn giản hóa và/hoặc lặp từ&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:199px">
+			<p><strong>Errors in spelling and/or word formation </strong><span style="background-color:#ffff00"><strong>may be noticeable and may cause some difficulty for the reader.</strong></span></p>
+
+			<p>Mắc nhiều lỗi chính tả và/ hoặc cấu tạo từ và có thể gây khó khăn cho người đọc.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:54px">
+			<p style="text-align:center"><strong>4</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:187px">
+			<p><strong>The resource is </strong><span style="background-color:#ffff00"><strong>limited and inadequate for or unrelated to the task.</strong></span><strong>&nbsp;</strong></p>
+
+			<p>Vốn từ sử dụng còn hạn chế, và không đủ hoặc không liên quan tới đề bài.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:223px">
+			<p><strong>Vocabulary is </strong><span style="background-color:#ffff00"><strong>basic and may be used repetitively</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Từ vựng còn khá cơ bản và có thể bị lặp lại nhiều lần.</p>
+
+			<p><strong>There may be inappropriate use of lexical chunks (e.g. </strong><span style="background-color:#ffff00"><strong>memorized phrases, formulaic language and/or language from the input material</strong></span><strong>).&nbsp;</strong></p>
+
+			<p>Kết hợp từ chưa đúng (VD: các cụm từ học thuộc lòng, ngôn ngữ kiểu khuôn mẫu và/hoặc lấy y nguyên từ đề bài)&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:199px">
+			<p><span style="background-color:#ffff00"><strong>Inappropriate</strong></span><strong> word choice and/or errors in word formation and/or in spelling </strong><span style="background-color:#ffff00"><strong>may impede meaning</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Dùng từ chưa phù hợp và/hoặc có nhiều lỗi trong việc dùng từ và/hoặc lỗi chính tả gây ảnh hưởng tới nghĩa của câu.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:54px">
+			<p style="text-align:center"><strong>3</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:187px">
+			<p><strong>The resource is </strong><span style="background-color:#ffff00"><strong>inadequate</strong></span><strong> (which may be due to the response being </strong><span style="background-color:#ffff00"><strong>significantly underlength</strong></span><strong>).&nbsp;</strong></p>
+
+			<p>Vốn từ sử dụng chưa đủ (có thể do bài viết quá ngắn).&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:223px">
+			<p><strong>Possible </strong><span style="background-color:#ffff00"><strong>over-dependence on input material or memorized language</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Có thể quá phụ thuộc vào từ ngữ trong đề bài hoặc từ ngữ học thuộc lòng.</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:199px">
+			<p><strong>Control of word choice and/or spelling is very limited, and errors predominate. These errors may </strong><span style="background-color:#ffff00"><strong>severely impede meaning</strong></span><strong>.</strong></p>
+
+			<p>Kiểm soát việc dùng từ và/hoặc lỗi chính còn rất hạn chế, và bài chủ yếu là lỗi. Các lỗi sai này ảnh hưởng nghiêm trọng tới việc diễn đạt ý nghĩa.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Các lỗi khiến điểm LR thấp:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Frequent errors in spelling/ word formation</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Mắc nhiều lỗi chính tả/ cấu tạo từ)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Inappropriate word choice&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Mắc lỗi dùng từ)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Basic vocabulary with repetitions</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Dùng từ quá đơn giản và lặp từ)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Memorized phrases, formulaic language and/ or language from the input material</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Dùng từ/ cụm học thuộc lòng, từ ngữ theo mẫu và/ hoặc dùng toàn bộ từ trong đề bài)</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe05llMK0Lrjm1zjivjjOzBMdWbvEPdBZ0GCAhom-h1lm7peGOXfftb9K_rvrhNVdsEnX9SC3pGYhdMqDkYpPZkoYdbjuz-3aa402PJyIkka0F-TL_G81OJaq5b9rc3FWyLIPCH0Q?key=MrN027RcoW1RvoF_ioC4pg" style="height:321px; width:624px"></p>
+
+<p>- Thí sinh đã có bài viết như sau:</p>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc92v3fi_kJF2Y7z6UgKxYCLi4vTfqFSggLshstERUVMx_CZg8muW2i1wiEUXXfOXQpS-x3ovdWwWmdV8KxEe6ihUxeFil_2ScExIqykyze3P3Tq1B5CK975REbFhX0NgKgzj6x?key=MrN027RcoW1RvoF_ioC4pg" style="height:329px; width:624px"></p>
+
+<p>Nhận xét của examiner:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>The range of vocabulary is rather narrow and just sufficient.&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Vốn từ vựng chỉ vừa đủ, còn khá hạn chế)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>The attempt to paraphrase the rubric shows limited flexibility.&nbsp;</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Việc cố gắng paraphrase đề bài thể hiện sự thiếu linh hoạt trong dùng từ)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>There are several spelling and word form errors, and quite a lot of repetition.</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Có nhiều lỗi chính tả và dạng từ, và thường xuyên lặp từ)</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Về việc sử dụng từ:</strong></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Đề bài nêu 2 cụm là <strong>consumer</strong> <strong>spending</strong> (tiêu thụ của người tiêu dùng) và <strong>different</strong> <strong>items</strong> (vật dụng khác nhau).&nbsp;</li>
+	<li style="list-style-type:disc">Thay vì paraphrase 2 cụm này, người viết lặp đi lặp lại <strong>different items</strong> 4 lần và lặp lại <strong>consumer</strong> <strong>spending</strong> 7 lần xuyên suốt bài viết</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Về chính tả và cấu tạo từ:</strong></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Lỗi chính tả: <strong>seires of items</strong>,<strong> vary</strong></li>
+	<li style="list-style-type:disc">Lỗi diễn đạt: <strong>the most important position</strong> (vị trí quan trọng nhất),<strong> in a different</strong> <strong>percentage</strong> (trong một tỷ lệ khác), v.v.</li>
+</ul>
+
+<p>=&gt;<span style="color:#ff0000"><strong> Bài viết được đánh giá band 5.0 ở tiêu chí LR</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:&nbsp;</strong></p>
+
+<p>- Nhiều thì sinh cho rằng <strong>uncommon words </strong>nghĩa là các từ hiếm, từ vựng cao cấp, từ phức tạp, từ vựng C1-C2 trong từ điển, và dùng càng nhiều những từ này trong bài thì điểm LR càng cao.&nbsp;</p>
+
+<p>- Quan niệm này dẫn đến việc thí sinh cố gắng dùng những từ vựng học được từ 1 list từ vựng band 9. Những list từ này thường chỉ có nghĩa tiếng việt, không kèm theo <strong>context</strong>, cách dùng.&nbsp;</p>
+
+<p>=&gt; Kết quả là các bạn dùng những từ vựng không tự nhiên, khuôn mẫu, không phù hợp văn phong thậm chí sai nghĩa (đặc điểm của LR band 5 trở xuống). Vậy rõ ràng đây là một quan niệm sai lầm.&nbsp;</p>
+
+<p>=&gt; Cần khẳng định lại rằng:&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Uncommon/ less common lexical items</strong> là những từ vựng mà người học tiếng Anh, ko phải người bản xứ (<strong>non-native</strong> <strong>speakers</strong>) ít dùng, chứ không phải là từ mà người bản xứ (<strong>native</strong> <strong>speakers</strong>) ít dùng. Đây vẫn phải là những từ vựng tự nhiên mà người bản xứ sẽ dùng trong đúng ngữ cảnh&nbsp;</li>
+	<li style="list-style-type:disc">Khi dùng<strong> uncommon lexical items</strong>, cần có <strong>awareness</strong> <strong>of</strong> <strong>style</strong>, dùng đúng nghĩa, đúng ngữ cảnh và phù hợp với văn phong.</li>
+</ul>
+
+<p>VD: từ <strong>plunge</strong>, <strong>soar</strong> được coi là từ vựng <strong>‘less</strong> <strong>common'</strong>, nhưng nó chỉ phát huy tác dụng khi diễn tả việc số liệu giảm mạnh đột ngột (<strong>plunge</strong>) hay tăng nhanh đáng kể (<strong>soar</strong>). Nếu 2 từ này được dùng để miêu tả số liệu trông như thế này, thì điểm LR của bạn sẽ bị trừ do lỗi <strong>inappropriate</strong> <strong>word</strong> <strong>choice</strong>.</p>
+
+<p>&nbsp;</p>
+
+<p>- Cũng liên quan đến <strong>uncommon</strong> <strong>lexical</strong> <strong>items</strong>, nhiều bạn sẽ thắc mắc liệu có được dùng idioms trong bài thi writing không?&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Trước hết cần hiểu đúng <strong>idiom</strong> là gì? Idiom là một cụm từ có nghĩa đặc biệt mà không thể đoán được nếu chỉ dựa trên nghĩa của từng từ. Dịch ra tiếng việt, idiom gọi là thành ngữ là những cụm được hiểu theo nghĩa bóng, không phải nghĩa đen), còn idiomatic expression là cách diễn đạt tượng hình.&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	<li style="list-style-type:disc">Một số <strong>phrasal</strong> <strong>verbs</strong> (cụm động từ) có thể được coi là idiomatic item, ví dụ: cụm “<strong>turn</strong> <strong>up</strong>" khi mang nghĩa “đến, xuất hiện" thì được coi là idiom vì nếu chỉ dựa vào nghĩa của từng từ turn, up thì không để đoán được nghĩa của cả cụm. Hay ‘<strong>at the end of the day</strong>' hiểu theo nghĩa bóng nghĩa là cuối cùng thì. Cách diễn đạt này là đặc trưng trong văn nói giao tiếp tiếng Anh hằng ngày, không mang tính trang trọng.&nbsp;</li>
+</ul>
+
+<p>=&gt; <strong>Phổ biến trong Speaking</strong></p>
+
+<p>&nbsp;</p>
+
+<p>- Thực tế, vẫn có những <strong>idiomatic</strong> <strong>expression</strong> dùng được trong <strong>Writing</strong></p>
+
+<p><strong>VD:&nbsp; </strong>trong <strong>task 1: make way for </strong>dùng trong dạng bài map.&nbsp;&nbsp;</p>
+
+<p>- Điều cần lưu ý là tương tự như việc dùng những từ vựng ít phổ biến, việc dùng <strong>idiomatic</strong> <strong>expression</strong> ở bất cứ đâu trong <strong>writing</strong> hay <strong>speaking</strong> cũng đều cần ng học phải tìm hiểu kỹ về nghĩa và cách dùng đúng. Nếu chỉ nhìn vào 1 list các <strong>idiom</strong>, chúng ta không thể đánh giá được idiom đó có đủ formal cho writing không, hay liệu có quá <strong>old-fashioned</strong>, tức là quá cũ đến mức không còn được dùng nữa không.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>- Về <strong>collocation</strong>: đây là một nhóm từ thường đi cùng nhau.&nbsp;</p>
+
+<p><strong>VD: Chúng ta nói heavy rain, ko nói thick rain, high temperature không nói tall temperature.</strong></p>
+
+<p>- Trong ví dụ ở phần trước, những cụm collocation giám khảo dùng là: fall back to, narrow the gap between, grow steadily, a dramatic increase, throughout the period, at the end of the period, over the second half of the period...&nbsp;&nbsp;</p>
+
+<p><strong>=&gt; </strong>Đây là một phần quan trọng về từ vựng mà bạn nhất định phải học, bất kể là trong speaking hay writing. Ở một trình độ nhất định, chúng ta cần hướng tới việc hình thành thói quen khi học từ mới là sẽ học theo collocation, tức là từ đó thường được dùng với những từ gì, trong cụm nào.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>- Cuối cùng, lưu ý về <strong>Writing Style</strong> trong <strong>Task 1</strong>,&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Mặc dù bài viết <strong>Task 1</strong> và<strong> Task 2</strong> đều mang tính <strong>formal</strong>, nhưng <strong>writing</strong> <strong>style</strong> lại khác nhau.&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Task 1</strong> là một bản tóm tắt thông tin về báo cáo/ nghiên cứu.&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	<li style="list-style-type:disc">Văn phong cần mang tính trung lập và khách quan = không thể hiện quan điểm cá nhân hay rút ra kết luận (ý nghĩa) từ thông tin trong bài.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+</ul>
+
+<p>=&gt; Việc này chúng ta đã nhắc đến trong tiêu chí TA, việc thể hiện quan điểm này có thể thể hiện qua 1 câu, cũng có thể chỉ là 1 từ, vd: các trạng từ như <strong>interestingly</strong>, <strong>surprisingly</strong> hay unfortunately, đều là từ thể hiện cảm xúc =&gt; ko nên dùng trong task 1.&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Ngoài ra, bài viết cũng cần cô đọng, súc tích và tránh dài dòng, tránh viết những cụm thừa không có mục đích, không đi thẳng vào vấn đề</li>
+</ul>
+
+<p><strong>VD: trong câu này chúng ta không cần cụm it can be seen that để diễn tả ý của câu là nói đến đặc điểm chung của số liệu.&nbsp;</strong></p>
+
+<p>=&gt; Các bạn có thể xem lại bài mẫu của giám khảo mà chúng ta đã ptich ở phần yêu cầu. Trong bài đó, không có câu nào bị thừa, mỗi câu từ đều có mục đích cụ thể, tạo nên một bài viết đủ ý và gọn gàng.&nbsp;</p>
+
+<h4 id="2.3.3.-lời-khuyên"><strong>2.3.3. Lời khuyên:</strong></h4>
+
+<p>- Nhìn chung, chúng ta đã cùng nhau phân tích đặc điểm về yêu cầu và vấn đề của tiêu chí <strong>LR</strong>, thế tóm lại chúng ta phải làm những gì để đảm <strong>LR </strong>đạt điểm cao? - Ta rút ra một số kinh nghiệm sau:</p>
+
+<ul>
+	<li style="list-style-type:disc">Trước hết, khi học từ vựng, ta cần … (đọc xong tích)</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Xây dựng <strong>active vocabulary</strong> (vốn từ chủ động)</li>
+	<li style="list-style-type:disc">Học nghĩa và cách dùng đúng của từ, theo <strong>context</strong> (ngữ cảnh)</li>
+	<li style="list-style-type:disc">Học từ theo <strong>collocation</strong>, <strong>chunk</strong> <strong>words</strong> (cụm từ) thay vì học từ đơn lẻ</li>
+	<li style="list-style-type:disc">Xây dựng <strong>awareness</strong> <strong>of</strong> <strong>style</strong> (ý thức về văn phong)</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Trong quá trình làm bài, những điều nên và ko nên được tóm gọn trong bảng dưới đây:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Nên</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Không nên&nbsp;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<ul>
+				<li style="list-style-type:disc">Dùng từ vựng mà mình hiểu rõ nghĩa, biết cách dùng&nbsp;</li>
+			</ul>
+
+			<ul>
+				<li style="list-style-type:disc">Áp dụng từ vựng ít phổ biến khi phù hợp&nbsp;</li>
+				<li style="list-style-type:disc">Dùng văn phong formal, giọng văn&nbsp;</li>
+			</ul>
+
+			<p style="margin-left:48px">trung lập, khách quan&nbsp;&nbsp;</p>
+
+			<ul>
+				<li style="list-style-type:disc">Dùng từ ngữ cô đọng, chính xác&nbsp;</li>
+				<li style="list-style-type:disc">Soát lỗi chính tả khi viết xong bài&nbsp;</li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<ul>
+				<li style="list-style-type:disc">Cố dùng từ phức tạp, từ khó, từ học thuộc mà không biết cách dùng&nbsp;</li>
+				<li style="list-style-type:disc">Copy toàn bộ đề bài, dùng từ quá đơn giản&nbsp;</li>
+			</ul>
+
+			<p style="margin-left:48px">lặp đi lặp lại&nbsp;</p>
+
+			<ul>
+				<li style="list-style-type:disc">Dùng từ mang tính thể hiện cảm xúc cá nhân&nbsp;&nbsp;</li>
+				<li style="list-style-type:disc">Cố viết dài dòng, thêm những câu văn không có mục đích&nbsp;</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </div>

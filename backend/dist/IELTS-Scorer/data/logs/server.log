@@ -1,0 +1,35 @@
+15:55:28 [INFO   ] app                  | ============================================================
+15:55:28 [INFO   ] app                  | IELTS Multi-Agent Scoring System — starting up
+15:55:28 [INFO   ] app                  | ============================================================
+15:55:28 [INFO   ] app                  | ✓ Serving React frontend from /home/dangnha/CURWIELTS/backend/dist/IELTS-Scorer/_internal/app/static
+15:55:28 [INFO   ] app                  | ✓ Server started — data_dir=/home/dangnha/CURWIELTS/backend/dist/IELTS-Scorer/data
+15:55:28 [INFO   ] app                  | ✓ KB source: /home/dangnha/CURWIELTS/backend/dist/IELTS-Scorer/_internal/information-prompts (exists=True)
+15:55:29 [INFO   ] app                  | Knowledge base is empty — auto-ingesting from /home/dangnha/CURWIELTS/backend/dist/IELTS-Scorer/_internal/information-prompts
+15:55:36 [INFO   ] app                  | ✓ KB ingest result: {'status': 'success', 'files_processed': 23, 'total_chunks': 211}
+15:55:36 [INFO   ] app                  | → GET /
+15:55:36 [INFO   ] app                  | ← GET / → 200
+15:55:36 [INFO   ] app                  | → GET /dashboard
+15:55:36 [INFO   ] app                  | ← GET /dashboard → 200
+15:55:36 [INFO   ] app                  | → GET /new-essay
+15:55:36 [INFO   ] app                  | ← GET /new-essay → 200
+15:55:36 [INFO   ] app                  | → GET /settings
+15:55:36 [INFO   ] app                  | ← GET /settings → 200
+15:55:36 [INFO   ] app                  | → POST /api/v1/auth/login
+15:55:36 [WARNING] app                  | ← POST /api/v1/auth/login → 401
+15:55:36 [INFO   ] app                  | → GET /assets/index-ycaacGob.js
+15:55:36 [INFO   ] app                  | ← GET /assets/index-ycaacGob.js → 200
+15:55:36 [INFO   ] app                  | → GET /assets/index-dTuju2W1.css
+15:55:36 [INFO   ] app                  | ← GET /assets/index-dTuju2W1.css → 200
+15:55:36 [INFO   ] app                  | Server shutting down
+15:58:02 [INFO   ] app                  | ============================================================
+15:58:02 [INFO   ] app                  | IELTS Multi-Agent Scoring System — starting up
+15:58:02 [INFO   ] app                  | ============================================================
+15:58:02 [INFO   ] app                  | ✓ Serving React frontend from /home/dangnha/CURWIELTS/backend/dist/IELTS-Scorer/_internal/app/static
+15:58:02 [INFO   ] app                  | ✓ Server started — data_dir=/home/dangnha/CURWIELTS/backend/dist/IELTS-Scorer/data
+15:58:02 [INFO   ] app                  | ✓ KB source: /home/dangnha/CURWIELTS/backend/dist/IELTS-Scorer/_internal/information-prompts (exists=True)
+15:58:04 [INFO   ] app                  | → GET /
+15:58:04 [INFO   ] app                  | ← GET / → 200
+15:58:04 [INFO   ] app                  | → GET /assets/index-ycaacGob.js
+15:58:04 [INFO   ] app                  | → GET /assets/index-dTuju2W1.css
+15:58:04 [INFO   ] app                  | ← GET /assets/index-dTuju2W1.css → 200
+15:58:04 [INFO   ] app                  | ← GET /assets/index-ycaacGob.js → 200

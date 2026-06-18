@@ -1,0 +1,269 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="luận-điểm-và-chứng-minh-luận-điểm"><span style="background-color:#ffffff">Luận điểm và chứng minh luận điểm</span></h1>
+
+<h2 id="1.-luận-điểm-và-lập-luận"><span style="background-color:#ffffff"><strong>1. </strong></span><span style="background-color:#ffffff">Luận điểm và lập luận</span></h2>
+
+<h3 id="1.1.-luận-điểm-và-lập-luận"><span style="background-color:#ffffff"><strong>1.1. </strong></span><span style="background-color:#ffffff">Luận điểm và lập luận</span></h3>
+
+<p><span style="background-color:#ffffff">- Khi muốn chứng minh một quan điểm, ta cần nêu ra quan điểm và những lý do để chứng minh quan điểm đó là đúng.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Trong writing, ta gọi một quan điểm là một luận điểm và những lý do đưa ra để chứng minh cho luận điểm là lập luận.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Một bài luận IELTS Task 2 là tập hợp của những luận điểm và lập luận, được sắp xếp ở các đoạn thân bài, liên kết với nhau để chứng minh cho một luận điểm chính xuyên suốt.&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Chúng ta sẽ cùng đi tìm hiểu sâu hơn về luận điểm và lập luận, bắt đầu từ dạng đơn giản nhất, lập luận trong 1 câu, từ đó xác định những lỗi người viết hay mắc phải khi lập luận.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<p><span style="background-color:#fff2cc"><strong>Cigarettes contain harmful chemicals</strong></span><span style="background-color:#ffffff"><strong>, </strong></span><span style="background-color:#fff2cc"><strong>which cause lung cancer</strong></span><span style="background-color:#ffffff"><strong>, </strong></span><span style="background-color:#ffffff">so </span><span style="background-color:#b6d7a8"><strong>the government should ban smoking</strong></span><span style="background-color:#ffffff"><strong>&nbsp;</strong></span></p>
+
+<p><span style="background-color:#ffffff">(Thuốc lá chứa các chất độc hại, các chất mà gây ung thư phổi, nên chính phủ cần phải cấm hút thuốc)</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Quan sát câu này, chúng ta sẽ phân tích như sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#b6d7a8"><strong>Luận điểm chính:</strong></span><span style="background-color:#ffffff"> so the government should ban smoking (vì vậy chính phủ nên cấm hút thuốc)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#fff2cc"><strong>Lập luận 1:</strong></span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#ffffff">Cigarettes contain harmful chemicals (thuốc lá chứa chất độc hại)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#fff2cc"><strong>Lập luận 2:</strong></span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#ffffff">which cause lung cancer (mà các chất độc hại này gây ung thư phổi)</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">=&gt; Lập luận nêu các lý do, dẫn chứng để chứng minh luận điểm chính</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:&nbsp;</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Luận điểm và lập luận có thể thay đổi về mặt vị trí. Ví dụ, với câu như trên, các bạn có thể viết lại như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#fff2cc"><strong>Cigarettes contain harmful chemicals</strong></span><span style="background-color:#ffffff"><strong>, </strong></span><span style="background-color:#fff2cc"><strong>which cause lung cancer</strong></span><span style="background-color:#ffffff">, so</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#b6d7a8"><strong>the government should ban smoking&nbsp;</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#ffffff">=&nbsp;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#b6d7a8"><strong>The government should ban smoking</strong></span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#ffffff">because </span><span style="background-color:#fff2cc"><strong>cigarettes contain harmful chemicals</strong></span><span style="background-color:#ffffff"><strong>, </strong></span><span style="background-color:#fff2cc"><strong>which cause lung cancer</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="1.2.-vấn-đề-thường-gặp-trong-lập-luận"><span style="background-color:#ffffff"><strong>1.2. </strong></span><span style="background-color:#ffffff">Vấn đề thường gặp trong lập luận</span></h3>
+
+<p><span style="background-color:#ffffff">- Những vấn đề khiến luận điểm và lập luận không thuyết phục:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Chỉ đưa ra luận điểm, không có lập luận&nbsp;</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Lập luận không logic, thuyết phục&nbsp;</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Lỗi từ vựng/ ngữ pháp ảnh hưởng đến lập luận&nbsp;&nbsp;</strong></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h4 id="1.2.1.-chỉ-đưa-ra-luận-điểm,-không-có-lập-luận"><span style="background-color:#ffffff"><strong>1.2.1. </strong></span><span style="background-color:#ffffff">Chỉ đưa ra luận điểm, không có lập luận</span></h4>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<p style="text-align:center"><span style="background-color:#d9ead3"><strong>The government should ban smoking.&nbsp;</strong></span></p>
+
+<p style="text-align:center"><span style="background-color:#ffffff">(Chính phủ nên cấm hút thuốc)</span></p>
+
+<p><span style="background-color:#ffffff">- Với cách lập luận này, người đọc sẽ phải đặt câu hỏi tại sao chính phủ lại nên cấm hút thuốc?</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Bất cứ luận điểm nào khiến người đọc thắc mắc đều là những luận điểm không rõ ràng.&nbsp;</span></p>
+
+<h4 id="1.2.2.-lập-luận-không-logic,-thuyết-phục"><span style="background-color:#ffffff"><strong>1.2.2. </strong></span><span style="background-color:#ffffff">Lập luận không logic, thuyết phục</span></h4>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<p style="text-align:center"><span style="background-color:#d9ead3"><strong>The government should ban smoking.</strong></span><strong>&nbsp;</strong></p>
+
+<p style="text-align:center"><strong>For example, </strong><span style="background-color:#fff2cc"><strong>a VTV documentary showed that 30% of young people smoke.</strong></span></p>
+
+<p style="text-align:center"><span style="background-color:#ffffff">(</span><span style="background-color:#d9ead3">Chính phủ nên cấm hút thuốc</span><span style="background-color:#ffffff">. Ví dụ, </span><span style="background-color:#fff2cc">một phóng sự VTV chỉ ra rằng 30% người trẻ hút thuốc</span><span style="background-color:#ffffff">)</span></p>
+
+<p><span style="background-color:#ffffff">- Ví dụ đưa ra mặc dù có liên quan đến chủ đề smoking, nhưng tại sao việc 30% người trẻ hút thuốc lại khiến chính phủ nên cấm hành vi này? Nó có ảnh hưởng gì đến người dân?&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Người đọc tiếp tục phải đặt ra câu hỏi chứng tỏ lập luận đưa ra không thuyết phục.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Có thể sửa lại như sau:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#d9ead3"><strong>The government should ban smoking.&nbsp;</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">For example, </span><span style="background-color:#fff2cc"><strong>a BBC documentary showed that 15% of young people got lung cancer because of smoking.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:center"><span style="background-color:#ffffff">(</span><span style="background-color:#d9ead3">Chính phủ nên cấm hút thuốc</span><span style="background-color:#ffffff">. Ví dụ, </span><span style="background-color:#fff2cc">một phóng sự BBC chỉ ra rằng 15% người trẻ bị ung thư vì hút thuốc</span><span style="background-color:#ffffff">)</span></p>
+
+<p><span style="background-color:#ffffff">- Chúng ta cùng quan sát thêm một số ví dụ sau về lập luận không logic, thuyết phục</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:662px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:34px">&nbsp;</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:273px">
+			<p style="text-align:center">Point&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:355px">
+			<p style="text-align:center">Explanation</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:34px">
+			<p><strong>1</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:273px">
+			<p>I think it will snow tonight</p>
+
+			<p>(<span style="background-color:#ffffff">Tôi nghĩ rằng hôm nay sẽ có tuyết)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:355px">
+			<p>because the temperature is dropping rapidly&nbsp;</p>
+
+			<p>(<span style="background-color:#ffffff">bởi vì nhiệm độ đang giảm sâu)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:34px">
+			<p><strong>2</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:273px">
+			<p>I believe online learning will become more popular</p>
+
+			<p>(Tôi tin rằng học online sẽ trở nên nổi tiếng hơn)</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:355px">
+			<p>because people enjoy the flexibility of studying from home&nbsp;</p>
+
+			<p>(vì người ta thích sự thoải mái, linh hoạt khi học ở nhà)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:34px">
+			<p><strong>3</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:273px">
+			<p>I think polar bears may face extinction in the next decade</p>
+
+			<p>(Tôi nghĩ gấu trắng Bắc Cực có thể sẽ tuyệt chủng trong 10 năm tiếp theo)</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:355px">
+			<p>because their natural habitat is melting due to climate change&nbsp;</p>
+
+			<p>(vì môi trường sống tự nhiên của chúng đang tan chảy do biến đổi khí hậu)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:34px">
+			<p><strong>4</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:273px">
+			<p>I think fewer people are reading books</p>
+
+			<p>(Tôi nghĩ ít người đang đọc sách)</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:355px">
+			<p>because there are more digital entertainment options available&nbsp;</p>
+
+			<p>(vì có sẵn nhiều lựa chọn về hình thức giải trí trực tuyến)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:34px">
+			<p><strong>5</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:273px">
+			<p>I think smoking should be banned in public places</p>
+
+			<p>(Tôi nghĩ hút thuốc nên bị cấm ở nơi công cộng)</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:355px">
+			<p>because it negatively affects non-smokers through secondhand smoke&nbsp;</p>
+
+			<p>(bởi vì nó ảnh hưởng xấu tới người không hút thuốc mà phải hít khói thuốc)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:34px">
+			<p><strong>6</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:273px">
+			<p>I think self-driving cars will be common in the future</p>
+
+			<p>(Tôi nghĩ xe tự lái sẽ trở nên phổ biến trong tương lai)</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:355px">
+			<p>because they are currently facing many regulatory and safety challenges&nbsp;</p>
+
+			<p>(bởi vì loại xe này hiện đang gặp phải nhiều thách thức về luật và tính an toàn)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>1: </strong></span><span style="background-color:#ffffff">Lập điểm và lập luận hoàn toàn, hợp lý và có tính kết nối về mặt logic</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>2:</strong></span><span style="background-color:#ffffff"> Có 2 vấn đề sau với câu này:</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Học online không đồng nghĩa với việc học ở nhà</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Chưa thể thực sự hiểu được tại sao sự linh hoạt trong việc học ở nhà lại khiến cho việc học online trở nên nổi tiếng hơn</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">=&gt; Thiếu tính kết nối về mặt logic</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>3: </strong></span><span style="background-color:#ffffff">Lập điểm và lập luận hoàn toàn, hợp lý và có tính kết nối về mặt logic</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>4: </strong></span><span style="background-color:#ffffff">Chưa có tính liên kết, khiến người đọc đưa ra câu hỏi: “Tại sao có nhiều hình thức giải trí trực tuyến thì khiến con người ngừng đọc sách?”</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">=&gt; Thiếu tính kết nối về mặt logic</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>5: </strong></span><span style="background-color:#ffffff">Lập điểm và lập luận hoàn toàn, hợp lý và có tính kết nối về mặt logic</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>6: </strong></span><span style="background-color:#ffffff">Lập luận và luận điểm có tính mâu thuẫn&nbsp;</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">=&gt; Thiếu tính kết nối về mặt logic</span></p>
+
+<h4 id="1.2.3.-lỗi-từ-vựng--ngữ-pháp-ảnh-hưởng-đến-lập-luận"><span style="background-color:#ffffff"><strong>1.2.3. </strong></span><span style="background-color:#ffffff">Lỗi từ vựng/ ngữ pháp ảnh hưởng đến lập luận</span></h4>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<p><span style="background-color:#ffffff"><strong><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcijQEdZ85CdV7rZYC-y98ZvUQWxDJQZ4hBY5y4JpVD91zHwDCnNaPuMs9WTtVVsA0-oMTPrSF-PPr5S1l0W9SamKL3GYLxX9XbIDF9qP0LKDvrlejBGo472RnPNhglXKnTzrLV?key=B2WsqbXGOrrP9ejHKqhTZA" style="height:53px; width:624px"></strong></span><span style="background-color:#ffffff">(Ở thời điểm này, chúng ta sống trong thế giới. Vì vậy, chúng ta cần ngôn ngữ đầu tiên trên thế giới. Bởi vậy, nhiều ngôn ngữ cần phải chết)</span></p>
+
+<p><span style="background-color:#ffffff">- Ở câu này, lỗi sai chính tả và ngữ pháp khiến người đọc không hiểu người viết muốn nói gì.&nbsp;&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Người đọc tiếp tục phải đặt ra câu hỏi chứng tỏ lập luận đưa ra không thuyết phục.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+        </div>

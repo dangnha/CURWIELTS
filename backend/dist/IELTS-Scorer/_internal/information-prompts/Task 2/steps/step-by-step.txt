@@ -1,0 +1,620 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="các-bước-làm-bài"><span style="background-color:#ffffff">Các bước làm bài</span></h1>
+
+<p><span style="background-color:#ffffff">- Trong lesson này, chúng ta sẽ phân tích từng bước để phân tích đề bài, lập dàn ý và viết bài. Chi tiết về từng bước sẽ được nêu bên dưới:&nbsp;</span></p>
+
+<h2 id="1.-pre-writing"><strong>1. </strong>Pre-Writing</h2>
+
+<p><span style="background-color:#ffffff">- Ở các lesson trước, chúng ta đã thấy rõ hậu quả từ việc phát đề cái là viết bài luôn. Để viết bài Task 2 hoàn chỉnh, các bạn nên làm theo 4 bước là:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Bước 1: Think: </strong></span><span style="background-color:#ffffff">Phân tích đề bài, xây dựng ý tưởng về vấn đề/hiện tượng rồi nêu quan điểm cá nhân&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Bước 2: Plan: </strong></span><span style="background-color:#ffffff">Lập dàn ý chi tiết cho bài viết</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Bước 3: Write:</strong></span><span style="background-color:#ffffff"> Viết Introduction, Body Paragraph và Conclusion</span></li>
+</ul>
+
+<h3 id="1.1.-think"><span style="color:#434343"><strong>1.1.</strong></span><span style="color:#434343"> Think</span></h3>
+
+<p><span style="background-color:#ffffff">- Trong bước </span><span style="background-color:#ffffff"><strong>Think</strong></span><span style="background-color:#ffffff">, chúng ta phải thực hiện 3 nhiệm vụ là:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Phân tích câu hỏi</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Brainstorm ý tưởng</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Đưa ra quan điểm</strong></span></li>
+</ul>
+
+<h4 id="phân-tích-câu-hỏi"><span style="color:#666666">Phân tích câu hỏi</span></h4>
+
+<p>- Đề bài <strong>IELTS</strong> <strong>Writing</strong> <strong>Task</strong> 2 sẽ luôn gồm 2 câu: <strong>Background Statement</strong> và <strong>Task</strong>&nbsp;</p>
+
+<p>- Nhìn vào <strong>Background</strong> <strong>Statement</strong>, xác định được: <strong>the</strong> <strong>general</strong> <strong>topic</strong> (chủ đề chung) và <strong>the</strong> <strong>focus</strong> (đối tượng bị ảnh hưởng)</p>
+
+<p>- Nhìn vào <strong>Task</strong>, xác định được: <strong>the issue you need to discuss</strong> (vấn đề cần phân tích)&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:&nbsp;</strong></p>
+
+<p><span style="background-color:#ffffff">- Chúng ta cùng phân tích ví dụ chi tiết:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Some people argue that governments should not pay money for international aid when there are some disadvantaged people in their own country, such as the homeless and the unemployed. To what extent do you agree or disagree?</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>(</strong></span><span style="background-color:#ffffff">Một số người cho rằng chính phủ không nên chi tiền cho các khoản viện trợ quốc tế khi còn đất nước còn gặp phải nhiều vấn nạn như nạn thất nghiệp, nạn vô gia cư, v.v. Bạn đồng ý hay không đồng ý với quan điểm nêu trên)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">- Chúng ta phân tích đề bài như sau:</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Background Statement</strong></span><span style="background-color:#ffffff">: Some people argue that governments should not pay money for international aid when there are some disadvantaged people in their own country, such as the homeless and the unemployed</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Task</strong></span><span style="background-color:#ffffff">:</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#ffffff">To what extent do you agree or disagree?</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Topic: Government should not pay money for international aid </strong></span><span style="background-color:#ffffff">(Chính phủ không nên chi tiền vào các khoản viện trợ quốc tế)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>The focus:</strong></span><span style="background-color:#ffffff"> 2 đối tượng </span><span style="background-color:#ffffff"><strong>chính phủ (government)</strong></span><span style="background-color:#ffffff"> và </span><span style="background-color:#ffffff"><strong>người yếu thế ở quê nhà (disadvantaged people in their own country)&nbsp;</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>The task:</strong></span><span style="background-color:#ffffff"> Nêu quan điểm cá nhân về việc “Bạn đồng ý hay không đồng ý với việc chi tiền viện trợ cho nước ngoài?”</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Với các chủ đề mang tính trừu tượng, cần phải dừng lại để nghĩ về khái niệm của vấn đề/hiện tượng được nêu</span></p>
+
+<p><span style="background-color:#ffffff">- Nếu không cụ thể hoá được khái niệm, sẽ không thể hình dung rõ đề bài hỏi cái gì, và sẽ thấy rất mơ hồ khi chuyển sang các bước tiếp theo</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Phải nghĩ ra một số ví dụ cụ thể về chủ đề&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Để hiểu đề bài này, chúng ta cụ thể hóa 2 khái niệm là: </span><span style="background-color:#ffffff"><strong>international aid</strong></span><span style="background-color:#ffffff"> và </span><span style="background-color:#ffffff"><strong>disadvantaged people</strong></span><span style="background-color:#ffffff">. Dưới đây là một số ví dụ cụ thể về các khái niệm có thể xuất hiện trong đề bài:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:551px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:285px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>International aid</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Viện trợ quốc tế)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:266px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Disadvantaged people</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Người yếu thế)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:285px">
+			<p><span style="background-color:#ffffff"><strong>- Supply food and water</strong></span><span style="background-color:#ffffff">&nbsp;</span></p>
+
+			<p><span style="background-color:#ffffff">(Cung cấp thực phẩm và nước uống)</span></p>
+
+			<p><span style="background-color:#ffffff"><strong>- Supply weapons for national defense</strong></span><span style="background-color:#ffffff">&nbsp;</span></p>
+
+			<p><span style="background-color:#ffffff">(Cung cấp vũ khí để phòng thủ quốc gia)</span></p>
+
+			<p><span style="background-color:#ffffff"><strong>- Provide military intervention</strong></span><span style="background-color:#ffffff">&nbsp;</span></p>
+
+			<p><span style="background-color:#ffffff">(Can thiệp quân sự)</span></p>
+
+			<p><span style="background-color:#ffffff"><strong>- Supply money&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Cung cấp tiền)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:266px">
+			<p><span style="background-color:#ffffff"><strong>- Poor people</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Người nghèo)</span></p>
+
+			<p><span style="background-color:#ffffff"><strong>- Disabled people</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Người tàn tật)</span></p>
+
+			<p><span style="background-color:#ffffff"><strong>- People with physical deformities</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Người bị dị tật)</span></p>
+
+			<p><span style="background-color:#ffffff"><strong>- Unemployed people</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Người thất nghiệp)</span></p>
+
+			<p><span style="background-color:#ffffff"><strong>- The elderly</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Người già)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h4 id="xây-dựng-ý-tưởng"><span style="color:#666666">Xây dựng ý tưởng</span></h4>
+
+<p><span style="background-color:#ffffff">- </span>Sau khi phân tích đề bài, cần lên ý tưởng cho bài viết</p>
+
+<p><span style="background-color:#ffffff">- </span>Để thực hiện điều này, cần phải đọc nhiều tài liệu, theo dõi tin tức, thời sự để trau dồi vốn sống, dễ dàng hình dung các hiện tượng/vấn đề hơn</p>
+
+<p><span style="background-color:#ffffff">- </span>Nếu gặp đề tài không quá quen thuộc, tự hỏi và trả lời một số câu hỏi sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Liệu bạn sẽ thấy thế nào trong hoàn cảnh đó? Tại sao?</strong></li>
+	<li style="list-style-type:disc"><strong>Liệu bạn có quen ai từng trong hoàn cảnh đó chưa?</strong></li>
+	<li style="list-style-type:disc"><strong>Họ đã hành xử như thế nào? Tại sao?</strong></li>
+	<li style="list-style-type:disc"><strong>Họ thu được những gì sau trải nghiệm đó?</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Sử dụng những câu hỏi này, chúng ta đưa ra nhận định bản thân về việc chi tiền viện trợ quốc tế như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:573px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Agree</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:291px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Disagree</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p><span style="background-color:#ffffff"><strong>- ↑ international unity</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng tính đoàn kết quốc tế)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:291px">
+			<p><span style="background-color:#ffffff"><strong>- help =&gt; X solve own problem</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Các nước cung cấp viện trợ không giải quyết được vấn đề của nước mình)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p><span style="background-color:#ffffff"><strong>- ↑ humanities</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng tình con người)</span></p>
+			</td>
+			<td rowspan="3" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:291px">
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>&nbsp;↑ financial burden -&gt; countries help</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Các nước cung cấp viện trợ sẽ gặp gánh nặng tài chính)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p><span style="background-color:#ffffff"><strong>- help =&gt; countries = grateful</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Các nước nhận được hỗ trợ sẽ biết ơn)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p><span style="background-color:#ffffff"><strong>- ↑ international commerce</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng giao thương quốc tế)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- </span>Chỉ trong vòng 2-3 phút, hãy cố nghĩ ra thật nhiều ý tưởng về vấn đề/hiện tượng đề bài nêu</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Chưa cần trú trọng vào tính thuyết phục của ý tưởng hay tính chính xác của từ vựng, chỉ cần tập trung nghĩ ra ý tưởng mà có thể thể chứng minh cho quan điểm của mình</p>
+
+<p>&nbsp;</p>
+
+<h4 id="xác-định-quan-điểm"><span style="color:#666666">Xác định quan điểm</span></h4>
+
+<p><span style="background-color:#ffffff">- </span>Việc cuối cùng cần làm trong bước Think là đưa ra quan điểm về vấn đề/hiện tượng đề bài nêu</p>
+
+<p><span style="background-color:#ffffff">- </span>Quan điểm thường được đưa ra dựa theo ấn tượng đầu tiên về vấn đề/hiện tượng và dựa trên những ý tưởng có từ bước trước</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Chúng ta đã có những ý tưởng sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:573px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Agree</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:291px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Disagree</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p><span style="background-color:#ffffff"><strong>- ↑ international unity</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng tính đoàn kết quốc tế)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:291px">
+			<p><span style="background-color:#ffffff"><strong>- help =&gt; X solve own problem</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Các nước cung cấp viện trợ không giải quyết được vấn đề của nước mình)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p><span style="background-color:#ffffff"><strong>- ↑ humanities</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng tình con người)</span></p>
+			</td>
+			<td rowspan="3" style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:291px">
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>&nbsp;↑ financial burden -&gt; countries help</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Các nước cung cấp viện trợ sẽ gặp gánh nặng tài chính)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p><span style="background-color:#ffffff"><strong>- help =&gt; countries = grateful</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Các nước nhận được hỗ trợ sẽ biết ơn)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:282px">
+			<p><span style="background-color:#ffffff"><strong>- ↑ international commerce</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng giao thương quốc tế)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">=&gt;</span><span style="background-color:#ffffff"><strong> Position: Partly disagree </strong></span><span style="background-color:#ffffff">(không đồng tình trong hầu hết các trường hợp)</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- </span>Khi viết, không nhất thiết phải đi theo quan điểm đầu tiên xuất hiện trong đầu sau khi đọc đề bài. Chỉ nên chốt lập trường của bài viết sau khi đã phân tích toàn bộ chứng cứ, lập luận mà sẽ được sử dụng để ủng hộ các ý tưởng này</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Cần khẳng định lại rằng IELTS Writing chỉ là bài kiểm tra kỹ năng viết, nên thích chọn quan điểm nào cũng được miễn sao triển khai, chứng minh và phát triển lập luận rõ ràng, mạch lạc và có tính logic</p>
+
+<h3 id="1.2.-plan"><span style="color:#434343"><strong>1.2.</strong></span><span style="color:#434343"> Plan</span></h3>
+
+<p><span style="background-color:#ffffff">-&nbsp; </span>Cần lựa chọn và sắp xếp ý tưởng vào Body một cách hợp lý. Vậy, có 2 nhiệm vụ:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Đánh giá, lọc bớt/gộp ý tưởng</strong></li>
+	<li style="list-style-type:disc"><strong>Xây dựng lập luận cho các ý tưởng</strong></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- </span>Cụ thể:</p>
+
+<h4 id="đánh-giá-ý-tưởng"><span style="color:#666666"><strong>Đánh giá ý tưởng</strong></span></h4>
+
+<p><span style="background-color:#ffffff">- </span>Trong quá trình đánh giá, cần làm một số việc sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Loại bớt các ý thừa, yếu</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Nhóm các ý thành 2-3 ý lớn</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Gộp các ý giống nhau về nội dung, trùng lặp hoặc có cùng một logic</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Chọn từ một cách có chủ đích</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Sắp xếp các ý sao cho thể hiện được mạch logic</strong></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Disagree:</strong></span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:545px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:234px">
+			<p><span style="background-color:#ffffff"><strong>1. ↑ international unity</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:311px">
+			<p><span style="background-color:#ffffff">- Ý này là hệ quả của ý số 3, hơi khó triển khai thêm nên tôi sẽ gộp vào ý số 3</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:234px">
+			<p><span style="background-color:#ffffff"><strong>2. ↑ humanities</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:311px">
+			<p><span style="background-color:#ffffff">- Ý này cũng mạnh nhưng không mạnh bằng ý đầu tiên, nên tôi sẽ xếp thứ 2 và khái quát hóa thành “</span><span style="background-color:#ffffff"><strong>↑ humanitarian acts</strong></span><span style="background-color:#ffffff">” (tăng các cử chỉ nhân đạo)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:234px">
+			<p><span style="background-color:#ffffff"><strong>3. help =&gt; countries = grateful</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:311px">
+			<p><span style="background-color:#ffffff">- Ý này rất mạnh, nên tôi sẽ để đầu tiên</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:234px">
+			<p><span style="background-color:#ffffff"><strong>4.</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#ffffff"><strong>↑ international commerce</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:311px">
+			<p><span style="background-color:#ffffff">- Ý này là hệ quả của ý số 3, hơi khó triển khai thêm nên tôi sẽ gộp vào ý số 3</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Agree:</strong></span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:581px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:278px">
+			<p><span style="background-color:#ffffff"><strong>1. help =&gt; X solve own problem</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:303px">
+			<p><span style="background-color:#ffffff">- Ý này khá mạnh, nên tôi sẽ để đầu tiên</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:278px">
+			<p><span style="background-color:#ffffff"><strong>2. ↑ financial burden -&gt; countries help</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:303px">
+			<p><span style="background-color:#ffffff">- Ý này là hệ quả của ý số 1, hơi khó để triển khai nên tôi sẽ gộp vào ý số 1</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h4 id="xây-dựng-lập-luận"><span style="color:#666666"><strong>Xây dựng lập luận</strong></span></h4>
+
+<p>- Để quyết định cách lập luận phù hợp nhất, hãy tự ngẫm một số câu hỏi sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Việc này phản ánh điều gì? Tại sao? Phản ánh thông qua hình thức nào?</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Tác động của việc này là gì?</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Việc này còn để lại ảnh hưởng/vấn đề gì không?</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Bạn có dẫn chứng/ví dụ cụ thể nào để chứng minh điều này không?</strong></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p>- Bài viết có thể triển khai lập luận như sau:&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>BP1: Disagree</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:592px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Point&nbsp;</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>↑ international unity</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng tính đoàn kết quốc tế)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Explanation</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Monetary assistance -&gt; war-torn countries =&gt; grateful =&gt; ↑ cross-border relations</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Khi cung cấp viện trợ quốc tế cho các nước bị tàn phá bởi chiến tranh, chính phủ các nước này sẽ biết ơn hành động đáng quý đó. Điều này sẽ củng cố quan hệ song phương)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Example</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Vietnam assisted Cambodia =&gt; defeated the Khmer Rouge =&gt; freed countless Cambodians =&gt; ↑ bilateral relations + -&gt; strategic partners =&gt; trade deals</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Việt Nam giúp Campuchia đánh đuổi quân Khmer Đỏ, giúp giải phóng người dân Campuchia khỏi nạn ách thống trị hà khắc. Sự can thiệp quân sự của Việt Nam đã củng cố quan hệ song phương giữa hai nước, từ đấy thúc đẩy giao thương,kinh tế giữa hai nước)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Link</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Helping = ↑ unity</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Giúp các nước đang gặp khó khăn sẽ thúc đẩy tình đoàn kết quốc tế)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>BP2: Disagree</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:592px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Point&nbsp;</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>↑ humanitarian acts</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Đẩy mạnh các hoạt động thể hiện tình yêu thương, nhân ái giữa người với người)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Explanation</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Developed nation -&gt; money + resources 2 disadvantaged nation =&gt; care and sympathy =&gt; solve national issues</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Các nước phát triển thể hiện tình nhân ái bằng cách viện trợ tiền và tài nguyên cho các nước đang gặp khó khăn. Điều này giúp các quốc gia này giải quyết vấn đề của họ dễ hơn)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Example</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Covid, the U.S -&gt; Moderna vaccines 2 Viet Nam =&gt; ↓ viral spread =&gt;&nbsp; the people cheered&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Trong đại dịch COVID-19, nước Mỹ thể hiện lòng nhân đạo với Việt Nam bằng cách viện trợ các liều vắc-xin Moderna. Cử chỉ cao đẹp này đã làm giảm sự lây lan của dịch bệnh ở quốc gia Đông Nam Á này. Bởi hàng nghìn sinh mạng đã được cứu và bệnh viện ở Việt Nam tránh tình trạng quá tải, nên người dân Việt Nam đã thấy rất cảm kích)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Link</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>↑ global kindness + compassion</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Viện trợ quốc tế tạo cơ hội tốt để các quốc gia thể hiện lòng nhân ái)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>BP3: Agree</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:592px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Point&nbsp;</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Solve national issues</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Giải quyết các vấn đề mang tầm quốc gia)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Explanation</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Government funds = reserve+maintain welfare schemes =&gt; ↑ job opportunities&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Quỹ của chính phủ giúp duy trì các chương trình phúc lợi xã hội, từ đó tăng cơ hội việc làm cho người dân)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Expand</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Employment = personal budget =&gt; decent shelter =&gt; ↓ homelessness</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Có việc làm thì sẽ có tiền để có nhà ở, nên giảm tình trạng vô gia cư)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Link</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:490px">
+			<p><span style="background-color:#ffffff"><strong>Solve national issues</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Giải quyết các vấn đề mang tầm quốc gia)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 id="2.-writing"><strong>2. </strong>Writing</h2>
+
+<p>- Cần phải viết 3 phần sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Introduction</strong></span><strong> </strong>- Mở bài</li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Body Paragraph</strong></span> - Thân bài</li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Conclusion</strong></span> - Kết bài</li>
+</ul>
+
+<p>=&gt; Chi tiết cụ thể xem lại bài <strong>Task 2 - Lesson 3</strong> (Viết bài hoàn chỉnh)</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p><span style="background-color:#ffffff">- Từ phần dàn ý, chúng ta có bài luận hoàn chỉnh như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>It is argued that the state budget should not be allocated towards international support since underprivileged people such as the homeless and unemployed need to be financially aided. I partly disagree with this notion as foreign aid enhances solidarity among nations and symbolizes human decency; however, it may take away funding from solving national issues.</strong></span></p>
+
+			<p><span style="background-color:#ffffff"><strong>Firstly, I believe the government should provide overseas fiscal aid since it boosts foreign relations. Particularly, when a country offers monetary assistance to war-torn or impoverished countries, the government of those countries would appreciate the gesture of goodwill and try to repay the act, thereby fostering cross-border relations. For example, Vietnam provided Cambodia with military assistance in defeating the Khmer Rouge which in turn freed countless Cambodians from the oppressive regime. Vietnam’s effort during the war has bolstered bilateral relations, leading to favorable trade deals. Indeed, it is safe to conclude that helping disadvantaged nations in their time of need can promote unity between nations, leading to economic and military alliances.</strong></span></p>
+
+			<p><span style="background-color:#ffffff"><strong>Furthermore, financial support across the globe should be encouraged since it promotes humanitarian acts. Specifically, developed countries can demonstrate their care and sympathy by providing disadvantaged nations with money and resources, enabling them to quickly solve national issues. For instance, during the Covid pandemic, the U.S showed goodwill to Vietnam by offering free Moderna vaccines, thereby curbing the spread of the virus in the Southeast Asian nation. Undeniably, international aid is a good opportunity to show kindness and compassion, cultivating a kinder international community.</strong></span></p>
+
+			<p><strong>However, I argue that funds should instead be concentrated on addressing domestic issues. To begin with, financial funds from the government are regarded as a crucial means to reserve and maintain welfare schemes as well as social security. The smooth flow of how society works would create a favorable environment for job opportunities. Furthermore, employment chances, as a result, generate more personal budgets which people can use to afford decent shelters decreasing the homelessness rate. Hence, it is justifiable to claim that government funds should be focused on resolving national matters</strong><span style="background-color:#ffffff"><strong>.</strong></span></p>
+
+			<p><span style="background-color:#ffffff"><strong>In conclusion, I largely disagree with funding international aid. This is due to the improvements in international bonds and engendering human empathy, despite the risk of not properly addressing national problems. It is advisable that the state should develop the nation to be able to financially offer support globally.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Việc viết quá 300 từ sẽ không bị trừ điểm trong bài thi, miễn sao các ý tưởng được thể hiện rõ ràng, mạch lạc. Tuy nhiên, các bài viết quá 300 từ thì thường vướng phải một số lỗi sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Ý tưởng bị trùng lặp (giảm điểm TR)</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Một số ý tưởng lạc đề hoặc thừa (giảm điểm TR)</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Sự sắp xếp các ý tưởng không cân bằng (giảm điểm CC và TR)</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Lập luận hoặc quan điểm không rõ ràng (giảm điểm TR)</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Không đủ thời gian kiểm tra lại bài (tăng nguy cơ mắc lỗi sai về dùng từ)</strong></span></li>
+</ul>
+        </div>
