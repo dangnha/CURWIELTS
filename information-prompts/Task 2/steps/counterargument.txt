@@ -1,0 +1,195 @@
+<div class="contentblock">
+            <h2 id="5.-phản-đề---counterargument"><span style="background-color:#ffffff"><strong>5. Phản đề - Counterargument</strong></span><span style="background-color:#ffffff">:</span></h2>
+
+<h3 id="5.1.-counterargument-là-gì?"><span style="background-color:#ffffff"><strong>5.1.</strong></span><span style="background-color:#ffffff"> Counterargument là gì?</span></h3>
+
+<p>- Counterargument (phản đề) là quan điểm trái ngược với quan điểm của người viết, được người viết đưa vào bài để phản bác lại/ chứng minh phản đề đó là sai, từ đó củng cố thêm tính chắc chắn cho quan điểm của mình.&nbsp;</p>
+
+<p>- Counterargument còn thể hiện rằng vấn đề đã được người viết xem xét một cách đa chiều trước khi đi đến kết luận cuối cùng.&nbsp;</p>
+
+<p>- Chúng ta hãy cùng theo dõi một ví dụ về counterargument trong văn nói:&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span style="background-color:#fff2cc"><strong>I've decided to take a gap year before starting college because I want to travel and gain life experience. I know you might worry that I'll fall behind academically, but I believe this time will help me return to my studies with more focus and maturity.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:center"><span style="background-color:#ffffff">(Tôi đã quyết định nghỉ một năm trước khi bắt đầu đại học bởi vì tôi muốn đi du lịch và có thêm kinh nghiệm sống. Tôi biết rằng bạn có thể lo lắng rằng tôi sẽ sa sút trong việc học, nhưng tôi tin rằng khoảng thời gian này sẽ giúp tôi quay trở lại học với sự tập trung và trưởng thành lớn hơn)</span></p>
+
+<p><span style="background-color:#ffffff">- Với câu này, người nói đã lập luận với counterargument như sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Đưa một argument:</strong> <span style="color:#0000ff">I've decided to take a gap year before starting college because I want to travel and gain life experience.</span>&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Đưa ra counterargument: </strong><span style="color:#ff0000">I know you might worry that I'll fall behind academically,&nbsp;</span></li>
+	<li style="list-style-type:disc"><strong>Phản bác lại counterargument: </strong><span style="color:#0000ff">but I believe this time will help me return to my studies with more focus and maturity.</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Bây giờ, cùng theo dõi ví dụ về <strong>counterargument </strong>trong bài văn:&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:&nbsp;</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Chúng ta cùng phân tích đề sau:&nbsp;</span></p>
+
+<div style="margin-left:2px">
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:622px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:622px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>It is important for everyone, including young people, to save money for their future.</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>To what extent do you agree or disagree with this statement?</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Việc tiết kiệm tiền cho tương lai là một quan trọng với tất cả mọi người, trong đó bao gồm cả người trẻ. Liệu bạn đồng ý hay không đồng ý với quan điểm này?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Với đề bài này, chúng ta sử dụng counterargument để triển khai Body như sau:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:670px">
+	<tbody>
+		<tr>
+			<td colspan="2" style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:142px">
+			<p><strong>Trường hợp người viết hoàn toàn đồng ý với quan điểm trên:&nbsp;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:142px">
+			<p><span style="color:#0000ff"><strong>Luận điểm&nbsp;</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:528px">
+			<p><span style="color:#0000ff">I completely agree because saving money from a young age fosters financial security and responsible spending habits.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:142px">
+			<p><span style="color:#ff0000"><strong>Counterargument</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:528px">
+			<p><span style="color:#ff0000">Some people might argue that young people should focus on enjoying life and not worry about saving yet.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:142px">
+			<p><span style="color:#0000ff"><strong>Thừa nhận counterargument</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:528px">
+			<p><span style="color:#0000ff">It is true that young people may want to prioritize experiences over saving.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:142px">
+			<p><span style="color:#0000ff"><strong>Phản bác lại counterargument</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:528px">
+			<p><span style="color:#0000ff">However, building a habit of saving early ensures they have a cushion for unexpected expenses and can still enjoy life with financial stability.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><br>
+&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:670px">
+	<tbody>
+		<tr>
+			<td colspan="2" style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:141px">
+			<p><strong>Trường hợp người viết hoàn toàn không đồng ý với quan điểm trên:&nbsp;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:141px">
+			<p><span style="color:#0000ff"><strong>Luận điểm&nbsp;</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:529px">
+			<p><span style="color:#0000ff">I completely disagree because young people should use their money to invest in experiences and self-development rather than saving rigidly for the future.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:141px">
+			<p><span style="color:#ff0000"><strong>Counterargument</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:529px">
+			<p><span style="color:#ff0000">Some people might say that saving money from a young age is essential for financial independence.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:141px">
+			<p><span style="color:#0000ff"><strong>Thừa nhận counterargument</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:529px">
+			<p><span style="color:#0000ff">That may be true for some individuals who have specific financial goals.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:141px">
+			<p><span style="color:#0000ff"><strong>Phản bác lại counterargument</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:529px">
+			<p><span style="color:#0000ff">However, not all young people need to save strictly; investing in their skills and education can also lead to financial success and personal growth in the future.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="5.2.-ngôn-ngữ-trong-counterargument"><span style="background-color:#ffffff"><strong>5.2.</strong></span><span style="background-color:#ffffff"> Ngôn ngữ trong counterargument</span></h3>
+
+<p>- Đầu tiên, counterargument được đưa vào bài và người viết thừa nhận quan điểm đó có thể đúng.</p>
+
+<p><span style="background-color:#ffffff">- </span>Ngôn ngữ đưa counterargument:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Some people may argue…, </strong></span><span style="background-color:#ffffff">(một số người có thể cãi rằng …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Some people might say…;</strong></span><span style="background-color:#ffffff"> (một số người có thể nói rằng …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Admittedly,...</strong></span><span style="background-color:#ffffff"> (thú thực rằng, …)&nbsp;</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- </span>Ngôn ngữ thể hiện sự thừa nhận:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>That may be true for some people …</strong></span><span style="background-color:#ffffff"> (Điều này có thể đúng với một số người …)&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>It is true that…</strong></span><span style="background-color:#ffffff"> (Đúng rằng …)</span></li>
+</ul>
+
+<p>- Sau đó, người viết sẽ phản bác lại counterargument. Để hoàn thành nhiệm vụ này, có ngôn ngữ thể hiện sự phản bác là:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Nevertheless,</strong></span><span style="background-color:#ffffff"> (Mặc dù …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>However, </strong></span><span style="background-color:#ffffff">(Tuy nhiên, …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>While,</strong></span><span style="background-color:#ffffff"> (Trong khi …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Although,</strong></span><span style="background-color:#ffffff"> (Mặc dù, …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Having said that, …</strong></span><span style="background-color:#ffffff"> (Dù nói vậy …)</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:&nbsp;</strong></span></p>
+
+<p>- Khi đưa ra counterargument và thừa nhận quan điểm đó, chúng ta thường dùng ngôn ngữ mang tính giảm nhẹ, công nhận nó có thể đúng trong vài trường hợp. Tương tự như ngôn ngữ dùng khi giải thích một sự thật chỉ đúng trong một vài trường hợp.</p>
+
+<p>- Ngược lại, khi phản bác counteragrument, người viết cần dùng ngôn ngữ mang tính khẳng định chắc chắn, tự tin hơn.&nbsp;</p>
+
+<p>=&gt; Sử dụng ngôn ngữ phù hợp để thể hiện luận điểm chính một cách rõ ràng, mạnh mẽ, còn counterargument vừa đủ để có thể phản bác được. Tránh trường hợp counterargument quá mạnh, khó phản bác lại hoặc ý kiến phản bác không đủ mạnh.&nbsp;&nbsp;</p>
+
+<p>=&gt; Sử dụng counterargument là một trong nhiều cách chứng minh luận điểm. Nhìn chung, cách tiếp cận này phù hợp với thí sinh band cao với mục tiêu 7.5-8.0+ cho task 2.&nbsp;</p>
+
+<p>&nbsp;</p>
+        </div>

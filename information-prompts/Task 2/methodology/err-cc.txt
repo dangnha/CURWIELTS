@@ -1,0 +1,1145 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="các-lỗi-về-coherence--cohesion"><span style="background-color:#ffffff">Các lỗi về Coherence &amp; Cohesion&nbsp;</span></h1>
+
+<h2 id="1.-yêu-cầu"><span style="background-color:#ffffff"><strong>1.</strong></span><span style="background-color:#ffffff"> Yêu cầu</span></h2>
+
+<p><span style="background-color:#ffffff">- </span>Để đạt band 7+ ở tiêu chí CC, thí sinh cần đảm bảo những yếu tố sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Organize data logically into paragraphs</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Sắp xếp, phân chia thông tin vào các đoạn thân bài một cách logic)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Signal the arrangement clearly</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Thể hiện cách sắp xếp đó một cách rõ ràng)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Develop your paragraph logically</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Phát triển thân bài một cách logic)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Use cohesive devices accurately and effectively</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Dùng các công cụ liên kết ý một cách chính xác và hiệu quả)</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Để nắm rõ cách các yếu tố này được thể hiện trong một bài viết, chúng ta cùng phân tích một ví dụ:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>In some countries, more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this question?</strong></p>
+
+			<p style="text-align:center">(Ở một vài đất nước, càng ngày càng nhiều người&nbsp; quan tâm tới việc tìm hiểu về lịch sử của nơi họ đang sinh sống. Tại sao lại có xu hướng này? Có thể làm những gì để nghiên cứu vấn đề này?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff">In many nations, people have an increasing fascination with learning about the background of their place of residence. This essay discusses some of the motives for this </span><span style="background-color:#ffff00"><strong>as well</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>as</strong></span><span style="background-color:#ffffff"> how people can unearth this kind of information.</span></p>
+
+			<p><span style="background-color:#ffffff">There are two main reasons for this phenomenon. </span><span style="background-color:#ffff00"><strong>The</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>primary</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>one</strong></span><span style="background-color:#ffffff"> is due to concern over potential building problems. </span><span style="background-color:#ffff00"><strong>By</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>examining</strong></span><span style="background-color:#ffffff"> past records of one’s place of abode the structural soundness of the building can be determined. </span><span style="background-color:#ffff00"><strong>Moreover</strong></span><span style="background-color:#ffffff">, many people like to verify that high-quality building materials were used. </span><span style="background-color:#ffff00"><strong>Another</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>factor</strong></span><span style="background-color:#ffffff"> is due to curiosity. Many people wonder about who has lived in their house in the past and delight over the potential discovery of previous occupancy by a famous person.</span></p>
+
+			<p><span style="background-color:#ffffff">There are many methods to discover the history of a building. </span><span style="background-color:#ffff00"><strong>The</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>most</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>effective</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>one</strong></span> <span style="background-color:#ffffff">is to check public records. </span><span style="background-color:#ffff00"><strong>From</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>these</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>records</strong></span><span style="background-color:#ffffff">, we are able to determine who the building was built by and blueprints of the structural integrity of the construction. </span><span style="background-color:#ffff00"><strong>Another</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>effective</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>method</strong></span><span style="background-color:#ffffff"> is to simply ask neighbours. </span><span style="background-color:#ffff00"><strong>In</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>many</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>cases</strong></span><span style="background-color:#ffffff">, neighbours have been living in the area for a long time and have a wealth of information. </span><span style="background-color:#ffff00"><strong>Furthermore</strong></span><span style="background-color:#ffffff">, houses in the same neighbourhood often share many characteristics.</span></p>
+
+			<p><span style="background-color:#ffff00"><strong>In</strong></span><span style="background-color:#ffff00"> </span><span style="background-color:#ffff00"><strong>conclusion</strong></span><span style="background-color:#ffffff">, the main reasons why people are interested in discovering the background of their places of residence is </span><span style="background-color:#ffff00"><strong>due to</strong></span><span style="background-color:#ffffff"> concern over the structural soundness of the premises as well as a natural curiosity. The best ways to find out this information are to search public records or simply ask around the neighbourhood.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:right">(Bài viết mẫu của examiner, Cambridge 16)</p>
+
+<p><span style="background-color:#ffffff"><strong>Phân tích:&nbsp;</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Về mặt sắp xếp thông tin và thể hiện cách sắp xếp thông tin, người viết đã sử dụng các từ/cụm từ để giới thiệu nội dung toàn đoạn. Cụ thể:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Ở </span><span style="background-color:#ffffff"><strong>BP1</strong></span><span style="background-color:#ffffff">, đoạn mở với cụm “</span><span style="background-color:#ffffff"><strong>there are two main reasons for this phenomenon</strong></span><span style="background-color:#ffffff">” giới thiệu với người đọc rằng đoạn này phân tích các lý do</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Ở </span><span style="background-color:#ffffff"><strong>BP2</strong></span><span style="background-color:#ffffff">, đoạn mở với cụm “</span><span style="background-color:#ffffff"><strong>there are many methods to discover the history of a building</strong></span><span style="background-color:#ffffff">” giới thiệu với người đọc rằng đoạn này phân tích các cách thức để làm</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Ở </span><span style="background-color:#ffffff"><strong>conclusion</strong></span><span style="background-color:#ffffff">, đoạn bắt đầu luôn với cụm “</span><span style="background-color:#ffffff"><strong>in</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#ffffff"><strong>conclusion</strong></span><span style="background-color:#ffffff">”</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- Sự sắp xếp logic, rõ ràng còn được thể hiện trong nội dung từng đoạn BP. Cụ thể:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Ở </span><span style="background-color:#ffffff"><strong>BP1</strong></span><span style="background-color:#ffffff">, người viết giới thiệu lý do chính qua cụm “</span><span style="background-color:#ffffff"><strong>the primary one</strong></span><span style="background-color:#ffffff">” và giới thiệu lý do thứ hai qua cụm “</span><span style="background-color:#ffffff"><strong>another factor</strong></span><span style="background-color:#ffffff">”</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Tương tự, ở BP2, người viết giới thiệu phương thức hiệu quả nhất qua cụm “</span><span style="background-color:#ffffff"><strong>the most effective one</strong></span><span style="background-color:#ffffff">” và giới thiệu phương thức khác qua cụm “</span><span style="background-color:#ffffff"><strong>another effective method</strong></span><span style="background-color:#ffffff">”</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- Về việc sắp xếp thông tin và các đoạn thân bài một cách logic, chúng ta thấy rằng giám khảo đã phân tích nội dung một cách cân bằng. Mỗi bên đều có hai ý: hai ý nêu lý do và hai ý nêu cách thức để nghiên cứu lịch sử của một ngôi nhà&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Lý do và cách thức được đặt cân xứng nhau&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Về việc sử dụng </span><span style="background-color:#ffffff"><strong>cohesive</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#ffffff"><strong>devices</strong></span><span style="background-color:#ffffff">, bài viết đã kết hợp sử dụng nhiều loại từ/cụm từ nối như&nbsp; </span><span style="background-color:#ffffff"><strong>moreover </strong></span><span style="background-color:#ffffff">(ngoài ra), </span><span style="background-color:#ffffff"><strong>another</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#ffffff"><strong>factor</strong></span><span style="background-color:#ffffff"> (một yếu tố khác), </span><span style="background-color:#ffffff"><strong>from</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#ffffff"><strong>these</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#ffffff"><strong>records</strong></span><span style="background-color:#ffffff"> (từ bản ghi chép này), </span><span style="background-color:#ffffff"><strong>furthermore</strong></span><span style="background-color:#ffffff"> (hơn nữa), v.v.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Vậy, mắc lỗi nào thì sẽ hạ điểm bài viết? - Chúng ta cùng tìm hiểu về các vấn đề mà bài viết band 4, 5, 6 CC gặp phải:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:625px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Band</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:574px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Coherence &amp; Cohesion</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>5</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:574px">
+			<p><span style="background-color:#ffff00"><strong>Organization is evident but is not wholly logical and there may be a lack of overall progression.&nbsp;</strong></span></p>
+
+			<p>Có sắp xếp thông tin, nhưng chưa có sự logic và chưa có mạch phát triển chung&nbsp;</p>
+
+			<p><span style="background-color:#ffff00"><strong>The relationship of ideas can be followed but the sentences are not fluently linked to each other.&nbsp;</strong></span></p>
+
+			<p>Có mối liên hệ giữa các ý, nhưng các câu không liên kết với nhau một cách tự nhiên</p>
+
+			<p><span style="background-color:#ffff00"><strong>There may be limited/overuse of cohesive devices with some inaccuracy. The writing may be repetitive due to inadequate and/or inaccurate use of reference and substitution</strong></span></p>
+
+			<p>Dùng thiếu/thừa các phương tiện liên kết và còn mắc lỗi sử dụng không chính xác. Có thể còn hiện tượng trùng lặp do sử dụng thiếu và/hoặc sai các từ/cụm từ dẫn chiếu và từ thay thế</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>4</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:574px">
+			<p><span style="background-color:#ffff00"><strong>Information and ideas are evident but not arranged coherently, and there is no clear progression within the response.&nbsp;</strong></span></p>
+
+			<p>Biết sắp xếp thông tin và ý tưởng nhưng chưa có sự sắp xếp chưa được rõ ràng, và không mạch triển khai chung rõ ràng</p>
+
+			<p><span style="background-color:#ffff00"><strong>Relationships between ideas can be unclear and/or inadequately marked. There is some use of basic cohesive devices, which may be inaccurate or repetitive.&nbsp;</strong></span></p>
+
+			<p>Liên kết giữa các ý tưởng chưa được rõ ràng và/hoặc chưa có sử dụng các từ thể hiện tính liên kết. Có sử dụng các từ nối cơ bản, gây ra lỗi ảnh hưởng tới tính chính xác hoặc bị lặp từ</p>
+
+			<p><span style="background-color:#ffff00"><strong>There is inaccurate use or a lack of substitution or referencing.</strong></span></p>
+
+			<p>Chưa dùng hoặc dùng chưa chính xác các từ/cụm từ dẫn chứng và từ thay thế</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:51px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>3</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:574px">
+			<p><span style="background-color:#ffff00"><strong>There is no apparent logical organization. Ideas are discernible but difficult to relate to each other.&nbsp;</strong></span></p>
+
+			<p>Không có mạch logic rõ ràng. Có thể nhận thấy các ý tưởng, nhưng khó để theo dõi tính liên kết giữa các ý</p>
+
+			<p><span style="background-color:#ffff00"><strong>Minimal use of sequencers or cohesive devices. Those used do not necessarily indicate a logical relationship between ideas.</strong></span></p>
+
+			<p>Ít khi dùng từ nối hay các phương tiện liên kết. Những từ mà được sử dụng thì lại không giúp tăng tính liên kết giữa các ý</p>
+
+			<p><span style="background-color:#ffff00"><strong>There is difficulty in identifying referencing</strong></span></p>
+
+			<p>Sử dụng các từ/cụm từ tham chiếu một cách khó hiểu</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Vậy, từ bảng mô tả tiêu chí chấm điểm, chúng ta rút ra một số </span>lỗi khiến điểm CC thấp:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>There is no clear progression</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Không có mạch triển khai rõ ràng)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Does not use cohesive devices accurately or effectively</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Không sử dụng các phương tiện liên kết một cách chính xác hay hiệu quả)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Does not organize information logically</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Không sắp xếp thông tin một cách logic)</p>
+
+<p>&nbsp;</p>
+
+<h2 id="2.-cách-lỗi-sai--cách-khắc-phục"><span style="background-color:#ffffff"><strong>2.</strong></span><span style="background-color:#ffffff"> Cách lỗi sai &amp; Cách khắc phục</span></h2>
+
+<h3 id="2.1.-không-có-mạch-phát-triển-rõ-ràng"><strong>2.1. </strong>Không có mạch phát triển rõ ràng</h3>
+
+<h4 id="2.1.1.-biểu-hiện"><strong>2.1.1. </strong>Biểu hiện</h4>
+
+<p><span style="background-color:#ffffff">- </span>Không có mạch phát triển rõ ràng được biểu hiện qua việc người viết không diễn đạt ý tưởng của mình một cách rõ ràng, mạch lạc và trôi chảy trong bài</p>
+
+<p><span style="background-color:#ffffff">- </span>Một biểu hiện khác là việc thiếu mạch triển khai chung, thể hiện qua việc bài viết nêu câu luận điểm/kết luận chưa rõ ràng</p>
+
+<h4 id="2.1.2.-cách-khắc-phục"><strong>2.1.2. </strong>Cách khắc phục</h4>
+
+<p>- Cần sắp xếp ý tưởng theo bố cục hợp lý, và trình bày các ý này một cách rõ ràng. Trong đó:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Lập dàn ý theo bước Think và Plan</strong></li>
+	<li style="list-style-type:disc"><strong>Viết Intro, Body và Conclusion rõ ràng</strong></li>
+	<li style="list-style-type:disc"><strong>Triển khai ý rõ ràng và tránh các chi tiết thừa</strong></li>
+	<li style="list-style-type:disc"><strong>Dùng cohesive devices hiệu quả</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng phân tích các lỗi sai và cách khắc phục các lỗi này trong bài viết cụ thể</p>
+
+<p><strong>Ví dụ: Triển khai ý không rành mạch</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>People living in the 21st century have a better life than people who lived in previous centuries. To what extent do you agree or disagree?</strong></p>
+
+			<p style="text-align:center">(Người sống ở thế kỷ 21 có cuộc sống tốt đẹp hơn những người sống ở thế kỷ trước đó. Bạn đồng ý hay không đồng ý với quan điểm này?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Intro:</strong> Life in the 21st century is often regarded as the best, far surpassing that in previous centuries. This essay will provide a personal opinion on this situation.&nbsp;</p>
+
+			<p><strong>BP1:</strong> Firstly, life in the 21st century is believed to be better than in the past. But, it has more diseases. Particularly, the main reason for this opinion is the dangerous life conditions in the past which led to long-term wars for hundreds of years. Wars lead to the situation of lack of food because farms and fields are used by companies to produce guns. As a result, people can lack nutrition, which causes diseases. For instance, Vietnamese people in the 20th century tackled the circumstances of hunger, which can lead to 2 millions of deaths in 1945. Notably, the life condition in previous centuries was worse than the current life.&nbsp;</p>
+
+			<p><strong>BP2:</strong> However, 21st century life is not completely better than the past. To be more specific, 21st century people are likely to suffer from mental diseases. Particularly, the situations of working and studying can lead to stress and pressure in people. As a result, people of all ages have to deal with mental diseases. For example, young people in Korea who study in high school tackle the pressure of going to their dream university and the studying pressure is the main reason for the deaths of youngsters there. It is clear that current life has more drawbacks compared to the previous centuries.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Phân tích bài viết này, chúng ta phát hiện 3 lỗi sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Luận điểm không rõ ràng</strong></li>
+	<li style="list-style-type:disc"><strong>Triển khai lập luận hời hợt&nbsp;</strong></li>
+	<li style="list-style-type:disc"><strong>Thiếu nhất quán giữa ý chính và lập luận</strong></li>
+</ul>
+
+<p>=&gt; Tất cả các lỗi này đều khiến bài viết mắc lỗi “triển khai ý không rành mạch”</p>
+
+<p>&nbsp;</p>
+
+<p>Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc">Lỗi “luận điểm không rõ ràng”:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Life in the 21st century is often regarded as the best, far surpassing that in previous centuries. <span style="color:#017837"><strong>This essay will provide a personal opinion on this situation</strong></span>.&nbsp;</p>
+
+			<p>Firstly,<span style="color:#017837"><strong> life in the 21st century is believed to be better than in the past. But, it has more diseases</strong></span><span style="color:#017837">. </span>Particularly, the main reason for this opinion is the dangerous life conditions in the past which led to long-term wars for hundreds of years. Wars lead to the situation of lack of food because farms and fields are used by companies to produce guns. As a result, people can lack nutrition, which causes diseases. For instance, Vietnamese people in the 20th century tackled the circumstances of hunger, which can lead to 2 millions of deaths in 1945. Notably, the life condition in previous centuries was worse than the current life.&nbsp;</p>
+
+			<p>However, 21st century life is not completely better than the past. To be more specific, 21st century people are likely to suffer from mental diseases. Particularly, the situations of working and studying can lead to stress and pressure in people. As a result, people of all ages have to deal with mental diseases. For example, young people in Korea who study in high school tackle the pressure of going to their dream university and the studying pressure is the main reason for the deaths of youngsters there. It is clear that current life has more drawbacks compared to the previous centuries.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- <span style="color:#017837"><strong>This essay will provide a personal opinion on this situation</strong></span>: Với cách trả lời như thế này, khó mà nắm được bài viết sẽ tập trung vào chứng minh điều gì, đi theo hướng phát triển nào trong BP</p>
+
+<p>- <span style="color:#017837"><strong>life in the 21st century is believed to be better than in the past. But, it has more diseases</strong></span>: Ở câu đầu, thí sinh nêu rằng thế kỷ 21 tốt hơn quá khứ nhưng câu sau lại quay xe và nói rằng nó có nhiều bệnh dịch hơn.&nbsp;</p>
+
+<p>=&gt; <span style="color:#ff0000"><strong>Luận điểm và lập thiếu tính liên kết</strong></span></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Lỗi “triển khai lập luận hời hợt”:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Life in the 21st century is often regarded as the best, far surpassing that in previous centuries. This essay will provide a personal opinion on this situation.&nbsp;</p>
+
+			<p>Firstly, life in the 21st century is believed to be better than in the past. But, it has more diseases. Particularly, the main reason for this opinion is the dangerous life conditions in the past <span style="color:#017837"><strong>which led to long-term wars for hundreds of years</strong></span>. Wars lead to the situation of lack of food because farms and fields are used by companies to produce guns. As a result, <span style="color:#017837"><strong>people can lack nutrition, which causes diseases</strong></span>. For instance, <span style="color:#017837"><strong>Vietnamese people in the 20th century tackled the circumstances of hunger, which can lead to 2 millions of deaths in 1945</strong></span>. Notably, the life condition in previous centuries was worse than the current life.&nbsp;</p>
+
+			<p>However, 21st century life is not completely better than the past. To be more specific, 21st century people are likely to suffer from mental diseases. Particularly, <span style="color:#017837"><strong>the situations of working and studying can lead to stress and pressure in people</strong></span>. As a result, people of all ages have to deal with mental diseases. For example,<span style="color:#017837"><strong> young people in Korea who study in high school tackle the pressure of going to their dream university and the studying pressure is the main reason for the deaths of youngsters there</strong></span>. It is clear that current life has more drawbacks compared to the previous centuries.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p><strong>- Với đoạn BP1:</strong></p>
+
+<ul>
+	<li style="list-style-type:disc">Ở câu 3, thí sinh không chỉ ra được mối liên hệ giữa<strong> the dangerous life conditions in the past </strong>(điều kiện sống nguy hiểm trong quá khứ) và<strong> which led to long-term wars for hundreds of years</strong><span style="color:#017837"><strong> </strong></span>(dẫn tới chiến tranh kéo dài hàng trăm năm).&nbsp;</li>
+	<li style="list-style-type:disc">Tương tự, ở câu tiếp theo, thí sinh không chỉ ra được mối liên hệ giữa<strong> lack nutrition which causes diseases</strong> (thiếu chất dinh dưỡng dẫn tới bệnh dịch) và <strong>farms and fields are used by companies to produce guns</strong> (ruộng được dùng để sản xuất súng)&nbsp;</li>
+</ul>
+
+<p>=&gt; Đoạn BP1 phát triển ý hời hợt, có sự nhảy cóc về mặt logic</p>
+
+<p><strong>- Với đoạn BP2:</strong></p>
+
+<ul>
+	<li style="list-style-type:disc">Ở câu 3, thí sinh không chỉ ra được mối liên hệ giữa<strong> working and studying </strong>(học và làm việc) và<strong> stress and pressure in people</strong><span style="color:#017837"><strong> </strong></span>(người bị căng thẳng và stress).&nbsp;</li>
+</ul>
+
+<p>=&gt; Đoạn BP2 phát triển ý hời hợt, có sự nhảy cóc về mặt logic</p>
+
+<p>- Ngoài ra, 2 ví dụ được nêu ở mỗi đoạn BP cũng không làm luận điểm chính trở nên rõ ràng hơn. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc">Với ví dụ đầu tiên, tác giả chỉ nêu: người Việt ở thế kỷ 20 đấu tranh với nạn đói dẫn tới 2 triệu dân chết vào năm 1915 và không chỉ ra mối liên hệ giữa ví dụ với luận điểm chính là <strong>it has more diseases</strong> (có nhiều dịch bệnh hơn)</li>
+	<li style="list-style-type:disc">Tương tự, ở ví dụ thứ hai, người viết cũng không chỉ ra được mối liên hệ giữa luận điểm chính về <strong>mental diseases</strong> (bệnh tâm lý) và ví dụ về người trẻ ở Hàn</li>
+</ul>
+
+<p>=&gt; Ví dụ cũng hời hợt, không làm sáng tỏ luận điểm chính</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Lỗi “thiếu nhất quán giữa ý chính và lập luận”:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Life in the 21st century is often regarded as the best, far surpassing that in previous centuries. This essay will provide a personal opinion on this situation.&nbsp;</p>
+
+			<p>Firstly, <span style="background-color:#ffff00"><strong>life in the 21st century is believed to be better than in the past. But, it has more diseases</strong></span>. Particularly, the main reason for this opinion is the dangerous life conditions in the past which led to long-term wars for hundreds of years. Wars lead to the situation of lack of food because farms and fields are used by companies to produce guns. As a result, people can lack nutrition, which causes diseases. For instance, Vietnamese people in the 20th century tackled the circumstances of hunger, which can lead to 2 millions of deaths in 1945. Notably, <span style="background-color:#ffff00"><strong>the life condition in previous centuries was worse than the current life</strong></span>.&nbsp;</p>
+
+			<p>However,<span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#ffff00"><strong>21st century life is not completely better than the past</strong></span>. To be more specific, 21st century people are likely to suffer from mental diseases. Particularly, the situations of working and studying can lead to stress and pressure in people. As a result, people of all ages have to deal with mental diseases. For example, young people in Korea who study in high school tackle the pressure of going to their dream university and the studying pressure is the main reason for the deaths of youngsters there. <span style="background-color:#ffff00"><strong>It is clear that current life has more drawbacks compared to the previous centuries</strong></span>.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p><strong>- Với BP1:&nbsp;</strong></p>
+
+<ul>
+	<li style="list-style-type:disc">Thí sinh giới thiệu rằng thế kỷ 21 tốt hơn các thế kỷ trước nhưng câu sau lại chuyển hướng sang phân tích về cái tệ của thế kỷ trước.&nbsp;</li>
+	<li style="list-style-type:disc">Câu Link cũng thiếu nhất quán với câu Point</li>
+</ul>
+
+<p><strong>- Với BP2:&nbsp;</strong></p>
+
+<ul>
+	<li style="list-style-type:disc">Câu Point nêu: thế kỷ 21 không hoàn toàn tốt hơn quá khứ, và câu link nêu: cuộc sống hiện tại có nhiều bất lợi hơn thế kỷ trước</li>
+</ul>
+
+<p>=&gt; Ở cả 2 BP, thiếu sự nhất quán giữa ý chính và lập luận</p>
+
+<p>&nbsp;</p>
+
+<p>=&gt; Vì bài viết đã mắc lỗi sai ngay từ phần đưa ra luận điểm, lập luận; nên chúng ta sẽ cần phải lập lại dàn ý cho bài viết này. Trước hết, phân tích lại bài viết, chúng ta có thể tóm tắt lập luận của thí sinh trong cả 2 đoạn BP như sau:</p>
+
+<ul>
+	<li style="list-style-type:disc">BP1 có lập luận/luận điểm như sau:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1:</strong> 21st &gt;: <span style="color:#017837"><strong>↑ diseases</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thế kỷ 21 tốt hơn vì không có nhiều dịch bệnh)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E:</strong> <span style="color:#017837"><strong>more diseases: ↑ war = ↓ food </strong></span><span style="color:#017837">=&gt; </span><span style="color:#017837"><strong>↑ disease</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ở thế kỷ trước, có nhiều dịch bệnh vì có chiến tranh nên ít thức ăn)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Eg:</strong> <span style="color:#017837"><strong>Viet Nam = famine in 1945</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Việt Nam gặp phải nạn đói năm 1945)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: 21st &gt;:</strong> <span style="color:#017837"><strong>↑ diseases</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thế kỷ 21 tốt hơn vì không có nhiều dịch bệnh)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">BP2 có lập luận/luận điểm như sau:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP2: 21st &lt;: ↑ mental illness</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thế kỷ 21 tệ hơn vì có thêm bệnh tâm lý)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: mental diseases: working/studying = ↑ stress</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(việc học/đi làm làm gia tăng stress, nên sẽ tăng các bệnh tâm lý)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Eg: Korea: university = studying pressure</strong> <strong>=&gt; ↑ youngster death</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Ở Hàn, việc cố vào đại học tạo áp lực lớn lên học sinh, nên dẫn tới người trẻ chết)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: 21st &lt;: ↑ mental illness</strong></p>
+
+			<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>(thế kỷ 21 tệ hơn vì có thêm bệnh tâm lý)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Vậy, chúng ta có bản sửa dàn ý như sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>BP1:</strong></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: 21st &gt;: </strong><span style="color:#ff0000"><strong>↑ lifespan</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thế kỷ 21 tốt hơn vì người có tuổi thọ cao hơn)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E:</strong> <span style="color:#ff0000"><strong>↑ cure: ↑ technology = study diseases</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(công nghệ tốt hơn nên có thể nghiên cứu các dịch bệnh, từ đó có nhiều liều thuốc chữa&nbsp;</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trị hơn)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Eg:</strong> <span style="color:#ff0000"><strong>medicine = dysentery cured easily</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(giờ đã có thuốc để dễ dàng chữa trị bệnh thổ tả)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L:</strong><span style="color:#ff0000"><strong> </strong></span><strong>21st &gt;: </strong><span style="color:#ff0000"><strong>↑ lifespan</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(thế kỷ 21 tốt hơn vì người có tuổi thọ cao hơn)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<ul>
+	<li style="list-style-type:disc"><strong>BP1:</strong></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP2: 21st &lt;: ↑ mental illness</strong><span style="color:#ff0000"><strong>+↑ security risks</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thế kỷ 21 tệ hơn, vì có nhiều loại bệnh tâm lý và tăng nguy cơ vi phạm bảo mật)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E1:</strong> <span style="color:#ff0000"><strong>↑ security concerns: ss use SN -&gt; harass peers w/ 0 consequences</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(học sinh dùng mạng xã hội, nên có thể bắt nạt bạn đồng trang lứa một cách tự do)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Ep1:</strong><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>↑ bullying</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(tăng vấn nạn bắt nạt)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E2: ↑ mental diseases: working/studying =</strong><span style="color:#ff0000"><strong> stress =&gt; 0 cope = burnout</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(học/làm thì gây stress, và nếu không biết xử lý thì sẽ bị căng thẳng)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Eg2: Korea:</strong><span style="color:#ff0000"><strong> pressure from parents/society to enter top universities =&gt; ss ↑ stress&nbsp;</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Ở Hàn, bố mẹ/xã hội đặt áp lực vào việc vào đại học tốp đầu, nên trẻ con dễ bị&nbsp;</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stress)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: 21st &lt;: ↑ mental illness</strong><span style="color:#ff0000"><strong>+↑ security risks</strong></span></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thế kỷ 21 tệ hơn, vì có nhiều loại bệnh tâm lý và tăng nguy cơ vi phạm bảo mật)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Từ dàn ý trên, chúng ta sẽ viết lại thành bài hoàn chỉnh như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Life in the 21st century is often regarded as the best, far surpassing that in previous centuries. <span style="color:#ff0000"><strong>In my opinion, I partly agree with this statement and the following essay will provide insights into my perspective</strong></span></p>
+
+			<p>On the one hand,<span style="color:#ff0000"><strong> the 21st century boasts significant advancements in healthcare, leading to increased life expectancy</strong></span>. Innovations like the microscope have enabled a deeper understanding of diseases, allowing for the development of effective treatments. For example, dysentery, once fatal, is now manageable with proper hydration, thanks to modern medical practices. <span style="color:#ff0000"><strong>These advancements have contributed to the eradication of many deadly illnesses, significantly extending human lifespans.</strong></span></p>
+
+			<p>On the other hand, <span style="color:#ff0000"><strong>the 21st century also presents new challenges</strong></span>. Firstly, <span style="color:#ff0000"><strong>more cyber crimes have appeared as social networking sites have been exploited by individuals for personal gain</strong></span>. The exploitation has appeared in the form of blackmailing, cyberbullying and scamming. Additionally, <span style="color:#ff0000"><strong>there is a rise in mental health issues</strong></span>. The highly competitive nature of modern work and study environments means that people have to constantly strive towards beating their peers, leaving many feeling burnout. For example, in Korea, students face immense pressure to excel academically, often leading to stress and burnout. This intense pressure can result in mental health disorders such as depression and anxiety. Indeed, <span style="color:#ff0000"><strong>the century also brings challenges like cybercrime and mental health issues.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3 id="2.2.-không-sử-dụng-cohesive-devices-hiệu-quả"><strong>2.2. </strong>Không sử dụng cohesive devices hiệu quả</h3>
+
+<h4 id="2.2.1.-biểu-hiện"><strong>2.2.1. </strong>Biểu hiện</h4>
+
+<p><span style="background-color:#ffffff">- </span>Dùng sai <strong>cohesive devices </strong>có biểu hiện là dùng từ nối không chính xác về nghĩa</p>
+
+<p><span style="background-color:#ffffff">- </span>Một biểu hiện nữa là việc dùng các<strong> linking words </strong>một cách máy móc</p>
+
+<p><span style="background-color:#ffffff">- </span>Biểu hiện cuối cùng là việc lạm dụng <strong>referencing</strong>, khiến mạch phát triển của bài viết trở nên khó hiểu, thiếu rõ ràng</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- </span>Quan niệm: “<strong>cohesive devices đồng nghĩa với linking word, nên chỉ cần dùng linking word ở đầu mỗi câu là điểm CC cao</strong>” là sai lầm</p>
+
+<p>- Việc sử dụng <strong>cohesive devices</strong> (công cụ liên kết) chỉ là một phần để đánh giá điểm CC.</p>
+
+<p>- <strong>Cohesive devices</strong> bao gồm nhiều công cụ khác nhau, mà linking words chỉ là một trong số đó.&nbsp;&nbsp;</p>
+
+<p>=&gt; Việc dùng thiếu hay thừa <strong>cohesive devices</strong> (công cụ liên kết) đều sẽ bị trừ điểm. CC sẽ không quá band 5.</p>
+
+<h4 id="2.2.2.-cách-khắc-phục"><strong>2.2.2. </strong>Cách khắc phục</h4>
+
+<p>- Khi dùng <strong>cohesive devices</strong>, chúng ta cần lưu ý:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Sử dụng đa dạng các loại cohesive devices</strong> (vd: <strong>referencing</strong>, <strong>linking</strong> <strong>word</strong>, v.v.)</li>
+	<li style="list-style-type:disc"><strong>Dùng referencing một cách tự nhiên</strong></li>
+	<li style="list-style-type:disc"><strong>Dùng substitution một cách linh hoạt</strong></li>
+	<li style="list-style-type:disc"><strong>Dùng linking word/phrases một cách hợp lý</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng phân tích biểu hiện và cách khắc phục các lỗi này trong một số ví dụ sau:</p>
+
+<p><strong>Ví dụ 1: Dùng thiếu/thừa/sai các cohesive devices</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="color:#017837"><strong>For this aims</strong></span><strong> </strong>people are lucky to have multiple tools to carry out research into the subject. Despite libraries being considered as an old-fashioned and not necessarily <span style="color:#017837"><strong>convinient </strong></span>approach of learning, there are actually quite a few books and magazines <span style="color:#017837"><strong>which are not available online but which are</strong></span> extremely helpful when it comes to the local interests. News, photos, articles and interviews with different people published in old magazines indeed provide people with a clear image of past events. <span style="color:#017837"><strong>Browsing</strong></span> Internet forums is a great idea to find new information and make friends with mutual objectives.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>(Đoạn phân tích việc nghiên cứu lịch sử)</p>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- Bài viết mắc tương đối nhiều lỗi về cohesive devices. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="color:#017837"><strong>For this aims</strong></span><strong>: </strong>thiếu nhất quán giữa từ chỉ định số ít “<strong>this</strong>” và danh từ số nhiều “<strong>aims</strong>”</li>
+	<li style="list-style-type:disc"><span style="color:#017837"><strong>which are not available online but which are</strong></span>: lạm dụng mệnh đề quan hệ</li>
+	<li style="list-style-type:disc"><span style="color:#017837"><strong>Browsing</strong></span>: thiếu từ nối để liên kết câu</li>
+</ul>
+
+<p>- Ngoài ra, từ <span style="color:#017837"><strong>convinient</strong></span> cũng mắc lỗi sai chính tả</p>
+
+<p>&nbsp;</p>
+
+<p>- Vậy, chúng ta sẽ cần sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="color:#ff0000"><strong>To achieve this,</strong></span> we are lucky to have multiple tools to carry out research into the subject. Despite libraries beng considered as an old-fashioned and not necessarily <span style="color:#ff0000"><strong>convenient</strong></span> approach to learning, there are actually quite a few <span style="color:#ff0000"><strong>helpful</strong></span> books and magazines<span style="color:#ff0000"><strong> which are not available online</strong></span>. These books are extremely helpful when it comes to the local interests. News, photos and interviews with different people published in old magazines indeed provide us with a clear image of past events. <span style="color:#ff0000"><strong>Meanwhile,</strong></span> browsing internet forums is <span style="color:#ff0000"><strong>also</strong></span> a great for finding new information and making friends who share mutual objectives&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ 2: Dùng linking word một cách máy móc</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other. Discuss both these views and give your own opinion.</strong></p>
+
+			<p style="text-align:center">(Một số người cho rằng cạnh tranh trong công việc, trong trường học hay trong cuộc sống hằng ngày là một điều tốt. Một số người khác cho rằng chúng ta nên cố cộng tác nhiều hơn, thay vì cạnh tranh lẫn nhau. Bàn luận về cả hai quan điểm và đưa ra ý kiến cá nhân)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Với đề bài này, thí sinh có đoạn<strong> Body 1</strong> như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, <span style="color:#0000ff"><strong>competition </strong></span>can boost personal performance. <span style="color:#017837"><strong>Clearly, </strong></span><span style="color:#0000ff"><strong>competition</strong></span> can serve as a powerful motivator, encouraging individuals to strive for excellence. <span style="color:#017837"><strong>Hence,</strong></span><strong> </strong>as people set higher goals for themselves, they will work harder to achieve them, thereby leading to improved efficiency and personal growth. <span style="color:#017837"><strong>For example,</strong></span><span style="color:#017837"> </span>to secure a promotion or bonus at work, employees may volunteer to do overtime and show initiative in their work to get ahead of their peers. <span style="color:#017837"><strong>Undoubtedly,</strong></span><strong> </strong>promoting competition within any context can drive people to innovate and improve continuously, maximizing performance.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>(Đoạn bàn luận về lợi ích của việc cạnh tranh)</p>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Bài viết đã sử dụng được các từ nối nhưng thiếu linh hoạt. Cụ thể, cứ đầu câu là người viết bắt đầu bằng một từ nối như clearly, hence, v.v.</p>
+
+<p>- Ngoài ra, bài viết cũng chưa sử dụng được <strong>referencing </strong>(phép tham chiếu) hay <strong>substitution</strong> (phép thay thế), thể hiện qua việc lặp từ <span style="color:#0000ff"><strong>competition</strong></span>&nbsp;</p>
+
+<p>=&gt; Giám khảo có thể sẽ đánh giá rằng người viết chỉ biết dùng linking word, và chỉ biết dùng nó một cách máy móc</p>
+
+<p>&nbsp;</p>
+
+<p>- Vậy, chúng ta sẽ cần sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, competition can boost personal performance. <span style="color:#ff0000"><strong>This </strong></span>can serve as a powerful motivator, encouraging individuals to strive for excellence. <span style="color:#ff0000"><strong>As people set higher goals for themselves</strong></span>, they will work harder to achieve them, thereby leading to improved efficiency and personal growth. <span style="color:#017837"><strong>For example,</strong></span><strong> </strong>to secure a promotion or bonus at work, employees may volunteer to do overtime and show initiative in their work to get ahead of their peers. <span style="color:#017837"><strong>Undoubtedly,</strong></span><span style="color:#017837"> </span>promoting competition within any context can drive people to innovate and improve continuously, maximizing performance.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ 3: Dùng linking word một cách máy móc</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message?</strong></p>
+
+			<p style="text-align:center">(Ở một số văn hóa, trẻ con thường được bảo là họ có thể làm mọi thứ nếu họ bỏ ra đủ công sức. Lợi ích hay bất lợi của việc này là gì?)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- Với đề bài này, thí sinh có đoạn <strong>Body 1</strong> như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Regarding the social aspect, telling <span style="color:#017837"><strong>this</strong></span><strong> </strong>to children is very important because <span style="color:#0000ff"><strong>we </strong></span>are motivating the child to not give up. <span style="color:#0000ff"><strong>We</strong></span><strong> </strong>are making <strong><u>him</u></strong><strong> </strong>to try hard, to make an effort, to read between lines and at the end of that long path achieve <span style="color:#ff00ff"><strong>their</strong></span><strong> </strong>objectives. <span style="background-color:#00ffff"><strong>Telling </strong></span><span style="color:#ff00ff"><span style="background-color:#00ffff"><strong>them</strong></span></span><span style="background-color:#00ffff"><strong> that </strong></span><span style="color:#ff00ff"><span style="background-color:#00ffff"><strong>they</strong></span></span><span style="background-color:#00ffff"><strong> can achieve anything if </strong></span><span style="color:#ff00ff"><span style="background-color:#00ffff"><strong>they</strong></span></span><span style="background-color:#00ffff"><strong> try hard enough. </strong></span><span style="color:#0000ff"><span style="background-color:#00ffff"><strong>We</strong></span></span><span style="background-color:#00ffff"><strong> are saying in other words that things are not so simple or easy but </strong></span><span style="color:#ff00ff"><span style="background-color:#00ffff"><strong>they</strong></span></span><span style="background-color:#00ffff"><strong> are not impossible, it is all about working hard and doing </strong></span><span style="color:#cc0000"><span style="background-color:#00ffff"><strong>our</strong></span></span><span style="background-color:#00ffff"><strong> best.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>(Đoạn bàn luận về lợi ích của việc nói với trẻ con là họ có thể làm mọi thứ)</p>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Trước hết, bài viết lặp phép referencing nhiều. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="color:#0000ff"><strong>we</strong></span>: lặp lại 3 lần&nbsp;</li>
+	<li style="list-style-type:disc"><span style="color:#ff00ff"><strong>they, them, their</strong></span>: lặp lại 5 lần</li>
+</ul>
+
+<p><strong>Trong đó:</strong> Cần nhấn mạnh rằng việc dùng đại từ <span style="color:#0000ff"><strong>we </strong></span>để tham chiếu sẽ khiến bài viết mắc lỗi sai văn phong</p>
+
+<p>- Ngoài ra, việc lạm dụng referencing, bài viết còn sử dụng sai từ tham chiếu ở câu “<span style="color:#0000ff"><strong>We</strong></span><strong> </strong>are making <strong><u>him</u></strong><strong> </strong>to try hard”. Đối tượng tham chiếu là “<strong>children</strong>” (trẻ con), nên không thể gộp chung thành “<strong>him</strong>” (anh ấy) được</p>
+
+<p>- Ở câu cuối, việc sử dụng từ “<span style="background-color:#00ffff"><strong>things</strong></span>” cũng thể hiện sự hạn chế trong việc dùng từ. Người đọc không thể biết thứ mà không dễ hay đơn giản là cái gì</p>
+
+<p>- Lỗi cuối cùng đoạn văn này gặp phải đó là dùng sai &amp; thiếu từ nối. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Thiếu từ nối:</strong> không thể nắm mối quan hệ giữa “<strong>we are making … their objectives</strong>” (bảo trẻ em phải chăm chỉ mới đạt mục tiêu) và “<strong>telling them … try hard enough</strong>” (bảo chúng rằng cái gì cũng làm được nếu cố gắng)</li>
+	<li style="list-style-type:disc"><strong>Sai từ nối: </strong>từ “<span style="background-color:#00ffff"><strong>but</strong></span><span style="background-color:#ffffff">” không thể được sử dụng để nối hai mệnh đề khác</span></li>
+</ul>
+
+<p><br>
+&nbsp;</p>
+
+<p>- Vậy, chúng ta sẽ cần sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Regarding the social aspect, telling <span style="color:#ff0000"><strong>children they can do anything is important</strong></span> because<span style="color:#ff0000"><strong> it motivates the</strong></span> child to not give up. <span style="color:#ff0000"><strong>They will be encouraged</strong></span> to try hard, to make an effort, to read between lines and at the end of that long path achieve their objectives. By telling <span style="color:#ff0000"><strong>children this, they can understand that they should work hard and strive towards their goals, no matter how difficult or complex.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>Lưu ý:</p>
+
+<p>- Một số thí sinh sử dụng từ “<strong>one</strong>” trong bài viết để thay thế cho các từ chỉ người như “<strong>people,</strong> <strong>politicians, v.v</strong>.”</p>
+
+<p>VD:<strong> Bạn nói rằng “Being famous would reduce personal enjoyment as fame would force one to be more secretive of one’s hobbies.” (Nổi tiếng giảm sự hạnh phúc vì nó khiến các bạn phải giấu sở thích)</strong></p>
+
+<p>=&gt; Vô lý, từ “<strong>one</strong>” dùng để chỉ một nhóm người trong đó bao gồm cả bạn</p>
+
+<p>=&gt; Sử dụng từ “<strong>they</strong>” sẽ tự nhiên hơn</p>
+
+<h3 id="2.3.-chia-thông-tin-phi-logic"><strong>2.3. </strong>Chia thông tin phi logic</h3>
+
+<h4 id="2.3.1.-biểu-hiện"><strong>2.3.1. </strong>Biểu hiện</h4>
+
+<p>- Chia thông tin bất hợp lý được biểu hiện ở bài viết thiếu sự nhất quán giữa câu <strong>Point</strong> và các câu <strong>Explanation</strong>, <strong>Expand </strong>và <strong>Example</strong></p>
+
+<p><span style="background-color:#ffffff">- </span>Một biểu hiện khác là việc bài viết nhồi nhét quá nhiều ý vào cùng một đoạn</p>
+
+<h4 id="2.3.2.-cách-khắc-phục"><strong>2.3.2. </strong>Cách khắc phục</h4>
+
+<p>- Chúng ta cần phải:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Nắm rõ cấu trúc cơ bản của một bài luận</strong></li>
+	<li style="list-style-type:disc"><strong>Lập dàn ý trước khi viết</strong></li>
+	<li style="list-style-type:disc"><strong>Chỉ tập trung vào một ý chủ đạo duy nhất trong đoạn</strong></li>
+	<li style="list-style-type:disc"><strong>Viết câu Point rõ ràng</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng phân tích biểu hiện và cách khắc phục các lỗi này trong một số ví dụ sau:</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ 1: </strong></span><strong>Câu Point trúc trắc, không mạch lạc&nbsp;</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:639px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:639px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Nowadays, some older people choose to live in retirement communities with other people, rather than living with their adult children. Is it a positive or negative development?</strong></span></p>
+
+			<p style="text-align:center">(<span style="background-color:#ffffff">Hiện nay, nhiều người già quyết định sống trong viện dưỡng lão, thay vì hưởng tuổi già ở bên cạnh con cháu. Liệu đây là xu hướng tốt hay xấu?</span>)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Thí sinh đã có đoạn</span><span style="background-color:#ffffff"><strong> Body 1 </strong></span><span style="background-color:#ffffff">như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, one of the possible consequences of living in retirement homes is <span style="color:#017837"><strong>exacerbating the generational gap within families</strong></span>. Particularly, by living separately, older family members may miss out on daily interactions with their children and grandchildren. Hence, this separation leads to <span style="color:#0000ff"><strong>challenges in maintaining close relationships between both parties, leading to communication breakdown</strong></span>. Indeed, choosing to stay in retirement communities has<span style="color:#017837"> </span><span style="color:#017837"><strong>resulted in a wider gap between family generations</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">(Bài viết phân tích hậu quả của việc người già sống trong viện dưỡng lão)</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>Point: </strong></span><span style="color:#017837"><strong>exacerbating the generational gap within families </strong></span>(trầm trọng khoảng cách giữa các thế hệ trong gia đình)</p>
+
+<p>- <strong>Explain+Expand:</strong> <span style="color:#0000ff"><strong>challenges in maintaining close relationships between both parties, leading to communication breakdown </strong></span>(thách thức trong việc giữ mối quan hệ gần gũi giữa gia đình và người già, nên dẫn tới mất liên lạc)</p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Câu Point và các câu triển khai thiếu nhất quán</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Vậy, chúng ta cần sửa như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, one of the possible consequences of living in retirement homes is <span style="color:#ff0000"><strong>the loss of relationships between family members</strong></span>. By choosing to live in nursing homes, older family members may lose the opportunity to interact with their children or grandchildren, as they are simply not living in the same place. Hence, this leads to challenges in maintaining close communications between both parties, <span style="color:#ff0000"><strong>leading to a decline in family relationships</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ 2: </strong></span><strong>Chia đoạn bất hợp lý</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely. Discuss both views and give your opinion.</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Một số người cho rằng việc chia sẻ thông tin là rất tốt trong giới khoa học, giáo dục và kinh doanh. Một số người khác cho rằng thông tin quá quan trọng, nên cần được bảo vệ. Bình luận về cả hai quan điểm, rồi đưa ra ý kiến cá nhân)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Thí sinh đã có </span><span style="background-color:#ffffff"><strong>Body </strong></span><span style="background-color:#ffffff">như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>For example, practically all scientists are glad to share information with ordinary people or other scientist. There is no competition in this sphere. Sometimes it is bad for government when scientist share secret information with international spies.</p>
+
+			<p>There are some simple rules in the academic world which limit information sharing between people. If the person is interested in the themes being discussed, they will share information for free. On the other hand, if the person is knowledgeable, they might charge a fee for sharing information. For example, some students pay to learn from teachers, while others cooperate and share information. It is obvious that sharing information can follow a release schedule. There is a lot of competition and it be costly for companies. Companies may lose their profits every day because information is leaked.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff"><strong>(Đoạn phân tích cả 2 mặt của việc chia sẻ thông tin)</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Trước hết, </span>phân tích lại bài viết, chúng ta có thể tóm tắt lập luận của thí sinh trong đoạn<strong> BP1 </strong>như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: scientist share information</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(nhà khoa học chia sẻ thông tin)&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: 0 competition&nbsp;</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(không có cạnh tranh)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Ep: share with spies&nbsp;</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(chia sẻ với gián điệp)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Body chỉ chứng minh cho một ví dụ, và không hề có ý chính</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Tương tự, </span>chúng ta có thể tóm tắt lập luận của thí sinh trong đoạn <strong>BP2</strong> như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP2: (-) sharing info rules</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(không nên chia sẻ thông tin)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>P1: interest = free; knowledgeable = fee</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(người chia sẻ thích thú với chủ đề thì chia sẻ miễn phí, người chia sẻ biết nhiều thì sẽ&nbsp;</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mất phí)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Eg1: paying teachers &gt;&lt; learn from other ss</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(trả tiền cho giáo viên khác học từ học sinh khác)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>P2: business info = follow releases&nbsp;</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thông tin từ doanh nghiệp sẽ được chia sẻ theo đợt)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>P3: competition = costly for companies</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(cạnh tranh thì sẽ tốn kém cho công ty)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: info leak = lose profits</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(rò rỉ thông tin thì sẽ giảm lợi nhuận)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">- Chúng ta thấy rằng trong chỉ một đoạn BP mà thí sinh đã nhồi nhét 3 ý về “</span><span style="background-color:#ffffff"><strong>share information</strong></span><span style="background-color:#ffffff">”</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Các ý hầu như chưa được triển khai, chứng minh thêm</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Vậy, để sửa bài viết này, chúng ta cần phải sửa ngay từ phần dàn ý như sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Trước hết, chúng ta sửa </span><span style="background-color:#ffffff"><strong>BP1</strong></span><span style="background-color:#ffffff">:</span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: ↑ human knowledge</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(tăng tri thức nhân loại)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E: meet goals faster: share info =&gt; scientist compete</strong></p>
+
+			<p><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(đạt các mục tiêu nhanh hơn vì chia sẻ thông tin sẽ thúc đẩy sự cạnh tranh giữa các nhà&nbsp;</span></p>
+
+			<p><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;khoa học)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Ep: find solution for problems</strong></p>
+
+			<p><strong>&nbsp;&nbsp;&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;(tìm ra giải pháp cho các vấn đề)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: ↑ share info = ↑ science findings</strong></p>
+
+			<p><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;(chia sẻ thông tin thì sẽ tăng các khám phá khoa học)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Sau đó, chúng ta sửa </span><span style="background-color:#ffffff"><strong>BP2</strong></span><span style="background-color:#ffffff"> như sau:</span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP2: (-) Business &amp; Gov = 0 share</strong></p>
+
+			<p><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thông tin từ doanh nghiệp và chính phủ không nên được chia sẻ)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E1: </strong><span style="color:#0000ff"><strong>Business: info</strong></span><strong> = value =&gt; </strong><span style="color:#0000ff"><strong>share = competitor advantage</strong></span></p>
+
+			<p><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(thông tin từ các doanh nghiệp có giá trị tài chính, nên chia sẻ thì sẽ cho đối thủ một lợi&nbsp;</span></p>
+
+			<p><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thế)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Ep1: 0 research if competitor can use</strong></p>
+
+			<p><span style="background-color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(sẽ không thực hiện nghiên cứu nếu đối thủ có thể sử dụng)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>E2: Gov: research = sensitive/confidential =&gt; keep hidden</strong></p>
+
+			<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;(Thông tin chính phủ thường nhạy cảm nên cần phải được giấu kín)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Eg2: share nuclear weapons research = ↑ bombs</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(chia sẻ nghiên cứu về vũ khí hạt nhân làm tăng việc sản xuất bom)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>L: Business &amp; Gov info = hidden</strong></p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;(thông tin từ các doanh nghiệp và chính phủ nên được giữ kín)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Vậy, chúng ta có bài được sửa hoàn chỉnh như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="color:#ff0000"><strong>Sharing information whenever possible should be encouraged because doing so adds to human knowledge and it could help to solve global problems</strong></span>. When it is shared, preferably in publicly available journals that anyone can read for free, scientists are able to both compete and collaborate with each other, thereby getting the best of both worlds. If competing teams are working towards the same goal, it is more likely that solutions can be found to the problems we all face like global cooling and food shortages. The more information is shared, the more scientists’ findings become a part of the sum of human knowledge, enabling their counterparts in the future to build and extend our knowledge further.</p>
+
+			<p><span style="color:#ff0000"><strong>However, there may be good reasons why information cannot be shared if it comes from businesses and governments. With regard to the former</strong></span>, this type of information has commercial value and no company would want to give away corporate strategies or their proprietary research to their competitors. In fact, businesses would not do any independent research if it could be used by their rivals in the market. <span style="color:#ff0000"><strong>As for research carried out by academia and publicly funded science</strong></span>, although sharing is desirable, it is not always possible. This is because such research is often of a sensitive or confidential nature as it may be related to national security, and governments prefer it to keep away from public attention. For example, during the Cold War, many spies provided information on nuclear weapons production to the Soviet Union. This then led to an arms race, whereby both the U.S and the Soviets stockpiled their nuclear arsenal. Hence, it is justifiable to claim that information from businesses and governments must be kept confidential, ensuring company profits and national safety</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+        </div>

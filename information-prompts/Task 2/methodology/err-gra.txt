@@ -1,0 +1,676 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="các-lỗi-về-grammatical-range--accuracy"><span style="background-color:#ffffff">Các lỗi về Grammatical Range &amp; Accuracy</span></h1>
+
+<h2 id="1.-yêu-cầu"><span style="background-color:#ffffff"><strong>1.</strong></span><span style="background-color:#ffffff"> Yêu cầu</span></h2>
+
+<p>- Để đạt band 7+ ở tiêu chí GRA, thí sinh cần đảm bảo những yếu tố sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>A wide range of structures with flexibility</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Kết hợp linh hoạt các cấu trúc khác nhau)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Error-free sentences</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Câu không có lỗi ngữ pháp hay dấu câu)</p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Để nắm rõ cách các yếu tố này được thể hiện trong một bài viết, chúng ta cùng phân tích một </span><strong>Ví dụ:</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion.</strong></p>
+
+			<p style="text-align:center">(Một số sinh viên đại học muốn học các môn khác ngoài môn chuyên ngành. Một số người khác lại tin rằng điều quan trọng là cần phải dành hết thời gian và chỉ để tâm tới việc học để lấy bằng cấp. Bình luận về cả hai ý kiến này và đưa ra quan điểm cá nhân)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Some people consider that the loss of individual species of plants and animals is the main environmental problem of our time. Attempts to preserve rare or dying species are carried out in zoos or other specialist plant and animal facilities, through breeding programmes, preservation orders and other forms of protection and there was genuine sadness among many when the last surviving white rhino died earlier this year.</p>
+
+			<p>Survival of the fittest is nature's way of ruthlessly allowing weaker specimens to die out, <span style="background-color:#00ffff"><strong>although</strong></span><strong> </strong>mankind has <span style="background-color:#00ffff"><strong>also</strong></span> contributed to falling animal numbers through hunting and poaching. <span style="background-color:#00ffff"><strong>However</strong></span>, <span style="background-color:#00ffff"><strong>whether saving individual species should be the main focus of environmental protection is debatable</strong></span>. Climate change and excessive use of plastic are just two other major problems that deserve our attention.</p>
+
+			<p>The evidence of climate change is there for us all to see<span style="background-color:#00ffff"><strong>:</strong></span> rising sea levels and associated flooding with the loss of homes at low land levels are becoming more frequent. Many countries and island communities are now calling for urgent action to delay, halt or even reverse the process, <span style="background-color:#00ffff"><strong>although</strong></span> <span style="background-color:#00ffff"><strong>if we believe the experts, reversal is impossible</strong></span>. Habitable areas are gradually shrinking, often for some of the poorest groups of people, <span style="background-color:#00ffff"><strong>but</strong></span> there seems to be little obvious action taking place.<span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#00ffff"><strong>If the major contributors to climate change will not support the reduction of greenhouse gases, there is little hope for the future</strong></span>.</p>
+
+			<p>Naturalists have <span style="background-color:#00ffff"><strong>also</strong></span> begun to expose the serious problems arising from discarded plastic waste. Birds and animals can die gruesome deaths through being trapped or caught up in plastic bags or ropes, <span style="background-color:#00ffff"><strong>while</strong></span> the long process required for these plastics to decay means that they remain a threat for many years to come. Worse, there is now beginning to be evidence of sea creatures ingesting smaller globules of disintegrating plastic, <span style="background-color:#00ffff"><strong>which harms them and all the other creatures in their particular food chain</strong></span>.</p>
+
+			<p>The loss of particular species, both flora and fauna, is cause for regret, <span style="background-color:#00ffff"><strong>but</strong></span> I do not agree that they are the most important environmental problems these days. <span style="background-color:#00ffff"><strong>If climate change and damage from plastic continue, there will be less land and less food for everyone</strong></span>, <span style="background-color:#00ffff"><strong>including</strong></span> plants and animals.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:right">(Bài viết mẫu của examiner, Cambridge 14, p.131)</p>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Bài viết đã sử dụng các thể ngữ pháp phức tạp một cách tương đối linh hoạt. Cụ thể, bài viết kết hợp sử dụng:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Từ nối</strong></li>
+	<li style="list-style-type:disc"><strong>Cụm từ/Mệnh đề thể hiện sự đối lập</strong></li>
+	<li style="list-style-type:disc"><strong>Mệnh đề điều kiện</strong></li>
+	<li style="list-style-type:disc"><strong>Mệnh đề quan hệ</strong></li>
+</ul>
+
+<p><br>
+&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Vậy, mắc lỗi nào thì sẽ hạ điểm bài viết? - Chúng ta cùng tìm hiểu về các vấn đề mà bài viết band 4, 5, 6 LR gặp phải:&nbsp;</span></p>
+
+<div style="margin-left:-12px">
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:677px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:52px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Band</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:228px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Range of structures</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:397px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>Grammar &amp; Punctuation</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:52px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>5</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:228px">
+			<p><strong>The range of structures is </strong><span style="background-color:#ffff00"><strong>limited</strong></span><strong> and </strong><span style="background-color:#ffff00"><strong>rather repetitive</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Cấu trúc câu không linh hoạt và thường lặp đi lặp lại.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:397px">
+			<p><span style="background-color:#00ff00"><strong>Although complex sentences are attempted</strong></span><strong>, they</strong><span style="background-color:#ffff00"><strong> tend to be faulty</strong></span><strong>, and </strong><span style="background-color:#ffff00"><strong>the greatest accuracy is achieved on simple sentences</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Có cố gắng viết ra câu phức, nhưng những câu này thường mắc lỗi; trong khi các câu đơn thường chính xác hơn</p>
+
+			<p><strong>Grammatical errors may be</strong><span style="background-color:#ffff00"><strong> frequent</strong></span><strong> and </strong><span style="background-color:#ffff00"><strong>cause some difficulty for the reader</strong></span><strong>.</strong></p>
+
+			<p>Mắc nhiều lỗi ngữ pháp gây khó khăn cho người đọc.&nbsp;&nbsp;</p>
+
+			<p><strong>Punctuation may be </strong><span style="background-color:#ffff00"><strong>faulty</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Có thể mắc lỗi về dấu câu.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:52px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>4</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:228px">
+			<p><strong>A </strong><span style="background-color:#ffff00"><strong>very limited</strong></span><strong> range of structures is used.&nbsp;</strong></p>
+
+			<p>Sử dụng một lượng cực kỳ hạn chế các cấu trúc.</p>
+
+			<p><span style="background-color:#ffff00"><strong>Subordinate clauses are rare and simple sentences predominate.&nbsp;</strong></span></p>
+
+			<p>Rất ít dùng các mệnh đề phụ thuộc mà chỉ chủ yếu dùng câu đơn.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:397px">
+			<p><span style="background-color:#00ff00"><strong>Some structures are produced accurately</strong></span><strong> but</strong><span style="background-color:#ffff00"><strong> grammatical errors are frequent and may impede meaning.</strong></span></p>
+
+			<p>Một vài các cấu trúc được sử dụng chính xác nhưng lỗi ngữ pháp xảy ra&nbsp;</p>
+
+			<p>thường xuyên và có thể cản trở việc truyền đạt ý nghĩa</p>
+
+			<p><strong>Punctuation is </strong><span style="background-color:#ffff00"><strong>often faulty or inadequate</strong></span><strong>.</strong></p>
+
+			<p>Thường xuyên dùng sai hoặc dùng thiếu dấu câu.&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:52px">
+			<p style="text-align:center"><span style="color:#ff0000"><strong>3</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:228px">
+			<p><span style="background-color:#ffff00"><strong>Length may be insufficient</strong></span><strong> to provide evidence of control of sentence forms.</strong></p>
+
+			<p>Bài viết không đủ dài để thể hiện rằng thí sinh biết kiểm soát các mẫu câu.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:397px">
+			<p><strong>Sentence forms are attempted,</strong><span style="background-color:#ffff00"><strong> errors in grammar and punctuation predominate</strong></span><strong> </strong><span style="background-color:#ffff00"><strong>(except in memorized phrases or those taken from the input material</strong></span><strong>).&nbsp;</strong></p>
+
+			<p><strong>This</strong><span style="background-color:#ffff00"><strong> prevents most meaning from coming through</strong></span><strong>.&nbsp;</strong></p>
+
+			<p>Có cố gắng sử dụng các mẫu câu nhưng hầu hết đều sai ngữ pháp và dấu câu&nbsp;</p>
+
+			<p>(trừ những cụm học thuộc, hoặc chép y nguyên từ đề bài).&nbsp;</p>
+
+			<p>Điều này cản trở việc truyền tải phần lớn ý nghĩa của bài viết.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>- <span style="background-color:#ffffff">Vậy, chúng ta rút ra một số </span>lỗi khiến điểm GRA thấp là:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Limited range of structures</strong></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Dùng lượng hạn chế các cấu trúc)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Complex sentences tend to be faulty</strong></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Câu phức thường mắc lỗi)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Grammatical errors may be frequent</strong></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Mắc nhiều lỗi ngữ pháp)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Faulty/inadequate punctuation</strong></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Sai/thiếu dấu câu)</span></p>
+
+<p>&nbsp;</p>
+
+<h2 id="2.-cách-khắc-phục"><span style="background-color:#ffffff"><strong>2. </strong></span><span style="background-color:#ffffff">Cách khắc phục</span></h2>
+
+<h3 id="2.1.-dùng-lượng-hạn-chế-các-cấu-trúc"><strong>2.1. </strong>Dùng lượng hạn chế các cấu trúc</h3>
+
+<h4 id="2.1.1.-biểu-hiện"><strong>2.1.1. </strong>Biểu hiện&nbsp;</h4>
+
+<p>- Hạn chế về các cấu trúc được thể hiện ở việc trong bài thường sử dụng các câu rất ngắn, đơn giản với cấu trúc tương tự nhau</p>
+
+<p>- Mặc dù người viết duy trì tính chính xác và rõ ràng xuyên suốt bài, việc viết nhiều câu đơn ngắn liên tục khiến đoạn văn đọc lên nghe rất nhát gừng, không uyển chuyển</p>
+
+<h4 id="2.1.2.-cách-khắc-phục"><strong>2.1.2.</strong> Cách khắc phục</h4>
+
+<p>- Phải vừa sử dụng được linh hoạt nhiều cấu trúc câu khác nhau, vừa phải tránh được các lỗi ngữ pháp</p>
+
+<p>- Trong đó, làm được điều này qua:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Thay đổi độ dài câu: </strong>sử dụng đan xen các câu có độ dài khác nhau để tạo sự tự nhiên và giúp bài luận trở nên đa dạng hơn</li>
+	<li style="list-style-type:disc"><strong>Đọc thật nhiều để học viết đúng cách: </strong>Đọc các tài liệu, sách báo sẽ giúp tăng tiếp xúc với nhiều phong cách và cấu trúc câu khác nhau</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng quan sát các ví dụ cụ thể về các bài viết mà mắc phải lỗi này:</p>
+
+<p><strong>Ví dụ: Lỗi hạn chế cấu trúc</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?</strong></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Ở nhiều nước trên thế giới ngày nay, người tiêu dùng có thể tới siêu thị và mua thực phẩm được sản xuất ở khắp nơi trên thế giới. Liệu bạn nghĩ rằng đây là xu hướng phát triển tích cực hay tiêu cực?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>BP1: On the one hand, the availability of international food products helps consumers diversify their meal options. <span style="color:#017837"><strong>People can try exotic foods. These foods are from other areas. This enhances their daily menu.</strong></span><span style="color:#017837"> </span>For example, in Viet Nam, people can still enjoy some fruits such as apples and cherries which can’t be grown locally. Hence, imported foods contribute to the diversity of accessible foods for local people and fix seasonal gaps and climate problems.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>(Bài phân tích lợi ích của việc nhập thực phẩm quốc tế)</p>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Bài viết lạm dụng việc sử dụng câu đơn. Cụ thể, mặc dù hoàn toàn có thể hiểu nghĩa của 3 câu được bôi xanh là:<span style="color:#017837"><strong> người tiêu dùng có thể thử đồ ăn độc lạ</strong></span>, <span style="color:#017837"><strong>đồ ăn này tới từ nước khác</strong></span> và<span style="color:#017837"><strong> cái này nâng cấp khẩu phần ăn hằng ngày</strong></span>; nhưng đọc lên nghe rất vụn</p>
+
+<p>=&gt; Viết các câu ngắn liên tục không thể hiện được mối quan hệ giữa các câu</p>
+
+<p>=&gt; Duy trì được chính xác nhưng câu văn cảm giác rất nhát gừng, thiếu linh hoạt</p>
+
+<p>&nbsp;</p>
+
+<p>- Ngoài lỗi GRA, chúng ta cũng có thể xác định một số lỗi về TR và LR như sau:</p>
+
+<ul>
+	<li style="list-style-type:disc">Trước hết, bắt đầu với lỗi LR:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>BP1: On the one hand, the availability of international food products helps consumers diversify their meal options. People can try exotic foods. These foods are from other areas. This enhances their daily menu. For example, in Viet Nam, <span style="color:#ff9900"><strong>people </strong></span>can still enjoy some fruits such as apples and cherries which <span style="color:#ff00ff"><strong>can’t</strong></span><span style="color:#017837"><strong> </strong></span>be grown locally. Hence, imported foods contribute to the diversity of <span style="color:#e06666"><strong>accessible foods</strong></span> for local <span style="color:#ff9900"><strong>people</strong></span><strong> </strong>and fix seasonal gaps and climate problems.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- Bài viết mắc 3 lỗi cơ bản là: lặp từ, viết tắt và dùng từ sai. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Lặp từ:</strong> <span style="color:#ff9900"><strong>people</strong></span> lặp lại 2 lần</li>
+	<li style="list-style-type:disc"><strong>Viết tắt: </strong><span style="color:#ff00ff"><strong>can not</strong></span> viết thành <span style="color:#ff00ff"><strong>can’t</strong></span></li>
+	<li style="list-style-type:disc"><strong>Dùng từ sai: </strong>“<span style="color:#e06666"><strong>accessible foods</strong></span>” (đồ ăn dễ truy cập) là một cụm vô nghĩa. Có thể, thí sinh đã hiểu lầm rằng “<strong>accessible</strong>” có nghĩa là “<strong>easy to buy</strong>” (dễ mua)&nbsp;</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Bài viết còn mắc lỗi TR như sau:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>BP1: On the one hand, the availability of international food products helps consumers diversify their meal options. People can try exotic foods. These foods are from other areas. This enhances their daily menu. For example, in Viet Nam, people can still enjoy some fruits such as apples and cherries which can’t be grown locally. Hence, imported foods contribute to the diversity of accessible foods for local people <span style="color:#017837"><strong>and fix seasonal gaps and climate problems</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- Mặc dù câu <strong>Link </strong>đã chốt được ý chính, nhưng còn thêm thông tin thừa là “<strong>fix seasonal gáp and climate problems</strong>” (sửa vấn đề thời vụ và khí hậu)</p>
+
+<p>=&gt; Thông tin này chưa từng được đề cập tới trong Body</p>
+
+<p>=&gt; <span style="color:#ff0000"><strong>Giới thiệu thông tin hoàn toàn mới&nbsp;</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p>- Chốt lại, chúng ta sẽ cần sửa 3 lỗi sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Dùng lượng hạn chế các cấu trúc</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Lỗi sai về dùng từ/lặp từ</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffff00"><strong>Câu link thêm thông tin mới</strong></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Vậy, chúng ta sẽ cần sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, the availability of international food products helps consumers diversify their meal options. <span style="color:#ff0000"><strong>With the presence of food imports, people can try exotics foods that are native to other areas, thereby expanding their daily menu</strong></span>. For example, in Viet Nam, <span style="color:#ff0000"><strong>foreign fruit products such as apples and cherries can still be enjoyed</strong></span> although they <span style="color:#ff0000"><strong>cannot</strong></span><strong> </strong>be grown locally. Hence, imported foods may <span style="color:#ff0000"><strong>broaden people’s culinary horizons</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="2.2.-lạm-dụng-câu-phức"><span style="background-color:#ffffff"><strong>2.2. </strong></span><span style="background-color:#ffffff">Lạm dụng câu phức:</span></h3>
+
+<h4 id="2.2.1.-biểu-hiện"><strong>2.2.1. </strong>Biểu hiện&nbsp;</h4>
+
+<p><span style="background-color:#ffffff">- </span>Lỗi này được thể hiện việc bài viết sử dụng các câu phức, cấu trúc dài nhưng lại mắc nhiều lỗi ngữ pháp/dấu câu</p>
+
+<p><span style="background-color:#ffffff">- </span>Một điểm dễ thấy ở lỗi này là bài viết cũng sẽ cố sử dụng từ vựng ít phổ biến</p>
+
+<h4 id="2.2.2.-cách-khắc-phục"><strong>2.2.2. </strong>Cách khắc phục</h4>
+
+<p><span style="background-color:#ffffff">- </span>Việc sử dụng linh hoạt nhiều cấu trúc phải đi kèm với việc duy trì tính chính xác và rõ ràng&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- </span>Cần phải:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Nắm vững một số loại câu:</strong> tập trung học thật chắc một số loại câu nhất định (vd: điều kiện, mệnh đề quan hệ, v.v.) và luyện cách sử dụng khi ôn tập</li>
+	<li style="list-style-type:disc"><strong>Sửa lỗi: </strong>xin phản hồi từ bạn bè, giáo viên hoặc các công cụ AI (vd: grammarly) để giúp bạn xác định các lỗi sai nghiêm trọng</li>
+	<li style="list-style-type:disc"><strong>Luyện viết thường xuyên:</strong> thực hành viết bài nhiều và ghi chép lại các trường hợp sai cụ thể để rút kinh nghiệm</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng quan sát các ví dụ cụ thể về các bài viết mà mắc phải lỗi này:</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ: Lỗi lạm dụng câu phức</strong></span></p>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><strong>In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?</strong></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Ở nhiều nước trên thế giới ngày nay, người tiêu dùng có thể tới siêu thị và mua thực phẩm được sản xuất ở khắp nơi trên thế giới. Liệu bạn nghĩ rằng đây là xu hướng phát triển tích cực hay tiêu cực?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: </strong>On the one hand, most people, <span style="color:#017837"><strong>who live in different areas, are not native, but they are immigrants</strong></span> living in their countries for some reasons such as education, business, and other things<span style="color:#017837">; </span><span style="color:#017837"><strong>afterwards</strong></span><span style="color:#017837">, </span>these people prefer to eat their own foods instead of other regions' meals<span style="color:#017837"><strong>; so that,</strong></span><span style="color:#017837"> </span>these kind of markets help them make our traditional meals. For example, I am from Viet Nam and I used to spend 6 months in Russia for my father's job<span style="color:#017837">, </span><span style="color:#017837"><strong>so</strong></span> I bought Vietnamese things <span style="color:#017837"><strong>and</strong></span> made use of our foods<span style="color:#017837"><strong> due to the fact</strong></span><span style="color:#017837"> </span>that Russian foods were tasteless to us.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>(Bài phân tích lợi ích của việc nhập thực phẩm quốc tế)</p>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Bài viết đang sử dụng hai câu phức rất phức tạp, do lạm dụng từ nối và dùng sai từ nối. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc">Ở câu đầu tiên, thí sinh đã sử dụng một mệnh đề quan hệ (<span style="color:#017837"><strong>who live … are immigrants</strong></span>), rồi lại nối vào một mệnh đề mới sử dụng từ <span style="color:#017837"><strong>but</strong></span>. Thí sinh lại tiếp tục sử dụng dấu<span style="color:#017837"><strong> ; </strong></span>kết hợp với từ <span style="color:#017837"><strong>afterwards</strong></span> để nối vào mệnh đề thứ 3. Tương tự, thí sinh lại tiếp tục sử dụng dấu<span style="color:#017837"><strong> ;</strong></span> kết hợp với cụm <span style="color:#017837"><strong>so that</strong></span> để nối vào mệnh đề thứ 4</li>
+	<li style="list-style-type:disc">Ở câu thứ hai, thí sinh cũng lạm dụng từ nối, nối tận 5 vế vào cùng một câu</li>
+</ul>
+
+<p>=&gt; Câu trở nên lan man, dài lê thê</p>
+
+<p>&nbsp;</p>
+
+<p>- Ngoài lỗi GRA, chúng ta cũng có thể xác định bài viết mắc lỗi ở cả 3 tiêu chí còn lại (TR, CC, LR) như sau:</p>
+
+<ul>
+	<li style="list-style-type:disc">Trước hết, bắt đầu với lỗi LR:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: </strong>On the one hand, most people, who live in different areas, are not native, but they are immigrants living in their countries for some reasons such as education, business, <span style="color:#ff00ff"><strong>and other things</strong></span>; afterwards, these people prefer to eat their own <span style="color:#e06666"><strong>foods </strong></span>instead of other regions' <span style="color:#ff9900"><strong>meals</strong></span>; so that, <span style="color:#ff00ff"><strong>these kind of markets</strong></span> help them make our traditional <span style="color:#ff9900"><strong>meals</strong></span>. For example, I am from Viet Nam and I used to spend 6 months in Russia for my father's job,<span style="color:#e06666"><strong> </strong></span>so I bought <span style="color:#ff00ff"><strong>Vietnamese</strong></span><span style="color:#ff00ff"> </span><span style="color:#ff00ff"><strong>things</strong></span> and <span style="color:#017837"><strong>made use of</strong></span> our <span style="color:#e06666"><strong>foods</strong></span> due to the fact that Russian <span style="color:#e06666"><strong>foods</strong></span> were tasteless to us.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- Bài viết mắc 3 lỗi về dùng từ: lặp từ, dùng từ tối nghĩa và dùng từ sai nghĩa. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Lặp từ: </strong><span style="color:#e06666"><strong>foods </strong></span>được lặp lại 3 lần, và <span style="color:#ff9900"><strong>meals </strong></span>được lặp lại 2 lần</li>
+	<li style="list-style-type:disc"><strong>Dùng từ tối nghĩa:</strong> <span style="color:#ff00ff"><strong>and other things </strong></span>nêu các đối tượng mơ hồ, khó có thể biết đây là gì; <span style="color:#ff00ff"><strong>these kind of markets </strong></span>sử dụng phép referencing, nhưng khó biết được chỉ tới các chợ nào; <span style="color:#ff00ff"><strong>Vietnamese</strong></span><span style="color:#ff00ff"> </span><span style="color:#ff00ff"><strong>things</strong></span> khiến người đọc khó hình dung cụ thể là đồ gì tới từ Việt Nam</li>
+	<li style="list-style-type:disc"><strong>Dùng từ sai nghĩa</strong>: <span style="color:#017837"><strong>made use of</strong></span> có nghĩa là sử dụng nhưng người viết không hề nêu mục đích sử dụng để làm gì</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Tiếp theo, là lỗi CC:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1: </strong>On the one hand, most people, who live in different areas, are not native, but <strong><u>they</u></strong><strong> </strong>are immigrants living in <strong><u>their</u></strong> countries for some reasons such as education, business, and other things; afterwards, these people prefer to eat their own foods instead of other regions' meals; so that, these kind of markets help <strong><u>them</u></strong> make <strong><u>our</u></strong> traditional meals. For example, I am from Viet Nam and I used to spend 6 months in Russia for my father's job, so I bought Vietnamese things and made use of <strong><u>our</u></strong> foods due to the fact that Russian foods were tasteless to <strong><u>us</u></strong>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- Bài viết lặp đi lặp lại các cụm referencing “they” và “our” liên tục xuyên suốt bài dẫn tới hai lỗi sai:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Lỗi văn phong: </strong>Việc sử dụng các từ như we (chúng ta); our (của họ) khiến cho bài viết quá mang tính cá nhân</li>
+	<li style="list-style-type:disc"><strong>Bài viết khó hiểu: </strong>Khó nắm bắt đối tượng được nhắc tới trong bài viết vì nhảy liên tục từ <strong>they</strong> sang <strong>our</strong> rồi sang <strong>us</strong>&nbsp;</li>
+</ul>
+
+<p>=&gt; Bài viết lạm dụng phép <strong>referencing</strong></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Cuối cùng, là lỗi TR:</li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>BP1:</strong> On the one hand,<strong> </strong><span style="background-color:#00ff00"><strong>most people, who live in different areas, are not native, but they are immigrants living in their countries for some reasons such as education, business, and other things; afterwards, these people prefer to eat their own foods instead of other regions' meals; so that, these kind of markets help them make our traditional meals</strong></span>. For example, I am from Viet Nam and I used to spend 6 months in Russia for my father's job, so I bought Vietnamese things and made use of our foods due to the fact that Russian foods were tasteless to us.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- Bài viết sử dụng câu phức, và dùng rất nhiều từ nối nhưng các câu gần như không có ý chính. Cụ thể:</p>
+
+<ul>
+	<li style="list-style-type:disc">Ở câu đầu tiên, tác giả rằng hầu hết người sống ở những khu khác nhau thì không phải người bản xứ. Họ là những người di cư, sống ở nước khác, truyền sang nước này sống vì những lý do khác nhau như là giáo dục, kinh doanh hay những thứ khác. Sau đó, những người này thích ăn đồ ăn của họ, nên những siêu thị, những chợ này giúp họ làm đồ ăn truyền thống của họ</li>
+</ul>
+
+<p>=&gt; Vậy ý chính của đoạn là gì? Giải thích lý do con người di cư sang nước khác hay về việc có thể tạo thực phẩm quê nhà qua việc mua nguyên liệu ở siêu thị?</p>
+
+<p>=&gt; Bài nêu tận 2 ý chính, nên mắc lỗi “<strong>luận điểm không rõ ràng</strong>”</p>
+
+<p>&nbsp;</p>
+
+<p>- Vậy, chúng ta sẽ cần sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, <span style="background-color:#00ff00"><strong>this development helps immigrants adapt to living abroad</strong></span><span style="color:#ff0000">. </span><span style="color:#ff0000"><strong>Many people</strong></span> live in different areas of the world for some reasons such as<span style="color:#ff0000"><strong> education and business</strong></span>, but <span style="color:#ff0000"><strong>they</strong></span> may prefer to eat <span style="color:#ff0000"><strong>their countries’ foods</strong></span>. <span style="color:#ff0000"><strong>Thus, markets with foods from around the world</strong></span> help <span style="color:#ff0000"><strong>these individuals</strong></span> make <span style="color:#ff0000"><strong>their</strong></span> traditional <span style="color:#ff0000"><strong>meals</strong></span>. For example, I am from Viet Nam and I used to spend 6 months in Russia for my father’s job<span style="color:#ff0000"><strong>.</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>Hence,</strong></span><span style="color:#0000ff"> </span>I bought <span style="color:#ff0000"><strong>ingredients to make</strong></span><span style="color:#ff0000"> </span>Vietnamese <span style="color:#ff0000"><strong>food</strong></span>, as Russian <span style="color:#ff0000"><strong>dishes</strong></span> were tasteless to <span style="color:#ff0000"><strong>me</strong></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:&nbsp;</strong></p>
+
+<p>-&nbsp; Liên quan đến việc dùng từ nghiêng về bên “<strong>đa dạng</strong>” hay “<strong>chính xác</strong>”:</p>
+
+<ul>
+	<li style="list-style-type:disc">Việc thay đổi cấu trúc câu trong bài luận IELTS rất quan trọng, nhưng việc duy trì tính chính xác và rõ ràng cũng là một yếu tố cần được ưu tiên</li>
+	<li style="list-style-type:disc">Sử dụng cấu trúc phức tạp mà không nắm cách dùng sẽ khiến bài viết trở nên khó hiểu, giảm điểm GRA, TR và CC</li>
+</ul>
+
+<p>=&gt; Ưu tiên chọn viết câu đơn giản nhưng chính xác</p>
+
+<p>&nbsp;</p>
+
+<h3 id="2.3.-lỗi-ngữ-pháp"><span style="background-color:#ffffff"><strong>2.3. </strong></span><span style="background-color:#ffffff">Lỗi ngữ pháp</span></h3>
+
+<h4 id="2.3.1.-biểu-hiện"><strong>2.3.1. </strong>Biểu hiện&nbsp;</h4>
+
+<p><span style="background-color:#ffffff">- </span>Lỗi ngữ pháp biểu hiện ở những việc sau:&nbsp;&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Chia sai danh từ</strong> (vd: danh từ không đếm được chia số nhiều, v.v.)</li>
+	<li style="list-style-type:disc"><strong>Chia sai động từ</strong> (vd: sai thì, không hòa hợp với chủ ngữ, v.v.)</li>
+	<li style="list-style-type:disc"><strong>Nhầm lẫn giữa cách sử dụng tính từ và trạng từ</strong></li>
+	<li style="list-style-type:disc"><strong>Nhẫm lẫn giữa tính từ đuôi “-ing” và đuôi “-ed”</strong></li>
+	<li style="list-style-type:disc"><strong>Dùng nhầm tính từ đuôi “-ly” như trạng từ</strong></li>
+	<li style="list-style-type:disc"><strong>Dùng thừa/thiếu/sai giới từ, mạo từ và liên từ</strong></li>
+</ul>
+
+<h4 id="2.3.2.-cách-khắc-phục">2.3.2. Cách khắc phục</h4>
+
+<p><span style="background-color:#ffffff">- </span>Để tránh mắc lỗi ngữ pháp, hãy:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Nắm vững và thường xuyên ôn tập các nguyên tắc ngữ pháp cơ bản</strong></li>
+	<li style="list-style-type:disc"><strong>Sau khi viết, tập thói quen kiểm tra lại bài để sửa các lỗi về ngữ pháp (nếu có)</strong></li>
+	<li style="list-style-type:disc"><strong>Tự lập checklist các lỗi từng mắc để kiểm tra sau khi viết</strong></li>
+	<li style="list-style-type:disc"><strong>Đọc kỹ lý thuyết và làm bài tập liên quan đến các lỗi hay mắc</strong></li>
+	<li style="list-style-type:disc"><strong>Khi đi thi, chỉ dùng các cấu trúc ngữ pháp bạn thực sự nắm vững</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng quan sát các ví dụ cụ thể về các bài viết mà mắc phải lỗi này:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>On the one hand, spending a year on working or travelling leads to difficulty in adapting <span style="color:#017837"><span style="background-color:#ffffff"><strong>for</strong></span></span><span style="color:#017837"><strong> </strong></span>new environment. Particularly, as part time jobs or trips take a lot of time<span style="color:#0000ff"><span style="background-color:#ffffff"> </span></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>of</strong></span></span> students they may lose <span style="color:#017837"><span style="background-color:#ffffff"><strong>the</strong></span></span> habit of studying and going to <span style="color:#017837"><span style="background-color:#ffffff"><strong>lecture</strong></span></span>. Therefore,<span style="color:#017837"><span style="background-color:#ffffff"><strong> in</strong></span></span> the beginning of the school year, students face difficulty in balancing their <span style="color:#017837"><span style="background-color:#ffffff"><strong>life</strong></span></span>. For instance, according to a survey in 6 universities in the USA, many students who took a gap year <span style="color:#017837"><span style="background-color:#ffffff"><strong>share</strong></span></span> that they<span style="color:#017837"><span style="background-color:#ffffff"><strong> have</strong></span></span> bad <span style="color:#017837"><span style="background-color:#ffffff"><strong>result</strong></span></span> in <span style="color:#017837"><span style="background-color:#ffffff"><strong>exam</strong></span></span><span style="color:#017837"><span style="background-color:#ffffff"> </span></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>in</strong></span></span> 6 to 9 months and found that they had to <span style="color:#017837"><span style="background-color:#ffffff"><strong>absent</strong></span></span> some lectures to finish their part-time jobs. Thus, taking a gap years can cause students’ life <span style="color:#017837"><span style="background-color:#ffffff"><strong>imbalance</strong></span></span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">(Bài viết phân tích bất lợi của việc nghỉ một năm trước khi lên đại học)</span></p>
+
+<p><strong>Phân tích:&nbsp;</strong></p>
+
+<p>- Bài viết mắc 12 lỗi về mặt ngữ pháp. Cụ thể là mắc lỗi về sử dụng sai giới từ, sử dụng sai mạo từ, chia sai động từ và chia sai danh từ</p>
+
+<p>- Trong đó:&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Sai giới từ: </strong><span style="color:#017837"><span style="background-color:#ffffff"><strong>adapt for</strong></span></span>, <span style="color:#017837"><span style="background-color:#ffffff"><strong>time of students</strong></span></span>, <span style="color:#017837"><span style="background-color:#ffffff"><strong>in the beginning</strong></span></span>, <span style="color:#017837"><span style="background-color:#ffffff"><strong>in 6-9 months</strong></span></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Sai mạo từ: </strong></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>the</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>habit</strong></span></span><span style="background-color:#ffffff"><strong>, </strong></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>going</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>to</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>lecture</strong></span></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Chia sai động từ: </strong></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>share</strong></span></span>, <span style="color:#017837"><span style="background-color:#ffffff"><strong>have</strong></span></span>, <span style="color:#017837"><span style="background-color:#ffffff"><strong>absent</strong></span></span>&nbsp;</li>
+	<li style="list-style-type:disc"><strong>Chia sai danh từ: </strong><span style="color:#017837"><span style="background-color:#ffffff"><strong>lecture</strong></span></span><span style="background-color:#ffffff">,</span><span style="color:#017837"><span style="background-color:#ffffff"><strong> life</strong></span></span><span style="background-color:#ffffff">,</span><span style="color:#017837"><span style="background-color:#ffffff"><strong> exam</strong></span></span><span style="background-color:#ffffff">,</span><span style="color:#017837"><span style="background-color:#ffffff"> </span></span><span style="color:#017837"><span style="background-color:#ffffff"><strong>imbalance</strong></span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Vậy, chúng ta sẽ cần sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff">On the one hand, spending a year on working or travelling leads to difficulty in adapting </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>to new environments</strong></span></span><span style="background-color:#ffffff">. Particularly, as part time jobs or trips take a lot of time</span><span style="color:#0000ff"><span style="background-color:#ffffff"> </span></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>from</strong></span></span><span style="color:#ff0000"><span style="background-color:#ffffff"> </span></span><span style="background-color:#ffffff">students they may lose </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>their</strong></span></span><span style="background-color:#ffffff"> habit of studying and going to </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>lectures</strong></span></span><span style="background-color:#ffffff">. Therefore, </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>at</strong></span></span><span style="color:#ff0000"><span style="background-color:#ffffff"> </span></span><span style="background-color:#ffffff">the beginning of the school year, students may face difficulty in keeping up with school </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>work</strong></span></span><span style="background-color:#ffffff">. For instance, in the USA, many students who do part-time work </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>shared</strong></span></span><span style="background-color:#ffffff"> that they </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>had</strong></span></span><span style="background-color:#ffffff"> bad </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>results</strong></span></span><span style="background-color:#ffffff"> in </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>exams</strong></span></span><span style="background-color:#ffffff"> and found that they had trouble </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>with</strong></span></span><span style="color:#ff0000"><span style="background-color:#ffffff"> </span></span><span style="background-color:#ffffff">keeping up with peers. Thus, taking a gap years can cause students’ life</span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong> to</strong></span></span><span style="color:#ff0000"><span style="background-color:#ffffff"> </span></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>become</strong></span></span><span style="background-color:#ffffff"> </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>imbalance</strong></span></span><span style="background-color:#ffffff">.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:</strong></p>
+
+<p>- Việc mắc lỗi ngữ pháp là một điều không thể tránh khỏi, ngay cả band 7.0 vẫn cho phép chúng ta mắc lỗi ngữ pháp</p>
+
+<p>=&gt; Điều quan trọng là chúng ta cần hạn chế lỗi tới mức tối thiểu để đạt được tiêu chí “<strong>error-free sentences are frequent</strong>”&nbsp;</p>
+
+<h3 id="2.4.-lỗi-dấu-câu"><span style="background-color:#ffffff"><strong>2.4. </strong></span><span style="background-color:#ffffff">Lỗi dấu câu</span></h3>
+
+<h4 id="2.4.1.-biểu-hiện"><strong>2.4.1. </strong>Biểu hiện&nbsp;</h4>
+
+<p>- Lỗi dấu câu biểu hiện ở việc bài viết đặt dấu câu ở sai vị trí</p>
+
+<p>- Một biểu hiện nữa đó là việc bài viết thiếu/thừa các dấu câu</p>
+
+<p>- Biểu hiện cuối cùng đó là sử dụng những dấu không phù hợp cho IELTS Writing (vd: dấu hỏi ,dấu chấm than hay dấu ba chấm), khiến cho bài viết bị sai văn phong</p>
+
+<h4 id="2.4.2.-cách-khắc-phục"><strong>2.4.2.</strong> Cách khắc phục</h4>
+
+<p>- Để tránh mắc lỗi dấu câu, hãy:</p>
+
+<ul>
+	<li style="list-style-type:disc">Sau khi viết, tập thói quen kiểm tra lại bài để sửa các lỗi về dấu câu (nếu có)</li>
+	<li style="list-style-type:disc">Tự lập checklist các lỗi từng mắc để kiểm tra sau khi viết</li>
+	<li style="list-style-type:disc">Chỉ cần dùng một số loại dấu câu nhưng phải thực sự nắm vững</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng quan sát các ví dụ cụ thể về các bài viết mà mắc phải lỗi này:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>Particularly,<strong> </strong><span style="color:#017837"><strong>as part time jobs or trips take a lot of time of students they may lose the habit of studying</strong></span> and going to lecture</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">(Cụ thể, </span><span style="color:#017837"><strong>bởi vì công việc bán thời gian hay các chuyến đi sẽ tốn nhiều thời gian của học sinh, họ có thể mất thói quen học tập</strong></span><span style="background-color:#ffffff"> và nghe bài giảng)</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Bài viết thiếu sự ngăn cách giữa mệnh đề nguyên nhân và mệnh đề kết quả</span></p>
+
+<p>&nbsp;</p>
+
+<p>- Vậy, chúng ta sẽ cần sửa như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff">Particularly, </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>as</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>part-time jobs or trips take a lot of time from students, they may lose the habit of studying</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#ffffff">and going to lectures.&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </div>

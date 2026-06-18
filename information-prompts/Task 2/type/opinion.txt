@@ -1,0 +1,699 @@
+<div class="contentblock">
+            <h1 style="text-align:center" id="dạng-bài-opinion"><span style="background-color:#ffffff">Dạng bài</span><span style="background-color:#ffffff"><strong> Opinion</strong></span></h1>
+
+<h2 id="1.-đặc-điểm"><span style="background-color:#ffffff"><strong>1. </strong></span><span style="background-color:#ffffff">Đặc điểm&nbsp;</span></h2>
+
+<p><span style="background-color:#ffffff">- Dạng bài </span><span style="background-color:#ffffff"><strong>Agree/Disagree</strong></span><span style="background-color:#ffffff"> đưa ra một quan điểm về một chủ đề và yêu cầu người viết nêu ý kiến: đồng ý hay không đồng ý.</span></p>
+
+<p><span style="background-color:#ffffff">- Dạng bài này thường được đưa ra dưới dạng những câu hỏi sau:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>To what extent do you agree or disagree?</strong></span><span style="background-color:#ffffff">&nbsp;</span></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Bạn đồng tình hay không không đồng tình ở mức độ nào?)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Do you agree or disagree?</strong></span><span style="background-color:#ffffff">&nbsp;</span></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Bạn đồng ý hay không đồng ý?)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>What is your opinion?</strong></span><span style="background-color:#ffffff">&nbsp;</span></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Quan điểm cá nhân của bạn là gì?) (Thường xuất hiện ở đề bài General Training)</span></p>
+
+<p><span style="background-color:#ffffff">- Một số thí sinh sẽ thắc mắc liệu có sự khác biệt giữa các câu hỏi này không. Ví dụ: với câu hỏi “Do you agree or disagree?” bạn chỉ có thể trả lời agree hoặc disagree, còn với câu hỏi “to what extent…?” thì bạn có thể trả lời partly agree.&nbsp;</span></p>
+
+<p>=&gt; Câu trả lời là không. Bạn có thể trả lời như nhau với cả 3 câu hỏi này.&nbsp;</p>
+
+<h2 id="2.-các-lưu-ý"><strong>2.</strong> Các lưu ý</h2>
+
+<h3 id="2.1.-totally-agree-disagree-hay-partly-agree?"><span style="color:#434343"><strong>2.1. </strong></span><span style="color:#434343">Totally agree/disagree hay partly agree?</span></h3>
+
+<p><span style="background-color:#ffffff">- IELTS Writing là bài kiểm tra kỹ năng viết, không có câu trả lời nào là sai, nên các bạn đưa ra quan điểm cá nhân theo hướng nào cũng được, miễn là các bạn chứng minh được quan điểm đó là hợp lý.</span></p>
+
+<p><span style="background-color:#ffffff">- Trên thực tế, nhiều giáo viên và thậm chí giám khảo khuyên nên viết theo hướng </span><span style="background-color:#ffffff"><strong>totally agree/disagree </strong></span><span style="background-color:#ffffff">để tránh trường hợp bài viết bị đánh giá là “</span><span style="background-color:#ffffff"><strong>unclear position</strong></span><span style="background-color:#ffffff">” (quan điểm không rõ ràng). Ngược lại, vẫn có nhiều trường hợp trả lời theo hướng </span><span style="background-color:#ffffff"><strong>partly agree</strong></span><span style="background-color:#ffffff"> và đạt điểm rất cao, chứng tỏ hướng đi này vẫn hoàn toàn hợp lý.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Để rõ ràng hơn, chúng ta nên hiểu cách viết này không phải “</span><span style="background-color:#ffffff"><strong>vừa đồng ý, vừa không đồng ý</strong></span><span style="background-color:#ffffff">”, mà là “</span><span style="background-color:#ffffff"><strong>tôi đồng ý trong một số trường hợp, và không đồng ý ở các trường hợp khác</strong></span><span style="background-color:#ffffff">.” Khi đó, nếu các bạn đưa ra được chính xác các trường hợp mà mình đồng tình/ không đồng tình thì bài viết càng có chiều sâu, và điểm TR sẽ cao. Tuy nhiên, để làm được việc này không phải dễ dàng.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">-&nbsp; Chúng ta so sánh hai hướng trả lời để thấy được điểm cộng điểm trừ của từng hướng và có lựa chọn phù hợp::&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:625px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:99px">&nbsp;</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:263px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Totally agree/disagree</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Hoàn toàn đồng ý/không đồng ý)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:263px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Partly agree</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Đồng ý một phần)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:99px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Lợi thế</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:263px">
+			<p><span style="background-color:#ffffff">- Dễ dàng thể hiện quan điểm rõ ràng và nhất quán trong cả bài viết</span></p>
+
+			<p><span style="background-color:#ffffff">- Có khả năng phát triển ý sâu hơn&nbsp;</span></p>
+
+			<p><span style="background-color:#ffffff">- Thường sẽ có khả năng hoàn thành bài viết sớm hơn</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:263px">
+			<p><span style="background-color:#ffffff">- Trả lời hết các phần của câu hỏi (vi xét nhiều trường hợp khác nhau)</span></p>
+
+			<p><span style="background-color:#ffffff">- Có nhiều ý tưởng hơn</span></p>
+
+			<p><span style="background-color:#ffffff">- Tránh lặp ý tưởng</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:99px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Bất lợi</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:263px">
+			<p><span style="background-color:#ffffff">- Có thể bỏ sót yêu cầu đề bài</span></p>
+
+			<p><span style="background-color:#ffffff">- Ý tưởng có thể bị hạn chế và lặp lại (đặc điểm của TR band 6.0)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:263px">
+			<p><span style="background-color:#ffffff">- Nếu không chỉ ra được các trường hợp rõ ràng, thì bài viết sẽ bị đánh giá “</span><span style="background-color:#ffffff"><strong>unclear position</strong></span><span style="background-color:#ffffff">” (quan điểm không rõ ràng) (đặc điểm TR band 6.0)&nbsp;</span></p>
+
+			<p><span style="background-color:#ffffff">- Có thể phát triển ý tưởng không đủ sâu&nbsp;</span></p>
+
+			<p><span style="background-color:#ffffff">- Có thể không đủ thời gian hoàn thành bài viết&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">=&gt; Khi luyện tập, các bạn cố lựa chọn hướng đúng đắn nhất để phát huy được lợi thế và khắc phục các bất lợi&nbsp;</span></p>
+
+<h3 id="2.2.-đề-bài-một-đối-tượng-hay-hai-đối-tượng?"><span style="color:#434343"><strong>2.2. </strong></span><span style="color:#434343">Đề bài một đối tượng hay hai đối tượng?</span></h3>
+
+<p><span style="background-color:#ffffff">- Các bạn quan sát một số đề bài sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>1. </strong></span><span style="background-color:#ffffff">People should</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#00ffff"><strong>look after their health as a duty to the society</strong></span><span style="background-color:#ffffff"> where they live, </span><span style="background-color:#fff2cc">rather than</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#00ffff"><strong>for their own benefits</strong></span><span style="background-color:#ffffff">. To what extent do you agree or disagree?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>2. </strong></span><span style="background-color:#ffffff">In the future, </span><span style="background-color:#fff2cc">nobody will</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#00ffff"><strong>buy printed newspapers or books</strong></span><span style="background-color:#ffffff"> because </span><span style="background-color:#fff2cc">they will</span><span style="background-color:#ffffff"> be able to </span><span style="background-color:#00ffff"><strong>read everything they want online without paying</strong></span><span style="background-color:#ffffff">. To what extent do you agree or disagree with this statement?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>3. </strong></span><span style="background-color:#ffffff">Rich countries often give money to poorer countries, but it does not solve poverty. Therefore, developed countries should </span><span style="background-color:#00ffff"><strong>give other types of help</strong></span><span style="background-color:#ffffff"> to poor countries </span><span style="background-color:#fff2cc">rather than</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#00ffff"><strong>financial aid</strong></span><span style="background-color:#ffffff">. To what extent do you agree or disagree?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>4. </strong></span><span style="background-color:#ffffff">Many people say that</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#00ffff"><strong>cooking and eating at home</strong></span><span style="background-color:#ffffff"> is </span><span style="background-color:#fff2cc">better</span><span style="background-color:#ffffff"> for the individual and the family </span><span style="background-color:#fff2cc">than</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#00ffff"><strong>eating out in restaurants</strong></span><span style="background-color:#ffffff">. Do you agree or disagree?</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>5. </strong></span><span style="background-color:#ffffff">Companies should </span><span style="background-color:#ffffff"><strong>pay </strong></span><span style="background-color:#fff2cc">higher</span><span style="background-color:#ffffff"><strong> salaries to</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#00ffff"><strong>CEOs and executives</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#fff2cc">compared to</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#00ffff"><strong>other workers</strong></span><span style="background-color:#ffffff">. To what extent do you agree or disagree?</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">=&gt; Tất cả các đề bài trên đều có sự xuất hiện của 2 đối tượng thay vì chỉ có một đối tượng</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Nhiệm vụ của thí sinh là phải</span><span style="background-color:#ffffff"><strong> so sánh 2 đối tượng với nhau</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Rất nhiều thí sinh chỉ tập trung phân tích 1 đối tượng mà không so sánh với đối tượng còn lại</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Bài viết sẽ bị coi là “</span><span style="background-color:#ffffff"><strong>triển khai ý không đồng đều</strong></span><span style="background-color:#ffffff">” (đặc điểm TR band 6) hoặc thậm chí “</span><span style="background-color:#ffffff"><strong>trả lời thiếu yêu cầu đề bài</strong></span><span style="background-color:#ffffff">” (đặc điểm TR band 5)</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Xem lại </span><span style="background-color:#ffffff"><strong>lesson 5</strong></span></p>
+
+<h3 id="2.3.-sử-dụng-đại-từ-nhân-xưng-“i&quot;-trong-bài-viết"><span style="color:#434343"><strong>2.3. </strong></span><span style="color:#434343">Sử dụng đại từ nhân xưng “I" trong bài viết</span></h3>
+
+<p><span style="background-color:#ffffff">- Với dạng Opinion, câu trả lời phải là ý kiến cá nhân của bạn, nên các bạn cần phải các sử dụng các cụm thể hiện ý kiến cá nhân như: “</span><span style="background-color:#ffffff"><strong>I think/ believe/ agree/ disagree..</strong></span><span style="background-color:#ffffff">”&nbsp; “</span><span style="background-color:#ffffff"><strong>In my opinion,</strong></span><span style="background-color:#ffffff">”, v.v.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Nếu các bạn chỉ nêu ý kiến nhưng không rõ ràng là ý kiến của ai, thì điểm TR sẽ bị kéo xuống do bạn không trả lời đúng yêu cầu đề bài.&nbsp;</span></p>
+
+<h2 id="3.-ví-dụ-chi-tiết"><span style="background-color:#ffffff"><strong>3. </strong></span><span style="background-color:#ffffff">Ví dụ chi tiết</span></h2>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Companies should pay higher salaries to CEO and executives compared to other workers. To what extent do you agree or disagree?</strong></span></p>
+
+			<p style="text-align:center"><span style="background-color:#ffffff">(Các công ty cần trả lương cao cho những người nắm chức vụ cao như CEO hay các nhà quản lý. Bạn đồng ý hay không đồng ý ở mức nào với quan điểm này?)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="3.1.-think"><span style="color:#434343">3.1. Think</span></h3>
+
+<p><span style="background-color:#ffffff">- Trước hết, chúng ta sẽ phân tích đề bài:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Quan sát đề, chúng ta xác định được 2 thành phần cơ bản:</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Background Statement</strong></span><span style="background-color:#ffffff">: Companies should pay higher salaries to CEO and executives compared to other workers.</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Task</strong></span><span style="background-color:#ffffff">: To what extent do you agree or disagree?&nbsp;</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Từ 2 thành phần này, ta nắm được một số thông tin sau:</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Topic: CEOs receive higher salaries than other workers&nbsp;</strong></span></li>
+</ul>
+
+<p style="margin-left:96px"><span style="background-color:#ffffff">(</span>CEO và các quản lý nhận lương cao hơn các nhân viên bình thường<span style="background-color:#ffffff">)</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>The focus:</strong></span><span style="background-color:#ffffff"> 2 đối tượng </span><span style="background-color:#ffffff"><strong>executives (cấp quản lý) </strong></span><span style="background-color:#ffffff">và </span><span style="background-color:#ffffff"><strong>other workers (cấp nhân viên)</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>The task:</strong></span><span style="background-color:#ffffff"> Đồng ý hay không đồng ý với việc “CEO/các quản lý nhận lương cao hơn nhân viên”?</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">-&nbsp; Tiếp theo, chúng ta brainstorm ý tưởng và lựa chọn position của mình:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:580px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:273px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Agree</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:307px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Disagree</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:273px">
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>↑ position = ↑ responsibility</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Chức càng cao phải gánh nhiều trách nhiệm hơn cấp thấp)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:307px">
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>feel unfair</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Nhân viên sẽ thấy bất công)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:273px">
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>encourage employees to work harder =&gt; promotion</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Thúc đẩy các nhân viên làm việc để được thăng chức)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:307px">
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>↓ work morale</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Giảm tinh thần làm việc của nhân viên)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:273px">
+			<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>↑ work efficiency</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng năng suất lao động)</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:307px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">=&gt; Position: </span><span style="background-color:#ffffff"><strong>partly agree</strong></span><span style="background-color:#ffffff"> (đồng ý ở hầu hết các trường hợp)</span></p>
+
+<h3 id="3.2.-plan"><span style="color:#434343"><strong>3.2. </strong></span><span style="color:#434343">Plan</span></h3>
+
+<p><span style="background-color:#ffffff">-&nbsp; Ở bước này, chúng ta sẽ lựa chọn và sắp xếp các ý tưởng vào các đoạn thân bài sao cho hợp lý, tức là cần xem xét có nên giữ lại toàn bộ ý tưởng không, có cần lọc bớt/ gộp ý tưởng không và thứ tự sắp xếp như vậy đã hợp lý chưa.&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Đồng ý:&nbsp;</strong></span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:566px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:226px">
+			<p><span style="background-color:#ffffff"><strong>1. </strong></span><span style="background-color:#ffffff">↑ position = ↑ responsibility</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:340px">
+			<p><span style="background-color:#ffffff">Ý này mạnh nhất nên tôi để đầu tiên</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:226px">
+			<p><span style="background-color:#ffffff"><strong>2. </strong></span><span style="background-color:#ffffff">encourage employees to work harder =&gt; promotion</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:340px">
+			<p><span style="background-color:#ffffff">Ý này cũng hợp lý, nhưng không mạnh bằng ý đầu nên tôi xếp thứ 2</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:226px">
+			<p><span style="background-color:#ffffff"><strong>3. </strong></span><span style="background-color:#ffffff">↑ work efficiency</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:340px">
+			<p><span style="background-color:#ffffff">Ý này là hệ quả của ý số 2, hơi khó để khai triển thêm nên tôi sẽ gộp vào ý số 2</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Không đồng ý:</strong></span></li>
+</ul>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:540px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:128px">
+			<p><span style="background-color:#ffffff"><strong>1.</strong></span><span style="background-color:#ffffff"> feel unfair</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:412px">
+			<p><span style="background-color:#ffffff">Ý này hợp lý nên tôi sẽ giữ lại</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:128px">
+			<p><span style="background-color:#ffffff"><strong>2. </strong></span><span style="background-color:#ffffff">↓ work morale</span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:412px">
+			<p><span style="background-color:#ffffff">Ý này là hệ quả của ý số 1 nên tôi sẽ gộp vào với nhau&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Chúng ta sẽ có dàn ý hoàn chỉnh như sau:</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>Topic: CEOs receive salaries &gt; employees&nbsp;</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>Focus: CEOs, executives, other workers&nbsp;</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff"><strong>Position: partly agree&nbsp;</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>BP1:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:616px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Point</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:514px">
+			<p><span style="background-color:#ffffff"><strong>Position’s importance</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tầm quan trọng của chức vụ)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Explanation</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:514px">
+			<p><span style="background-color:#ffffff"><strong>↑ responsibility</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Các CEO và nhà quản lý cần đảm nhiệm các trọng trách lớn)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Example</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:514px">
+			<p><span style="background-color:#ffffff"><strong>Boss: operate center &gt;&lt; teachers: teaching</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Sếp phải điều hành toàn bộ trung tâm. Giáo viên chỉ chuyên tâm giảng dạy)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Link</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:514px">
+			<p><span style="background-color:#ffffff"><strong>Higher pay = reward for contributions</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Trả lương cao là thưởng vì họ đã cống hiến cho công ty)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff"><strong>BP2:&nbsp;</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:616px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:103px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Point&nbsp;</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:513px">
+			<p><span style="background-color:#ffffff"><strong>↑ productivity</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng năng suất lao động)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:103px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Explanation</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:513px">
+			<p><span style="background-color:#ffffff"><strong>Income gap =&gt; ↑ positive competition&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Lương cao là động lực để nhân viên cạnh tranh)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:103px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Expand</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:513px">
+			<p><span style="background-color:#ffffff"><strong>work harder+creatively =&gt; promotion&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Vì vậy, họ làm việc chăm chỉ hơn, sáng tạo hơn để được thăng chức)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:103px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Link</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:513px">
+			<p><span style="background-color:#ffffff"><strong>↑ pay + ↑ company’s performance</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Vừa tăng lương nhân viên, vừa tăng cống hiến cho công ty)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff"><strong>BP3:&nbsp;</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:613px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Point&nbsp;</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:511px">
+			<p><span style="background-color:#ffffff"><strong>↓</strong></span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#ffffff"><strong>morale</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tinh thần làm việc giảm sút)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Explanation</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:511px">
+			<p><span style="background-color:#ffffff"><strong>↑ income gap&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng chênh lệch mức lương)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Expand</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:511px">
+			<p><span style="background-color:#ffffff"><strong>↑ unfairness + partiality&nbsp;</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Tăng sự thiên vị và bất công ở nơi làm việc)</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:102px">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>Link</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle; width:511px">
+			<p><span style="background-color:#ffffff"><strong>↓ job satisfaction + motivation</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(Giảm độ hài lòng với công việc)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 id="3.3.-write"><span style="color:#434343"><strong>3.3. </strong></span><span style="color:#434343">Write</span></h3>
+
+<h4 id="introduction"><span style="color:#666666">Introduction</span></h4>
+
+<p><span style="background-color:#ffffff">- Ở phần này, chúng ta giới thiệu Topic bằng cách paraphrase phần Background Statement của đề bài. Các từ/ cụm từ đã được paraphrase:&nbsp;&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">&nbsp;Topic:</span><span style="background-color:#ffffff"><strong> The proposal to increase the pay gap between company management and ordinary workers is a contentious matter.</strong></span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>company should pay = the proposal </strong></span><span style="background-color:#ffffff">(lời đề xuất làm gì)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>higher salaries = to increase the pay gap</strong></span><span style="background-color:#ffffff"> (tăng chênh lệch thu nhập)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>CEOs and executive = company management</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>other workers = ordinary workers</strong></span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- Sau đó, chúng ta đưa ra quan điểm cá nhân của mình. Chú ý cách dùng từ và sắp xếp ý:&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Thesis Statement:</span><span style="background-color:#ffffff"><strong> I view this notion somewhat favorably because it represents fairness and fosters productivity; however, it may negatively impact workers' morale.</strong></span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>somewhat favorably = partly agree</strong></span><span style="background-color:#ffffff"> (thể hiện rằng chúng ta chỉ đồng ý một phần)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">lý do ủng hộ được nêu trước, rồi mới nêu lý do phản đối (tuân theo đúng cách sắp xếp ý trong phần </span><span style="background-color:#ffffff"><strong>plan</strong></span><span style="background-color:#ffffff">)</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">Vậy, chúng ta sẽ có phần mở bài hoàn chỉnh như sau:</span></p>
+
+<p><span style="background-color:#ffffff">“The proposal to increase the pay gap between company management and ordinary workers is a contentious matter. I view this notion somewhat favorably because it represents fairness and fosters productivity; however, it may negatively impact workers' morale.”</span></p>
+
+<p>&nbsp;</p>
+
+<h4 id="body-paragraph"><span style="color:#666666">Body Paragraph</span></h4>
+
+<p><span style="background-color:#ffffff">- Dựa theo dàn ý, chúng ta viết Body Paragraph 1 sử dụng cấu trúc P.E.E.L:</span></p>
+
+<p><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>Body Paragraph 1</strong></span><span style="background-color:#ffffff">] The main reason I support corporate executives enjoying a greater salary lies in the significance of their position [</span><span style="background-color:#ffffff"><strong>P</strong></span><span style="background-color:#ffffff">]. The top brass of a company often assumes crucial responsibilities, such as ensuring the profitability of the company and training lower-level employees to encourage them to strive towards collective success [</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]. For example, my boss oversees the operations of our English center, with job duties such as assigning classes to teachers and checking the quality of lesson plans. Meanwhile, teachers, such as myself, only have to teach the students in our respective classes [</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]. Thus, it can be fair for companies to provide these individuals with higher pay to financially reward them for their contributions [</span><span style="background-color:#ffffff"><strong>L</strong></span><span style="background-color:#ffffff">].</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>P</strong></span><span style="background-color:#ffffff">]</span><span style="background-color:#ffffff"><strong>: </strong></span><span style="background-color:#ffffff">Tôi mở đoạn với cụm “</span><span style="background-color:#ffffff"><strong>the main reason I support</strong></span><span style="background-color:#ffffff">” (lý do chính tôi ủng hộ) để giám khảo dễ dàng nhận thấy rằng đoạn này sẽ nói về bên đồng ý. Sau đó, tôi nêu lý do: </span><span style="background-color:#ffffff"><strong>the significance of their position </strong></span><span style="background-color:#ffffff">(chức vụ CEO, quản lý, v.v. rất quan trọng). Ở đây, các bạn lưu ý cụm từ: “</span><span style="background-color:#ffffff"><strong>enjoying a greater salary</strong></span><span style="background-color:#ffffff">” (hưởng mức lương cao hơn)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]: Tôi giải thích rằng những người nắm chức vụ cao thường “</span><span style="background-color:#ffffff"><strong>assume crucial responsibilities</strong></span><span style="background-color:#ffffff">” (đảm nhiệm trọng trách lớn), rồi tôi một số ví dụ minh họa điều này như: “</span><span style="background-color:#ffffff"><strong>ensure profitability</strong></span><span style="background-color:#ffffff">” (đảm bảo lợi nhuận) và “</span><span style="background-color:#ffffff"><strong>training lower-level employee</strong></span><span style="background-color:#ffffff">” (đào tạo cấp dưới). Ở đây, các bạn lưu ý một số cụm như:</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>the top brass = corporate executives: </strong></span><span style="background-color:#ffffff">(chỉ) những người ở vị trí quan trọng</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>assume crucial responsibilities:</strong></span><span style="background-color:#ffffff"> đảm nhiệm trọng trách lớn</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>strive towards collective success: </strong></span><span style="background-color:#ffffff">hướng tới thành công chung</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]: Tôi đưa ra ví dụ dựa trên trải nghiệm cá nhân khi làm giáo viên. Tôi đưa ra ví dụ: sếp ở nơi tôi đang làm việc phải điều hành cả công ty, làm những công việc như bàn giao lớp cho giáo viên và quản lý chất lượng giáo án. Giáo viên, như tôi, thì chỉ việc dạy các lớp đã được bàn giao&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>L</strong></span><span style="background-color:#ffffff">]: Tôi tóm gọn lại các lập luận tôi nêu trong phần Body này và nhấn mạnh lại quan điểm “</span><span style="background-color:#ffffff"><strong>Companies provide these individuals with higher pay</strong></span><span style="background-color:#ffffff">” (công ty nên trả lương cao hơn cho những người này). Ở đây, các bạn lưu ý cụm: </span><span style="background-color:#ffffff"><strong>financially reward</strong></span><span style="background-color:#ffffff"> (thưởng về mặt tài chính)</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- Chúng ta làm tương tự với </span><span style="background-color:#ffffff"><strong>BP2 </strong></span><span style="background-color:#ffffff">và </span><span style="background-color:#ffffff"><strong>BP3</strong></span><span style="background-color:#ffffff">:</span></p>
+
+<p><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>Body Paragraph 2</strong></span><span style="background-color:#ffffff">] Furthermore, I consider it favorable because it boosts work productivity [</span><span style="background-color:#ffffff"><strong>P</strong></span><span style="background-color:#ffffff">]. The significant difference in income could encourage positive competition between employees [</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">], motivating them to work harder and more creatively to increase their chances of receiving a promotion [</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]. This not only allow them to increase their pay but also contributes to the company’s overall performance [</span><span style="background-color:#ffffff"><strong>L</strong></span><span style="background-color:#ffffff">].</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>P</strong></span><span style="background-color:#ffffff">]</span><span style="background-color:#ffffff"><strong>: </strong></span><span style="background-color:#ffffff">Tôi mở đoạn với cụm “</span><span style="background-color:#ffffff"><strong>I consider it favorable</strong></span><span style="background-color:#ffffff">” (Tôi cho rằng nó tích cực) để giám khảo nhận thấy rằng đoạn tiếp theo vẫn sẽ nói về bên đồng ý, rồi tôi nêu luận điểm: </span><span style="background-color:#ffffff"><strong>boosts work productivity </strong></span><span style="background-color:#ffffff">(tăng năng suất làm việc).&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]: Tôi giải thích rằng sự chênh lệch về mức lương sẽ thúc đẩy “</span><span style="background-color:#ffffff"><strong>positive competition</strong></span><span style="background-color:#ffffff">” (cạnh tranh lành mạnh) giữa các nhân viên</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]: Tôi phát triển thêm rằng điều này sẽ tạo động lực để các nhân viên làm việc chăm chỉ hơn, sáng tạo hơn để tăng cơ hội được thăng chức. Các bạn hãy để ý cách câu </span><span style="background-color:#ffffff"><strong>Explanation</strong></span><span style="background-color:#ffffff"> và </span><span style="background-color:#ffffff"><strong>Expand</strong></span><span style="background-color:#ffffff"> đã được nối thành 1 câu, sử dụng mệnh đề quan hệ rút gọn (</span><span style="background-color:#ffffff"><strong>,motivating them to …</strong></span><span style="background-color:#ffffff">)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>L</strong></span><span style="background-color:#ffffff">]: Chúng ta tóm gọn ý và liên kết với câu hỏi ở đề bài. Ở đây, các bạn lưu ý cụm: </span><span style="background-color:#ffffff"><strong>contributes to the company’s overall performance </strong></span><span style="background-color:#ffffff">(đóng góp tới năng suất lao động chung của công ty)</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>Body Paragraph 3</strong></span><span style="background-color:#ffffff">] However, I acknowledge the possible adverse effect that a pay gap may have on workers' morale [</span><span style="background-color:#ffffff"><strong>P</strong></span><span style="background-color:#ffffff">]. In most companies, top-level managers and CEOs earn huge sums of money while those who work under their management are only entitled to limited salaries [</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]. This could exacerbate feelings of unfairness and partiality within working environments [</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">], demotivating those employees and decreasing their job satisfaction [</span><span style="background-color:#ffffff"><strong>L</strong></span><span style="background-color:#ffffff">].</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Phân tích:</strong></span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>P</strong></span><span style="background-color:#ffffff">]</span><span style="background-color:#ffffff"><strong>: </strong></span><span style="background-color:#ffffff">Tôi mở đoạn khác chút, sử dụng từ “</span><span style="background-color:#ffffff"><strong>However</strong></span><span style="background-color:#ffffff">” và cụm</span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#ffffff">“</span><span style="background-color:#ffffff"><strong>I acknowledge the possible adverse effects</strong></span><span style="background-color:#ffffff">” (Tôi công nhận nó cũng có mặt hại) để giám khảo hiểu rằng đoạn này sẽ nói về bên không đồng ý. Sau đó, tôi nêu luận điểm: </span><span style="background-color:#ffffff"><strong>lower worker morale </strong></span><span style="background-color:#ffffff">(giảm tinh thần làm việc của nhân viên).&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]</span><span style="background-color:#ffffff"><strong>: Sau đó, tôi giải thích rằng</strong></span><span style="background-color:#ffffff"> CEO và nhà quản lý nhận mức lương khủng nhưng những người làm dưới trướng của họ thì chỉ nhận mức lương thấp). Ở đây, các bạn lưu ý các cụm từ như:</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>top level managers: </strong></span><span style="background-color:#ffffff">các nhà quản lý cấp cao nhất</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>huge sums of money:</strong></span><span style="background-color:#ffffff"> mức lương cao</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>limited salaries:</strong></span><span style="background-color:#ffffff"> mức lương thấp, bèo bọt</span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>E</strong></span><span style="background-color:#ffffff">]</span><span style="background-color:#ffffff"><strong>: </strong></span><span style="background-color:#ffffff">Tôi tiếp tục chỉ ra rằng việc này có thể làm trầm trọng hơn cảm giác partiality (thiên vị) và không công bằng trong môi trường làm việc.&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">[</span><span style="background-color:#ffffff"><strong>L</strong></span><span style="background-color:#ffffff">]</span><span style="background-color:#ffffff"><strong>: </strong></span><span style="background-color:#ffffff">Tôi tóm gọn lại ý và liên kết với câu hỏi ở đề bài. Tương tự như BP2, mệnh đề rút gọn đã được sử dụng để ghép 2 câu: Expand và câu Link (</span><span style="background-color:#ffffff"><strong>... environments, demotivating those employees …</strong></span><span style="background-color:#ffffff">)</span></li>
+</ul>
+
+<h4 id="conclusion"><span style="color:#666666">Conclusion</span></h4>
+
+<p><span style="background-color:#ffffff">- Ở phần này, chúng ta kết thúc bài viết bằng cách paraphrase phần </span><span style="background-color:#ffffff"><strong>Thesis Statement</strong></span><span style="background-color:#ffffff"> của </span><span style="background-color:#ffffff"><strong>Introduction </strong></span><span style="background-color:#ffffff">và tóm gọn lại các luận điểm đã được nêu ở 3 đoạn BP. Các từ/ cụm từ đã được paraphrase:&nbsp;&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Restate Opinion+Main Point:</span><span style="background-color:#ffffff"><strong> In conclusion, I largely agree with paying top management significantly more than other workers. This is due to the importance of their roles and the potential improvements to company performance, despite the risk of lowering employee morale.</strong></span></li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>largely agree = view this notion somewhat favorably</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>paying … significantly more = increase the pay gap</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>top management = company management</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>other workers = ordinary workers&nbsp;</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>it represents fairness = the importance of their role</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>fosters productivity = the potential improvements to company performance</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>it may negatively impact workers’ morale = the risk of lowering employee morale</strong></span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- Sau khi nhấn mạnh luận điểm và tóm gọn ý chính, chúng ta rút ra bài học/lời khuyên từ các luận điểm này.&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff">Extend:</span><span style="background-color:#ffffff"><strong> Therefore, corporations should implement a fair wage structure to ensure top contributor feel adequately compensated.</strong></span></li>
+</ul>
+
+<p style="margin-left:48px"><span style="background-color:#ffffff">(Bởi vậy, các công ty nên có cơ cấu lương phù hợp để đảm bảo rằng những người cống hiến nhiều nhất cho công ty được trả mức lương thỏa đáng)</span></p>
+
+<p><span style="background-color:#ffffff">&nbsp;Lưu ý:</span></p>
+
+<p><span style="background-color:#ffffff">- </span><span style="background-color:#ffffff"><strong>Conclusion</strong></span><span style="background-color:#ffffff"> chỉ yêu cầu các bạn nhấn mạnh lại quan điểm và tóm gọn các luận điểm chính, nên việc viết </span><span style="background-color:#ffffff"><strong>Extend </strong></span><span style="background-color:#ffffff">hoàn toàn phụ thuộc vào quyết định cá nhân của bạn</span></p>
+
+<p><span style="background-color:#ffffff">- Nếu không biết cách viết, mà đưa ra thông tin hoàn toàn mới thì điểm </span><span style="background-color:#ffffff"><strong>TR</strong></span><span style="background-color:#ffffff"> sẽ giảm</span></p>
+
+<h3 id="3.4.-check"><span style="color:#434343"><strong>3.4. </strong></span><span style="color:#434343">Check</span></h3>
+
+<p>- Sau khi viết bài, chúng ta đọc lại bài để soát lỗi chính tả, lỗi ngữ pháp và chỉnh sửa câu từ , lập luận nếu cần:</p>
+
+<p><span style="background-color:#ffffff">- Với bài mẫu này, một số chỉnh sửa đã được thực hiện như sau:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="background-color:#ffffff">The proposal to increase the pay gap between company management and ordinary workers is a contentious matter. I view this notion somewhat favorably because it represents fairness and fosters productivity</span><span style="background-color:#ffffff"><strong>; </strong></span><span style="background-color:#ffffff">however, it may negatively impact workers' morale.</span></p>
+
+			<p><span style="background-color:#ffffff">The main reason I support corporate executives enjoying </span><span style="background-color:#fff2cc"><strong><s>a</s></strong></span><span style="background-color:#fff2cc"><strong> greater </strong></span><span style="background-color:#fff2cc"><strong><s>salary</s></strong></span><span style="background-color:#fff2cc"><strong> remuneration</strong></span><span style="background-color:#ffffff"> lies in the significance of their position. The top brass of a company often assumes crucial responsibilities, such as ensuring </span><span style="background-color:#fff2cc"><strong><s>the</s></strong></span><span style="background-color:#fff2cc"><strong> its</strong></span><span style="background-color:#fff2cc"> profitability </span><span style="background-color:#fff2cc"><strong><s>of the company</s></strong></span><span style="background-color:#ffffff"> and training lower-level employees to encourage them to strive towards collective success. For example, my boss oversees the operations of our English center, with job duties such as assigning classes to teachers and checking the quality of lesson plans. Meanwhile, teachers, such as myself, only have to teach the students in our respective classes. Thus, it can be fair for companies to provide these individuals with higher pay to financially reward them for their contributions.</span></p>
+
+			<p><span style="background-color:#ffffff">Furthermore, I consider it favorable because it boosts work productivity. The significant difference in income could encourage positive competition between employees, motivating them to work harder and more creatively to increase their chances of receiving a promotion. This not only </span><span style="background-color:#fff2cc">allow</span><span style="background-color:#fff2cc"><strong>s</strong></span><span style="background-color:#ffffff"> them to increase their pay but also contributes to the company’s overall performance.</span></p>
+
+			<p>However, I acknowledge the possible adverse effect that a <span style="background-color:#fff2cc"><strong>substantial</strong></span> pay gap may have on workers' morale. In many companies, top-level managers and CEOs earn huge sums of money while those who work under their management are only entitled to limited salaries. <span style="background-color:#fff2cc"><strong>With the increase in living costs, many employees would struggle to afford basic necessities, </strong></span><span style="background-color:#fff2cc"><strong><s>This could cause</s></strong></span><span style="background-color:#fff2cc"><strong> exacerbating</strong></span><span style="background-color:#fff2cc"> </span><span style="background-color:#ffffff">feelings of unfairness and partiality within working environments, demotivating those employees and decreasing their job satisfaction.</span></p>
+
+			<p><span style="background-color:#ffffff">In conclusion, I largely agree with paying top management significantly more than other workers. This is due to the importance of their roles and the potential improvements to company performance, despite the risk of lowering employee morale. Therefore, corporations should implement a fair wage structure to ensure top </span><span style="background-color:#fff2cc">contributor</span><span style="background-color:#fff2cc"><strong>s</strong></span><span style="background-color:#ffffff"> feel adequately compensated.&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Trong bài viết, tôi đã có một chút chỉnh sửa về 3 yếu tố: ngữ pháp, dùng từ và lập luận</p>
+
+<ul>
+	<li style="list-style-type:disc">Về ngữ pháp:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><strong>allow -&gt; allows: </strong>mắc lỗi động từ không hòa hợp với chủ ngữ</li>
+	<li style="list-style-type:disc"><strong>contributor -&gt; contributors: </strong>chia sai danh từ số nhiều, số ít</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Về dùng từ:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><strong>a greater salary -&gt; greater remuneration: </strong>tránh lặp từ</li>
+	<li style="list-style-type:disc"><strong>the profitability of the company -&gt; its profitability: </strong>tránh lặp cấu trúc ở mệnh đề trước</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Về lập luận:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Để nhấn mạnh trường hợp khoảng cách giữa lương nhân viên và lương quản lý quá lớn, từ “<strong>substantial</strong>” đã được thêm vào trước cụm “<strong>pay gap</strong>”</li>
+	<li style="list-style-type:disc">Tương tự, cụm “<strong>with the increase in living costs, many employees would struggle to afford basic necessities</strong><span style="background-color:#ffffff">” cũng đã được thêm để nhấn mạnh vấn đề này. Để nối với câu có sẵn, tôi sử dụng mệnh đề phân từ bằng cách lược bỏ “</span><strong>this could</strong><span style="background-color:#ffffff">” và cho “</span><strong>exacerbate</strong><span style="background-color:#ffffff">” thành V-ing</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:&nbsp;</strong></p>
+
+<p><span style="background-color:#ffffff">- Bước này là bước quan trọng, nhưng khi thi thật sẽ có nhiều thí sinh không có thời gian để làm.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">&nbsp;- Khi luyện tập ở nhà, các bạn nhớ đừng bỏ qua bước </span><span style="background-color:#ffffff"><strong>check </strong></span><span style="background-color:#ffffff">này. Kể cả các thầy cô giáo và các thí sinh đạt điểm cao vẫn luôn làm bước này, vì không ai có thể đảm bảo mình không mắc bất kỳ một lỗi gì trong khi viết.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Một cách để soát lại bài hiệu quả là đọc thầm trong đầu. Giống như khi nghe một đoạn văn, nếu có lỗi về liên kết ý, lỗi lập luận chưa rõ ý hay lỗi lặp từ, bạn là người nghe sẽ dễ dàng phát hiện ra hơn.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Khi luyện tập ở nhà, không bị giới hạn về thời gian, bạn hãy cố gắng chỉnh sửa những lỗi trong bài viết của mình kỹ lưỡng nhất có thể. Không chỉ dừng lại ở một lần, mà có thể ba - bốn lần. Dần dần tốc độ sẽ nhanh hơn do bạn đã quen thao tác và do ở những lần sau, các lỗi trước đó có thể đã được cải thiện.</span></p>
+
+<p>&nbsp;</p>
+        </div>

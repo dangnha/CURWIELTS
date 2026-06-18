@@ -1,0 +1,528 @@
+div class=contentblock
+            h1 style=text-aligncenter id=dạng-bài-positive-negativespanspan style=background-color#ffffffDạng bàispanspanspanspan style=background-color#ffffffstrong PositiveNegative&nbsp;strongspanspanh1
+
+h2 id=1.-đặc-điểmspanstrong1. strongspanspanĐặc điểmspanh2
+
+pspanspan style=background-color#ffffff- Dạng bài spanspanspanspan style=background-color#ffffffstrongPositiveNegative strongspanspanspanspan style=background-color#ffffffnêu một sự thật, một xu hướngthay đổi đang diễn ra và yêu cầu người viết đánh giá xu hướng này có ảnh hưởng tích cực hay tiêu cựcspanspanp
+
+pspanspan style=background-color#ffffff- Dạng bài thường được đưa ra dưới dạng câu hỏi sauspanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongDo you think this is a positive or negative developmentstrongspanspanspanspan style=background-color#ffffff&nbsp;spanspanli
+ul
+
+p style=margin-left48pxspanspan style=background-color#ffffff(Bạn cho rằng xu hướng này có ảnh hưởng tích cực hay tiêu cực)spanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongIs this a positive or negative developmentstrongspanspanspanspan style=background-color#ffffff&nbsp;spanspanli
+ul
+
+p style=margin-left48pxspanspan style=background-color#ffffff(Liệu xu hướng này có ảnh hưởng tích cực hay tiêu cực)spanspanp
+
+pspanspan style=background-color#ffffff=&gt; 2 câu hỏi này không có sự khác biệt.&nbsp;spanspanp
+
+pspanspan style=background-color#ffffffstrongLưu ýstrongspanspanp
+
+pspanspan style=background-color#ffffff- Một số đề bài dạngspanspanspanspan style=background-color#ffffffstrong PositiveNegative strongspanspanspanspan style=background-color#ffffffsẽ xuất hiện kèm theo một câu hỏi khác.&nbsp;spanspanp
+
+pspanspan style=background-color#ffffffstrongVí dụstrongspanspanp
+
+pspanspan style=background-color#ffffffMany supermarkets are selling more and more products that are imported from other countries instead of selling food that is locally sourced.&nbsp;spanspanp
+
+pspanspan style=background-color#93c47dstrongWhat are the reasons for thisstrongspanspanspanspan style=background-color#ffffffstrongstrongspanspanspanspan style=background-color#ffffff spanspanspanspan style=background-color#93c47dstrongIs this a positive or negative developmentstrongspanspanspanspan style=background-color#ffffffstrongstrongspanspanp
+
+pspanspan style=background-color#ffffff=&gt; Đây là dạng bài spanspanspanspan style=background-color#ffffffstrongTwo-Part Questionstrongspanspanspanspan style=background-color#ffffff. Bố cục dạng bài này sẽ khác với dạng bài chỉ có một yêu cầu. Ở bài này, chúng ta sẽ tập trung vào dạng bài chỉ có một yêu cầu.spanspanp
+
+pspanspan style=background-color#ffffff(Xem chi tiết dạng spanspanspanspan style=background-color#ffffffstrongtwo-part questionstrongspanspanspanspan style=background-color#ffffff ở lesson 16).spanspanp
+
+h2 id=2.-lưu-ýspanstrong2. strongspanspanLưu ýspanh2
+
+h3 id=2.1.-completely-positive--negative-hay-somewhat-positive--negative.span style=color#434343strong2.1.strongspanspan style=color#434343 Completely positive negative hay somewhat positive negative.spanh3
+
+pspan- Khi đánh giá về cùng một vấn đề, có người sẽ thấy nó hoàn toàn tích cực hay hoàn toàn tiêu cực (spanspanstrongcompletely positive negativestrongspanspan), có người sẽ thấy nó tích cực hay tiêu cực một phần (spanspanstrongsomewhat positive negativestrongspanspan).&nbsp;spanp
+
+pspan=&gt; Không có câu trả lời nào là sai, chỉ có lập luận và dẫn chứng không thuyết phụcspanp
+
+pspanstrongLưu ýstrongspanp
+
+pspan- Trước khi kết luận xu hướng trong bài là completely positivenegative, luôn cố gắng nghĩ về cả tác động tích cực lẫn tiêu cực.&nbsp;spanp
+
+ul
+	li style=list-style-typediscspanTrường hợp bạn không thể nghĩ ra được bất cứ một mặt tích cực (hoặc tiêu cực) nào của sự thay đổi này, bạn có thể nghĩ đến các đất nước khác (rất giàu hay rất nghèo) và xem tác động của sự thay đổi này đến người dân ở đó như thế nào.&nbsp;&nbsp;&nbsp;spanli
+	li style=list-style-typediscspanNếu bạn vẫn không thể nghĩ được thêm và kết luận xu hướng này hoàn toàn tích cực (hoặc tiêu cực) thì hãy chứng minh cho giám khảo thấy điều đó.&nbsp;&nbsp;spanli
+ul
+
+pspanVD Nếu bạn kết luận rằng một xu hướng hoàn toàn tiêu cực thì các bạn có thể viết như sauspanspanstrong&nbsp;strongspanp
+
+pspanstrong“This trend has had such a positive effect in my country that it is impossible to imagine that it has had a negative effect anywhere else in the world.”strongspanp
+
+pspan(Ở đất nước tôi, xu hướng này có ảnh hưởng tích cực tới mức mà tôi khó có thể mường tường rằng nó đã có những tác động tiêu cực ở bất kỳ đâu trên thế giới)&nbsp;spanp
+
+pspan=&gt; Tuy nhiên, các bạn lưu ý rằng chỉ viết câu này ra là chưa đủ, mà bạn còn cần phải chứng minh bằng cách chỉ ra những ảnh hưởng tích cực của xu hướng này.spanp
+
+p&nbsp;p
+
+pspan- Nếu bài viết theo hướng somewhat positivenegative (có một bên yếu hơn, một bên mạnh hơn) thì các bạn viết về bên yếu hơn trước, bên mạnh hơn sau. Khi theo hướng phát triển này, mỗi đoạn thân bài chỉ nên tập trung vào 1 ý chính, không đưa cả tích cực và tiêu cực vào cùng 1 đoạn.&nbsp;&nbsp;spanp
+
+h3 id=2.2.-đề-bài-có-một-đối-tượng-hay-hai-đối-tượngspan style=color#4343432.2. Đề bài có một đối tượng hay hai đối tượngspanh3
+
+pspan- Các bạn quan sát một số đề bài sauspanp
+
+div
+table cellspacing=0 style=border-collapsecollapse; bordernone; table-layoutfixed; width624px
+	tbody
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop
+			pspanspan style=background-color#ffffff1. Nowadays, an increasing number of people with health problems are using spanspanspanspan style=background-color#00ffffstrongalternative medicinesstrongspanspanspanspan style=background-color#00ffff spanspanspanspan style=background-color#00ffffstrongand treatmentsstrongspanspanspanspan style=background-color#ffffff spanspanspanspan style=background-color#fff2ccinstead ofspanspanspanspan style=background-color#ffffff spanspanspanspan style=background-color#00ffffstrongvisiting their normal doctorstrongspanspanspanspan style=background-color#ffffff. Do you think this is a positive or negative developmentspanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop
+			pspanspan style=background-color#ffffff2. spanspanspan style=color#01051cspan style=background-color#ffffffMore and more people spanspanspanspan style=background-color#fff2ccno longerspanspanspan style=color#01051cspan style=background-color#ffffff spanspanspanspan style=background-color#00ffffstrongread newspapers or watch TV programsstrongspanspanspan style=color#01051cspan style=background-color#ffffff spanspanspan style=color#01051cspan style=background-color#ffffffstrongto get newsstrongspanspanspan style=color#01051cspan style=background-color#ffffff. They spanspanspan style=color#01051cspan style=background-color#ffffffstrongget news about the worldstrongspanspanspan style=color#01051cspan style=background-color#ffffff spanspanspanspan style=background-color#00ffffstrongthrough the Internetstrongspanspanspan style=color#01051cspan style=background-color#ffffff. Is this a positive or negative developmentspanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop
+			pspanspan style=background-color#ffffff3. In recent years, spanspanspanspan style=background-color#00ffffstrongmany small local shopsstrongspanspanspanspan style=background-color#ffffff spanspanspanspan style=background-color#ffffffstronghave strongspanspanspanspan style=background-color#fff2ccclosedspanspanspanspan style=background-color#ffffff because spanspanspanspan style=background-color#ffffffstrongcustomers travel to strongspanspanspanspan style=background-color#00ffffstronglarge shopping centers and mallsstrongspanspanspanspan style=background-color#ffffff spanspanspanspan style=background-color#fff2ccto do their shoppingspanspanspanspan style=background-color#ffffff. Is it a positive or negative developmentspanspanp
+			td
+		tr
+	tbody
+table
+div
+
+p&nbsp;p
+
+pspanspan style=background-color#ffffff- spanspanspanTương tự như dạng bài spanspanstrongOpinionstrongspanspan, ở dạngspanspanstrong Positive Negativestrongspanspan cũng có những đề bài xuất hiện 2 đối tượng.spanp
+
+pspan=&gt; Cần so sánh 2 đối tượng với nhau, thay vì chỉ đánh giá 1 đối tượng&nbsp;&nbsp;spanp
+
+h2 id=3.-ví-dụ-chi-tiếtspanspan style=background-color#ffffffstrong3. strongspanspanspanspan style=background-color#ffffffVí dụ chi tiếtspanspanh2
+
+div
+table cellspacing=0 style=border-collapsecollapse; bordernone; table-layoutfixed; width624px
+	tbody
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongNowadays more and more people want to get things done instantly (services, information, tasks). Is this a negative or positive developmentstrongspanspanp
+
+			p style=text-aligncenterspanspan style=background-color#ffffff(Ngày nay, có càng nhiều người muốn làm xong việc ngay lập tức (ví dụ sử dụng dịch vụ, chia sẻ thông tin, các đầu công việc). Đây là một xu hướng tích cực hay tiêu cựcspanspanp
+			td
+		tr
+	tbody
+table
+div
+
+h3 id=3.1.-thinkspanspan style=background-color#ffffffstrong3.1. strongspanspanspanspan style=background-color#ffffffThinkspanspanh3
+
+pspanspan style=background-color#ffffff- Trong bước này, chúng ta sẽ phân tích đề bài, rồi brainstorm ý tưởngspanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffPhân tích đề bài, chúng ta xác định được một số thông tin sauspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongTopic CEOs receive higher salaries than other workers&nbsp;strongspanspanli
+ul
+
+p style=margin-left96pxspanspan style=background-color#ffffff(spanspanspanCEO và các quản lý nhận lương cao hơn các nhân viên bình thườngspanspanspan style=background-color#ffffff)spanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongThe focusstrongspanspanspanspan style=background-color#ffffff 2 đối tượng spanspanspanspan style=background-color#ffffffstrongexecutives (cấp quản lý) strongspanspanspanspan style=background-color#ffffffvà spanspanspanspan style=background-color#ffffffstrongother workers (cấp nhân viên)strongspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongThe taskstrongspanspanspanspan style=background-color#ffffff Đồng ý hay không đồng ý với việc “CEOcác quản lý nhận lương cao hơn nhân viên”spanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffTiếp theo, chúng ta brainstorm ý tưởng và lựa chọn position của mìnhspanspanli
+ul
+
+div style=margin-left40px
+table cellspacing=0 style=border-collapsecollapse; bordernone; width508px
+	tbody
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width254px
+			p style=text-aligncenterspanstrongPositivestrongspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width254px
+			p style=text-aligncenterspanstrongNegativestrongspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop; width254px
+			pspan- spanspanstrong↑ living standardsstrongspanp
+
+			pspan(Nâng cao chất lượng sống)spanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop; width254px
+			pspan- spanspanstrong↓ work qualitystrongspanp
+
+			pspan(Giảm chất lượng công việc)spanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop; width254px
+			pspan- spanspanstrong↑ innovationstrongspanp
+
+			pspan(Thúc đẩy sự phát triển đổi mới)spanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width254px
+			pspan- spanspanstrong↓ moral&nbsp;strongspanp
+
+			pspan(Mất đi một số đức tính)spanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop; width254px
+			pspan- spanspanstrong↑ fast servicesstrongspanp
+
+			pspan(Phát triển các dịch vụ nhanh)spanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width254px&nbsp;td
+		tr
+	tbody
+table
+div
+
+pspan=&gt; Position spanspanstrongsomewhat positivestrongspanspan (hầu như là tích cực)spanp
+
+p&nbsp;p
+
+h3 id=3.2.-planspanspan style=background-color#ffffffstrong3.2. strongspanspanspanspan style=background-color#ffffffPlanspanspanh3
+
+pspanspan style=background-color#ffffff- Sau khi thêmbớt và sắp xếp ý tưởng, chúng ta có dàn ý hoàn chỉnh như sauspanspanp
+
+div
+table cellspacing=0 style=border-collapsecollapse; bordernone; table-layoutfixed; width624px
+	tbody
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop
+			pspanspan style=background-color#ffffffstrongTopic Get things done instantlystrongspanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop
+			pspanspan style=background-color#ffffffstrongPosition Somewhat positivestrongspanspanp
+			td
+		tr
+	tbody
+table
+div
+
+p&nbsp;p
+
+pspanspan style=background-color#ffffffstrongBP1&nbsp;strongspanspanp
+
+div
+table cellspacing=0 style=border-collapsecollapse; bordernone; width616px
+	tbody
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width119px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongPointstrongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width497px
+			p style=text-alignjustifyspanspan style=background-color#ffffffstrong↓ moral + work qualitystrongspanspanp
+
+			pspanspan style=background-color#ffffff(Làm mất đi một số đức tính tốt, và giảm chất lượng công việc)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width119px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongExplanation 1strongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width497px
+			p style=text-alignjustifyspanspan style=background-color#ffffffstrong↓ morals ↑impatiencestrongspanspanp
+
+			pspanspan style=background-color#ffffff(Làm giảm đi một số đức tính tốt vì con người trở nên thiếu kiên nhẫn)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width119px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongExplanation 2strongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width497px
+			p style=text-alignjustifyspanspan style=background-color#ffffffstrong↓ work quality 0 time to error-check&nbsp;strongspanspanp
+
+			pspanspan style=background-color#ffffff(Giảm chất lượng công việc vì không có thời gian để rà soát lỗi sai)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width119px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongExample 2strongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width497px
+			p style=text-alignjustifyspanspan style=background-color#ffffffstrongrush to make lesson plans -&gt;strongspanspanspanstrong misinfo&nbsp;strongspanp
+
+			pspanspan style=background-color#ffffff(Làm giáo án một cách vội vã, khiến giáo viên dễ cung cấp thông tin sai)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width119px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongLink&nbsp;strongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width497px
+			p style=text-alignjustifyspanspan style=background-color#ffffffstrong↓ moral + work qualitystrongspanspanp
+
+			pspanspan style=background-color#ffffff(Làm mất đi một số đức tính tốt, và giảm chất lượng công việc)spanspanp
+			td
+		tr
+	tbody
+table
+div
+
+pspanspan style=background-color#ffffffstrongBP2&nbsp;strongspanspanp
+
+div
+table cellspacing=0 style=border-collapsecollapse; bordernone; width616px
+	tbody
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width110px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongPointstrongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width506px
+			p style=text-alignjustifyspanstrong↑ living standards &amp; ↑ innovationstrongspanp
+
+			pspanspan style=background-color#ffffff(Cải thiện chất lượng sống và tăng phát triển công nghệ)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width110px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongExplanation 1strongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width506px
+			pspanstrong↑ living standards ↑ productivity -&gt; ↑ time 4 leisure&nbsp;strongspanp
+
+			pspanspan style=background-color#ffffff(Cải thiện chất lượng sống vì tăng năng suất làm việc, cho con người thêm thời gian để thư giãn)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width110px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongExpand 1strongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width506px
+			p style=text-alignjustifyspanstrong↑ work-life balance&nbsp;strongspanp
+
+			pspanspan style=background-color#ffffff(Điều này sẽ giúp con người có sự cân bằng giữa công việc và cuộc sống)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width110px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongExplanation 2strongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width506px
+			p style=text-alignjustifyspanstrong↑ innovation ↑ develop solution to problemsstrongspanp
+
+			pspanspan style=background-color#ffffff(Tăng tiến độ phát triển công nghệ do nhu cầu tìm ra giải pháp cho các vấn đề)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width110px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongExample 2strongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width506px
+			p style=text-alignjustifyspanstrongtranslation toolstrongspanp
+
+			pspanspan style=background-color#ffffff(Công cụ dịch thuật)spanspanp
+			td
+		tr
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width110px
+			p style=text-aligncenterspanspan style=background-color#ffffffstrongLinkstrongspanspanp
+			td
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-alignmiddle; width506px
+			p style=text-alignjustifyspanstrong↑ living standards &amp; ↑ innovationstrongspanp
+
+			pspanspan style=background-color#ffffff(Cải thiện chất lượng sống và tăng phát triển công nghệ)spanspanp
+			td
+		tr
+	tbody
+table
+div
+
+h3 id=3.3.-writespanspan style=background-color#ffffffstrong3.3. strongspanspanspanspan style=background-color#ffffffWritespanspanh3
+
+h4 id=introductionspan style=color#666666Introductionspanh4
+
+pspanspan style=background-color#ffffff- Ở phần này, chúng ta giới thiệu Topic bằng cách paraphrase phần Background Statement của đề bài. Các từ cụm từ đã được paraphrase&nbsp;&nbsp;spanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffff&nbsp;Topicspanspanspanspan style=background-color#ffffffstrong strongspanspanspanstrongThere is a surging desire for immediacy across all aspects of life, such as information and task completionstrongspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongwant to get things done instantly = a surging desire for immediacy across all aspects of life strongspanspanspanspan style=background-color#ffffff(trỗi dậy mong muốn được nhận mọi thứ ngay lập tức trong các khía cạnh của cuộc sống)spanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongservices, information, tasks = information and task completionstrongspanspanspanspan style=background-color#ffffff (thông tin và độ hoàn thành công việc)spanspanli
+ul
+
+pspanspan style=background-color#ffffff- Sau đó, chúng ta đưa ra quan điểm cá nhân của mình. Chú ý cách dùng từ và sắp xếp ý&nbsp;spanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffThesis Statementspanspanspanspan style=background-color#ffffffstrong strongspanspanspanstrongI view this development somewhat favorably because it improves quality of life and fosters innovation; however, it may also hinder moral development and decrease work quality.&nbsp;strongspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongsomewhat positive = I view this development somewhat favorablystrongspanspanli
+	li style=list-style-typediscspanspan style=background-color#fffffflý do ủng hộ được nêu trước, rồi mới nêu lý do phản đối (tuân theo đúng thứ tự trong phần spanspanspanspan style=background-color#ffffffstrongplanstrongspanspanspanspan style=background-color#ffffff)spanspanli
+ul
+
+p&nbsp;p
+
+h4 id=body-paragraphspan style=color#666666Body Paragraphspanh4
+
+pspanspan style=background-color#ffffff- Dựa theo dàn ý, chúng ta viết Body Paragraph 1 sử dụng cấu trúc P.E.E.Lspanspanp
+
+pspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongBody Paragraph 1strongspanspanspanspan style=background-color#ffffff] spanspanspanThere are two main reasons why I view this advancement negatively spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongPstrongspanspanspanspan style=background-color#ffffff]spanspanspan. Firstly, the culture of instant gratification can lead to moral decline. When people become accustomed to immediate results, they may feel averse to endeavors requiring time and effort, stunting the development of virtues such as patience and perseverance spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongE1strongspanspanspanspan style=background-color#ffffff]spanspanspan. Moreover, this trend can lead to reductions in the quality of people’s work. The rush to complete tasks often leaves little time for error-checking, potentially leading to poor impressions of work ethics spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongE2strongspanspanspanspan style=background-color#ffffff]spanspanspan. For example, in education, the haste to produce lessons may result in inaccuracies that cause teachers to inadvertently provide misinformation, thereby raising concerns about their professional standards spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongEg2strongspanspanspanspan style=background-color#ffffff]spanspanspan. Thus, the desire for immediacy leads to declines in both morals and work quality spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongLstrongspanspanspanspan style=background-color#ffffff]spanspanspan.spanp
+
+pspanspan style=background-color#ffffffstrongPhân tíchstrongspanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongPstrongspanspanspanspan style=background-color#ffffff]spanspanspanspan style=background-color#ffffffstrong strongspanspanspanspan style=background-color#ffffffTôi mở đoạn với cụm “spanspanspanstrongThere are two main reasons why I view this advancement negativelystrongspanspanspan style=background-color#ffffff” (có 2 lý do vì sao tôi cho rằng xu hướng mang tính tích cực), giúp giám khảo biết rằng nội dung chính của bài này tập trung vào những tiêu cực của xu hướng này. Ở đây, các bạn lưu ý cụm từ “spanspanspanspan style=background-color#ffffffstrongthis advancementstrongspanspanspanspan style=background-color#ffffff” = “spanspanspanspan style=background-color#ffffffstrongthis developmentstrongspanspanspanspan style=background-color#ffffff” (xu hướng này)spanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongE1strongspanspanspanspan style=background-color#ffffff] Tôi giải thích ảnh hưởng tiêu cực đầu tiên là spanspanspanstrongmoral declinestrongspanspanspan style=background-color#ffffff (làm mất đi các đức tính tốt) bằng cách nêu lập luận rằng nếu mọi người trở nên quen thuộc với việc nhận được kết quả ngay lập tức, họ sẽ ngại làm việc yêu cầu thời gian và nỗ lực, từ đó làm thui chột các đức tính tốt như kiên nhẫn và sự kiên trì. Ở đây, các bạn lưu ý các cụmspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongthe culture of instant gratificationstrongspanspanspanspan style=background-color#ffffff văn hóa nhận được sự hài lòng ngay lập tứcspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongmoral decline strongspanspanspanspan style=background-color#ffffffsuy thoái đạo đức, sự mất đi các đức tính tốtspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongaverse to strongspanspanspanspan style=background-color#ffffffngại, trốn tránh làm việc gìspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongendeavor strongspanspanspanspan style=background-color#ffffffcông việc, hành độngspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongstunting strongspanspanspanspan style=background-color#fffffflàm chậm, trì trệ hướng tới thành công chungspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongE2strongspanspanspanspan style=background-color#ffffff] Tôi giải thích ảnh hưởng tiêu cực thứ hai là spanspanspanstrongreduction in the quality of workstrongspanspanspan style=background-color#ffffff (ảnh hưởng tới chất lượng công việc) bằng cách nêu lập luận rằng sự vội vàng trong việc cố gắng hoàn thành công việc sẽ dẫn tới ít thời gian để kiểm tra lại lỗi sai, từ đó suy giảm đạo đức nghề nghiệp. Ở đây, các bạn lưu ý các cụmspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongerror-checkingstrongspanspanspanspan style=background-color#ffffff kiểm tra lỗi saispanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongpoor impression ofstrongspanspanspanspan style=background-color#ffffff để lại ấn tượng xấuspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongwork ethic strongspanspanspanspan style=background-color#ffffffđạo đức nghề nghiệpspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongEg2strongspanspanspanspan style=background-color#ffffff] Tôi đưa ra ví dụ là trong giáo dục thì việc vội vàng trong việc soạn giáo án mà có thể dẫn tới việc giáo viên cung cấp cho học sinh thông tin sai, từ đó gây tranh cãi về đạo đức hay chuẩn mực nghề nghiệpspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstronghastestrongspanspanspanspan style=background-color#ffffff Sự vội vàng, vội vãspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstronginaccuraciesstrongspanspanspanspan style=background-color#ffffff Các lỗi saispanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongmisinformationstrongspanspanspanspan style=background-color#ffffff Thông tin sai lệchspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongprofessional standardsstrongspanspanspanspan style=background-color#ffffff chuẩn mực nghề nghiệpspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongLstrongspanspanspanspan style=background-color#ffffff] Tôi tóm gọn lại các lập luận đã được nêu. Các bạn nhớ liệt kê lại luận điểm chính đúng theo thứ tự các bạn nêu trong BP. Nếu lệch thứ tự, các bạn có thể mất điểm trong tiêu chí TR&nbsp;spanspanli
+ul
+
+p&nbsp;p
+
+pspanspan style=background-color#ffffff- Chuyển sang Body Paragraph 2spanspanp
+
+pspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongBody Paragraph 2strongspanspanspanspan style=background-color#ffffff] spanspanspanHowever, the evidence supporting the drive for immediate results to be more substantial spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongPstrongspanspanspanspan style=background-color#ffffff]spanspanspan. One major advantage is the improvement in living standards. Digital platforms and technology enable individuals to complete tasks quickly, increasing productivity and freeing up time for personal development and leisure spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongE1strongspanspanspanspan style=background-color#ffffff]spanspanspan. Therefore, this shift promotes a more balanced work-life dynamic spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongEp1strongspanspanspanspan style=background-color#ffffff]spanspanspan. Moreover, this trend is instrumental in driving innovation. The demand for faster services and information incentivizes businesses and researchers to develop cutting-edge solutions to problems spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongE2strongspanspanspanspan style=background-color#ffffff]spanspanspan. For instance, the immediate need for international communication necessitated the invention of a real-time language translation tool, eventually leading to the creation of Google Translate spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongEg2strongspanspanspanspan style=background-color#ffffff]spanspanspan. Indeed, this development not only boosts quality of life but also encourages technological development spanspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongLstrongspanspanspanspan style=background-color#ffffff]spanspanspan.spanp
+
+pspanspan style=background-color#ffffffstrongPhân tíchstrongspanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongPstrongspanspanspanspan style=background-color#ffffff]spanspanspanspan style=background-color#ffffffstrong strongspanspanspanspan style=background-color#ffffffTôi mở đoạn với từ “spanspanspanstronghoweverstrongspanspan” rồi nêu “spanspanstrongthe evidence supporting the drive for immediate results to be more substantialstrongspanspanspan style=background-color#ffffff” (bằng chứng ủng hộ việc muốn kết quả ngay lập tức đáng kể hơn). Qua câu này, tôi vừa thể hiện nội dung của đoạn và nhấn mạnh quan điểm.&nbsp;spanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongE1strongspanspanspanspan style=background-color#ffffff] Tôi đi vào lợi ích đầu tiên là spanspanspanstrongimprovement in living standardstrongspanspanspan style=background-color#ffffff (cải thiện chất lượng sống). Để giải thích luận điểm, tôi đưa ra lý lẽ rằng công nghệ cho phép mọi người làm xong công việc một cách nhanh chóng. Điều này vừa tăng hiệu suất công việc, vừa cho con người thêm thời gian để giải trí và phát triển bản thân. Ở đây, các bạn lưu ý các cụmspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongdigital platformstrongspanspanspanspan style=background-color#ffffff nền tảng trực tuyếnspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongenable = allow strongspanspanspanspan style=background-color#ffffffcho phép ai đó làm gìspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongpersonal development strongspanspanspanspan style=background-color#ffffffphát triển bản nhânspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongleisure = entertainment strongspanspanspanspan style=background-color#ffffffgiải tríspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongEp1strongspanspanspanspan style=background-color#ffffff] Tôi làm rõ luận điểm này bằng cách đưa ra hậu quả của việc có thêm thời gian cho bản thân là spanspanspanspan style=background-color#ffffffstronga more balanced work-life dynamicstrongspanspanspanspan style=background-color#ffffff (việc cân bằng giữa cuộc sống và công việc)spanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongE2strongspanspanspanspan style=background-color#ffffff] Tôi chuyển sang lợi ích thứ 2 spanspanspanspan style=background-color#ffffffstrongdriving innovationstrongspanspanspanspan style=background-color#ffffff (thúc đẩy sự phát triển). Tôi giải thích rằng nếu có nhiều người yêu cầu tăng tốc độ của dịch vụ và thông tin; thì điều này sẽ thúc đẩy các công ty, các nhà nghiên cứu phát triển giải pháp tối tân để bắt kịp nhu cầu này. Ở đây, các bạn lưu ý các cụmspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstronginstrumental instrongspanspanspanspan style=background-color#ffffff vô cùng quan trọng trong việc gìspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongincentivize strongspanspanspanspan style=background-color#ffffffủng hộthúc đẩyspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongcutting-edgestrongspanspanspanspan style=background-color#ffffff (chỉ) sự tối tânspanspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongEg2strongspanspanspanspan style=background-color#ffffff] Tôi làm rõ luận điểm này bằng cách nêu ví dụ rằng nhu cầu giao tiếp quốc tế đã dẫn tới sự phát minh của một công cụ dịch thuật trực tiếp Google Translate. Ở đây, các bạn lưu ý từ “necessitate”, nghĩa là “dẫn tới, làm cho việc gì đó trở nên cần thiết”spanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffff[spanspanspanspan style=background-color#ffffffstrongLstrongspanspanspanspan style=background-color#ffffff] Tôi tóm gọn lại các lập luận đã được nêu. Tương tự như BP1, nêu luận điểm nào trước trong BP thì tóm gọn trước, nêu luận điểm nào sau thì tóm gọn sauspanspanli
+ul
+
+h4 id=conclusionspan style=color#666666Conclusionspanh4
+
+pspanspan style=background-color#ffffff- Ở phần này, chúng ta kết thúc bài viết bằng cách paraphrase phần spanspanspanspan style=background-color#ffffffstrongThesis Statementstrongspanspanspanspan style=background-color#ffffff của spanspanspanspan style=background-color#ffffffstrongIntroduction strongspanspanspanspan style=background-color#ffffffvà tóm gọn lại các luận điểm đã được nêu ở 2 đoạn BP. Các từ cụm từ đã được paraphrase&nbsp;&nbsp;spanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffRestate Opinion+Main Pointspanspanspanspan style=background-color#ffffffstrong In conclusion, strongspanspanspanstrongwhile the desire for instant gratification presents challenges related to morals and work quality, the benefits it brings to living standards and technological development are more significant.strongspanli
+ul
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongthe desire for instant gratification = a surging desire for immediacy across all aspects of lifestrongspanspanli
+	li style=list-style-typediscspanspan style=background-color#ffffffstrongI mostly consider … are more significant = I view this development somewhat favorablystrongspanspanli
+ul
+
+pspanspan style=background-color#ffffff- Trong bài này, tôi vẫn rút ra bài họclời khuyên từ các luận điểm này.&nbsp;spanspanp
+
+ul
+	li style=list-style-typediscspanspan style=background-color#ffffffExtendspanspanspanspan style=background-color#ffffffstrong strongspanspanspanstrongI also believe that the work inaccuracies caused by this trend will be mitigated by forthcoming quantum leaps in technology in the near futurestrongspanli
+ul
+
+p style=margin-left48pxspanspan style=background-color#ffffff(Tôi cũng tin rằng bất lợi về giảm chất lượng công việc mà xu hướng này gây ra sẽ sớm được giải quyết bởi các đột phá công nghệ trong tương lai)spanspanp
+
+pspanstrong=&gt; Đây là một phần hoàn toàn tự chọnstrongspanp
+
+h3 id=3.4.-checkspan style=color#434343strong3.4. strongspanspan style=color#434343Checkspanh3
+
+pspan- Sau khi viết bài, chúng ta đọc lại bài để soát lỗi chính tả, lỗi ngữ pháp và chỉnh sửa câu từ , lập luận nếu cầnspanp
+
+pspanspan style=background-color#ffffff- Với bài mẫu này, chúng ta sẽ tập trung chỉnh sửa Body Paragraph 2 và Conclusionspanspanp
+
+div
+table cellspacing=0 style=border-collapsecollapse; bordernone; table-layoutfixed; width624px
+	tbody
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop
+			pspanHowever, spanspanspan style=background-color#fff2ccstrongI considerstrongspanspanspan the evidence supporting the drive for immediate results to be more substantial. One major advantage is the improvement in living standards. Digital platforms and technology enable individuals to complete tasks quickly, increasing productivity and freeing up time for personal development and leisure. Therefore, this shift promotes a more balanced work-life dynamic. Moreover, spanspansthis trendsspanspanspan style=background-color#ffffffstrong strongspanspanspanspan style=background-color#fff2ccstrongthe need for immediacystrongspanspanspanspan style=background-color#ffffffstrong strongspanspanspanis instrumental in driving innovation. The demand for faster services and information incentivizes businesses and researchers to develop cutting-edge solutions to problems. For instance, the immediate need for international communication necessitated the invention of a real-time language translation tool, eventually leading to the creation of Google Translate. Indeed, this development not only boosts quality of life but also encourages technological development.spanp
+
+			pspanIn conclusion, while the desire for instant gratification presents challenges related to morals and work quality, spanspanspan style=background-color#fff2ccstrongI mostly considerstrongspanspanspan the benefits it brings to living standards and technological development are more significant. I also believe that the work inaccuracies caused by this trend will be mitigated by forthcoming quantum leaps in technology in the near future.spanp
+			td
+		tr
+	tbody
+table
+div
+
+p&nbsp;p
+
+pspanstrongPhân tíchstrongspanp
+
+pspan- Trong bài viết, tôi đã có một chút chỉnh sửa về 3 yếu tố ngữ pháp, dùng từ và lập luậnspanp
+
+ul
+	li style=list-style-typediscspanVề dùng từ spanspanstrongthis trend -&gt; the need for immediacystrongspanspanspanspanstrong strongspanspantránh lặp từspanli
+ul
+
+ul
+	li style=list-style-typediscspanVề lập luận thêm 2 cụm “spanspanstrongI considerstrongspanspan” và “spanspanstrongI mostly considerstrongspanspan” để nhấn mạnh quan điểm là thiên về bên lợi ích hơnspanli
+ul
+
+p&nbsp;p
+
+pspanspan style=background-color#ffffff- Bài viết hoàn chỉnhspanspanp
+
+div
+table cellspacing=0 style=border-collapsecollapse; bordernone; table-layoutfixed; width624px
+	tbody
+		tr
+			td style=border-bottom1px solid #000000; border-left1px solid #000000; border-right1px solid #000000; border-top1px solid #000000; vertical-aligntop
+			pspanThere is a surging desire for immediacy across all aspects of life, such as information and task completion. I view this development somewhat favorably because it improves quality of life and fosters innovation; however, it may also hinder moral development and decrease work quality.&nbsp;spanp
+
+			pspanThere are two main reasons why I view this advancement negatively. Firstly, the culture of instant gratification can lead to moral decline. When people become accustomed to immediate results, they may feel averse to endeavors requiring time and effort, stunting the development of virtues such as patience and perseverance. Moreover, this trend can lead to reductions in the quality of people’s work. The rush to complete tasks often leaves little time for error-checking, potentially leading to poor impressions of work ethics. For example, in education, the haste to produce lessons may result in inaccuracies that cause teachers to inadvertently provide misinformation, thereby raising concerns about their professional standards. Thus, the desire for immediacy leads to declines in both morals and work quality.spanp
+
+			pspanHowever, I consider the evidence supporting the drive for immediate results to be more substantial. One major advantage is the improvement in living standards. Digital platforms and technology enable individuals to complete tasks quickly, increasing productivity and freeing up time for personal development and leisure. Therefore, this shift promotes a more balanced work-life dynamic. Moreover, the need for immediacy is instrumental in driving innovation. The demand for faster services and information incentivizes businesses and researchers to develop cutting-edge solutions to problems. For instance, the immediate need for international communication necessitated the invention of a real-time language translation tool, eventually leading to the creation of Google Translate. Indeed, this development not only boosts quality of life but also encourages technological development.spanp
+
+			pspanIn conclusion, while the desire for instant gratification presents challenges related to morals and work quality, I mostly consider the benefits it brings to living standards and technological development are more significant. I also believe that the work inaccuracies caused by this trend will be mitigated by forthcoming quantum leaps in technology in the near future.spanp
+			td
+		tr
+	tbody
+table
+div
+        div

@@ -1,0 +1,487 @@
+<div class="contentblock">
+            <h2 id="2.-các-cách-lập-luận"><span style="background-color:#ffffff"><strong>2. </strong></span><span style="background-color:#ffffff">Các cách lập luận:</span></h2>
+
+<p><span style="background-color:#ffffff">- Có nhiều cách để chúng ta ủng hộ/chứng minh một luận điểm</span></p>
+
+<p><span style="background-color:#ffffff">- Cụ thể, các cách lập luận phổ biến nhất là:&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Liệt kê thông tin</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Nêu nguyên nhân/kết quả</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Dự đoán về kết quả/ảnh hưởng</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Chỉ ra sự đối lập</strong></span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Kết hợp nhiều cách lập luận</strong></span></li>
+</ul>
+
+<h3 id="2.1.-liệt-kê-thông-tin"><span style="background-color:#ffffff"><strong>2.1. </strong></span><span style="background-color:#ffffff">Liệt kê thông tin</span></h3>
+
+<p><span style="background-color:#ffffff">- Người viết liệt kê các lý do/ bằng chứng để chứng minh/ bảo vệ luận điểm</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Firstly,</strong></span><span style="background-color:#ffffff"> (Đầu tiên,)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Secondly,</strong></span><span style="background-color:#ffffff"> (Thứ hai là)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Thirdly </strong></span><span style="background-color:#ffffff">(Thứ ba là)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>In addition</strong></span><span style="background-color:#ffffff"> (Thêm vào đó,)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Similarly, </strong></span><span style="background-color:#ffffff">(Tương tự như vậy,)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>also, </strong></span><span style="background-color:#ffffff">(Ngoài ra, … cũng)</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff">- Các bạn theo dõi và phân tích một đoạn văn sử dụng cách lập luận này:</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p style="text-align:justify"><span style="background-color:#d9ead3">There are various steps that governments could take to tackle problems in cities.</span><span style="background-color:#ffffff"> </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>Firstly,</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#fff2cc">they could invest in building affordable or social housing to lower the cost of living. </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>Secondly</strong></span></span><span style="background-color:#ffffff"><strong>, </strong></span><span style="background-color:#fff2cc">politicians have the authority to ban vehicles from city centers and promote cleaner public transport, which would help reduce both air pollution and traffic congestion.</span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong> A</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>third</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>option</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>is</strong></span></span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#fff2cc">to develop provincial towns and rural areas by relocating industries and jobs to these regions, thereby easing the pressure on major cities</span><span style="background-color:#ffffff">. </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>In this way,</strong></span></span><span style="background-color:#ffffff"> </span><span style="background-color:#d9ead3">governments play a crucial role in addressing urban challenges.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:center"><span style="background-color:#ffffff">(Bài liệt kê một số việc chính phủ có thể thực hiện để giúp cải thiện cuộc sống thành thị)</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Mỗi lập luận đều có vai trò như nhau, là một viên gạch tạo nền móng vững chắc cho luận điểm. Bất cứ lập luận không rõ ràng/ không thuyết phục đều khiến cho luận điểm bị lung lay.&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Chú ý cách paraphrase/ referencing để tránh lặp từ (VD: governments, tackle, problems, city)</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Khi muốn liệt kê thông tin đồng thời nhấn mạnh: thông tin này quan trọng hơn thông tin kia, ta có thể dùng các từ/ cụm từ nối:&nbsp;</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Moreover</strong></span><span style="background-color:#ffffff"> (Hơn nữa)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Furthermore</strong></span><span style="background-color:#ffffff"> (Hơn nữa)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>What’s more</strong></span><span style="background-color:#ffffff"> (Hơn nữa)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Even more importantly</strong></span><span style="background-color:#ffffff"> (Quan trọng hơn cả,)</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<p style="text-align:justify"><span style="background-color:#d9ead3">There are various steps that governments could take to tackle problems in cities.</span><span style="background-color:#ffffff"> </span><span style="background-color:#fff2cc">In terms of infrastructure, they could invest in building affordable or social housing to lower the cost of living.</span><span style="background-color:#ffffff"><strong> </strong></span><span style="color:#ff0000"><strong>Moreover, </strong></span><span style="background-color:#fff2cc">politicians have the authority to ban vehicles from city centers and promote cleaner public transport, which would help reduce both air pollution and traffic congestion.</span><span style="color:#ff0000"><span style="background-color:#ffffff"> </span></span><span style="color:#ff0000"><strong>However, perhaps the most impactful solution would be</strong></span><span style="background-color:#ffffff"><strong> </strong></span><span style="background-color:#fff2cc">to develop provincial towns and rural areas by relocating industries and jobs to these regions, thereby easing the pressure on major cities</span><span style="background-color:#ffffff">. </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>In this way,</strong></span></span><span style="background-color:#ffffff"> </span><span style="background-color:#d9ead3">governments play a crucial role in addressing urban challenges.</span></p>
+
+<p style="text-align:center"><span style="background-color:#ffffff">(Bài liệt kê một số việc chính phủ có thể thực hiện để giúp cải thiện cuộc sống thành thị)</span></p>
+
+<h3 id="2.2.-nêu-nguyên-nhân--kết-quả"><span style="background-color:#ffffff"><strong>2.2. </strong></span><span style="background-color:#ffffff">Nêu nguyên nhân/ kết quả</span></h3>
+
+<p><span style="background-color:#ffffff">- Người viết nêu ra kết quả/ hậu quả của hiện tượng/ vấn đề để chứng minh luận điểm.</span></p>
+
+<p><span style="background-color:#ffffff">- Khác với dạng liệt kê thông tin (các ý có mối quan hệ ngang hàng), ở cách này, các ý liên kết với nhau theo mối quan hệ nguyên nhân - kết quả, điều này dẫn tới điều kia, như trong một phản ứng dây chuyền.</span></p>
+
+<p><span style="background-color:#ffffff">- Một số từ/cụm từ nối thường dùng trong cách lập luận này:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>This means that, …</strong></span><span style="background-color:#ffffff"> (điều này nghĩa rằng, …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>This causes, …</strong></span><span style="background-color:#ffffff"> (điều này gây ra …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>This results in …</strong></span><span style="background-color:#ffffff"> (điều này dẫn tới …)&nbsp;</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>This can lead …</strong></span><span style="background-color:#ffffff"> (điều này dẫn tới …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>This contributes to …</strong></span><span style="background-color:#ffffff"> (điều này góp phần …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>As a result … </strong></span><span style="background-color:#ffffff">(bởi vậy …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>in turn, …</strong></span><span style="background-color:#ffffff"> (nên …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>If … then .. </strong></span><span style="background-color:#ffffff">&nbsp;(nếu …, thì …)</span></li>
+</ul>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Có thể đảo vị trí của nguyên nhân và kết quả mà nghĩa không thay đổi:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:620px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:310px">
+			<p style="text-align:center"><strong>A ⇒ B</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:310px">
+			<p style="text-align:center">B ⇐ A</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:310px">
+			<p><span style="background-color:#efefef"><strong>cause</strong></span></p>
+
+			<p>Excessive screen time and poor posture <span style="color:#ff0000"><strong>can cause</strong></span> back pain.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:310px">
+			<p><span style="background-color:#efefef"><strong>be caused by</strong></span></p>
+
+			<p>Back pain <span style="color:#ff0000"><strong>can be caused</strong></span> by excessive screen time and poor posture.&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:310px">
+			<p><span style="background-color:#efefef"><strong>result in&nbsp;</strong></span></p>
+
+			<p>Excessive screen time and poor posture <span style="color:#ff0000"><strong>can result in</strong></span> back pain.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:310px">
+			<p><span style="background-color:#efefef"><strong>be the result of</strong></span></p>
+
+			<p>Back pain<span style="color:#ff0000"><strong> is</strong></span> often<span style="color:#ff0000"><strong> the result of</strong></span> excessive screen time and poor posture.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:310px">
+			<p><span style="background-color:#efefef"><strong>lead to</strong></span></p>
+
+			<p>Excessive screen time and poor posture<span style="color:#ff0000"><strong> can lead to</strong></span> back pain.&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:310px">
+			<p><span style="background-color:#efefef"><strong>result from</strong></span></p>
+
+			<p>Back pain <span style="color:#ff0000"><strong>can result from</strong></span> by excessive screen time and poor posture.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:&nbsp;</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span style="background-color:#d9ead3">International food products must be transported over long distances before reaching consumers</span>, <span style="color:#ff0000"><strong>which results in</strong></span><strong> </strong><span style="background-color:#fff2cc">higher carbon emissions</span>.<strong> </strong><span style="color:#ff0000"><strong>This, in turn, contributes to</strong></span> <span style="background-color:#fff2cc">major issues such as global warming and environmental degradation.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">(Phải vận chuyển các thực phẩm quốc tế đi rất xa trước khi đến tay người tiêu dùng, dẫn tới việc tăng khí thải các-bon. Điều này góp phần làm trầm trọng hoá các vấn đề như biến đổi khí hậu hay suy thoái môi trường)</span></p>
+
+<p><span style="background-color:#ffffff">- Đoạn văn này đã giải thích cho vấn đề</span><strong>: International food imports have a detrimental environmental impact. </strong>(Thực phẩm được nhập khẩu có ảnh hưởng xấu tới môi trường)</p>
+
+<p><span style="background-color:#ffffff">- Sơ đồ lập luận như sau:&nbsp;</span></p>
+
+<p><span style="background-color:#d9ead3">International food products must be transported over long distances before reaching consumers</span> <span style="background-color:#ffffff">⇒</span> <span style="background-color:#fff2cc">higher carbon emissions</span> <span style="background-color:#ffffff">⇒</span> <span style="background-color:#fff2cc">major issues such as global warming and environmental degradation.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Có thể thấy cách lập luận này yêu cầu thí sinh sử dụng cấu trúc ngữ pháp phức tạp hơn (câu phức, mệnh đề quan hệ…). Tuy nhiên, không nên lạm dụng hay cố nhồi nhét cấu trúc ngữ pháp phức tạp hay từ vựng cao siêu khi lập luận.&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Cần hướng đến mục tiêu giải thích vấn đề một cách rõ ràng, dễ hiểu và thuyết phục, biến sự phức tạp trở nên đơn giản, thay vì khiến nó trở nên phức tạp và khó hiểu hơn.&nbsp;&nbsp;</span></p>
+
+<h3 id="2.3.-dự-đoán-về-kết-quả--ảnh-hưởng"><span style="background-color:#ffffff"><strong>2.3. </strong></span><span style="background-color:#ffffff">Dự đoán về kết quả/ ảnh hưởng</span></h3>
+
+<p><span style="background-color:#ffffff">- Người viết đưa ra những dự đoán về kết quả/ hậu quả mà một hành động/ hiện tượng sẽ/ có thể mang lại để chứng minh hành động/ hiện tượng đó là tốt hay xấu.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Kiểu lập luận này dùng ngôn ngữ suy đoán, điển hình là câu với “If” hoặc “When”&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Mức độ chắc chắn trong dự đoán sẽ ảnh hưởng đến lập luận của bạn. Điều này được thể hiện qua ngôn ngữ mà bạn lựa chọn.&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Về ngôn ngữ diễn tả mức độ chắc chắn của hành động và kết quả, cần sử dụng cấu trúc câu với “</span><span style="background-color:#ffffff"><strong>If</strong></span><span style="background-color:#ffffff">" hoặc “</span><span style="background-color:#ffffff"><strong>When</strong></span><span style="background-color:#ffffff">"</span></p>
+
+<p><span style="background-color:#ffffff">- Để sử dụng cấu trúc này, cần hiểu về ngôn ngữ sử dụng cho </span><span style="background-color:#fff2cc"><strong>mệnh đề điều kiện</strong></span><strong> </strong>và<strong> </strong><span style="background-color:#d9ead3"><strong>mệnh đề kết quả.</strong></span><strong>&nbsp;&nbsp;</strong></p>
+
+<ul>
+	<li style="list-style-type:disc">Mệnh đề điều kiện:&nbsp;</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:577px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:210px">
+			<p style="text-align:center">Xảy ra ở hiện tại</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:183px">
+			<p style="text-align:center">Có thể xảy ra&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:184px">
+			<p style="text-align:center">Ít khả năng xảy ra&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:210px">
+			<p style="text-align:center"><span style="background-color:#fff2cc"><strong>If/ When + V hiện tại đơn</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:183px">
+			<p style="text-align:center"><span style="background-color:#fff2cc"><strong>If + V hiện tại đơn</strong></span><strong>&nbsp;</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:184px">
+			<p style="text-align:center"><span style="background-color:#fff2cc"><strong>If + V quá khứ đơn</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Mệnh đề kết quả:</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:602px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:180px">
+			<p style="text-align:center">100% chắc chắn</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:204px">
+			<p style="text-align:center">75% chắc chắn&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:218px">
+			<p style="text-align:center">50% chắn chắn&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:180px">
+			<p><span style="background-color:#d9ead3"><strong>V hiện tại đơn</strong></span></p>
+
+			<p><span style="background-color:#d9ead3"><strong>will/ would + V</strong></span></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:204px">
+			<p><span style="background-color:#d9ead3"><strong>probably + V hiện tại đơn</strong></span></p>
+
+			<p><span style="background-color:#d9ead3"><strong>is likely to/ tends to + V</strong></span><strong>&nbsp;</strong></p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:218px">
+			<p><span style="background-color:#d9ead3"><strong>can/ could/ may/ might + V</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:&nbsp;</strong></p>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:634px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:35px">
+			<p style="text-align:center">1.</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:599px">
+			<p><span style="background-color:#fff2cc"><strong>If students </strong></span><span style="color:#ff0000"><span style="background-color:#fff2cc"><strong>are given</strong></span></span><span style="background-color:#fff2cc"><strong> more opportunities to practice speaking,</strong></span><strong> </strong><span style="background-color:#d9ead3"><strong>their language skills </strong></span><span style="color:#ff0000"><span style="background-color:#d9ead3"><strong>will improve</strong></span></span><span style="background-color:#d9ead3"><strong> faster.&nbsp;</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:35px">
+			<p style="text-align:center">2.</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:599px">
+			<p><span style="background-color:#fff2cc"><strong>When people </strong></span><span style="color:#ff0000"><span style="background-color:#fff2cc"><strong>exercise</strong></span></span><span style="background-color:#fff2cc"><strong> regularly,</strong></span><strong> </strong><span style="background-color:#d9ead3"><strong>their overall physical and mental health </strong></span><span style="color:#ff0000"><span style="background-color:#d9ead3"><strong>tends to improve</strong></span></span><span style="background-color:#d9ead3"><strong>.</strong></span><strong>&nbsp;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:35px">
+			<p style="text-align:center">3.</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:599px">
+			<p><span style="background-color:#fff2cc"><strong>If we </strong></span><span style="color:#ff0000"><span style="background-color:#fff2cc"><strong>try to learn</strong></span></span><span style="background-color:#fff2cc"><strong> about too many things at once,</strong></span><strong> </strong><span style="background-color:#d9ead3"><strong>our knowledge </strong></span><span style="color:#ff0000"><span style="background-color:#d9ead3"><strong>may lack</strong></span></span><span style="background-color:#d9ead3"><strong> the depth required to obtain a qualification.&nbsp;&nbsp;</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:35px">
+			<p style="text-align:center">4.</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:599px">
+			<p><span style="background-color:#fff2cc"><strong>If </strong></span><span style="color:#ff0000"><span style="background-color:#fff2cc"><strong>there were</strong></span></span><span style="background-color:#fff2cc"><strong> easy-to-reach local sports centers,</strong></span><strong> </strong><span style="background-color:#d9ead3"><strong>we </strong></span><span style="color:#ff0000"><span style="background-color:#d9ead3"><strong>would be more likely to</strong></span></span><span style="background-color:#d9ead3"><strong> make exercise a regular part of our lives.&nbsp;</strong></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:35px">
+			<p style="text-align:center">5.</p>
+			</td>
+			<td style="border-bottom:1px solid #9e9e9e; border-left:1px solid #9e9e9e; border-right:1px solid #9e9e9e; border-top:1px solid #9e9e9e; vertical-align:top; width:599px">
+			<p><span style="background-color:#fff2cc"><strong>If companies </strong></span><span style="color:#ff0000"><span style="background-color:#fff2cc"><strong>offered</strong></span></span><span style="background-color:#fff2cc"><strong> more flexible work options,</strong></span><strong> </strong><span style="background-color:#d9ead3"><strong>this </strong></span><span style="color:#ff0000"><span style="background-color:#d9ead3"><strong>could improve</strong></span></span><span style="background-color:#d9ead3"><strong> work-life balance for many employees.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Chúng ta cùng so sánh 2 ví dụ sau:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>I believe that shortening the workweek <span style="color:#ff0000"><strong>will boost</strong></span><strong> </strong>productivity. If workers <span style="color:#ff0000"><strong>are given</strong></span> longer weekends, they <span style="color:#ff0000"><strong>will have</strong></span> more time to rest and recover after managing their workloads during the week. When employees<span style="color:#ff0000"><strong> are well-rested</strong></span>, they<span style="color:#ff0000"><strong> will bring</strong></span> more energy and focus to their tasks, leading to <span style="color:#ff0000"><strong>significantly</strong></span> greater efficiency.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><br>
+&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>I believe that shortening the workweek <span style="color:#ff0000"><strong>could help boost</strong></span> productivity. If workers <span style="color:#ff0000"><strong>were given </strong></span>longer weekends, they <span style="color:#ff0000"><strong>might have </strong></span>more time to rest and recover after managing their workload during the week. When employees <span style="color:#ff0000"><strong>are well-rested</strong></span>, they <span style="color:#ff0000"><strong>may be able</strong></span> <span style="color:#ff0000"><strong>to bring </strong></span>more energy and focus to their tasks, <span style="color:#ff0000"><strong>potentially</strong></span> achieving greater efficiency.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Chúng ta thấy đoạn văn đầu tiên sử dụng ngôn ngữ dự đoán chắc chắn hơn, thể hiện sự ủng hộ mạnh mẽ của người viết cho việc “shortening the workweek”.&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Tùy thuộc vào mục đích mà lựa chọn ngôn ngữ phù hợp.</p>
+
+<p>&nbsp;</p>
+
+<h3 id="2.4.-chỉ-ra-sự-đối-lập"><span style="background-color:#ffffff"><strong>2.4. </strong></span><span style="background-color:#ffffff">Chỉ ra sự đối lập</span></h3>
+
+<p><span style="background-color:#ffffff">- Người viết đưa ra trường hợp ngược lại và dự đoán kết quả trong trường hợp đó để làm nổi bật luận điểm đang cần bảo vệ.&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">- Cách lập luận này trả lời cho câu hỏi:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>What would happen if we didn't have/ do this?</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:center"><span style="background-color:#ffffff">hoặc:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p style="text-align:center"><span style="background-color:#ffffff"><strong>What happens if we don't have/ do this?</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:center"><span style="background-color:#ffffff">(Điều gì sẽ xảy ra nếu chúng ta không có/ không làm điều này?)</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff">- Cấu trúc thường dùng khi lập luận theo cách này là:</span></p>
+
+<ul>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>If … does not … then</strong></span><span style="background-color:#ffffff"> (Nếu không … thì …)</span></li>
+	<li style="list-style-type:disc"><span style="background-color:#ffffff"><strong>Without …</strong></span><span style="background-color:#ffffff"> (Nếu không có … thì …)</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Ví dụ:</strong></span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span style="background-color:#d9ead3">International food products must be transported over long distances before reaching consumers</span>, <span style="background-color:#fff2cc">which results in higher carbon emissions</span>.<strong> </strong><span style="background-color:#fff2cc">This, in turn, contributes to major issues such as global warming and environmental degradation.</span><span style="color:#ff0000"><strong> Without reducing the reliance on imported food, these environmental problems will continue to escalate.</strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><span style="background-color:#ffffff">(... </span><span style="color:#ff0000"><span style="background-color:#ffffff"><strong>Nếu không giảm sự lệ thuộc vào thực phẩm nhập khẩu, những vấn đề môi trường này sẽ tiếp tục leo thang</strong></span></span><span style="background-color:#ffffff">)</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Nhấn mạnh ảnh hưởng của việc nhập khẩu thực phẩm lên môi trường bằng việc khẳng định: nếu không giảm sự phụ thuộc vào thực phẩm nhập khẩu thì những vấn đề này sẽ còn tiếp tục gia tăng.&nbsp;&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">=&gt; Câu lập luận đối lập dùng “will + V" thể hiện sự chắc chắn của người viết về kết quả. Trường hợp không quá chắc chắn về kết quả, ta có thể dùng “may, can… + V"&nbsp;&nbsp;</span></p>
+
+<h3 id="2.5.-kết-hợp-nhiều-cách-lập-luận"><span style="background-color:#ffffff"><strong>2.5. </strong></span><span style="background-color:#ffffff">Kết hợp nhiều cách lập luận</span></h3>
+
+<p>- Trên thực tế, để chứng minh một luận điểm, hay nói cách khác, để viết một đoạn thân bài hoàn chỉnh, người viết cần kết hợp nhiều cách lập luận khác nhau.&nbsp;</p>
+
+<p><span style="background-color:#ffffff">Ví dụ:&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p><span style="background-color:#d9ead3">The first issue that occurs to many people when considering the aging population is the expense</span>. <span style="color:#ff0000"><strong>If </strong></span><span style="background-color:#fff2cc">people</span> <span style="color:#ff0000"><strong>live</strong></span> <span style="background-color:#fff2cc">longer, they</span> <span style="color:#ff0000"><strong>may have</strong></span> <span style="background-color:#fff2cc">more than 30 years of retirement and</span> <span style="color:#ff0000"><strong>may</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>need</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#fff2cc">to be supported financially by the government or their families.</span> <span style="color:#ff0000"><strong>If</strong></span> they <span style="color:#ff0000"><strong>experience</strong></span> <span style="background-color:#fff2cc">age-related illness,</span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>this</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>impacts</strong></span> <span style="background-color:#fff2cc">the health system and</span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>takes</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>up</strong></span> <span style="background-color:#fff2cc">resources needed by other people in society.</span> <span style="color:#ff0000"><strong>What's</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>more</strong></span>, <span style="color:#ff0000"><strong>when</strong></span> <span style="background-color:#fff2cc">older people</span> <span style="color:#ff0000"><strong>are</strong></span><span style="background-color:#ffffff"> </span><span style="background-color:#fff2cc">financially independent, it</span> <span style="color:#ff0000"><strong>might</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>be</strong></span> <span style="background-color:#fff2cc">hard for younger people</span><span style="background-color:#ffffff"> </span><span style="color:#ff0000"><strong>if</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>they</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>have</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>to</strong></span><span style="color:#ff0000"> </span><span style="color:#ff0000"><strong>compete</strong></span><span style="color:#ff0000"> </span><span style="background-color:#fff2cc">to get a foot in the door of the housing market or gain employment.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="text-align:right">(Trích bài mẫu của examiner, Cambridge 18, p.136)&nbsp;</p>
+
+<p><span style="background-color:#ffffff">=&gt; Kết hợp cách liệt kê thông tin và dự đoán kết quả</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- Kết hợp nhiều cách lập luận là cơ hội để người viết sử dụng cấu trúc ngữ pháp cũng như từ vựng phong phú hơn, nhưng đồng thời cũng khiến người viết dễ mắc lỗi hơn.&nbsp;</span></p>
+
+<p><span style="background-color:#ffffff">=&gt;&nbsp; Luôn cần đề cao mục tiêu chính: giải thích rõ ràng, chứng minh thuyết phục.&nbsp;</span></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:480px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:240px">
+			<p style="text-align:center">Nên</p>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:240px">
+			<p style="text-align:center">Không nên&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:240px">
+			<ol>
+				<li style="list-style-type:decimal"><strong>Nghĩ ý tưởng</strong></li>
+				<li style="list-style-type:decimal"><strong>Hình thành lập luận&nbsp;</strong></li>
+				<li style="list-style-type:decimal"><strong>Lựa chọn ngôn ngữ</strong></li>
+			</ol>
+			</td>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:240px">
+			<ol>
+				<li style="list-style-type:decimal"><strong>Lựa chọn ngôn ngữ</strong></li>
+				<li style="list-style-type:decimal"><strong>Cố tạo lập luận&nbsp;</strong></li>
+				<li style="list-style-type:decimal"><strong>Bịa ví dụ</strong></li>
+			</ol>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </div>

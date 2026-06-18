@@ -1,0 +1,40 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Data (runtime/generated)
+data/ielts_scorer.db
+data/ielts_scorer.db-journal
+data/logs/
+data/uploads/
+data/agent_results/
+data/criteria_scores/
+data/error_records/
+data/essays/
+data/learning_plans/
+data/scoring_sessions/
+data/users/
+data/vocabulary_items/
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/

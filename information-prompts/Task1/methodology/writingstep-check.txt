@@ -1,0 +1,431 @@
+<div class="contentblock">
+            <h2 id="2.-introduction"><strong>2. </strong>Introduction</h2>
+
+<h3 id="2.1.-vai-trò"><strong>2.1. </strong>Vai trò</h3>
+
+<p>- Intro cần giới thiệu ngắn gọn về thông tin biểu đồ cung cấp. Cụ thể, phải trả lời được 4 câu hỏi sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>What: </strong>Dữ liệu về chủ đề gì</li>
+	<li style="list-style-type:disc"><strong>Who:</strong> Dữ liệu của ai</li>
+	<li style="list-style-type:disc"><strong>Where:</strong> Dữ liệu được thu thập ở đâu</li>
+	<li style="list-style-type:disc"><strong>When: </strong>Dữ liệu được thu thập khi nào</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>- Điều đáng lưu ý là thông tin này thường đã được cung cấp ngay trong đề bài</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdHlgskWWF9AUuxQjNvobX7rEQdTsmDL_JQoMzLYYdOWFfReGkP9IOrVD9T1Ey5eJ3xcuivefeV2WnFfLKGyPE3dVDyrAms8A9uyOa6Wp44Oqgmsw1nikg0Zqkl_BBE6n-lcBIdKg?key=MrN027RcoW1RvoF_ioC4pg" style="height:102px; width:509px"></p>
+
+<p><strong>Phân tích:</strong></p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p>1) <span style="background-color:#00ff00"><strong>What</strong></span></p>
+
+			<p><span style="background-color:#ffffff"><strong>The chart below shows the results of a survey about people's coffee and tea buying and drinking habits&nbsp;</strong></span></p>
+
+			<p>(Biểu đồ bên dưới biểu hiện kết quả của một cuộc khảo sát về thói quen mua và uống trà và cà phê của con người)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top">
+			<p>2) <span style="background-color:#00ffff"><strong>Where</strong></span></p>
+
+			<p><span style="background-color:#ffffff"><strong>in five Australian cities.</strong></span></p>
+
+			<p><span style="background-color:#ffffff">(ở năm thành phố nước Úc)</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:&nbsp;</strong></span></p>
+
+<p><span style="background-color:#ffffff">- </span>Lượng thông tin được cung cấp phụ thuộc vào từng đề bài. Đề bài sẽ luôn cung cấp thông tin what/who, nhưng không phải lúc nào cũng có where/when</p>
+
+<p><strong>VD:&nbsp;</strong></p>
+
+<p><span style="background-color:#ffffff"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFDtiA37Y0X5Ip1dOKXox4dP1ofQbyxy6kAMx_90M5bkM9o2bHs9xvsHc3ZbTRzXF3t3fvxSyTjQhB4K4WPtRL60fSmFEZ41lRJjaxnOX0GwirNFjbnchjbEmZ4u5V4D1rkoceiw?key=MrN027RcoW1RvoF_ioC4pg" style="height:204px; width:590px"></span></p>
+
+<p><span style="background-color:#ffffff">=&gt; </span>Trong trường hợp không có thông tin về “<strong>when</strong>”, hãy coi là thông tin được thu thập trong thời điểm hiện tại&nbsp;</p>
+
+<h3 id="2.2.-các-bước-viết"><strong>2.2.</strong> Các bước viết</h3>
+
+<p>- Cần phải paraphrase câu giới thiệu thông tin của đề bài. Cụ thể, trong tất cả dạng bài, sẽ phải paraphrase 3 thành phần sau:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Cụm “the chart/s below”</strong></li>
+	<li style="list-style-type:disc"><strong>Từ “show”&nbsp;</strong></li>
+	<li style="list-style-type:disc"><strong>Nội dung của biểu đồ</strong></li>
+</ul>
+
+<h4 id="2.2.1.-cụm-“the-chart-s-below”"><strong>2.2.1. </strong>Cụm “the chart/s below”</h4>
+
+<p><span style="background-color:#ffffff">- </span>Câu giới thiệu thông tin biểu đồ sẽ luôn bắt đầu bằng cụm “<strong>The charts/ diagrams/ maps /plans below</strong>”</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Với dạng graph, chỉ cần nói rõ đây là dạng biểu đồ nào</strong> (vd: tròn, đường, cột, v.v.)</li>
+	<li style="list-style-type:disc"><strong>Với dạng map/process, chỉ cần lặp lại từ này trong Intro, chứ không cần thay thế bằng các từ đồng nghĩa&nbsp;</strong></li>
+</ul>
+
+<p>- Từ “<strong>below</strong>” được sử dụng trong đề bài để giới thiệu rằng biểu đồ bên dưới. Tuy nhiên, phần bài làm lại xuất hiện bên dưới biểu đồ</p>
+
+<p>=&gt; Không cần phải paraphrase từ “<strong>below</strong>”, giám khảo đã biết biểu đồ bạn phân tích nằm ở đâu</p>
+
+<h4 id="2.2.2.-từ-“show”"><strong>2.2.2.</strong> Từ “<strong>show</strong>”</h4>
+
+<p>- Nên dùng luôn từ “<strong>show</strong>” vì đây là cách diễn đạt tự nhiên nhất, và cũng giúp người viết đỡ tốn thời gian trong việc tìm từ đồng nghĩa&nbsp;</p>
+
+<p>- Việc cố gắng paraphrase từ “<strong>show</strong>” có thể dẫn tới việc dùng từ sai</p>
+
+<p>VD: <strong>Bạn nói rằng “the pie chart demonstrates people’s coffee and tea drinking habit” </strong>(biểu đồ bày tỏ thói quen uống cà phê và trà)</p>
+
+<p>=&gt; Vô lý, từ “<strong>demonstrate</strong>” chỉ được dùng để giải thích cách làm việc gì đó (<strong>vd: cách dùng máy móc</strong>, <strong>cách chứng minh tính chính xác của bài báo cáo</strong>, v.v.)</p>
+
+<p>=&gt; Cần hiểu rằng những từ như <strong>display</strong>, <strong>demonstrate</strong>, <strong>provide</strong>, v.v sẽ không phù hợp khi phân tích số liệu hay tỉ lệ phần trăm</p>
+
+<h4 id="2.2.3.-cụm-“the-chart-s-below”"><strong>2.2.3.</strong> Cụm “<strong>the chart/s below</strong>”</h4>
+
+<p>- Cách paraphrase phần nội dung sẽ thay đổi theo từng dạng bài. Nhìn chung, hãy tự suy ngẫm các câu hỏi sau:&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>What is being measured here?</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Biểu đồ đo lường thông tin của cái gì?)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>What is this showing?</strong></li>
+</ul>
+
+<p style="margin-left:48px">(Biểu đồ minh hoạ cái gì?)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>What is this telling us about?</strong></li>
+</ul>
+
+<p style="margin-left:48px"><strong>(</strong>Biểu đồ cho chúng ta biết nội dung gì?)</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdHlgskWWF9AUuxQjNvobX7rEQdTsmDL_JQoMzLYYdOWFfReGkP9IOrVD9T1Ey5eJ3xcuivefeV2WnFfLKGyPE3dVDyrAms8A9uyOa6Wp44Oqgmsw1nikg0Zqkl_BBE6n-lcBIdKg?key=MrN027RcoW1RvoF_ioC4pg" style="height:102px; width:509px"></p>
+
+<p>=&gt; Bài viết cung cấp biểu đồ cột (<strong>bar graph</strong>), nên Introduction có dạng sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>The </strong><span style="color:#ff0000"><strong>bar graph</strong></span><strong> shows the percentage of residents’ coffee and tea purchasing and consuming habits in five Australian cities in the last 4 weeks</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong>Lưu ý:</strong></p>
+
+<p>-&nbsp; Mặc dù phải paraphrase câu giới thiệu của đề bài, không nhất thiết phải paraphrase từng từ</p>
+
+<ul>
+	<li style="list-style-type:disc">Chỉ bị trừ điểm GRA và LR nếu bạn bê y nguyên/90% câu giới thiệu vào phần <strong>Intro</strong></li>
+	<li style="list-style-type:disc">Nếu over paraphrase câu giới thiệu, điều này sẽ dẫn tới việc mắc nhiều lỗi sai trong việc dùng từ và diễn đạt</li>
+</ul>
+
+<p>=&gt; Không cần thay đổi quá nhiều tới câu giới thiệu, chỉ cần diễn đạt theo ý hiểu&nbsp;</p>
+
+<h2 id="3.-overview"><strong>3. </strong>Overview</h2>
+
+<h3 id="3.1.-vai-trò"><strong>3.1. </strong>Vai trò</h3>
+
+<p>- Một trong những yêu cầu của band 7+ ở tiêu chí TA là viết overview rõ ràng (<strong>give a clear overview</strong>). Trong <strong>overview</strong>, cần tóm lược các chi tiết chính của biểu đồ (<strong>vd: xu hướng chính, giai đoạn trong quy trình, v.v.</strong>)</p>
+
+<p>- Tìm hiểu nghĩa của từ <strong>overview</strong>, còn phát hiện được một yêu cầu khác:</p>
+
+<p style="text-align:center"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdsS3F-vIuHilbm1ZZ7dgkZUetZaL3_fQxWxHbqsav7k-NEyLo85LW9AXih0N9s0TEEyWVxnKHUkZ_7YsAXTGjSiHD9TZ3W6ypY8UX8ktJnCUfAa-rM6RzjZufHyxeA1L3cHwMnuA?key=MrN027RcoW1RvoF_ioC4pg" style="height:223px; width:544px"></p>
+
+<p style="text-align:center">(<strong>overview: </strong>mô tả ngắn gọn về một vật nào đó, giúp cung cấp thông tin chung về nó chứ không cung cấp chi tiết cụ thể)</p>
+
+<p>=&gt; Thông tin trong Overview phải ngắn gọn, tránh liệt kê chi tiết</p>
+
+<h3 id="3.2.-các-bước-viết"><strong>3.2. </strong>Các bước viết</h3>
+
+<p>- Về mặt thông tin, Overview cần phải tóm lược các đặc điểm chính mà người viết đã xác định trong bước “identifying key features”</p>
+
+<p>- Một số từ/cụm từ nối thường dùng để bắt đầu đoạn này:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Overall, …</strong> (nhìn chung, …)</li>
+	<li style="list-style-type:disc"><strong>Generally, …</strong> (nói chung, …)</li>
+	<li style="list-style-type:disc"><strong>In general, … </strong>(nói chung, …)</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:&nbsp;</strong></p>
+
+<p>- Chúng ta đã có dàn ý như sau:</p>
+
+<p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIqKPfSXIS4SMcxkcrVQoJC7lUF-6iX3ste7Ui5SjviahQMZAbqvPP8vSPI47SqxvNSlIzh5Z7V3lkfBM8uiQSDWSKCKFSU7r5znU3apILba3QB96ikot5AVvVT5mnQ8ky_r4SSw?key=MrN027RcoW1RvoF_ioC4pg" style="height:523px; width:624px"></p>
+
+<p>- Từ dàn ý, chúng ta có Overview như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><strong>Overall, </strong><span style="background-color:#ea9999"><strong>visiting a café for coffee or tea was the most popular choice</strong></span>, <u>except in Adelaide</u>. Notably, <span style="background-color:#f6b26b">instant coffee was favored over fresh coffee in all 5 metropolitan areas</span>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p><span style="background-color:#ffffff"><strong>Lưu ý:</strong></span></p>
+
+<p><span style="background-color:#ffffff">- </span>&nbsp;Cần phải tránh nêu ý kiến cá nhân trong phần <strong>Overview</strong>.&nbsp;</p>
+
+<ul>
+	<li style="list-style-type:disc">Lỗi này có thể được thể hiện qua việc thêm nhận xét cá nhân về thông tin trong biểu đồ (vd:<strong> dùng các tính từ như “worrying” hay “exciting” để miêu tả xu hướng</strong>)</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Một biểu hiện khác đó là việc đưa ra những phán đoán cá nhân dựa theo thông tin trong biểu đồ</li>
+</ul>
+
+<p>VD: Trong <strong>Overview</strong>, bạn nói rằng “<strong>this pattern suggests significant gender differences in language acquisition in most of the surveyed countries</strong>” (xu hướng này cho thấy sự khác biệt đáng kể trong khả năng tiếp thu ngôn ngữ giữa các giới tính ở hầu hết các quốc gia được khảo sát)</p>
+
+<p>=&gt; Bài viết này sẽ được coi là “<strong>including irrelevant detail</strong>”, làm giảm điểm TA</p>
+
+<h2 id="4.-body-paragraph"><strong>4. </strong>Body paragraph&nbsp;</h2>
+
+<h3 id="4.1.-vai-trò"><strong>4.1.</strong> Vai trò</h3>
+
+<p>- Body yêu cầu mô tả và phân tích dữ liệu từ biểu đồ một cách chi tiết và logic</p>
+
+<p>- Body được trình bày sau Introduction và Overview và thường có độ dài từ 1-2 đoạn ngắn</p>
+
+<h3 id="4.2.-các-bước-viết"><strong>4.2.</strong> Các bước viết</h3>
+
+<p>- Body sẽ chỉ ra và nhấn mạnh các đặc điểm chính (key feature) mà đã xác định trong bước lập dàn ý. Cách dễ nhất là giải thích tại sao những đặc điểm này lại nổi bật</p>
+
+<p>- So sánh (<strong>making comparisons</strong>) cũng là thao tác quan trọng. Đây vừa là yêu cầu đề bài (<strong>making comparisons where relevant</strong>), vừa giúp nhấn mạnh đặc điểm chính</p>
+
+<p>- Để giám khảo dễ dàng theo dõi sắp xếp thông tin, cần thể hiện nội dung ngay từ khi bắt đầu đoạn</p>
+
+<p>VD: <strong>Bạn bắt đầu đoạn với cụm “turning to the table” (nhìn vào bảng dữ liệu) hay “turning to instant coffee” (quan sát số liệu của cà phê hoà tan)</strong></p>
+
+<p>=&gt; Nếu bắt đầu đoạn như vậy, cần đảm bảo nội dung của đoạn tập trung vào chủ đề đã đề cập</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ví dụ:</strong></p>
+
+<p>- Từ phần identify key features, chúng ta có dàn ý như sau:</p>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:364px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:364px">
+			<p>BP1: <span style="background-color:#ff00ff"><strong>fresh coffee</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>lowest</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : S, M</span></p>
+
+			<p><span style="background-color:#ffffff">2: H</span></p>
+
+			<p><span style="background-color:#ffffff">3 : B = A&nbsp;</span></p>
+
+			<p>BP2: <span style="background-color:#3d85c6"><strong>instant coffee</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>2nd except A</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : </span>H, B&nbsp;</p>
+
+			<p>2: A* instant &gt; cafe</p>
+
+			<p><span style="background-color:#ffffff">3 : </span>M, S&nbsp;</p>
+
+			<p>BP3: <span style="background-color:#ea9999"><strong>cafe</strong></span><strong> - </strong><span style="background-color:#ff9900"><strong>highest except A</strong></span></p>
+
+			<p><span style="background-color:#ffffff">1 : </span>S, M, H&nbsp;</p>
+
+			<p><span style="background-color:#ffffff">2 : B, A</span></p>
+
+			<p>=&gt; trend: cafe = most popular, except Adelaide</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p><span style="color:#ff0000"><strong>Looking at consumers of tea or coffee at cafe,</strong></span><strong> </strong>the highest proportions were recorded in Sydney, Melbourne and Hobart at just over 60%. Brisbane and Adelaide followed closely, standing at close to 55% and 50% respectively.</p>
+
+			<p><span style="color:#ff0000"><strong>Turning to instant coffee,</strong></span><strong> </strong>Brisbane and Hobart had the highest proportion at just under 55%. Notably, though about 5% lower than Hobart and Brisbane, buying instant coffee was the most popular type of purchase in Adelaide. In contrast, Melbourne and Sydney witnessed the lowest percentages of purchasers at approximately 45%, each.</p>
+
+			<p><span style="color:#ff0000"><strong>Finally, </strong></span>fresh coffee had the most in Sydney and Melbourne as roughly 45% of citizens were noted to have purchased the product, around 5% higher than in Hobart. Conversely, the figure for Brisbane and Adelaide was&nbsp; the lowest at nearly 35% , each.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top; width:197px">
+			<p>=&gt; Giám khảo sẽ hiểu rằng:</p>
+			</td>
+			<td style="border-bottom:1px solid #ffffff; border-left:1px solid #ffffff; border-right:1px solid #ffffff; border-top:1px solid #ffffff; vertical-align:top; width:427px">
+			<p><strong>BP1 </strong>phân tích tỷ lệ của<strong> tea or coffee at cafe&nbsp;</strong></p>
+
+			<p><strong>BP2</strong> phân tích tỷ lệ của <strong>instant coffee</strong></p>
+
+			<p><strong>BP3</strong> phân tích tỷ lệ của<strong> fresh coffee</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Lưu ý:</strong></p>
+
+<p>- Về việc phân tích tất cả các số liệu đưa ra trong biểu đồ:</p>
+
+<ul>
+	<li style="list-style-type:disc">Việc nêu số liệu chỉ được nhắc đến ở band 5 TR với cụm “<strong>there may be no data to support the description</strong>” (không minh hoạ thông tin bằng số liệu)</li>
+	<li style="list-style-type:disc">Ngược lại, ở band 8 TR, thí sinh phải “<strong>highlight and illustrate key features</strong>” (làm&nbsp; nổi bật và minh hoạ đặc điểm chính)</li>
+</ul>
+
+<p>=&gt; Không nhất thiết phải liệt kê tất cả số liệu được đưa ra trong biểu đồ</p>
+
+<p>&nbsp;</p>
+
+<p>-&nbsp; Không nên liệt kê các số liệu, chi tiết trong biểu đồ một cách máy móc</p>
+
+<ul>
+	<li style="list-style-type:disc">Cần phải chứng minh rằng chi tiết được đưa ra trong bài là một chi tiết quan trọng, tức là phải giúp giảm khảo hiểu tại sao lại phân tích thông tin này trong bài</li>
+	<li style="list-style-type:disc">Nếu thông tin không có đặc điểm gì nổi bật, thì đây là một tiểu tiết và không nên đưa vào bài</li>
+</ul>
+
+<p>VD: <strong>Bạn nói rằng: “Regarding instant coffee, the proportion for Melbourne was just over 60% and was around 63% for Sydney”&nbsp;</strong></p>
+
+<p>=&gt; Mặc dù thông tin hoàn toàn chính xác nhưng chỉ liệt kê một cách máy móc (<strong>recounts data mechanically</strong>), làm giảm điểm TR</p>
+
+<h2 id="5.-check"><strong>5.</strong> Check</h2>
+
+<p>- Vì đã dành thời gian lập dàn ý, chỉ cần tập trung sửa lỗi về ngữ pháp và dùng từ. Trong đó, việc kiểm tra lại bài viết đi qua <strong>2 giai đoạn</strong>:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Bước 1: editing and correcting</strong></li>
+</ul>
+
+<p style="margin-left:48px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(chỉnh sửa)</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Bước 2: proofreading</strong></li>
+</ul>
+
+<p style="margin-left:48px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(đọc lại bài)</p>
+
+<h3 id="5.1.-editing--correcting"><strong>5.1. </strong>Editing &amp; Correcting&nbsp;</h3>
+
+<p>- Trước hết, nhẩm lại nội dung bài viết Task 1 trong đầu. Các chỗ mà đọc thấy ấp úng, không mạch lạc sẽ cần phải được chỉnh sửa về mặt ngữ pháp/dùng từ&nbsp;</p>
+
+<p>- Cụ thể, có <strong>2 trường hợp</strong>:</p>
+
+<ul>
+	<li style="list-style-type:disc"><strong>Với các bạn thi giấy: </strong>Chữ viết là một phần rất quan trọng. Nếu giám khảo không đọc được chữ, thì bài viết sẽ bị đánh giá là khó hiểu. Bởi vậy, cần phải luyện viết chữ thật dễ nhìn và luyện trung bình một dòng chỉ có 11-15 chữ để tránh bị dính chữ</li>
+	<li style="list-style-type:disc"><strong>Với các bạn thi máy:</strong> Kiểm tra lại các từ trong bài, đôi khi lỗi sai bắt nguồn từ việc gõ sai phím</li>
+</ul>
+
+<h3 id="5.2.-proofreading"><strong>5.2. </strong>Proofreading</h3>
+
+<p>- Tập trung vào các lỗi nhỏ, yêu cầu sự tập trung cao hơn (vd: <strong>dấu câu</strong>, <strong>dùng từ</strong>, v.v.)</p>
+
+<p>- Dù là lỗi khá nhỏ, nhưng các lỗi này hoàn toàn có thể ảnh hưởng đến ý nghĩa của câu, đoạn và cả bài viết của bạn</p>
+
+<p>- Việc cuối cùng cần làm là đếm số chữ trong bài. Bạn phải đảm bảo rằng bài viết đã đạt tối thiểu 150 từ. Một bài viết thiếu từ sẽ hoàn toàn bị trừ điểm vì chưa hoàn thành yêu cầu đề bài</p>
+
+<p>&nbsp;</p>
+
+<p>- Chúng ta cùng áp dụng các thao tác này cho ví dụ “<strong>tea and coffee buying and drinking habit</strong>” (thói quen mua và uống trà và cà phê). Với bài mẫu này, một số chỉnh sửa đã được thực hiện như sau:</p>
+
+<div>
+<table cellspacing="0" style="border-collapse:collapse; border:none; table-layout:fixed; width:624px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top">
+			<p>The bar graph illustrates the percentage of residents’ coffee and tea purchasing and consuming habits in five Australian cities in the last 4 weeks.&nbsp;</p>
+
+			<p>Overall, visiting a café for coffee or tea was the most popular choice, except in Adelaide. Notably, instant coffee was favored over fresh coffee in all 5 metropolitan areas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+			<p>Looking at consumers of tea or coffee at <span style="background-color:#ffff00"><strong>cafe</strong></span><span style="background-color:#ffffff"><strong>s</strong></span>, the highest proportions were recorded in <span style="background-color:#ffff00"><strong><s>Sydney, Melbourne and Hobart</s></strong></span> <span style="background-color:#ffffff"><strong>Melbourne, Hobart and Sydney</strong></span><strong> </strong>at just over 60%. Brisbane and Adelaide followed closely, standing at close to 55% and 50% respectively.</p>
+
+			<p>Turning to instant coffee, <span style="background-color:#ffff00"><strong><s>Brisbane and Hobart</s></strong></span> <strong>Hobart and Brisbane</strong> had the highest proportion at just under 55%. Notably, though about 5% lower than <span style="background-color:#ffff00"><strong><s>Hobart and Brisbane</s></strong></span> <strong>those cities</strong>, buying instant coffee was the most popular type of purchase in Adelaide. In contrast, <span style="background-color:#ffff00"><strong><s>Melbourne and Sydney</s></strong></span> <strong>Sydney and Melbourne </strong>witnessed the lowest percentages of purchasers at approximately 45%, each.</p>
+
+			<p>Finally, fresh coffee had the <span style="background-color:#ffff00"><strong><s>most</s></strong></span><strong> </strong><span style="background-color:#ffffff"><strong>highest share of consumers</strong></span><strong> </strong>in Sydney and Melbourne as roughly 45% of citizens were noted to have purchased the product, around 5% higher than in Hobart. Conversely, the <span style="background-color:#ffff00"><strong>figure</strong></span><span style="background-color:#ffffff"><strong>s</strong></span> for Brisbane and Adelaide <span style="background-color:#ffff00"><strong><s>was</s></strong></span> <span style="background-color:#ffffff"><strong>were</strong></span><strong> </strong>the lowest at nearly 35% , each.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Phân tích:</strong></p>
+
+<p>- Trong bài viết, tôi đã có một chút chỉnh sửa về 3 yếu tố: ngữ pháp, dùng từ và sắp xếp thông tin</p>
+
+<ul>
+	<li style="list-style-type:disc">Về ngữ pháp:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><strong>cafe -&gt; cafes: </strong>chia sai danh từ số nhiều, số ít</li>
+	<li style="list-style-type:disc"><strong>figure -&gt; figures: </strong>chia sai danh từ số nhiều, số ít</li>
+	<li style="list-style-type:disc"><strong>was -&gt; were: </strong>không hòa hợp giữa chủ ngữ và động từ</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Về dùng từ:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc"><strong>most -&gt; highest share of consumers:</strong> tăng tính chính xác về biểu đạt thông tin</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Về sắp xếp thông tin:</li>
+</ul>
+
+<ul>
+	<li style="list-style-type:disc">Các thành phố đã được sắp xếp lại để đi theo đúng thứ tự từ cao nhất đến thấp nhất</li>
+</ul>
+        </div>
